@@ -8,6 +8,6 @@ hideAdContent: false
 title: 最新资讯
 ---
 
-<!--@include: ./75927920-microsoft.md{10,} -->
+<!--@include: ./wikipedia/latest.md -->
 
-
+<qrcode />

@@ -2,7 +2,7 @@
     <div>
         <div class="qrcode-button">
             <br>
-            <button @click="htmlToCanvas()" v-if="!autoCreate">点击生成【资讯二维码】</button>
+            <button @click="htmlToCanvas()" v-if="!autoCreate">点击生成【二维码】</button>
         </div>
         <div class="qrcode-layout" ref="bill" v-if="showQRCode">
             <div class="qrcode-header">
