@@ -52,6 +52,7 @@ async function writeArticleFile(articles, year, month, day, includes){
         if(includes.length!=0 && !includes.includes(article.pageid)){
             continue; 
         }
+        console.log(article);
         await transformArticle(article)
 
         fileContentEn+=`## ${article.titleEn}   \n`;
@@ -69,7 +70,8 @@ async function writeArticleFile(articles, year, month, day, includes){
 
 async function transformArticle(article){
     const summary=await wiki.summary(article.title);
-    article.summaryEn= summary.extract_html
+    console.log("summary.extract",summary.extract);
+    article.summaryEn= summary.extract
     article.summaryZh= await translate(summary.extract, { to: 'zh-CN' })
     article.titleEn= article.title
     article.titleZh= await translate(article.title, { to: 'zh-CN' })
