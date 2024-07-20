@@ -119,7 +119,7 @@ async function writeArticleFile(articles, year, month, day, includes) {
     let fileContentZh = getLatestNewsTitle(year, month, day)+ ` \n`;
 
     let article = null
-    let max = 1
+    let max = 20
     for (let index = 0; index < articles.length; index++) {
         if (--max < 0) break
         article = articles[index]
@@ -134,7 +134,19 @@ async function writeArticleFile(articles, year, month, day, includes) {
         }else{
             console.log("history: ",article.pageid, article.title, article.content_urls.desktop.page);
         }
-        newsMap[article.pageid]=article
+        newsMap[article.pageid]={
+            pageid: article.pageid,
+            title: article.title,
+            titleEn: article.titleEn,
+            titleZh: article.titleZh,
+            summaryEn: article.summaryEn,
+            summaryZh: article.summaryZh,
+            content_urls:{
+                desktop: {
+                    page: article.content_urls.desktop.page
+                }
+            }
+        }
         fileContentZh += `## ${article.titleZh}   \n`
         fileContentZh += `${article.summaryEn}   \n\n`
         fileContentZh += `${article.summaryZh}   \n\n`
