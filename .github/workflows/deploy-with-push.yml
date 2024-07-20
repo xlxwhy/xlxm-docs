@@ -1,6 +1,6 @@
 
 
-name: deploy with scheduler
+name: deploy with push
 
 on:
   push:
