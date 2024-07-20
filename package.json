@@ -12,7 +12,7 @@
     "collect:google": " node src/google/collect.js ",
     "collect:wikipedia:dev": " node src/wikipedia/collect.js  --date=2023/10/14  && npm run dev",
     "collect:wikipedia:latest": " node src/wikipedia/collect.js --latest=true",
-    "build": "vitepress build docs",
+    "build": "git fetch --unshallow && vitepress build docs",
     "serve": "vitepress serve docs",
     "docs:dev": "vuepress dev docs",
     "docs:build": " set NODE_OPTIONS=--openssl-legacy-provider && vuepress build docs",

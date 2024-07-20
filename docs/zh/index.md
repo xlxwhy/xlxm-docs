@@ -6,6 +6,7 @@ footer: true
 prev: false
 next: false 
 hideAdContent: true
+lastUpdated: false
 ---
 
 Welcome
