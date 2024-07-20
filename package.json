@@ -1,0 +1,39 @@
+{
+  "name": "vuepress-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "i": "npm install  --registry https://registry.npmmirror.com  --legacy-peer-deps",
+    "build:document:openai": "sh ./bin/build-document.sh openai ",
+    "build:document:vitejs": "sh ./bin/build-document.sh vitejs ",
+    "build:document:vitepress": "sh ./bin/build-document.sh vitepress ",
+    "dev": "vitepress dev docs ",
+    "collect:google": " node src/google/collect.js ",
+    "collect:wikipedia:dev": " node src/wikipedia/collect.js  --date=2023/10/14  && npm run dev",
+    "collect:wikipedia:latest": " node src/wikipedia/collect.js --latest=true",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": " set NODE_OPTIONS=--openssl-legacy-provider && vuepress build docs",
+    "docs:build:linux": " export NODE_OPTIONS=--openssl-legacy-provider && vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.5.1",
+    "google-translate-api": "^2.3.0",
+    "markdown-it-mathjax3": "^4.3.2",
+    "minimist": "^1.2.8",
+    "numeral": "^2.0.6",
+    "sass": "^1.69.5",
+    "vitepress": "^1.0.0-rc.20",
+    "vue-qr": "^4.0.9",
+    "wikipedia": "^2.1.1"
+  },
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "qrcode.vue": "^3.4.1"
+  }
+}

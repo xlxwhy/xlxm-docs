@@ -1,0 +1,359 @@
+<html>
+
+<head> 
+    <!-- <script async src="https://docs.opencv.org/master/opencv.js" type="text/javascript"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.3.2/html2canvas.min.js"></script>
+    <script>
+
+
+        function upscaleImage() {
+            let image=document.getElementById("target")
+            let src = cv.imread(image); 
+            let dst = new cv.Mat(); 
+            cv.pyrUp(src, dst, new cv.Size(0, 0), cv.BORDER_DEFAULT);
+            cv.imshow('outputCanvas', dst);
+            src.delete(); dst.delete();
+
+        }
+
+        function cleanImage3() {
+            let image=document.getElementById("target")
+            let src = cv.imread(image);
+            // cv.cvtColor(src, src, cv.COLOR_RGBA2RGB, 0); 
+            cv.cvtColor(src, src, cv.COLOR_RGBA2RGB, 0); 
+
+            let mask = new cv.Mat();
+            let bgdModel = new cv.Mat();
+            let fgdModel = new cv.Mat();
+            let rect = new cv.Rect(0, 0, image.width-1, image.height-1);
+            cv.grabCut(src, mask, rect, bgdModel, fgdModel, 1, cv.GC_INIT_WITH_RECT);
+            // draw foreground
+            for (let i = 0; i < src.rows; i++) {
+                for (let j = 0; j < src.cols; j++) {
+                    if (mask.ucharPtr(i, j)[0] == 0 || mask.ucharPtr(i, j)[0] == 2) {
+                        src.ucharPtr(i, j)[0] = 0;
+                        src.ucharPtr(i, j)[1] = 0;
+                        src.ucharPtr(i, j)[2] = 0;
+                    }
+                }
+            }
+ 
+            cv.imshow('outputCanvas', src);
+            src.delete(); mask.delete(); bgdModel.delete(); fgdModel.delete();
+
+        }
+
+        function cleanImage2() {
+
+            let image=document.getElementById("target")
+            let src = cv.imread(image); 
+
+            // 读取图像并转换为灰度图
+            let img = src;
+            let gray = new cv.Mat();
+            cv.cvtColor(img, gray, cv.COLOR_RGBA2GRAY, 0); 
+            // cv.cvtColor(img, gray, cv.COLOR_RGBA2HSV, 0); 
+
+            // 二值化处理
+            let binary = new cv.Mat();
+            cv.threshold(gray, binary, 100, 255, cv.THRESH_BINARY);
+
+
+        
+            let inRange=new cv.Mat();
+            let low = new cv.Mat(src.rows, src.cols, src.type(), [0, 0, 0, 0]);
+            let high = new cv.Mat(src.rows, src.cols, src.type(), [100, 100, 100, 255]);
+            // You can try more different parameters
+            cv.inRange(src, low, high, inRange);
+
+
+
+
+            
+            cv.bitwise_or(binary, inRange, binary);
+
+            cv.imshow('outputCanvas', binary);
+            
+
+            // 轮廓检测
+            let contours = new cv.MatVector();
+            cv.findContours(binary, contours, new cv.Mat(), cv.RETR_EXTERNAL, cv.CHAIN_APPROX_SIMPLE);
+
+            // 找到最大轮廓
+            let maxArea = -1;
+            let maxCnt = new cv.Mat();
+            for (let i = 0; i < contours.size(); ++i) {
+                let cnt = contours.get(i);
+                let area = cv.contourArea(cnt);
+                if (area > maxArea) {
+                    maxArea = area;
+                    maxCnt = cnt;
+                }
+                cnt.delete();
+            }
+
+            // 创建掩模
+            let mask = new cv.Mat.zeros(img.rows, img.cols, cv.CV_8UC1);
+            cv.drawContours(mask, contours, -1, new cv.Scalar(255, 255, 255), -1);
+        
+            
+            cv.GaussianBlur(mask, mask, new cv.Size(1, 1), 0,0, cv.BORDER_DEFAULT);
+
+        
+            cv.imshow('outputCanvas', mask);
+
+            // 使用inpaint方法去除背景
+            // let dst = new cv.Mat();
+            // cv.inpaint(img, mask, dst, 11, cv.INPAINT_TELEA);  
+
+            // draw foreground
+            for (let i = 0; i < src.rows; i++) {
+                for (let j = 0; j < src.cols; j++) {
+                    if (mask.ucharPtr(i, j)[0] == 0 || mask.ucharPtr(i, j)[0] == 2) {
+                        src.ucharPtr(i, j)[0] = 255;
+                        src.ucharPtr(i, j)[1] = 255;
+                        src.ucharPtr(i, j)[2] = 255;
+                    }
+                }
+            }
+
+            // cv.GaussianBlur(src, src, new cv.Size(5, 5), 0,0, cv.BORDER_DEFAULT);
+
+            // 显示结果
+            cv.imshow('outputCanvas', src);
+            img.delete();
+            gray.delete();
+            binary.delete();
+            mask.delete();
+            // dst.delete();
+            contours.delete();
+        };
+
+        function cleanImage1() {
+            let imgElement = document.getElementById('target');
+            let src = cv.imread(imgElement);
+            let mask = new cv.Mat(src.rows, src.cols, cv.CV_8UC1, new cv.Scalar(0));
+
+            // 初始化抠图区域（这里需要自己手动设定）
+            x=0,y=0,  width=imgElement.width-10,height=imgElement.height-10
+            let bbox = new cv.Rect(x, y, width, height); // 替换为实际的抠图区域坐标和大小
+            let bgd = new cv.Mat(src.rows, src.cols, cv.CV_8UC1, new cv.Scalar(255));
+            let fgd = new cv.Mat(src.rows, src.cols, cv.CV_8UC1, new cv.Scalar(255));
+
+            // 应用GrabCut算法
+            cv.grabCut(src, mask, bbox, bgd, fgd, 1, cv.GC_INIT_WITH_RECT);
+
+            // 修改mask使其只包含前景
+            cv.compare(mask, 0, mask, cv.CMP_EQ);
+
+            // 将前景和原图合并
+            let foreground = new cv.Mat(src.size(), src.type(), new cv.Scalar(255, 255, 255));
+            src.copyTo(foreground, mask);
+
+            // 显示结果
+            let outputCanvas = document.getElementById('outputCanvas');
+            outputCanvas.width = src.cols;
+            outputCanvas.height = src.rows;
+            cv.imshow('outputCanvas', foreground);
+
+            // 释放资源
+            src.delete();
+            mask.delete();
+            bgd.delete();
+            fgd.delete();
+            foreground.delete();
+        } 
+        function cleanImage(){
+            let imgElement = document.getElementById('image'); // 获取图片元素
+            let src = cv.imread(imgElement); // 读取图片
+            let dst = new cv.Mat(src.rows, src.cols, cv.CV_8UC3); // 创建输出图像
+            
+            // 定义核
+            let kernel = cv.getStructuringElement(cv.MORPH_RECT, new cv.Size(3, 3));
+            
+            // 形态学操作 - 开运算（先腐蚀再膨胀）
+            cv.morphologyEx(src, dst, cv.MORPH_OPEN, kernel, new cv.Point(-1, -1), 1);
+            
+            // 显示抠图结果
+            let canvasOutput = document.getElementById('outputCanvas');
+            cv.imshow(canvasOutput, dst);
+            
+            // 释放资源
+            src.delete();
+            dst.delete();
+            kernel.delete();
+        }
+
+
+
+        function resetImage(){
+
+            var color = document.getElementById('color');
+            var image=document.getElementById("image")
+            image.style.backgroundColor=color.value
+            image.style.display=""
+
+            html2canvas(image).then(canvas => { 
+                var target = document.getElementById("target")
+                
+                var quality = document.getElementById('quality').value;
+                var type = document.getElementById('type').value;
+                var base64String = canvas.toDataURL('image/'+type, parseFloat(quality));
+                target.src = base64String; 
+                image.style.display="none"
+
+                resizeImage()
+            });
+        }
+ 
+
+        function resizeImage() {
+            var image=document.getElementById("image")
+
+            var target = document.getElementById("target")
+            var w =document.getElementById("width").value;
+            var h =document.getElementById("height").value;
+            var left =document.getElementById("left").value;
+            var top =document.getElementById("top").value;
+ 
+            const img = new Image();
+            img.src = target.src ;
+            img.onload = function() {
+                const canvas = document.createElement('canvas');
+                const ctx = canvas.getContext('2d');
+
+
+                // 计算新的宽度和高度
+                var newWidth =w;
+                var newHeight =h;
+                var ratio=1;
+
+                const wratio=w/img.width
+                const hratio=h/img.height
+        
+                if(wratio>hratio){
+                    newHeight=img.height*wratio
+                    ratio=wratio
+                }else{
+                    newWidth=img.width*hratio
+                    ratio=hratio
+                }
+        
+                canvas.width = w;
+                canvas.height = h;
+        
+                // 绘制裁剪后的图片
+                console.log(left, top);
+                ctx.drawImage(img, left, top, newWidth, newHeight);
+        
+                // 执行回调函数并传递裁剪后的图片数据URL
+                var quality = document.getElementById('quality').value;
+                var type = document.getElementById('type').value;
+                var base64String = canvas.toDataURL('image/'+type, parseFloat(quality));
+                target.src=base64String;
+                
+                image.style.display="none"
+            };
+        }
+ 
+        function changeSize(){
+            var size = document.getElementById('size');
+            var sizes=JSON.parse(size.value);
+            document.getElementById("width").value=sizes[0];
+            document.getElementById("height").value=sizes[1];
+        }
+
+        function init(){
+ 
+            changeSize()
+
+            var fileInput = document.getElementById('file-input');
+            var image = document.getElementById('image');
+            fileInput.addEventListener('change', function() {
+                var file = fileInput.files[0];
+                var reader = new FileReader();
+                reader.onload = function(e) {
+                    image.src = e.target.result;
+                    resetImage()
+                };
+                reader.readAsDataURL(file);
+            });
+        }
+    </script>
+    <style>
+ 
+    </style>
+</head>
+
+<body onload="init()"> 
+    前置步骤：<br>
+    1、抠图1:   <br>
+    -  上传: https://aiart.chuangkit.com/editor/koutu?fmodule=tool_box&fpage=home  <br>
+    -  抠图结果: blob:https://mater.chuangkit.com/xxxx   <br>
+    -  上传: https://cutout.designkit.com/?channel=kllbd141&bd_vid=9549066288582911630  <br>
+    -  抠图结果: 纯色栏 blob:https://cutout.designkit.com/xxxx   <br>
+
+    2、无损放大: https://www.designkit.com/upscale/  <br><br>
+
+
+    请上传【透明背景】的底图, 图片尺寸尽量大于【898,1181】, 至少大于目标证件尺寸<br>
+    上传文件：<input type="file" id="file-input" /><br>
+    证件类型：<select id="size" onchange="changeSize();resetImage()">
+        <option value="[260,378]" selected>小一寸</option>
+        <option value="[295,413]">一寸</option>
+        <option value="[390,576]">大一寸</option>
+        <option value="[413,531]">小二寸</option>
+        <option value="[413,579]">二寸</option>
+        <option value="[413,626]">大二寸</option>
+        <option value="[650,992]">三寸</option>
+        <option value="[898,1181]">四寸</option> 
+        <option value="[358,441]">社保卡</option>
+        <option value="[780,1134]">驾驶证</option>
+    </select><br>
+    证件背景：<select id="color" onchange="resetImage()">
+        <option value="#a1190d" selected>红色背景</option>
+        <option value="#438edb">蓝色背景</option>
+        <option value="#FFFFFF">白色背景</option> 
+    </select><br>
+    图片类型：<select id="type" onchange="resetImage()">
+        <option value="png" selected>PNG</option>
+        <option value="jpeg">JPG</option>
+    </select><br>
+    图片质量：<select id="quality" onchange="resetImage()">
+        <option value="1.0" >1.0</option>
+        <option value="0.99" selected>0.99</option>
+        <option value="0.9" >0.9</option>
+        <option value="0.8" >0.8</option>
+        <option value="0.7" >0.7</option>
+        <option value="0.6" >0.6</option>
+        <option value="0.5" >0.5</option>
+        <option value="0.4" >0.4</option>
+        <option value="0.3" >0.3</option>
+        <option value="0.2" >0.2</option>
+        <option value="0.1" >0.1</option> 
+    </select><br>
+    裁剪尺寸：<input type="text" id="width" />     <input type="text" id="height" /><br>
+    偏移尺寸：<input type="text" id="left"  value="0" />      <input type="text" id="top"  value="0" /><br>
+ 
+
+
+<div>
+<img id="target"  />
+</div>
+
+<div >
+    <img id="image"   />
+</div>
+
+<div >
+    <canvas id="outputCanvas" />
+</div>
+
+ <div style="display: none;">
+    <a href="#" onclick="cleanImage1()">cleanImage1</a> <a href="#" onclick="cleanImage2()">cleanImage2</a> <a href="#" onclick="cleanImage3()">cleanImage3</a>
+ </div>
+ 
+
+</body>
+
+</html>
