@@ -2,7 +2,7 @@
     <div>
         <div class="qrcode-button">
             <br>
-            <button @click="htmlToCanvas()">生成图片</button>
+            <button @click="htmlToCanvas()" v-if="!autoCreate">生成图片</button>
         </div>
         <div class="qrcode-layout" ref="bill" v-if="showQRCode">
             <div class="qrcode-header">
@@ -31,6 +31,7 @@ import QrcodeVue from 'qrcode.vue'
 import html2canvas from 'html2canvas'
 
 export default {
+    props: ['autoCreate'],
     data() {
         let now = new Date();
         let nowString = `${now.getFullYear()}年${now.getMonth() + 1}月${now.getDate()}日`
@@ -47,6 +48,9 @@ export default {
     },
     mounted(){
         this.value=window.location.href;
+        if(this.autoCreate){
+            this.htmlToCanvas()
+        }
     },
     methods: {
         htmlToCanvas() {
@@ -69,7 +73,7 @@ export default {
 .qrcode-layout {
     width: 390px;
     height: 768px;
-    background: no-repeat url("/qrcode-01.png");
+    background: no-repeat url("/image/qrcode-01.jpg");
     border: 0px solid #ccc;
     margin: 0px;
     display: flex;
