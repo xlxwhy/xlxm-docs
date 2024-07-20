@@ -9,6 +9,6 @@ hideAdContent: true
 lastUpdated: false
 ---
 
-Welcome
+<!--@include: ./zh/news/wikipedia/latest.md -->
 
 

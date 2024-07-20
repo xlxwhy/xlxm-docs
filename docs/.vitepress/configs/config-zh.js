@@ -29,8 +29,9 @@ module.exports = {
   sidebar: {
     "/zh/news/": [
       {
-        text: '最新资讯',
+        text: '热点资讯',
         items: [
+          { link: `${BASEPATH}/zh/news/content`, text: '最新资讯' },
           { link: `${BASEPATH}/zh/news/75927920-microsoft`, text: '微软技术故障' },
         ]
 
