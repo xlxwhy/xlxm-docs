@@ -119,7 +119,7 @@ async function writeArticleFile(articles, year, month, day, includes) {
     let fileContentZh = getLatestNewsTitle(year, month, day)+ ` \n`;
 
     let article = null
-    let max = 10
+    let max = 20
     for (let index = 0; index < articles.length; index++) {
         if (--max < 0) break
         article = articles[index]
