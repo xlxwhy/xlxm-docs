@@ -9,6 +9,7 @@ const wiki = require('wikipedia');
 // node src/wikipedia/collect.js --TENCENT_SECRET_ID=xxxxxxxx  --TENCENT_SECRET_KEY=xxxxxxx --latest=true
 
 const PATH = "./docs/{lang}/news"
+const PUBLIC = "./docs/public"
 const CHANNEL = "wikipedia"
 
 // https://github.com/dopecodez/Wikipedia/blob/master/docs/wiki.md
@@ -60,9 +61,8 @@ function getNewsFileFolder(base, channel, lang, year, month, day) {
     base= base.replace("{lang}", lang) 
     return `${base}/${channel}/${year}/${month}`
 }
-function getLatestNewsFile(base, channel, lang) {
-    base= base.replace("{lang}", lang) 
-    return `${base}/${channel}/latest.json`
+function getLatestNewsFile(base, channel, lang) { 
+    return `${PUBLIC}/${channel}/latest.json`
 }
 async function getLatestNews(base, channel, lang) {
     try { 
@@ -82,7 +82,7 @@ async function getLatestNews(base, channel, lang) {
     return {}
 }
 function getLatestNewsOnline() {
-    let url="https://docs.xlxm.cn/zh/news/wikipedia/latest.json"
+    let url="https://docs.xlxm.cn/wikipedia/latest.json"
     return fetch(url).then(function(response) {
         if(response.status === 200){
           return response.json();

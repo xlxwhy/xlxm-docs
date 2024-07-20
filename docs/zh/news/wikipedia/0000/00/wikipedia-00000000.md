@@ -69,3 +69,73 @@ Kimberly Ann Guilfoyle is an American television news personality and former pro
 
 阅读延伸[1385937]: [https://en.wikipedia.org/wiki/Kimberly_Guilfoyle](https://en.wikipedia.org/wiki/Kimberly_Guilfoyle)   
 
+## 乌莎_万斯   
+Usha Chilukuri Vance is an American lawyer.   
+
+乌莎·奇卢库里·万斯（Usha Chilukuri Vance）是一名美国律师。   
+
+阅读延伸[77361269]: [https://en.wikipedia.org/wiki/Usha_Vance](https://en.wikipedia.org/wiki/Usha_Vance)   
+
+## 埃里克_特朗普   
+Eric Frederick Trump is an American businessman, activist, and former reality television presenter. He is the third child and second son of Donald Trump, the 45th president of the United States, and Ivana Trump.   
+
+埃里克·弗雷德里克·特朗普是一位美国商人、活动家和前真人秀节目主持人。他是美国第45任总统唐纳德·特朗普和伊万娜·特朗普的第三个孩子和次子。   
+
+阅读延伸[8095589]: [https://en.wikipedia.org/wiki/Eric_Trump](https://en.wikipedia.org/wiki/Eric_Trump)   
+
+## 1582   
+1582 (MDLXXXII) was a common year starting on Monday in the Julian calendar, and a common year starting on Friday of the Proleptic Gregorian calendar. This year saw the beginning of the Gregorian calendar switch, when the papal bull Inter gravissimas introduced the Gregorian calendar, adopted by Spain, Portugal, the Polish–Lithuanian Commonwealth and most of present-day Italy from the start. In these countries, the year continued as normal through Thursday, October 4; the next day became Friday, October 15, like a common year starting on Friday. France followed two months later, letting Sunday, December 9 be followed by Monday, December 20. Other countries continued using the Julian calendar, switching calendars in later years, and the complete conversion to the Gregorian calendar was not entirely done until 1923   
+
+1582年（MDLXXXII）是儒略历中从星期一开始的常见年份，也是从Proleptic Gregory的星期五开始的常见年份。今年，格里戈里日历转换的开始，教皇的命令Inter gravissimas引入了格里戈里日历，该日历从一开始就被西班牙、葡萄牙、波兰立陶宛联邦和当今意大利大部分地区采用。在这些国家，这一年一直正常到10月4日星期四;第二天变成了10月15日星期五，就像通常从星期五开始的一年一样。两个月后，法国紧随其后，让12月9日星期日之后是12月20日星期一。其他国家继续使用儒略历，并在晚年更换了日历，直到1923年才完全改用格里历   
+
+阅读延伸[34868]: [https://en.wikipedia.org/wiki/1582](https://en.wikipedia.org/wiki/1582)   
+
+## 凡妮莎_特朗普   
+Vanessa Kay Trump is an American former model. She married Donald Trump Jr. in 2005 and they divorced in 2018.   
+
+凡妮莎·凯·特朗普是一位美国前模特。她嫁给了小唐纳德·特朗普。2005年，他们于2018年离婚。   
+
+阅读延伸[56850657]: [https://en.wikipedia.org/wiki/Vanessa_Trump](https://en.wikipedia.org/wiki/Vanessa_Trump)   
+
+## 项目_2025   
+The 2025 Presidential Transition Project, also known as Project 2025, is an initiative organized by the Heritage Foundation with the aim of promoting a collection of conservative and right-wing policy proposals to reshape the United States federal government and consolidate executive power should Donald Trump win the 2024 presidential election. The Project asserts that the entire executive branch is under the direct control of the president under Article II of the U.S. Constitution and the unitary executive theory. It proposes reclassifying tens of thousands of federal civil service workers as political appointees, in order to replace them with loyalists more willing to enable Trump's policies. In doing so, proponents argue that the change would dismantle what they view as a vast, unaccountable, and mostly liberal government bureaucracy. The Project seeks to infuse the government and society with Christian values. Critics have characterized Project 2025 as an authoritarian, Christian nationalist plan to steer the U.S. toward autocracy. Many legal experts have said it would undermine the rule of law, the separation of powers, the separation of church and state, and civil liberties.   
+
+2025年总统过渡项目，也被称为2025年项目，是由传统基金会组织的一个倡议，目的是促进一系列保守派和右翼政策建议的收集，以重塑美国联邦政府，并巩固行政权力，如果唐纳德·特朗普赢得2024年总统选举的话。该项目声称，根据美国宪法第二条和单一行政理论，整个行政部门都在总统的直接控制之下。它提议将数万名联邦公务员重新归类为政治任命人员，以取代他们，让更愿意支持特朗普政策的忠诚者取而代之。在这样做的过程中，支持者辩称，这一变化将瓦解他们认为庞大、不负责任、大多是自由派的政府官僚机构。该项目旨在向政府和社会灌输基督教价值观。批评人士将2025计划描述为一个威权的基督教民族主义计划，旨在引导美国走向独裁。许多法律专家表示，这将破坏法治、权力分离、政教分离和公民自由。   
+
+阅读延伸[74699486]: [https://en.wikipedia.org/wiki/Project_2025](https://en.wikipedia.org/wiki/Project_2025)   
+
+## 伊万卡_特朗普   
+Ivana Marie "Ivanka" Trump is an American businesswoman. She is the second child of Donald Trump and his first wife, Ivana. Trump was a senior advisor in his administration (2017–2021), and also was the director of the Office of Economic Initiatives and Entrepreneurship.   
+
+伊万娜·玛丽·“伊万卡”·特朗普是一位美国女商人。她是唐纳德·特朗普和他的第一任妻子伊万娜的第二个孩子。特朗普曾担任其政府高级顾问（2017-2021年），也是经济倡议和创业办公室主任。   
+
+阅读延伸[1861441]: [https://en.wikipedia.org/wiki/Ivanka_Trump](https://en.wikipedia.org/wiki/Ivanka_Trump)   
+
+## 达纳_怀特   
+Dana Frederick White Jr. is an American businessman who is the CEO and president of the Ultimate Fighting Championship (UFC), a global mixed martial arts organization. He is also the owner of Power Slap, a slap fighting promotion. In August 2019, White's net worth was estimated at $500 million   
+
+小达纳·弗雷德里克·怀特是一位美国商人，是全球综合武术组织终极格斗锦标赛（UFC）的首席执行官兼总裁。他也是Power Slap的所有者，这是一种掌掴促销活动。2019年8月，怀特的净资产估计为5亿美元   
+
+阅读延伸[2230601]: [https://en.wikipedia.org/wiki/Dana_White](https://en.wikipedia.org/wiki/Dana_White)   
+
+## 萨姆_布朗_（军事）   
+Samuel Boaz Brown is an American political candidate and military officer. He served in the United States Army during the War in Afghanistan, and sustained burns to thirty percent of his body due to an improvised explosive device injury in 2008.   
+
+塞缪尔·波阿斯·布朗是美国政治候选人和军官。阿富汗战争期间，他在美国陆军服役，2008年因简易爆炸装置受伤，身体30%被烧伤。   
+
+阅读延伸[71017340]: [https://en.wikipedia.org/wiki/Sam_Brown_(military)](https://en.wikipedia.org/wiki/Sam_Brown_(military))   
+
+## 蒂芙尼_特朗普   
+Tiffany Ariana Trump is the fourth child of Donald Trump, the 45th president of the United States, and his only child with his second wife, Marla Maples.   
+
+蒂芙尼·阿丽亚娜·特朗普是美国第45任总统唐纳德·特朗普的第四个孩子，也是他与第二任妻子玛拉·梅普尔斯唯一的孩子。   
+
+阅读延伸[4339721]: [https://en.wikipedia.org/wiki/Tiffany_Trump](https://en.wikipedia.org/wiki/Tiffany_Trump)   
+
+## Kid_Rock   
+Robert James Ritchie, known professionally as Kid Rock, is an American musician, singer, rapper, and songwriter. After establishing himself in the Detroit hip hop scene, he broke through into mainstream success with a rap rock sound before shifting his performance style to country rock. A self-taught musician, he has said he can play every instrument in his backing band and has overseen production on all but two of his albums.   
+
+罗伯特·詹姆斯·里奇（Robert James Ritchie），专业名称为Kid Rock，是一位美国音乐家、歌手、说唱歌手和词曲作者。在底特律嘻哈界站稳脚跟后，他凭借说唱摇滚的声音取得了主流成功，然后将表演风格转向乡村摇滚。作为一名自学成才的音乐家，他说他可以演奏伴奏乐队中的每一种乐器，并监督了除两张专辑外的所有专辑的制作。   
+
+阅读延伸[17396]: [https://en.wikipedia.org/wiki/Kid_Rock](https://en.wikipedia.org/wiki/Kid_Rock)   
+
