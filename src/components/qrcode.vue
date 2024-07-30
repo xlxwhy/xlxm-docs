@@ -196,11 +196,11 @@ export default {
             this.withImage=withImage;
             this.$nextTick(() => { 
                 if (!withImage) { 
-                    html2canvas(_this.$refs.bill, { useCORS: false }).then((canvas) => {
+                    html2canvas(_this.$refs.bill, { useCORS: true }).then((canvas) => {
                         let imageUrl = canvas.toDataURL('image/png'); // 将canvas转成base64图片格式
                         _this.canvasImageUrl = imageUrl;
                         _this.showQRCode = true
-                        this.showQRCodeHtml = false
+                        _this.showQRCodeHtml = false
                     });
                 }else{
                     _this.showQRCode = false
