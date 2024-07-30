@@ -1,21 +1,18 @@
 <template>
     <div>
         <div class="qrcode-button">
-            <br>
-            <button @click="htmlToCanvas()" v-if="!autoCreate">点击生成【二维码】</button>
+            <br>点击生成
+            <button @click="htmlToCanvas(true)" v-if="!autoCreate">【二维码1】</button>
+            <button @click="htmlToCanvas(false)" v-if="!autoCreate">【二维码2】</button>
         </div>
-        <canvas id="outputCanvas"></canvas>
-        <img id="image1" src="/image/qrcode-01.jpg" />
-        <img id="image2" :src="image" />
-
-        <div class="qrcode-layout" ref="bill" v-if="showQRCode">
+        <div class="qrcode-layout" ref="bill" v-if="showQRCodeHtml">
             <div class="qrcode-header">
 
             </div>
             <div class="qrcode-title">
                 {{ title ? title : "最新资讯" }}<br>
-                <div v-if="image" class="qrcode-image">
-                    <img id="qrcodeImage" :src="image" />
+                <div v-if="image && withImage" class="qrcode-image">
+                    <img :src="image" />
                 </div>
             </div>
             <div class="qrcode-date">
@@ -28,7 +25,7 @@
                 @最新资讯
             </div>
         </div>
-        <div class="qrcode-image-layout">
+        <div class="qrcode-image-layout" v-if="showQRCode">
             <img :src="canvasImageUrl" />
         </div>
     </div>
@@ -36,10 +33,6 @@
 <script>
 import QrcodeVue from 'qrcode.vue'
 import html2canvas from 'html2canvas'
-
-
-
-
 
 
 
@@ -54,6 +47,8 @@ export default {
             today: nowString,
             canvasImageUrl: "",
             showQRCode: false,
+            showQRCodeHtml: false,
+            withImage: false,
         }
     },
     components: {
@@ -131,7 +126,7 @@ export default {
                 var xhr = new XMLHttpRequest();
                 xhr.open("get", img, true);
                 // 至关重要
-                xhr.responseType = "arraybuffer";//文件流
+                xhr.responseType = "blob";//文件流
                 xhr.onload = function (res) {
                     if (res.currentTarget.status == 200) {
                         //得到一个blob对象
@@ -154,7 +149,6 @@ export default {
 
         async makeImage(backImage, image, title, dateString) {
 
-
             var canvas = document.getElementById('outputCanvas');
             canvas.width = backImage.width;
             canvas.height = backImage.height;
@@ -173,88 +167,6 @@ export default {
             })
 
 
-
-
-
-
-
-
-            // var img = new Image();
-            // var url = 'https://media.prod.mdn.mozit.cloud/attachments/2013/06/22/5397/7a3ec0cae64a95ad454ac3bc2c71c004/rhino.jpg';
-            // img.src = url + '?' + new Date().getTime();
-            // img.setAttribute('crossOrigin', '');
-
-            // img.onload = function () {
-            //     ctx.drawImage(img, 0, 0);
-            //     img.style.display = 'none';
-            // };
-
-            // console.log(await this.getImgBase64FromUrlByXhr(image.src));
-
-
-
-            // var text = 'Hello World';
-            // var x = 50;
-            // var y = 50;
-            // var font = '30px Arial';
-            // ctx.font = font;
-            // ctx.fillStyle = 'red'; //定义字体颜色
-            // ctx.fillText(text, x, y);
-
-
-            // var newBackImage=new Image();
-            // newBackImage.src=image;
-
-            // newBackImage.onload = function () { 
-            //     ctx.drawImage( this, 100, 100, 236, 368 )
-            // }  
-
-
-            // ctx.drawImage(image, 0, 0, backImage.width, backImage.height);
-
-
-            // ctx.textAlign="center"
-
-            // ctx.fillText(title, 0, 0);
-
-            // const img = new Image();
-            // img.src = target.src ;
-            // img.onload = function() {
-            //     const canvas = document.createElement('canvas');
-            //     const ctx = canvas.getContext('2d');
-
-
-            //     // 计算新的宽度和高度
-            //     var newWidth =w;
-            //     var newHeight =h;
-            //     var ratio=1;
-
-            //     const wratio=w/img.width
-            //     const hratio=h/img.height
-
-            //     if(wratio>hratio){
-            //         newHeight=img.height*wratio
-            //         ratio=wratio
-            //     }else{
-            //         newWidth=img.width*hratio
-            //         ratio=hratio
-            //     }
-
-            //     canvas.width = w;
-            //     canvas.height = h;
-
-            //     // 绘制裁剪后的图片
-            //     console.log(left, top);
-            //     ctx.drawImage(img, left, top, newWidth, newHeight);
-
-            //     // 执行回调函数并传递裁剪后的图片数据URL
-            //     var quality = document.getElementById('quality').value;
-            //     var type = document.getElementById('type').value;
-            //     var base64String = canvas.toDataURL('image/'+type, parseFloat(quality));
-            //     target.src=base64String;
-
-            //     image.style.display="none"
-            // }; 
         },
 
         createImage() {
@@ -274,22 +186,26 @@ export default {
             // };
         },
 
-        htmlToCanvas() {
-            this.createImage();
-            // let _this=this
-            // this.showQRCode=true
-            // this.$nextTick(()=>{
-            //     let qrcodeImage=document.getElementById("qrcodeImage") 
-            //     qrcodeImage.src=qrcodeImage.src+"?"+new Date().getTime()
-            //     qrcodeImage.crossOrign="" 
-            //     qrcodeImage.onload = function() {
-            //         html2canvas(_this.$refs.bill, { useCORS: false}).then((canvas) => {
-            //             let imageUrl = canvas.toDataURL('image/png'); // 将canvas转成base64图片格式
-            //             _this.canvasImageUrl = imageUrl; 
-            //             _this.showQRCode=false
-            //         });
-            //     }
-            // })
+        htmlToCanvas(withImage) {
+            // this.createImage();
+
+            let _this = this
+            this.showQRCodeHtml = true
+            this.withImage=withImage;
+            this.$nextTick(() => { 
+                if (!withImage) { 
+                    html2canvas(_this.$refs.bill, { useCORS: false }).then((canvas) => {
+                        let imageUrl = canvas.toDataURL('image/png'); // 将canvas转成base64图片格式
+                        _this.canvasImageUrl = imageUrl;
+                        _this.showQRCode = true
+                        this.showQRCodeHtml = false
+                    });
+                }else{
+                    
+                    _this.showQRCode = false
+                }
+ 
+            })
         }
 
     }
@@ -301,7 +217,7 @@ export default {
 .qrcode-layout {
     width: 390px;
     height: 768px;
-    // background: no-repeat url("/image/qrcode-01.jpg");
+    background: no-repeat url("/image/qrcode-01.jpg");
     border: 0px solid #ccc;
     margin: 0px;
     display: flex;
@@ -315,12 +231,15 @@ export default {
     }
 
     .qrcode-title {
-        line-height: 50px;
+        line-height: 32px;
         font-size: 18px;
         text-align: center;
         padding: 10px 20px;
 
-        .qrcode-title-image {}
+        .qrcode-image {
+            display: flex;
+            justify-content: center;
+        }
 
     }
 
