@@ -61,16 +61,16 @@ module.exports = {
     //   `
     // ],
     // Adsense
-    // [
-    //   "script",
-    //   {
-    //     "client": "ca-pub-6579111049316949",
-    //     async: true,
-    //     crossorigin: "anonymous",
-    //     src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6579111049316949"
-    //   }
-    // ]
-    // ,
+    [
+      "script",
+      {
+        "client": "ca-pub-6579111049316949",
+        async: true,
+        crossorigin: "anonymous",
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6579111049316949"
+      }
+    ]
+    ,
     // Adsense 广告拦截收入挽回，无法访问google.com
     // [
     //   "script",
@@ -95,6 +95,7 @@ module.exports = {
     //     src: "https://docs.opencv.org/master/opencv.js"
     //   }
     // ],
+ 
  
   ],
 
