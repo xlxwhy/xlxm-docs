@@ -5,6 +5,7 @@
             <button @click="htmlToCanvas(true)" v-if="!autoCreate">【二维码1】</button>
             <button @click="htmlToCanvas(false)" v-if="!autoCreate">【二维码2】</button>
         </div>
+        <div v-if="loading">正在生成二维码...</div>
         <div class="qrcode-layout" ref="bill" v-if="showQRCodeHtml">
             <div class="qrcode-header">
 
@@ -49,6 +50,7 @@ export default {
             showQRCode: false,
             showQRCodeHtml: false,
             withImage: false,
+            loading: false,
         }
     },
     components: {
@@ -194,16 +196,19 @@ export default {
             let _this = this
             this.showQRCodeHtml = true
             this.withImage=withImage;
+            this.loading=true;
             this.$nextTick(() => { 
                 if (!withImage) { 
-                    html2canvas(_this.$refs.bill, { useCORS: true }).then((canvas) => {
+                    html2canvas(_this.$refs.bill, { }).then((canvas) => {
                         let imageUrl = canvas.toDataURL('image/png'); // 将canvas转成base64图片格式
                         _this.canvasImageUrl = imageUrl;
                         _this.showQRCode = true
                         _this.showQRCodeHtml = false
+                        _this.loading=false;
                     });
                 }else{
                     _this.showQRCode = false
+                    _this.loading=false;
                 }
             })
         }
