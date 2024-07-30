@@ -106,7 +106,7 @@ async function writeArticles(articles, newsDate , fileDate) {
         fileContent += `## ${article.titleZh}   \n`
         fileContent += `${article.summaryEn}   \n\n`
         if(article.image){
-            fileContent += `<image src="${article.image}" />   \n\n`
+            fileContent += `<img src="${article.image}" />   \n\n`
         }
         fileContent += `${article.summaryZh}   \n`
         // if(article.url){
