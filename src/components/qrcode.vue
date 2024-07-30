@@ -240,7 +240,7 @@ export default {
         font-size: 18px;
         text-align: center;
         padding: 10px 20px;
-
+        font-family: Helvetica, Tahoma, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Heiti SC', STXihei, 'Microsoft YaHei', SimHei;
         .qrcode-image {
             display: flex;
             justify-content: center;
