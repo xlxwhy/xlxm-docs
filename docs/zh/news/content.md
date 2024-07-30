@@ -6,8 +6,8 @@ next: false
 navbar: true
 hideAdContent: false
 title: 最新资讯
+lastUpdated: false
 ---
 
-<!--@include: ./wikipedia/latest.md -->
+<!--@include: ./xinhua/latest.md -->
 
-<qrcode />

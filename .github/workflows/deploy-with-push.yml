@@ -43,6 +43,7 @@ jobs:
       run: |
         npm run i
         node src/wikipedia/collect.js --latest=true --TENCENT_SECRET_ID=$TENCENT_SECRET_ID  --TENCENT_SECRET_KEY=$TENCENT_SECRET_KEY
+        node src/xinhua/collect.js --latest=true --TENCENT_SECRET_ID=$TENCENT_SECRET_ID  --TENCENT_SECRET_KEY=$TENCENT_SECRET_KEY
         npm run build
     - name: Setup Pages
       uses: actions/configure-pages@v2

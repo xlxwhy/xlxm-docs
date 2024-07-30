@@ -21,8 +21,8 @@ module.exports = {
     //   ]
     // },
 
-    { text: '技术文章', link: `${BASEPATH}/zh/article/content` },
-    { text: '技术文档', link: `${BASEPATH}/zh/document/content` },
+    // { text: '技术文章', link: `${BASEPATH}/zh/article/content` },
+    // { text: '技术文档', link: `${BASEPATH}/zh/document/content` },
     { text: '热点资讯', link: `${BASEPATH}/zh/news/content` },
   ],
 
@@ -31,8 +31,8 @@ module.exports = {
       {
         text: '热点资讯',
         items: [
-          { link: `${BASEPATH}/zh/news/content`, text: '最新资讯' },
-          { link: `${BASEPATH}/zh/news/75927920-microsoft`, text: '微软技术故障' },
+          { link: `${BASEPATH}/zh/news/xinhua/latest`, text: '新华资讯' }, 
+          { link: `${BASEPATH}/zh/news/wikipedia/latest`, text: '维基资讯' },
         ]
 
       }
@@ -55,7 +55,7 @@ module.exports = {
     ]
   },
   footer: {
-    message: '<a href="/zh/site/about.html">关于我们</a> | <a href="/zh/site/contact.html">联系我们</a> | <a href="/zh/site/disclaimer.html">免责声明</a> | <a href="/zh/site/privacy.html">隐私条款</a> | <a href="/sitemap.xml">网站地图</a>',
+    message: '<a href="/zh/site/about.html">关于我们</a> | <a href="/zh/site/contact.html">联系我们</a> | <a href="/zh/site/disclaimer.html">免责声明</a> | <a href="/zh/site/privacy.html">隐私条款</a> ',
     copyright: 'Copyright © 2018-present xlxm.cn ICP备案 '
   },
   docFooter: { prev: "上一篇", next: "下一篇" }

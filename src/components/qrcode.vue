@@ -9,7 +9,7 @@
 
             </div>
             <div class="qrcode-title">
-                新闻资讯<br>
+                {{ title?title:"最新资讯" }}<br>
             </div>
             <div class="qrcode-date">
                 {{ today }}
@@ -31,7 +31,7 @@ import QrcodeVue from 'qrcode.vue'
 import html2canvas from 'html2canvas'
 
 export default {
-    props: ['autoCreate'],
+    props: ['autoCreate', 'title'],
     data() {
         let now = new Date();
         let nowString = `${now.getFullYear()}年${now.getMonth() + 1}月${now.getDate()}日`
@@ -88,8 +88,9 @@ export default {
 
     .qrcode-title {
         line-height: 50px;
-        font-size: 28px;
-
+        font-size: 18px;
+        text-align: center;
+        padding: 10px 20px;
     }
 
     .qrcode-date {

@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: 云技术资讯及服务
+title: 
 sidebar: false
 footer: true
 prev: false

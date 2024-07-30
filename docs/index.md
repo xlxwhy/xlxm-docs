@@ -1,6 +1,5 @@
 ---
-layout: doc
-title: 云技术资讯及服务
+layout: doc 
 sidebar: false
 footer: true
 prev: false
@@ -9,6 +8,6 @@ hideAdContent: true
 lastUpdated: false
 ---
 
-<!--@include: ./zh/news/wikipedia/latest.md -->
+<!--@include: ./zh/news/xinhua/latest.md -->
 
 
