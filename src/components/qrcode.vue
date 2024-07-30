@@ -37,7 +37,7 @@ import html2canvas from 'html2canvas'
 
 
 export default {
-    props: ['autoCreate', 'title', "image"],
+    props: ['autoCreate', 'title', "image", "channel", "id"],
     data() {
         let now = new Date();
         let nowString = `${now.getFullYear()}年${now.getMonth() + 1}月${now.getDate()}日`
@@ -55,7 +55,9 @@ export default {
         QrcodeVue
     },
     mounted() {
-        this.value = window.location.href;
+        let url=window.location.href.split("#")[0]
+        url+="#"+encodeURIComponent(this.title.replace(new RegExp(" ","g"), "-"))
+        this.value = url;
         if (this.autoCreate) {
             this.htmlToCanvas()
         }
@@ -201,10 +203,8 @@ export default {
                         this.showQRCodeHtml = false
                     });
                 }else{
-                    
                     _this.showQRCode = false
                 }
- 
             })
         }
 
