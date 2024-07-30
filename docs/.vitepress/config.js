@@ -88,6 +88,14 @@ module.exports = {
     //   `
     // ],
  
+    // [
+    //   "script",
+    //   {  
+    //     async: true, 
+    //     src: "https://docs.opencv.org/master/opencv.js"
+    //   }
+    // ],
+ 
   ],
 
   markdown: {

@@ -112,7 +112,7 @@ async function writeArticles(articles, newsDate , fileDate) {
         // if(article.url){
         //     fileContent += `阅读延伸: ${fmt.link(article.url)}   \n\n`
         // }
-        fileContent += `<qrcode title="${article.titleZh}" />   \n\n`
+        fileContent += `<qrcode title="${article.titleZh}" image="${article.image}" />   \n\n`
         console.log(article.id, article.titleZh);
     }
 
