@@ -58,12 +58,17 @@ export default {
     },
     mounted() {
         let url=window.location.href.split("#")[0] 
-        let reg="[~！!@#$%…^&*()（）+=‘“”’：；;:'\"\\\\/?<>,\.，\{\}\\\[\\\]\-\|]{1,}"
+        let reg="[ ~！!@#$%…^&*()（）+=‘“”’：；;:'\"\\\\/?<>,\.，\{\}\\\[\\\]\-\|]{1,}"
+        //#泰宁-从-忧居-到-宜居-%20老小区焕发-新生机-
+        //#泰宁-从-忧居-到-宜居-老小区焕发-新生机
         let newTitle=this.title
         newTitle=newTitle.replace(new RegExp(reg,"g"), "-") 
         newTitle=newTitle.replace(new RegExp("[￥]","g"), "¥") 
-        if(this.isDigitStart(newTitle)){
+        if(this.checkTitleStart(newTitle)){
             newTitle="_"+newTitle
+        }
+        if(this.checkTitleEnd(newTitle)){
+            newTitle=newTitle.substring(0, newTitle.length-1)
         }
 
         url+="#"+encodeURIComponent(newTitle)
@@ -73,8 +78,11 @@ export default {
         }
     },
     methods: {
-        isDigitStart(str) {
+        checkTitleStart(str) {
             return /^\d/.test(str);
+        },
+        checkTitleEnd(str) {
+            return /\-$/.test(str);
         },
         async getImgBase64FromUrlByXhr(url) {
             return new Promise((resolve, reject) => {
