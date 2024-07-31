@@ -57,14 +57,25 @@ export default {
         QrcodeVue
     },
     mounted() {
-        let url=window.location.href.split("#")[0]
-        url+="#"+encodeURIComponent(this.title.replace(new RegExp(" ","g"), "-"))
+        let url=window.location.href.split("#")[0] 
+        let reg="[~！!@#$%…^&*()（）+=‘“”’：；;:'\"\\\\/?<>,\.，\{\}\\\[\\\]\-\|]{1,}"
+        let newTitle=this.title
+        newTitle=newTitle.replace(new RegExp(reg,"g"), "-") 
+        newTitle=newTitle.replace(new RegExp("[￥]","g"), "¥") 
+        if(this.isDigitStart(newTitle)){
+            newTitle="_"+newTitle
+        }
+
+        url+="#"+encodeURIComponent(newTitle)
         this.value = url;
         if (this.autoCreate) {
             this.htmlToCanvas()
         }
     },
     methods: {
+        isDigitStart(str) {
+            return /^\d/.test(str);
+        },
         async getImgBase64FromUrlByXhr(url) {
             return new Promise((resolve, reject) => {
                 if (url) {
