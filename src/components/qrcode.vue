@@ -58,9 +58,9 @@ export default {
     },
     mounted() {
         let url=window.location.href.split("#")[0] 
-        let reg="[ ~！!@#$%…^&*()（）+=‘“”’：；;:'\"\\\\/?<>,\.，\{\}\\\[\\\]\-\|]{1,}"
-        //#泰宁-从-忧居-到-宜居-%20老小区焕发-新生机-
-        //#泰宁-从-忧居-到-宜居-老小区焕发-新生机
+        let reg="[ ~！!@#$%…^&*()（）+=‘“”’：；;:'\"\\\\/?<>,\.，\{\}\\\[\\\]\-\|\s]+"
+        //##湖南资兴直升机救援已飞行181架次-累计投送物资48-4吨
+        //##湖南资兴直升机救援已飞行181架次%20累计投送物资48-4吨
         let newTitle=this.title
         newTitle=newTitle.replace(new RegExp(reg,"g"), "-") 
         newTitle=newTitle.replace(new RegExp("[￥]","g"), "¥") 
@@ -70,8 +70,8 @@ export default {
         if(this.checkTitleEnd(newTitle)){
             newTitle=newTitle.substring(0, newTitle.length-1)
         }
-
         url+="#"+encodeURIComponent(newTitle)
+
         this.value = url;
         if (this.autoCreate) {
             this.htmlToCanvas()
