@@ -115,6 +115,7 @@ function getLatestNewsTitle(year, month, day){
 }
 
 async function writeArticleFile(articles, year, month, day, includes) {
+    if(!articles)return;
     let newsMap = await getLatestNews(PATH, CHANNEL, "zh")
     let fileContentZh = getLatestNewsTitle(year, month, day)+ ` \n`;
 
@@ -177,7 +178,6 @@ async function main() {
     // wiki配置
     await wiki.setUserAgent('whimpark(whimpark@gmail.com)');
 
-
     let query, news, content
 
     // 某天资讯
@@ -200,13 +200,17 @@ async function main() {
         query = { year: fmt.fyear(today), month: fmt.fmonth(today), day: fmt.fday(today) }
         news = { year: "0000", month: "00", day: "00" }
         content = await wiki.featuredContent(query);
-        writeArticleFile(content.mostread.articles, news.year, news.month, news.day, [])
+        writeArticleFile(content?.mostread?.articles, news.year, news.month, news.day, [])
     }
 
 }
 
 
-main()
+try {
+    main()
+} catch (error) {
+    console.log(error);
+}
 
 
 
