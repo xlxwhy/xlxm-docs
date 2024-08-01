@@ -82,7 +82,7 @@ export default {
         },
         
         transformTitle(title) {
-            let reg="[ ~！!@#$%…^&*()（）+=‘“”’：；;:'\"\\\\/?？<>,\.，\{\}\\\[\\\]\-\|\s]+"
+            let reg="[ ~！!@#$%…^&*()（）+=‘“”’：；;:'\"\\\\/?？<>,\.，\{\}\\\[\\\]\-\|｜\s]+"
             title=title.replace(new RegExp(reg,"g"), "-") 
             title=title.replace(new RegExp("[￥]","g"), "¥") 
             if(this.checkTitleStartWithNumber(title)){
