@@ -58,18 +58,11 @@ export default {
     },
     mounted() {
         let url=window.location.href.split("#")[0] 
-        let reg="[ ~！!@#$%…^&*()（）+=‘“”’：；;:'\"\\\\/?<>,\.，\{\}\\\[\\\]\-\|\s]+"
         //##湖南资兴直升机救援已飞行181架次-累计投送物资48-4吨
         //##湖南资兴直升机救援已飞行181架次%20累计投送物资48-4吨
-        let newTitle=this.title
-        newTitle=newTitle.replace(new RegExp(reg,"g"), "-") 
-        newTitle=newTitle.replace(new RegExp("[￥]","g"), "¥") 
-        if(this.checkTitleStart(newTitle)){
-            newTitle="_"+newTitle
-        }
-        if(this.checkTitleEnd(newTitle)){
-            newTitle=newTitle.substring(0, newTitle.length-1)
-        }
+        //#错一个字重新打印一本-为何会有办事人员宁可浪费
+        //#-错一个字重新打印一本-？为何会有办事人员宁可浪费
+        let newTitle=this.transformTitle(this.title)
         url+="#"+encodeURIComponent(newTitle)
 
         this.value = url;
@@ -78,11 +71,31 @@ export default {
         }
     },
     methods: {
-        checkTitleStart(str) {
+        checkTitleStartWithNumber(str) {
             return /^\d/.test(str);
         },
+        checkTitleStart(str) {
+            return /^\-/.test(str);
+        },
         checkTitleEnd(str) {
-            return /\-$/.test(str);
+            return /\-$/.test(str) ;
+        },
+        
+        transformTitle(title) {
+            let reg="[ ~！!@#$%…^&*()（）+=‘“”’：；;:'\"\\\\/?？<>,\.，\{\}\\\[\\\]\-\|\s]+"
+            title=title.replace(new RegExp(reg,"g"), "-") 
+            title=title.replace(new RegExp("[￥]","g"), "¥") 
+            if(this.checkTitleStartWithNumber(title)){
+                title="_"+title
+            }
+
+            if(this.checkTitleStart(title)){
+                title=title.substring(1)
+            }
+            if(this.checkTitleEnd(title)){
+                title=title.substring(0, title.length-1)
+            }
+            return title ;
         },
         async getImgBase64FromUrlByXhr(url) {
             return new Promise((resolve, reject) => {
