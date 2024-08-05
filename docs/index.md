@@ -5,7 +5,7 @@ sidebar: false
 footer: true
 prev: false
 next: false 
-hideAdContent: true
+hideAdContent: false
 lastUpdated: false
 ---
 

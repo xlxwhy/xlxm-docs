@@ -5,10 +5,10 @@ sidebar: false
 footer: true
 prev: false
 next: false 
-hideAdContent: true
+hideAdContent: false
 lastUpdated: false
 ---
 
-<!--@include: ./news/wikipedia/latest.md -->
+<!--@include: ./zh/news/xinhua/latest.md -->
 
 
