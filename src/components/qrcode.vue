@@ -85,6 +85,15 @@ export default {
             let reg="[ ~！!@#$%…^&*()（）+=‘“”’：；;:'\"\\\\/?？<>,\.，\{\}\\\[\\\]\-\|｜\s]+"
             title=title.replace(new RegExp(reg,"g"), "-") 
             title=title.replace(new RegExp("[￥]","g"), "¥") 
+            title=title.replace(new RegExp("[①]","g"), "1") 
+            title=title.replace(new RegExp("[②]","g"), "2") 
+            title=title.replace(new RegExp("[③]","g"), "3") 
+            title=title.replace(new RegExp("[④]","g"), "4") 
+            title=title.replace(new RegExp("[⑤]","g"), "5") 
+            title=title.replace(new RegExp("[⑥]","g"), "6") 
+            title=title.replace(new RegExp("[⑦]","g"), "7") 
+            title=title.replace(new RegExp("[⑧]","g"), "8") 
+            title=title.replace(new RegExp("[⑨]","g"), "9") 
             if(this.checkTitleStartWithNumber(title)){
                 title="_"+title
             }
