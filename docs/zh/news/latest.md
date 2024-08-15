@@ -4,10 +4,10 @@ footer: false
 prev: false
 next: false 
 navbar: true
-hideAdContent: false
+hideAdContent: true
 title: 最新资讯
 lastUpdated: false
 ---
 
-<!--@include: ./xinhua/latest.md -->
+<!--@include: ./xinhua/content.md -->
 

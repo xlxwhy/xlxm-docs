@@ -1,3 +1,13 @@
+---
+layout: doc 
+footer: false
+prev: false
+next: false 
+navbar: true
+hideAdContent: true
+title: 最新资讯
+lastUpdated: false
+---
 
-<!--@include: ./0000/00/xinhua-00000000.md -->
+<!--@include: ./content.md -->
 

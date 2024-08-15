@@ -236,7 +236,9 @@ async function main() {
         let contentLink=`./${newsDate.year}/${newsDate.month}/${newsFileName}`
         let contentTitle=articles[0].titleZh
         let content=`${newsDate.year}-${newsDate.month}-${newsDate.day}:${newsDate.hour}: ${fmt.link(contentLink, contentTitle)}`
-        FileHelper.append(channelFile, `${content} \n\n`)
+        let fileContent=FileHelper.read(channelFile);
+        FileHelper.write(channelFile,content+"\n\n")
+        FileHelper.append(channelFile,fileContent) 
         
     }
 

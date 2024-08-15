@@ -23,7 +23,7 @@ module.exports = {
 
     // { text: '技术文章', link: `${BASEPATH}/zh/article/content` },
     // { text: '技术文档', link: `${BASEPATH}/zh/document/content` },
-    { text: '热点资讯', link: `${BASEPATH}/zh/news/content` },
+    { text: '热点资讯', link: `${BASEPATH}/zh/news/latest` },
   ],
 
   sidebar: {
@@ -31,7 +31,7 @@ module.exports = {
       {
         text: '热点资讯',
         items: [
-          { link: `${BASEPATH}/zh/news/xinhua/content`, text: '新华资讯' }, 
+          { link: `${BASEPATH}/zh/news/xinhua/latest`, text: '新华资讯' }, 
           { link: `${BASEPATH}/zh/news/wikipedia/latest`, text: '维基资讯' },
         ]
 
