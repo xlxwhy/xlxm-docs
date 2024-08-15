@@ -281,73 +281,101 @@
         }
     </script>
     <style>
- 
+        .photo_main{
+            display: flex;
+        }
+        .photo_title{
+            padding: 30px 0px;
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        .photo_main_options{
+            flex: 1
+        }
+        .photo_main_body{
+            flex: 1
+        }
+        .photo_output{
+            display: flex;
+            justify-content: center;
+        }
     </style>
 </head>
 
 <body onload="init()"> 
-    前置步骤：<br>
-    1、抠图1:   <br>
-    -  上传: https://aiart.chuangkit.com/editor/koutu?fmodule=tool_box&fpage=home  <br>
-    -  抠图结果: blob:https://mater.chuangkit.com/xxxx   <br>
-    -  上传: https://cutout.designkit.com/?channel=kllbd141&bd_vid=9549066288582911630  <br>
-    -  抠图结果: 纯色栏 blob:https://cutout.designkit.com/xxxx   <br>
+    <div class="photo_main">
+        <div class="photo_main_options">
+            <div class="photo_title">
+                证件照编辑器
+            </div>
+            <div class="photo_head">
+                前置步骤：<br>
+                1、抠图1:   <br>
+                -  上传: https://aiart.chuangkit.com/editor/koutu?fmodule=tool_box&fpage=home  <br>
+                -  抠图结果: blob:https://mater.chuangkit.com/xxxx   <br>
+                -  上传: https://cutout.designkit.com/?channel=kllbd141&bd_vid=9549066288582911630  <br>
+                -  抠图结果: 纯色栏 blob:https://cutout.designkit.com/xxxx   <br>
 
-    2、无损放大: https://www.designkit.com/upscale/  <br><br>
+                2、无损放大: https://www.designkit.com/upscale/  <br><br>
+            </div>
+            请上传【透明背景】的底图, 图片尺寸尽量大于【898,1181】, 至少大于目标证件尺寸<br>
+            上传文件：<input type="file" id="file-input" /><br>
+            证件类型：<select id="size" onchange="changeSize();resetImage()">
+                <option value="[260,378]" selected>小一寸</option>
+                <option value="[295,413]">一寸</option>
+                <option value="[390,576]">大一寸</option>
+                <option value="[413,531]">小二寸</option>
+                <option value="[413,579]">二寸</option>
+                <option value="[413,626]">大二寸</option>
+                <option value="[650,992]">三寸</option>
+                <option value="[898,1181]">四寸</option> 
+                <option value="[358,441]">社保卡</option>
+                <option value="[780,1134]">驾驶证</option>
+            </select><br>
+            证件背景：<select id="color" onchange="resetImage()">
+                <option value="#a1190d" selected>红色背景</option>
+                <option value="#438edb">蓝色背景</option>
+                <option value="#FFFFFF">白色背景</option> 
+            </select><br>
+            图片类型：<select id="type" onchange="resetImage()">
+                <option value="png" selected>PNG</option>
+                <option value="jpeg">JPG</option>
+            </select><br>
+            图片质量：<select id="quality" onchange="resetImage()">
+                <option value="1.0" >1.0</option>
+                <option value="0.99" selected>0.99</option>
+                <option value="0.9" >0.9</option>
+                <option value="0.8" >0.8</option>
+                <option value="0.7" >0.7</option>
+                <option value="0.6" >0.6</option>
+                <option value="0.5" >0.5</option>
+                <option value="0.4" >0.4</option>
+                <option value="0.3" >0.3</option>
+                <option value="0.2" >0.2</option>
+                <option value="0.1" >0.1</option> 
+            </select><br>
+            裁剪尺寸：<input type="text" id="width" />     <input type="text" id="height" /><br>
+            偏移尺寸：<input type="text" id="left"  value="0" />      <input type="text" id="top"  value="0" /><br>
+        </div>
+   
+        <div class="photo_main_body">
+            <div class="photo_output">
+                <img id="target"  />
+            </div>
 
+            <div class="photo_output">
+                <img id="image" src="./photo.png"  />
+            </div>
 
-    请上传【透明背景】的底图, 图片尺寸尽量大于【898,1181】, 至少大于目标证件尺寸<br>
-    上传文件：<input type="file" id="file-input" /><br>
-    证件类型：<select id="size" onchange="changeSize();resetImage()">
-        <option value="[260,378]" selected>小一寸</option>
-        <option value="[295,413]">一寸</option>
-        <option value="[390,576]">大一寸</option>
-        <option value="[413,531]">小二寸</option>
-        <option value="[413,579]">二寸</option>
-        <option value="[413,626]">大二寸</option>
-        <option value="[650,992]">三寸</option>
-        <option value="[898,1181]">四寸</option> 
-        <option value="[358,441]">社保卡</option>
-        <option value="[780,1134]">驾驶证</option>
-    </select><br>
-    证件背景：<select id="color" onchange="resetImage()">
-        <option value="#a1190d" selected>红色背景</option>
-        <option value="#438edb">蓝色背景</option>
-        <option value="#FFFFFF">白色背景</option> 
-    </select><br>
-    图片类型：<select id="type" onchange="resetImage()">
-        <option value="png" selected>PNG</option>
-        <option value="jpeg">JPG</option>
-    </select><br>
-    图片质量：<select id="quality" onchange="resetImage()">
-        <option value="1.0" >1.0</option>
-        <option value="0.99" selected>0.99</option>
-        <option value="0.9" >0.9</option>
-        <option value="0.8" >0.8</option>
-        <option value="0.7" >0.7</option>
-        <option value="0.6" >0.6</option>
-        <option value="0.5" >0.5</option>
-        <option value="0.4" >0.4</option>
-        <option value="0.3" >0.3</option>
-        <option value="0.2" >0.2</option>
-        <option value="0.1" >0.1</option> 
-    </select><br>
-    裁剪尺寸：<input type="text" id="width" />     <input type="text" id="height" /><br>
-    偏移尺寸：<input type="text" id="left"  value="0" />      <input type="text" id="top"  value="0" /><br>
- 
-
-
-<div>
-<img id="target"  />
+            <div class="photo_output">
+                <canvas id="outputCanvas" />
+            </div>
+        </div>
+    </div>
 </div>
 
-<div  >
-    <img id="image" src="./photo.png"  />
-</div>
 
-<div >
-    <canvas id="outputCanvas" />
-</div>
 
  <div style="display: none;">
     <a href="#" onclick="cleanImage1()">cleanImage1</a> <a href="#" onclick="cleanImage2()">cleanImage2</a> <a href="#" onclick="cleanImage3()">cleanImage3</a>
