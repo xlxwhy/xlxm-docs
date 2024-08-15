@@ -62,7 +62,9 @@ export default {
         //##湖南资兴直升机救援已飞行181架次%20累计投送物资48-4吨
         //#错一个字重新打印一本-为何会有办事人员宁可浪费
         //#-错一个字重新打印一本-？为何会有办事人员宁可浪费
-        let newTitle=this.transformTitle(this.title)
+        //"变废为宝、和谐共生、AI加持……多地交出生态修复探索实践“答卷”"
+ 
+        let newTitle=this.transformTitle(this.title) 
         url+="#"+encodeURIComponent(newTitle)
 
         this.value = url;
@@ -104,6 +106,7 @@ export default {
             if(this.checkTitleEnd(title)){
                 title=title.substring(0, title.length-1)
             }
+            title=title.toLowerCase();
             return title ;
         },
         async getImgBase64FromUrlByXhr(url) {
