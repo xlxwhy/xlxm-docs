@@ -127,7 +127,7 @@ module.exports = {
     }
   },
   sitemap: {
-    hostname: 'https://docs.xlxm.cn'
+    hostname: 'https://xlxm.cn'
   }
 }
 

@@ -24,6 +24,7 @@ module.exports = {
     // { text: '技术文章', link: `${BASEPATH}/zh/article/content` },
     // { text: '技术文档', link: `${BASEPATH}/zh/document/content` },
     { text: '热点资讯', link: `${BASEPATH}/zh/news/latest` },
+    { text: '热门工具', link: `http://xlxm.cn/photo/photo.html` },
   ],
 
   sidebar: {
