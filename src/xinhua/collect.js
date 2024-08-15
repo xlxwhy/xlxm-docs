@@ -26,11 +26,21 @@ const argv = require('minimist')(process.argv.slice(2));
 const tencentTranslateClient = require("../translate/TencentTranslate.js")
 
 
-
-function getNewsFileName(channel, lang, year, month, day) {
-    return `${channel}-${year}${month}${day}.md`
+function getChannelFile(base, channel, lang, file) {
+    base = base.replace("{lang}", lang)
+    return `${base}/${channel}/${file}`
 }
-function getNewsFileFolder(base, channel, lang, year, month, day) {
+
+
+function getNewsFile(channel, lang, year, month, day, hour) {
+    const fileFolder = getNewsFileFolder(base, channel, lang, year, month, day, hour)
+    const fileName = getNewsFileName(channel, lang, year, month, day, hour)
+    return  `${fileFolder}/${fileName}`
+}
+function getNewsFileName(channel, lang, year, month, day, hour) {
+    return `${channel}-${year}${month}${day}${hour?hour:""}.md`
+}
+function getNewsFileFolder(base, channel, lang, year, month, day, hour) {
     base = base.replace("{lang}", lang)
     return `${base}/${channel}/${year}/${month}`
 }
@@ -55,7 +65,7 @@ async function getLatestNews(base, channel, lang) {
     return {}
 }
 function getLatestNewsOnline(channel) {
-    let url = `https://docs.xlxm.cn/${channel}/latest.json`
+    let url = `https://xlxm.cn/${channel}/latest.json`
     return fetch(url).then(function (response) {
         if (response.status === 200) {
             return response.json();
@@ -72,9 +82,9 @@ function saveLatestNews(base, channel, lang, newsMap) {
 
 
 
-function writeNewsFile(base, lang, content, year, month, day) {
-    const fileFolder = getNewsFileFolder(base, CHANNEL, lang, year, month, day)
-    const fileName = getNewsFileName(CHANNEL, lang, year, month, day)
+function writeNewsFile(base, lang, content, year, month, day, hour) {
+    const fileFolder = getNewsFileFolder(base, CHANNEL, lang, year, month, day, hour)
+    const fileName = getNewsFileName(CHANNEL, lang, year, month, day, hour)
 
     if (!fs.existsSync(fileFolder)) { fs.mkdirSync(fileFolder, { recursive: true }); }
 
@@ -138,15 +148,13 @@ async function writeArticles(articles, newsDate, fileDate) {
         }
         fileContent += `${article.summaryZh}   \n`
         if(article.url){
-            fileContent += `延伸: ${fmt.link(article.url,'细读原文')}   \n\n`
+            fileContent += `延伸阅读: ${fmt.link(article.url,'文章详情')}   \n\n`
         } 
         fileContent += `<qrcode title="${article.titleZh}" image="${article.image}" />   \n\n`
         console.log(article.id, article.titleZh);
     }
 
-
-
-    writeNewsFile(PATH, "zh", fileContent, fileDate.year, fileDate.month, fileDate.day)
+    writeNewsFile(PATH, "zh", fileContent, fileDate.year, fileDate.month, fileDate.day, fileDate.hour)
     saveLatestNews(PATH, CHANNEL, "zh", newsMap)
 }
 
@@ -211,15 +219,25 @@ async function main() {
     // 最新资讯
     if (argv["latest"] == "true") {
         let today = new Date()
-        newsDate = { year: fmt.fyear(today), month: fmt.fmonth(today), day: fmt.fday(today) }
-        fileDate = { year: "0000", month: "00", day: "00" }
+        newsDate = { year: fmt.fyear(today), month: fmt.fmonth(today), day: fmt.fday(today), hour: fmt.fhour(today) }
+        fileDate = { year: "0000", month: "00", day: "00", hour: "00" }
 
         eval("function news(data){ return data;}");
         let pack = await AxiosRequest.get(config.url)
         pack = eval(pack);
         let articles = formatArticles(pack?.data?.list)
         articles = articles.slice(0, 20)
-        writeArticles(articles, newsDate, fileDate)
+        await writeArticles(articles, newsDate, fileDate)
+        await writeArticles(articles, newsDate, newsDate)
+ 
+        let channel="xinhua"
+        let channelFile = getChannelFile(PATH, channel, "zh", "content.md")
+        let newsFileName=getNewsFileName(channel,"zh", newsDate.year, newsDate.month,newsDate.day, newsDate.hour)
+        let contentLink=`./${newsDate.year}/${newsDate.month}/${newsFileName}`
+        let contentTitle=articles[0].titleZh
+        let content=`${newsDate.year}-${newsDate.month}-${newsDate.day}:${newsDate.hour}: ${fmt.link(contentLink, contentTitle)}`
+        FileHelper.append(channelFile, `${content} \n\n`)
+        
     }
 
 }

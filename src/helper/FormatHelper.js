@@ -13,6 +13,9 @@ module.exports = {
     fday(date){
         return numeral(date.getDate()).format("00")
     }, 
+    fhour(date){
+        return numeral(date.getHours()).format("00")
+    }, 
     getDate(year, month, day){
         let date = new Date('01 Jan, 1970 00:00:00');
         date.setFullYear(year)

@@ -3,8 +3,8 @@
 name: deploy with push
 
 on:
-  push:
-    branches: ["main"]
+  # push:
+  #   branches: ["main"]
   schedule:
     - cron: "0 23,1,4,8,10,13 * * *"
   # Allows you to run this workflow manually from the Actions tab
@@ -45,6 +45,7 @@ jobs:
         node src/wikipedia/collect.js --latest=true --TENCENT_SECRET_ID=$TENCENT_SECRET_ID  --TENCENT_SECRET_KEY=$TENCENT_SECRET_KEY
         node src/xinhua/collect.js --latest=true --TENCENT_SECRET_ID=$TENCENT_SECRET_ID  --TENCENT_SECRET_KEY=$TENCENT_SECRET_KEY
         npm run build
+
     - name: Setup Pages
       uses: actions/configure-pages@v2
     - name: Upload artifact
@@ -55,3 +56,16 @@ jobs:
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v1
+
+    - name: Commit files
+      run: |
+        git config --local user.email "xlxwhy@gmail.com"
+        git config --local user.name  "xlxwhy"
+        git add .
+        git commit -a -m "daily commit!"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
+

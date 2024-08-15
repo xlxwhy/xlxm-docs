@@ -31,7 +31,7 @@ module.exports = {
       {
         text: '热点资讯',
         items: [
-          { link: `${BASEPATH}/zh/news/xinhua/latest`, text: '新华资讯' }, 
+          { link: `${BASEPATH}/zh/news/xinhua/content`, text: '新华资讯' }, 
           { link: `${BASEPATH}/zh/news/wikipedia/latest`, text: '维基资讯' },
         ]
 

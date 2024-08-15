@@ -82,7 +82,7 @@ async function getLatestNews(base, channel, lang) {
     return {}
 }
 function getLatestNewsOnline() {
-    let url="https://docs.xlxm.cn/wikipedia/latest.json"
+    let url="https://xlxm.cn/wikipedia/latest.json"
     return fetch(url).then(function(response) {
         if(response.status === 200){
           return response.json();
