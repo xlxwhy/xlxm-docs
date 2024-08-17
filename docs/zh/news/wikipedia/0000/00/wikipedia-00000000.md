@@ -1,24 +1,10 @@
 # 最新资讯  
-## Gena_Rowlands   
-Virginia Cathryn "Gena" Rowlands was an American actress, whose career in film, stage, and television spanned nearly seven decades. A four-time Emmy and two-time Golden Globe winner, she is known for her collaborations with her actor-director husband John Cassavetes in ten films, including A Woman Under the Influence (1974) and Gloria (1980), both of which earned her nominations for the Academy Award for Best Actress. She also won the Silver Bear for Best Actress for Opening Night (1977). She is also known for her performances in Woody Allen's Another Woman (1988), and her son Nick Cassavetes's film, The Notebook (2004). In 2021, Richard Brody of The New Yorker said, "The most important and original movie actor of the past half century-plus is Gena Rowlands." In November 2015, Rowlands received an Honorary Academy Award in recognition of her unique screen performances.   
-
-弗吉尼亚·凯瑟琳·“吉娜”·罗兰兹是一位美国女演员，她在电影、舞台和电视领域的职业生涯跨越了近七十年。四届艾美奖和两届金球奖得主，她因与演员兼导演丈夫约翰·卡萨维特斯合作拍摄十部电影而闻名，其中包括《影响力下的女人》（1974年）和《格洛丽亚》（1980年），这两部电影都为她赢得了奥斯卡最佳女主角提名。她还凭借《首映之夜》（1977年）获得了最佳女主角银熊奖。她还因在伍迪·艾伦的《另一个女人》（1988年）和她儿子尼克·卡萨维茨的电影《笔记本》（2004年）中的表演而闻名。2021年，《纽约客》的理查德·布罗迪表示：“过去半个多世纪以来最重要、最具原创性的电影演员是吉娜·罗兰兹。“2015年11月，罗兰兹荣获奥斯卡荣誉奖，以表彰她独特的银幕表演。   
-
-阅读延伸[225494]: [https://en.wikipedia.org/wiki/Gena_Rowlands](https://en.wikipedia.org/wiki/Gena_Rowlands)   
-
 ## 外星人：_罗穆卢斯   
 Alien: Romulus is a 2024 American science fiction horror film. Directed by Fede Álvarez, who co-wrote it with Rodo Sayagues, the film was produced by Scott Free Productions and Brandywine Productions. It is the seventh installment in the Alien franchise and serves as a standalone interquel set between the events of Alien (1979) and Aliens (1986). It stars Cailee Spaeny, David Jonsson, Archie Renaux, Isabela Merced, Spike Fearn, and Aileen Wu.   
 
 《异形：罗穆卢斯》是一部2024年的美国科幻恐怖电影。这部电影由费德·阿尔瓦雷斯（Fede Álvarez）执导，并与罗多·萨亚格斯（Rodo Sayagues）共同编剧，由斯科特·自由制作公司（Scott Free Productions）和布兰迪怀恩制作公司（Brandywine Productions）制作。这是《异形》系列的第七部，是以《异形》（1979年）和《异形》（1986年）事件为背景的独立间集。该剧由Cailee Spaeny、David Jonsson、Archie Renaux、Isabela Merced、Spike Fearn和Aileen Wu主演。   
 
 阅读延伸[67165116]: [https://en.wikipedia.org/wiki/Alien%3A_Romulus](https://en.wikipedia.org/wiki/Alien%3A_Romulus)   
-
-## 死侍_&_金刚狼   
-Deadpool & Wolverine is a 2024 American superhero film based on Marvel Comics featuring the characters Deadpool and Wolverine. Produced by Marvel Studios, Maximum Effort, and 21 Laps Entertainment, and distributed by Walt Disney Studios Motion Pictures, it is the 34th film in the Marvel Cinematic Universe (MCU) and the sequel to Deadpool (2016) and Deadpool 2 (2018). The film was directed by Shawn Levy from a screenplay he wrote with Ryan Reynolds, Rhett Reese, Paul Wernick, and Zeb Wells. Reynolds and Hugh Jackman respectively star as Wade Wilson / Deadpool and Logan / Wolverine, alongside Emma Corrin, Morena Baccarin, Rob Delaney, Leslie Uggams, Aaron Stanford, and Matthew Macfadyen. In the film, Deadpool learns that the Time Variance Authority is set to destroy his universe and works with a reluctant Wolverine from another universe to stop them.   
-
-《死侍与金刚狼》是一部根据漫威漫画改编的2024年美国超级英雄电影，主角是死侍和金刚狼。该片由漫威工作室、Maximum Effort和21 Laps Entertainment制作，由华特迪士尼工作室电影公司发行，是漫威电影宇宙（MCU）的第34部电影，也是《死侍》（Deadpool）（2016）和《死侍2》（2018）的续集。这部电影由肖恩·利维（Shawn Levy）执导，改编自他与瑞安·雷诺兹（Ryan Reynolds）、瑞德·里斯（Rhett Reese）、保罗·韦尔尼克（Paul Wernick）和泽布·威尔斯（Zeb Wells）共同创作的剧本。雷诺兹和休·杰克曼分别饰演韦德·威尔逊/死侍和洛根/金刚狼，与艾玛·科林、莫雷娜·巴卡林、罗布·德莱尼、莱斯利·乌格斯、亚伦·斯坦福和马修·麦克法迪恩一起出演。在电影中，死侍得知时间变异局准备摧毁他的宇宙，并与来自另一个宇宙的不情愿的金刚狼合作来阻止他们。   
-
-阅读延伸[52234178]: [https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine](https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine)   
 
 ## 街道_2   
 Stree 2: Sarkate Ka Aatank is a 2024 Hindi-language comedy horror film directed by Amar Kaushik, written by Niren Bhatt, and produced jointly by Maddock Films and Jio Studios. The film stars Rajkummar Rao, Shraddha Kapoor, Pankaj Tripathi, Abhishek Banerjee and Aparshakti Khurana. It is the fifth installment in the Maddock Supernatural Universe and is the sequel to Stree (2018).   
@@ -34,12 +20,26 @@ Ketamine is a dissociative anesthetic used medically for induction and maintenan
 
 阅读延伸[16948]: [https://en.wikipedia.org/wiki/Ketamine](https://en.wikipedia.org/wiki/Ketamine)   
 
-## 独立日（印度）   
-Independence Day is celebrated annually on 15 August as a public holiday in India commemorating the nation's independence from the United Kingdom on 15 August 1947, the day when the provisions of the Indian Independence Act, which transferred legislative sovereignty to the Indian Constituent Assembly, came into effect. India retained King George VI as head of state until its transition to a republic, when the Constitution of India came into effect on 26 January 1950 and replaced the dominion prefix, Dominion of India, with the enactment of the sovereign law Constitution of India. India attained independence following the independence movement noted for largely non-violent resistance and civil disobedience led by Indian National Congress under the leadership of Mahatma Gandhi.   
+## 死侍_&_金刚狼   
+Deadpool & Wolverine is a 2024 American superhero film based on Marvel Comics featuring the characters Deadpool and Wolverine. Produced by Marvel Studios, Maximum Effort, and 21 Laps Entertainment, and distributed by Walt Disney Studios Motion Pictures, it is the 34th film in the Marvel Cinematic Universe (MCU) and the sequel to Deadpool (2016) and Deadpool 2 (2018). The film was directed by Shawn Levy from a screenplay he wrote with Ryan Reynolds, Rhett Reese, Paul Wernick, and Zeb Wells. Reynolds and Hugh Jackman respectively star as Wade Wilson / Deadpool and Logan / Wolverine, alongside Emma Corrin, Morena Baccarin, Rob Delaney, Leslie Uggams, Aaron Stanford, and Matthew Macfadyen. In the film, Deadpool learns that the Time Variance Authority is set to destroy his universe and works with a reluctant Wolverine from another universe to stop them.   
 
-印度每年8月15日庆祝独立日，作为公共假日，纪念印度于1947年8月15日脱离英国独立，这一天将立法主权移交给印度制宪会议的《印度独立法案》条款生效。印度保留乔治六世国王作为国家元首，直到过渡到共和国，当时印度宪法于1950年1月26日生效，并以印度主权法宪法的颁布取代了自治领的前身印度自治领。印度是在圣雄甘地领导下的印度国大党领导的独立运动以非暴力抵抗和公民抗命而闻名的。   
+《死侍与金刚狼》是一部根据漫威漫画改编的2024年美国超级英雄电影，主角是死侍和金刚狼。该片由漫威工作室、Maximum Effort和21 Laps Entertainment制作，由华特迪士尼工作室电影公司发行，是漫威电影宇宙（MCU）的第34部电影，也是《死侍》（Deadpool）（2016）和《死侍2》（2018）的续集。这部电影由肖恩·利维（Shawn Levy）执导，改编自他与瑞安·雷诺兹（Ryan Reynolds）、瑞德·里斯（Rhett Reese）、保罗·韦尔尼克（Paul Wernick）和泽布·威尔斯（Zeb Wells）共同创作的剧本。雷诺兹和休·杰克曼分别饰演韦德·威尔逊/死侍和洛根/金刚狼，与艾玛·科林、莫雷娜·巴卡林、罗布·德莱尼、莱斯利·乌格斯、亚伦·斯坦福和马修·麦克法迪恩一起出演。在电影中，死侍得知时间变异局准备摧毁他的宇宙，并与来自另一个宇宙的不情愿的金刚狼合作来阻止他们。   
 
-阅读延伸[2499568]: [https://en.wikipedia.org/wiki/Independence_Day_(India)](https://en.wikipedia.org/wiki/Independence_Day_(India))   
+阅读延伸[52234178]: [https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine](https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine)   
+
+## Joshua_Zirkzee   
+Joshua Orobosa Zirkzee is a Dutch professional footballer who plays as a forward for Premier League club Manchester United and the Netherlands national team.   
+
+约书亚·奥博萨·齐尔克齐（Joshua Obosa Zirkzee）是一名荷兰职业足球运动员，为英超俱乐部曼联和荷兰国家队担任前锋。   
+
+阅读延伸[61322825]: [https://en.wikipedia.org/wiki/Joshua_Zirkzee](https://en.wikipedia.org/wiki/Joshua_Zirkzee)   
+
+## 2024年_加尔各答_强奸_和_谋杀_事件   
+On 9 August 2024, Moumita Debnath, a second-year postgraduate trainee (PGT) doctor at RG Kar Medical College in Kolkata, West Bengal, India was found dead in a seminar hall on the college campus. An autopsy later confirmed that she had been raped and murdered. The incident has sparked significant outrage and nationwide protests which demand a thorough investigation while also questioning the safety of women and doctors in India.   
+
+2024年8月9日，印度西孟加拉邦加尔各答RG Kar医学院二年级研究生见习（PGT）医生Moumita Debnath被发现死在学院校园的一个研讨厅。后来尸检证实她被强奸和谋杀。该事件引发了极大的愤怒和全国范围内的抗议活动，要求进行彻底调查，同时也质疑印度妇女和医生的安全。   
+
+阅读延伸[77599307]: [https://en.wikipedia.org/wiki/2024_Kolkata_rape_and_murder_incident](https://en.wikipedia.org/wiki/2024_Kolkata_rape_and_murder_incident)   
 
 ## 姆波克斯   
 Mpox is an infectious viral disease that can occur in humans and other animals. Symptoms include a rash that forms blisters and then crusts over, fever, and swollen lymph nodes. The illness is usually mild, and most of those infected will recover within a few weeks without treatment. The time from exposure to onset of symptoms ranges from five to twenty-one days, and symptoms typically last from two to four weeks. Cases may be severe, especially in children, pregnant women or people with suppressed immune systems.   
@@ -48,26 +48,12 @@ Mpox是一种可发生在人类和其他动物身上的传染性病毒性疾病�
 
 阅读延伸[242702]: [https://en.wikipedia.org/wiki/Mpox](https://en.wikipedia.org/wiki/Mpox)   
 
-## 约翰_卡萨维特   
-John Nicholas Cassavetes was a Greek-American filmmaker and actor. He began as an actor in film and television before helping to pioneer modern American independent cinema as a writer and director, often self-financing, producing, and distributing his own films. He received nominations for three Academy Awards, two BAFTA Awards, four Golden Globe Awards, and an Emmy Award.   
+## 马修_佩里   
+Matthew Langford Perry was an American and Canadian actor. He gained international fame for starring as Chandler Bing on the NBC television sitcom Friends (1994–2004). Perry also appeared on Ally McBeal (2002) and received Primetime Emmy Award nominations for his performances in The West Wing (2003) and The Ron Clark Story (2006). He played a leading role in the NBC series Studio 60 on the Sunset Strip (2006–2007), and also became known for his leading film roles in Fools Rush In (1997), Almost Heroes (1998), Three to Tango (1999), The Whole Nine Yards (2000), Serving Sara (2002), The Whole Ten Yards (2004), and 17 Again (2009).   
 
-约翰·尼古拉斯·卡萨维茨是一位希腊裔美国电影制片人和演员。他最初是一名电影和电视演员，后来作为作家和导演帮助开创了现代美国独立电影，经常自筹资金、制作和发行自己的电影。他获得了三项奥斯卡奖、两项英国电影和电视艺术学院奖、四项金球奖和一项艾美奖提名。   
+马修·兰福德·佩里是一位美国和加拿大演员。他因在NBC电视情景喜剧《老友记》（1994-2004）中饰演钱德勒·宾而享誉国际。佩里还出演了《艾莉·麦克比尔》（Ally McBeal，2002年），并因在《白宫风云》（2003年）和《罗恩·克拉克的故事》（2006年）中的表演获得了黄金时段艾美奖提名。他在NBC电视剧《日落大道60号演播室》中担任主角（2006-2007年），并因在《愚人冲进》（1997年）、《几乎英雄》（1998年）、《三到探戈》（1999年）、《整个九码》（2000年）、《为萨拉服务》（2002年）、《整个十码》（2004年）、和17 Again（2009）。   
 
-阅读延伸[273777]: [https://en.wikipedia.org/wiki/John_Cassavetes](https://en.wikipedia.org/wiki/John_Cassavetes)   
-
-## 它与我们一起结束   
-It Ends with Us is a romance novel by Colleen Hoover, published by Atria Books on August 2, 2016. Based on the relationship between her mother and father, Hoover described it as "the hardest book I've ever written."   
-
-《与我们一起结束》是科琳·胡佛的一部浪漫小说，由Atria Books于2016年8月2日出版。根据母亲和父亲之间的关系，胡佛将其描述为“我写过的最难的书。"   
-
-阅读延伸[70034005]: [https://en.wikipedia.org/wiki/It_Ends_with_Us](https://en.wikipedia.org/wiki/It_Ends_with_Us)   
-
-## 毛里西奥_波切蒂诺   
-Mauricio Roberto Pochettino Trossero is an Argentine professional football manager and former player who most recently managed Premier League club Chelsea.   
-
-毛里西奥·罗伯托·波切蒂诺·特罗塞罗是一位阿根廷职业足球教练，也是前球员，最近执教英超俱乐部切尔西。   
-
-阅读延伸[5682765]: [https://en.wikipedia.org/wiki/Mauricio_Pochettino](https://en.wikipedia.org/wiki/Mauricio_Pochettino)   
+阅读延伸[233338]: [https://en.wikipedia.org/wiki/Matthew_Perry](https://en.wikipedia.org/wiki/Matthew_Perry)   
 
 ## 死亡_in_2024   
 
@@ -87,19 +73,33 @@ Laci Denise Peterson was an American woman murdered by her husband, Scott Lee Pe
 
 阅读延伸[213142]: [https://en.wikipedia.org/wiki/Murder_of_Laci_Peterson](https://en.wikipedia.org/wiki/Murder_of_Laci_Peterson)   
 
-## 2012年_德里_gang_强奸_和谋杀   
-The 2012 Delhi gang rape and murder, commonly known as the Nirbhaya case, involved a rape and fatal assault that occurred on 16 December 2012 in Munirka, a neighbourhood in South Delhi. The incident took place when Jyoti Singh, a 22-year-old physiotherapy intern, was beaten, gang-raped, and tortured in a private bus in which she was travelling with her male friend, Avnindra Pratap Pandey. There were six others in the bus, including the driver, all of whom raped the woman and beat her friend. She was rushed to Safdarjung Hospital in Delhi for treatment and transferred to Singapore eleven days after the assault, where she succumbed to her injuries two days later. The incident generated widespread national and international coverage and was widely condemned, both in India and abroad. Subsequently, public protests against the state and central governments for failing to provide adequate security for women took place in New Delhi, where thousands of protesters clashed with security forces. Similar protests took place in major cities throughout the country. Since Indian law does not allow the press to publish a rape victim's name, the victim was widely known as Nirbhaya, meaning "fearless", and her struggle and death became a symbol of women's resistance to rape around the world.   
+## 杰克_拉塞尔_（音乐家）   
+Jack Patrick Russell was an American rock vocalist. He was a founding member of the hard rock band Great White.   
 
-2012年德里轮奸和谋杀案，俗称Nirbhaya案，涉及2012年12月16日在南德里的Munirka社区发生的一起强奸和致命袭击事件。这起事件发生时，22岁的物理治疗实习生乔蒂·辛格和她的男性朋友阿夫宁德拉·普拉塔普·潘迪在一辆私人巴士上遭到殴打、轮奸和酷刑。公交车上还有另外六人，包括司机，他们都强奸了这名妇女并殴打了她的朋友。她被紧急送往德里的Safdarjung医院接受治疗，并在袭击发生11天后被转移到新加坡，两天后在那里她因伤去世。这一事件在印度和国际上引起了广泛的报道，并受到了印度国内外的广泛谴责。随后，针对邦和中央政府未能为女性提供足够安全保障的公众抗议活动在新德里举行，数千名抗议者与安全部队发生冲突。全国各大城市也发生了类似的抗议活动。由于印度法律不允许媒体公布强奸受害者的姓名，受害者被广为人知的名字是Nirbhaya，意思是“无所畏惧”，她的挣扎和死亡成为世界各地女性抵抗强奸的象征。   
+杰克·帕特里克·拉塞尔是一位美国摇滚歌手。他是硬摇滚乐队Great White的创始成员。   
 
-阅读延伸[37982366]: [https://en.wikipedia.org/wiki/2012_Delhi_gang_rape_and_murder](https://en.wikipedia.org/wiki/2012_Delhi_gang_rape_and_murder)   
+阅读延伸[10200998]: [https://en.wikipedia.org/wiki/Jack_Russell_(musician)](https://en.wikipedia.org/wiki/Jack_Russell_(musician))   
 
-## 马修_佩里   
-Matthew Langford Perry was an American and Canadian actor. He gained international fame for starring as Chandler Bing on the NBC television sitcom Friends (1994–2004). Perry also appeared on Ally McBeal (2002) and received Primetime Emmy Award nominations for his performances in The West Wing (2003) and The Ron Clark Story (2006). He played a leading role in the NBC series Studio 60 on the Sunset Strip (2006–2007), and also became known for his leading film roles in Fools Rush In (1997), Almost Heroes (1998), Three to Tango (1999), The Whole Nine Yards (2000), Serving Sara (2002), The Whole Ten Yards (2004), and 17 Again (2009).   
+## 它与我们一起结束   
+It Ends with Us is a romance novel by Colleen Hoover, published by Atria Books on August 2, 2016. Based on the relationship between her mother and father, Hoover described it as "the hardest book I've ever written."   
 
-马修·兰福德·佩里是一位美国和加拿大演员。他因在NBC电视情景喜剧《老友记》（1994-2004）中饰演钱德勒·宾而享誉国际。佩里还出演了《艾莉·麦克比尔》（Ally McBeal，2002年），并因在《白宫风云》（2003年）和《罗恩·克拉克的故事》（2006年）中的表演获得了黄金时段艾美奖提名。他在NBC电视剧《日落大道60号演播室》中担任主角（2006-2007年），并因在《愚人冲进》（1997年）、《几乎英雄》（1998年）、《三到探戈》（1999年）、《整个九码》（2000年）、《为萨拉服务》（2002年）、《整个十码》（2004年）、和17 Again（2009）。   
+《与我们一起结束》是科琳·胡佛的一部浪漫小说，由Atria Books于2016年8月2日出版。根据母亲和父亲之间的关系，胡佛将其描述为“我写过的最难的书。"   
 
-阅读延伸[233338]: [https://en.wikipedia.org/wiki/Matthew_Perry](https://en.wikipedia.org/wiki/Matthew_Perry)   
+阅读延伸[70034005]: [https://en.wikipedia.org/wiki/It_Ends_with_Us](https://en.wikipedia.org/wiki/It_Ends_with_Us)   
+
+## 长谷仓_恒永   
+Hasekura Rokuemon Tsunenaga  was a kirishitan Japanese samurai and retainer of Date Masamune, the daimyō of Sendai. He was of Japanese imperial descent with ancestral ties to Emperor Kanmu. Other names include Philip Francis Faxicura, Felipe Francisco Faxicura, and Philippus Franciscus Faxecura Rocuyemon in period European sources, as he took a baptismal name upon converting to Catholicism.   
+
+长谷仓六右卫门恒永是一名基里巴斯日本武士，也是仙台大名子日正宗的追随者。他是日本皇室后裔，与观武天皇有祖先联系。其他名字包括菲利普·弗朗西斯·法西库拉（Philip Francis Faxicura）、菲利普·弗朗西斯科·法西库拉（Felipe Francisco Faxicura）和菲利普·弗朗西斯库库拉（Philippus Franciscus Faxecura Rocuyemon），这些名字来自欧洲时期的资料，因为他在皈依天主教后获得了洗礼的名字。   
+
+阅读延伸[1199037]: [https://en.wikipedia.org/wiki/Hasekura_Tsunenaga](https://en.wikipedia.org/wiki/Hasekura_Tsunenaga)   
+
+## 卡马拉_哈里斯   
+Kamala Devi Harris is an American politician and attorney who is the 49th and current vice president of the United States since 2021 under President Joe Biden. She is the first female vice president, making her the highest-ranking female official in U.S. history, as well as the first African American and first Asian American vice president. A member of the Democratic Party, she served as a U.S. senator from California from 2017 to 2021, and earlier as the attorney general of California. Harris is the Democratic Party's nominee in the 2024 U.S. presidential election.   
+
+卡马拉·德维·哈里斯（Kamala Devi Harris）是一位美国政治家和律师，自2021年乔·拜登总统领导下担任美国第49位也是现任副总统。她是第一位女副总统，使她成为美国历史上级别最高的女官员，也是第一位非裔美国人和第一位亚裔美国人副总统。作为民主党成员，她曾于2017年至2021年担任加州美国参议员，并在此之前担任加州总检察长。哈里斯是2024年美国总统选举民主党提名人。   
+
+阅读延伸[3120522]: [https://en.wikipedia.org/wiki/Kamala_Harris](https://en.wikipedia.org/wiki/Kamala_Harris)   
 
 ## 它与我们一起结束（电影）   
 It Ends with Us is a 2024 American romantic drama film directed by Justin Baldoni from a screenplay by Christy Hall, based on the 2016 novel of the same name by Colleen Hoover. The film stars Blake Lively, Justin Baldoni, Brandon Sklenar, Jenny Slate, and Hasan Minhaj.   
@@ -115,35 +115,31 @@ Blake Ellender Lively is an American actress. Born in Los Angeles, Lively is the
 
 阅读延伸[2265561]: [https://en.wikipedia.org/wiki/Blake_Lively](https://en.wikipedia.org/wiki/Blake_Lively)   
 
-## 雷切尔_冈恩   
+## Gena_Rowlands   
+Virginia Cathryn "Gena" Rowlands was an American actress, whose career in film, stage, and television spanned nearly seven decades. A four-time Emmy and two-time Golden Globe winner, she is known for her collaborations with her actor-director husband John Cassavetes in ten films, including A Woman Under the Influence (1974) and Gloria (1980), both of which earned her nominations for the Academy Award for Best Actress. She also won the Silver Bear for Best Actress for Opening Night (1977). She is also known for her performances in Woody Allen's Another Woman (1988), and her son Nick Cassavetes's film, The Notebook (2004). In 2021, Richard Brody of The New Yorker said, "The most important and original movie actor of the past half century-plus is Gena Rowlands." In November 2015, Rowlands received an Honorary Academy Award in recognition of her unique screen performances.   
 
-Rachael Louise Gunn, known competitively as Raygun, is an Australian academic and competitive breakdancer. She is a lecturer in the Department of Media, Communications, Creative Arts, Language and Literature at Macquarie University Faculty of Arts. Gunn competed in breaking at the 2024 Summer Olympics, the sport's debut at the games, but did not progress past the first round, receiving a score of zero.   
+弗吉尼亚·凯瑟琳·“吉娜”·罗兰兹是一位美国女演员，她在电影、舞台和电视领域的职业生涯跨越了近七十年。四届艾美奖和两届金球奖得主，她因与演员兼导演丈夫约翰·卡萨维特斯合作拍摄十部电影而闻名，其中包括《影响力下的女人》（1974年）和《格洛丽亚》（1980年），这两部电影都为她赢得了奥斯卡最佳女主角提名。她还凭借《首映之夜》（1977年）获得了最佳女主角银熊奖。她还因在伍迪·艾伦的《另一个女人》（1988年）和她儿子尼克·卡萨维茨的电影《笔记本》（2004年）中的表演而闻名。2021年，《纽约客》的理查德·布罗迪表示：“过去半个多世纪以来最重要、最具原创性的电影演员是吉娜·罗兰兹。“2015年11月，罗兰兹荣获奥斯卡荣誉奖，以表彰她独特的银幕表演。   
 
+阅读延伸[225494]: [https://en.wikipedia.org/wiki/Gena_Rowlands](https://en.wikipedia.org/wiki/Gena_Rowlands)   
 
-Rachael Louise Gunn，竞争性地被称为Raygun，是一位澳大利亚学者和竞技霹雳舞者。她是麦格理大学文学院媒体、传播、创意艺术、语言和文学系的讲师。冈恩在2024年夏季奥运会上参加了打破赛，这是这项运动在奥运会上的首次亮相，但没有晋级第一轮，成绩为零。   
+## 2012年_德里_gang_强奸_和谋杀   
+The 2012 Delhi gang rape and murder, commonly known as the Nirbhaya case, involved a rape and fatal assault that occurred on 16 December 2012 in Munirka, a neighbourhood in South Delhi. The incident took place when Jyoti Singh, a 22-year-old physiotherapy intern, was beaten, gang-raped, and tortured in a private bus in which she was travelling with her male friend, Avnindra Pratap Pandey. There were six others in the bus, including the driver, all of whom raped the woman and beat her friend. She was rushed to Safdarjung Hospital in Delhi for treatment and transferred to Singapore eleven days after the assault, where she succumbed to her injuries two days later. The incident generated widespread national and international coverage and was widely condemned, both in India and abroad. Subsequently, public protests against the state and central governments for failing to provide adequate security for women took place in New Delhi, where thousands of protesters clashed with security forces. Similar protests took place in major cities throughout the country. Since Indian law does not allow the press to publish a rape victim's name, the victim was widely known as Nirbhaya, meaning "fearless", and her struggle and death became a symbol of women's resistance to rape around the world.   
 
-阅读延伸[77302420]: [https://en.wikipedia.org/wiki/Rachael_Gunn](https://en.wikipedia.org/wiki/Rachael_Gunn)   
+2012年德里轮奸和谋杀案，俗称Nirbhaya案，涉及2012年12月16日在南德里的Munirka社区发生的一起强奸和致命袭击事件。这起事件发生时，22岁的物理治疗实习生乔蒂·辛格和她的男性朋友阿夫宁德拉·普拉塔普·潘迪在一辆私人巴士上遭到殴打、轮奸和酷刑。公交车上还有另外六人，包括司机，他们都强奸了这名妇女并殴打了她的朋友。她被紧急送往德里的Safdarjung医院接受治疗，并在袭击发生11天后被转移到新加坡，两天后在那里她因伤去世。这一事件在印度和国际上引起了广泛的报道，并受到了印度国内外的广泛谴责。随后，针对邦和中央政府未能为女性提供足够安全保障的公众抗议活动在新德里举行，数千名抗议者与安全部队发生冲突。全国各大城市也发生了类似的抗议活动。由于印度法律不允许媒体公布强奸受害者的姓名，受害者被广为人知的名字是Nirbhaya，意思是“无所畏惧”，她的挣扎和死亡成为世界各地女性抵抗强奸的象征。   
 
-## 尼克_卡萨维特   
-Nicholas David Rowland Cassavetes is an American actor, director, and writer. He has directed such films as She's So Lovely (1997), John Q. (2002), The Notebook (2004), Alpha Dog (2006), and My Sister's Keeper (2009). His acting credits include an uncredited role in Husbands (1970)—which was directed by his father, John Cassavetes—as well as roles in the films The Wraith (1986), Face/Off (1997), and Blow (2001).   
+阅读延伸[37982366]: [https://en.wikipedia.org/wiki/2012_Delhi_gang_rape_and_murder](https://en.wikipedia.org/wiki/2012_Delhi_gang_rape_and_murder)   
 
-尼古拉斯·大卫·罗兰·卡萨维特斯是一位美国演员、导演和作家。他执导过《她很可爱》（1997）、《约翰·Q》等电影。（2002）、《笔记本》（2004）、《阿尔法狗》（2006）和《我姐姐的守护者》（2009）。他的演艺成就包括在他的父亲约翰·卡萨维茨（John Cassavetes）执导的《丈夫》（Hubbands）中扮演一个未被认可的角色，以及在电影《幽灵》（The Wraith）（1986）、《Face/Off》（1997）和《Blow》（2001）中扮演的角色。   
+## 朱迪思_巴尔西   
+Judith Eva Barsi was an American child actress. She began her career in television, making appearances in commercials and television series, as well as the 1987 film Jaws: The Revenge. She also provided the voices of Ducky in The Land Before Time and Anne-Marie in All Dogs Go to Heaven, both released after her death. She and her mother, Maria, were killed in July 1988 in a double murder–suicide committed in their home by her father, József Barsi.   
 
-阅读延伸[1853720]: [https://en.wikipedia.org/wiki/Nick_Cassavetes](https://en.wikipedia.org/wiki/Nick_Cassavetes)   
+朱迪思·伊娃·巴尔西（Judith Eva Barsi）是一位美国儿童演员。她在电视界开始了自己的职业生涯，曾出演过广告和电视剧，以及1987年的电影《大白鲨：复仇》。她还为《The Land Before Time》中的Ducky和《All Dogs Go to Heaven》中的Anne-Marie配音，这两部影片都在她去世后上映。1988年7月，她和她的母亲玛丽亚在她的父亲约瑟夫·巴尔西（József Barsi）在家中实施的双重谋杀和自杀事件中丧生。   
 
-## 玛丽的假设   
-The Assumption of Mary is one of the four Marian dogmas of the Catholic Church. Pope Pius XII defined it on 1 November 1950 in his apostolic constitution Munificentissimus Deus as follows:
-We pronounce, declare, and define it to be a divinely revealed dogma: that the Immaculate Mother of God, the ever-Virgin Mary, having completed the course of her earthly life, was assumed body and soul into heavenly glory.   
+阅读延伸[792295]: [https://en.wikipedia.org/wiki/Judith_Barsi](https://en.wikipedia.org/wiki/Judith_Barsi)   
 
-圣母升天是天主教会的四个玛丽安教条之一。教皇庇护十二世于1950年11月1日在其使徒宪法Munificentissimus Deus中对其定义如下：
-我们宣布、宣告和定义它是一个神圣启示的教条：上帝的无原罪之母，永远的童贞玛利亚，在完成了她世俗的生命历程后，被赋予身体和灵魂进入天上的荣耀。   
+## Paetongtarn_西那瓦   
+Paetongtarn Shinawatra is a Thai politician and businesswoman who has served as Prime Minister of Thailand since 2024 and as leader of the Pheu Thai Party since 2023. A member of the Shinawatra political family, she is the youngest daughter of Thaksin Shinawatra and the niece of Yingluck Shinawatra. She is the youngest person in Thai history to become prime minister and the second woman to hold the position.   
 
-阅读延伸[259335]: [https://en.wikipedia.org/wiki/Assumption_of_Mary](https://en.wikipedia.org/wiki/Assumption_of_Mary)   
+Paetongtarn Shinawatra是一位泰国政治家和女商人，自2024年以来担任泰国总理，并自2023年以来担任为泰党领袖。她是西那瓦政治家族的成员，是他信·西那瓦的小女儿，也是英拉·西那瓦的侄女。她是泰国历史上最年轻的总理，也是第二位担任该职位的女性。   
 
-## 卡马拉_哈里斯   
-Kamala Devi Harris is an American politician and attorney who is the 49th and current vice president of the United States since 2021 under President Joe Biden. She is the first female vice president, making her the highest-ranking female official in U.S. history, as well as the first African American and first Asian American vice president. A member of the Democratic Party, she served as a U.S. senator from California from 2017 to 2021, and earlier as the attorney general of California. Harris is the Democratic Party's nominee in the 2024 U.S. presidential election.   
-
-卡马拉·德维·哈里斯（Kamala Devi Harris）是一位美国政治家和律师，自2021年乔·拜登总统领导下担任美国第49位也是现任副总统。她是第一位女副总统，使她成为美国历史上级别最高的女官员，也是第一位非裔美国人和第一位亚裔美国人副总统。作为民主党成员，她曾于2017年至2021年担任加州美国参议员，并在此之前担任加州总检察长。哈里斯是2024年美国总统选举民主党提名人。   
-
-阅读延伸[3120522]: [https://en.wikipedia.org/wiki/Kamala_Harris](https://en.wikipedia.org/wiki/Kamala_Harris)   
+阅读延伸[70660147]: [https://en.wikipedia.org/wiki/Paetongtarn_Shinawatra](https://en.wikipedia.org/wiki/Paetongtarn_Shinawatra)   
 
