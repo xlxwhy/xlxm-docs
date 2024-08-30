@@ -1,17 +1,31 @@
 # 最新资讯  
+## 托比_基思   
+Toby Keith Covel was an American country music singer, songwriter, record producer, actor, and businessman.   
+
+托比·基思·科维尔（Toby Keith Covel）是一位美国乡村音乐歌手、词曲作者、唱片制作人、演员和商人。   
+
+阅读延伸[682527]: [https://en.wikipedia.org/wiki/Toby_Keith](https://en.wikipedia.org/wiki/Toby_Keith)   
+
+## 2024- 25_欧足联_比利时_联赛   
+The 2024–25 UEFA Champions League is the 70th season of Europe's premier club football tournament organised by UEFA, and the 33rd season since it was rebranded from the European Champion Clubs' Cup to the UEFA Champions League. This will be the first season under a new format, where in the league phase each team plays eight games against different opponents, but all 36 teams are ranked in a joint group.   
+
+2024-25年欧洲冠军联赛是欧足联组织的欧洲顶级俱乐部足球锦标赛的第70个赛季，也是从欧洲冠军俱乐部杯更名为欧洲冠军联赛以来的第33个赛季。这将是新形式下的第一个赛季，在联赛阶段，每支球队将与不同的对手进行8场比赛，但所有36支球队都被归入一个联合小组。   
+
+阅读延伸[66705208]: [https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League](https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League)   
+
+## 印度_航空公司_航班_814   
+Indian Airlines Flight 814, commonly known as IC 814, was an Indian Airlines Airbus A300 en route from Tribhuvan International Airport in Kathmandu, Nepal, to Indira Gandhi International Airport in Delhi, India, on Friday, 24 December 1999, when it was hijacked and was flown to several locations before landing in Kandahar, Afghanistan.   
+
+印度航空814号航班，通常称为IC 814，是一架印度航空空客A300，于1999年12月24日星期五从尼泊尔加德满都特里布万国际机场飞往印度德里的英迪拉·甘地国际机场，当时被劫持并飞往多个地点，然后降落在阿富汗坎大哈。   
+
+阅读延伸[405170]: [https://en.wikipedia.org/wiki/Indian_Airlines_Flight_814](https://en.wikipedia.org/wiki/Indian_Airlines_Flight_814)   
+
 ## 绿洲_（乐队）   
 Oasis were an English rock band formed in Manchester in 1991. The group initially consisted of Liam Gallagher, Paul Arthurs (guitar), Paul McGuigan and Tony McCarroll (drums), with Liam asking his older brother Noel Gallagher to join as a fifth member a few months later to finalise their formation. Noel became the de facto leader of the group and took over the songwriting duties for the band's first four albums. They are characterised as one of the defining and most globally successful groups of the Britpop genre.   
 
 Oasis是一支1991年在曼彻斯特成立的英国摇滚乐队。该乐队最初由利亚姆·加拉格尔（Liam Gallagher）、保罗·阿瑟（Paul Arthurs）（吉他）、保罗·麦吉根（Paul McGuigan）和托尼·麦卡罗尔（Tony McCarroll）（鼓手）组成，利亚姆要求他的哥哥诺埃尔·加拉格尔（Noel Gallagher）在几个月后加入，成为第五名成员，以确定他们的组建。诺埃尔成为乐队事实上的领导者，并接管了乐队前四张专辑的歌曲创作职责。他们被誉为英伦流行音乐流派中最具代表性且在全球最成功的乐队之一。   
 
 阅读延伸[161515]: [https://en.wikipedia.org/wiki/Oasis_(band)](https://en.wikipedia.org/wiki/Oasis_(band))   
-
-## Federico_Chiesa   
-Federico Chiesa is an Italian professional footballer who plays as a winger or forward for Serie A club Juventus and the Italy national team. He is the son of former footballer Enrico Chiesa.   
-
-费德里科·基耶萨是一位意大利职业足球运动员，在意甲俱乐部尤文图斯和意大利国家队担任边锋或前锋。他是前足球运动员恩里科·基耶萨的儿子。   
-
-阅读延伸[51390272]: [https://en.wikipedia.org/wiki/Federico_Chiesa](https://en.wikipedia.org/wiki/Federico_Chiesa)   
 
 ## 死亡_in_2024   
 
@@ -24,19 +38,47 @@ The following notable deaths occurred in 2024. Names are reported under the date
 
 阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
 
-## 胡安·伊兹基尔多   
-Juan Manuel Izquierdo Viana was a Uruguayan professional footballer who played as a centre-back.   
-
-胡安·曼努埃尔·伊兹基尔多·维亚纳是乌拉圭职业足球运动员，曾担任中后卫。   
-
-阅读延伸[76934205]: [https://en.wikipedia.org/wiki/Juan_Izquierdo](https://en.wikipedia.org/wiki/Juan_Izquierdo)   
-
 ## 街道_2   
 Stree 2: Sarkate Ka Aatank is a 2024 Hindi-language comedy horror film directed by Amar Kaushik, written by Niren Bhatt, and produced jointly by Maddock Films and Jio Studios. The film stars Rajkummar Rao, Shraddha Kapoor, Pankaj Tripathi, Abhishek Banerjee and Aparshakti Khurana. It is the fifth installment in the Maddock Supernatural Universe and is the sequel to Stree (2018).   
 
 Stree 2：Sarkate Ka Aatank是一部2024年印度语喜剧恐怖电影，由Amar Kaushik执导，Niren Bhatt编剧，Maddock Films和Jio Studios联合制作。这部电影由拉贾马尔·拉奥、什拉达·卡普尔、潘卡吉·特里帕蒂、阿布舍克·班纳吉和阿帕尔沙克蒂·库拉纳主演。这是《马多克超自然宇宙》的第五部，也是《Stree》（2018）的续集。   
 
 阅读延伸[73535388]: [https://en.wikipedia.org/wiki/Stree_2](https://en.wikipedia.org/wiki/Stree_2)   
+
+## Federico_Chiesa   
+Federico Chiesa is an Italian professional footballer who plays as a winger or forward for Serie A club Juventus and the Italy national team. He is the son of former footballer Enrico Chiesa.   
+
+费德里科·基耶萨是一位意大利职业足球运动员，在意甲俱乐部尤文图斯和意大利国家队担任边锋或前锋。他是前足球运动员恩里科·基耶萨的儿子。   
+
+阅读延伸[51390272]: [https://en.wikipedia.org/wiki/Federico_Chiesa](https://en.wikipedia.org/wiki/Federico_Chiesa)   
+
+## 约翰_鲁弗   
+John Ruffo is an American former business executive, white-collar criminal and confidence man, who in 1998 was convicted in a scheme to defraud many US and foreign banking institutions of over 350 million US dollars. The swindle is considered one of the most significant cases of bank fraud in US history. He has been a fugitive from justice ever since, and is on the U.S. Marshals 15 Most Wanted Fugitives list as of 29 August 2024.   
+
+约翰·鲁弗（John Ruffo）是一位美国前企业高管、白领犯罪分子和保密人士，他于1998年因诈骗多家美国和外国银行机构超过3.5亿美元而被定罪。这起诈骗案被认为是美国历史上最严重的银行欺诈案件之一。从那时起，他就一直是一名逃犯，截至2024年8月29日，他被列入美国法警15名头号通缉逃犯名单。   
+
+阅读延伸[47657442]: [https://en.wikipedia.org/wiki/John_Ruffo](https://en.wikipedia.org/wiki/John_Ruffo)   
+
+## 2024- 25_欧足联_欧洲_联赛   
+The 2024–25 UEFA Europa League will be the 54th season of Europe's secondary club football tournament organised by UEFA, and the 16th season since it was renamed from the UEFA Cup to the UEFA Europa League. This will be the first season played under a new format, which replaces the 32-team group stage with a 36-team league phase. This will increase the total number of matches played in the competition proper from 141 to 189. The new format also does not allow teams to transfer from the Champions League knockout stage to the Europa League knockout stage, and thus Europa League winners cannot defend their title as would all future Europa League winners as the winner of the Europa League automatically qualifies for the Champions League.   
+
+2024-25年欧足联欧罗巴联赛将是欧足联举办的欧洲二级俱乐部足球锦标赛的第54个赛季，也是从欧足联杯更名为欧足联欧罗巴联赛以来的第16个赛季。这将是第一个以新形式进行的赛季，新形式将32支球队的小组赛阶段改为36支球队的联赛阶段。这将使比赛本身的比赛总数从141场增加到189场。新的形式也不允许球队从欧冠淘汰赛阶段转移到欧罗巴联赛淘汰赛阶段，因此欧罗巴联赛冠军无法像所有未来的欧罗巴联赛冠军一样卫冕，因为欧罗巴联赛冠军自动获得欧冠资格。   
+
+阅读延伸[70923516]: [https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Europa_League](https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Europa_League)   
+
+## 死侍_&_金刚狼   
+Deadpool & Wolverine is a 2024 American superhero film based on Marvel Comics featuring the characters Deadpool and Wolverine. Produced by Marvel Studios, Maximum Effort, and 21 Laps Entertainment, and distributed by Walt Disney Studios Motion Pictures, it is the 34th film in the Marvel Cinematic Universe (MCU) and the sequel to Deadpool (2016) and Deadpool 2 (2018). The film was directed by Shawn Levy from a screenplay he wrote with Ryan Reynolds, Rhett Reese, Paul Wernick, and Zeb Wells. Reynolds and Hugh Jackman respectively star as Wade Wilson / Deadpool and Logan / Wolverine, alongside Emma Corrin, Morena Baccarin, Rob Delaney, Leslie Uggams, Aaron Stanford, and Matthew Macfadyen. In the film, Deadpool learns that the Time Variance Authority is set to destroy his universe and works with a reluctant Wolverine from another universe to stop them.   
+
+《死侍与金刚狼》是一部根据漫威漫画改编的2024年美国超级英雄电影，主角是死侍和金刚狼。该片由漫威工作室、Maximum Effort和21 Laps Entertainment制作，由华特迪士尼工作室电影公司发行，是漫威电影宇宙（MCU）的第34部电影，也是《死侍》（Deadpool）（2016）和《死侍2》（2018）的续集。这部电影由肖恩·利维（Shawn Levy）执导，改编自他与瑞安·雷诺兹（Ryan Reynolds）、瑞德·里斯（Rhett Reese）、保罗·韦尔尼克（Paul Wernick）和泽布·威尔斯（Zeb Wells）共同创作的剧本。雷诺兹和休·杰克曼分别饰演韦德·威尔逊/死侍和洛根/金刚狼，与艾玛·科林、莫雷娜·巴卡林、罗布·德莱尼、莱斯利·乌格斯、亚伦·斯坦福和马修·麦克法迪恩一起出演。在电影中，死侍得知时间变异局准备摧毁他的宇宙，并与来自另一个宇宙的不情愿的金刚狼合作来阻止他们。   
+
+阅读延伸[52234178]: [https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine](https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine)   
+
+## 2024- 25_欧足联_会议_联赛   
+The 2024–25 UEFA Conference League is the fourth season of the UEFA Conference League, Europe's tertiary club football tournament organised by UEFA.   
+
+2024-25年欧足联联赛是欧足联组织的欧洲三级俱乐部足球锦标赛欧足联联赛的第四个赛季。   
+
+阅读延伸[74160759]: [https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Conference_League](https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Conference_League)   
 
 ## 利亚姆·加拉格尔   
 William John Paul Gallagher is an English singer and songwriter. He is the lead singer of the rock band Oasis. He later fronted the rock band Beady Eye from 2009 to 2014, before starting a successful solo career in 2017. Oasis has had various line-up changes; Gallagher and his older brother Noel have been the only constant members. One of the most recognisable figures in British rock music, Gallagher is noted for his distinctive vocal style and outspoken personality.   
@@ -45,19 +87,40 @@ William John Paul Gallagher is an English singer and songwriter. He is the lead 
 
 阅读延伸[178326]: [https://en.wikipedia.org/wiki/Liam_Gallagher](https://en.wikipedia.org/wiki/Liam_Gallagher)   
 
-## 图尔西_加巴德   
-Tulsi Gabbard is an American politician, United States Army Reserve officer, and conservative political commentator who was the U.S. representative for Hawaii's 2nd congressional district from 2013 to 2021. Gabbard was the first Samoan-American to become a voting member of Congress. She was a candidate for the Democratic nomination in the 2020 United States presidential election, before announcing in October 2022 that she had left the Democratic Party to become an independent.   
+## 卡马拉_哈里斯   
+Kamala Devi Harris is an American politician and attorney who is the 49th and current vice president of the United States since 2021 under President Joe Biden. She is the first female vice president, making her the highest-ranking female official in U.S. history, as well as the first African American and first Asian American vice president. A member of the Democratic Party, she served as a U.S. senator from California from 2017 to 2021, and earlier as the attorney general of California. Harris is the Democratic Party's nominee in the 2024 U.S. presidential election.   
 
-图尔西·加巴德（Tulsi Gabbard）是一名美国政治家、美国陆军预备役军官和保守派政治评论员，曾于2013年至2021年担任夏威夷第二国会选区的美国代表。加巴德是第一位成为国会投票议员的萨摩亚裔美国人。她是2020年美国总统选举民主党提名候选人，随后于2022年10月宣布离开民主党成为独立人士。   
+卡马拉·德维·哈里斯（Kamala Devi Harris）是一位美国政治家和律师，自2021年乔·拜登总统领导下担任美国第49位也是现任副总统。她是第一位女副总统，使她成为美国历史上级别最高的女官员，也是第一位非裔美国人和第一位亚裔美国人副总统。作为民主党成员，她曾于2017年至2021年担任加州美国参议员，并在此之前担任加州总检察长。哈里斯是2024年美国总统选举民主党提名人。   
 
-阅读延伸[26328774]: [https://en.wikipedia.org/wiki/Tulsi_Gabbard](https://en.wikipedia.org/wiki/Tulsi_Gabbard)   
+阅读延伸[3120522]: [https://en.wikipedia.org/wiki/Kamala_Harris](https://en.wikipedia.org/wiki/Kamala_Harris)   
 
-## 死侍_&_金刚狼   
-Deadpool & Wolverine is a 2024 American superhero film based on Marvel Comics featuring the characters Deadpool and Wolverine. Produced by Marvel Studios, Maximum Effort, and 21 Laps Entertainment, and distributed by Walt Disney Studios Motion Pictures, it is the 34th film in the Marvel Cinematic Universe (MCU) and the sequel to Deadpool (2016) and Deadpool 2 (2018). The film was directed by Shawn Levy from a screenplay he wrote with Ryan Reynolds, Rhett Reese, Paul Wernick, and Zeb Wells. Reynolds and Hugh Jackman respectively star as Wade Wilson / Deadpool and Logan / Wolverine, alongside Emma Corrin, Morena Baccarin, Rob Delaney, Leslie Uggams, Aaron Stanford, and Matthew Macfadyen. In the film, Deadpool learns that the Time Variance Authority is set to destroy his universe and works with a reluctant Wolverine from another universe to stop them.   
+## 指环王：_The_Rings_of_Power_Season_2   
+The second season of the American fantasy television series The Lord of the Rings: The Rings of Power is based on J. R. R. Tolkien's history of Middle-earth, primarily material from the appendices of the novel The Lord of the Rings. Set thousands of years before the novel in the Second Age of Middle-earth, the season depicts the rise of the Dark Lord Sauron and the creation of more Rings of Power. It is produced by Amazon MGM Studios in association with New Line Cinema and with J. D. Payne and Patrick McKay as showrunners.   
 
-《死侍与金刚狼》是一部根据漫威漫画改编的2024年美国超级英雄电影，主角是死侍和金刚狼。该片由漫威工作室、Maximum Effort和21 Laps Entertainment制作，由华特迪士尼工作室电影公司发行，是漫威电影宇宙（MCU）的第34部电影，也是《死侍》（Deadpool）（2016）和《死侍2》（2018）的续集。这部电影由肖恩·利维（Shawn Levy）执导，改编自他与瑞安·雷诺兹（Ryan Reynolds）、瑞德·里斯（Rhett Reese）、保罗·韦尔尼克（Paul Wernick）和泽布·威尔斯（Zeb Wells）共同创作的剧本。雷诺兹和休·杰克曼分别饰演韦德·威尔逊/死侍和洛根/金刚狼，与艾玛·科林、莫雷娜·巴卡林、罗布·德莱尼、莱斯利·乌格斯、亚伦·斯坦福和马修·麦克法迪恩一起出演。在电影中，死侍得知时间变异局准备摧毁他的宇宙，并与来自另一个宇宙的不情愿的金刚狼合作来阻止他们。   
+美国奇幻电视剧《指环王：权力之戒》第二季改编自JR R.托尔金的中土世界历史，主要材料来自小说《指环王》的附录。该剧以小说早于数千年的中土世界第二纪元为背景，描绘了黑暗领主索伦的崛起以及更多权力之戒的创造。该片由亚马逊米高梅工作室与New Line Cinema和JD联合制作。佩恩和帕特里克·麦凯担任节目主管。   
 
-阅读延伸[52234178]: [https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine](https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine)   
+阅读延伸[68472907]: [https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Rings_of_Power_season_2](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Rings_of_Power_season_2)   
+
+## 指环王：权力指环王   
+The Lord of the Rings: The Rings of Power is an American fantasy television series developed by J. D. Payne and Patrick McKay for the streaming service Amazon Prime Video. Based on J. R. R. Tolkien's history of Middle-earth, primarily material from the appendices of the novel The Lord of the Rings, the series is set thousands of years before the novel and depicts the major events of Middle-earth's Second Age. It is produced by Amazon MGM Studios in association with New Line Cinema.   
+
+《指环王：权力之戒》是一部由JD开发的美国奇幻电视剧。Payne和Patrick McKay负责流媒体服务Amazon Prime Video。基于JR R.托尔金的中土世界历史主要取材于小说《指环王》的附录，该系列故事以小说前数千年的时间为背景，描绘了中土世界第二纪元的重大事件。该片由亚马逊米高梅工作室与New Line Cinema联合制作。   
+
+阅读延伸[61677624]: [https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Rings_of_Power](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Rings_of_Power)   
+
+## 天使_戈麦斯   
+Adilson Angel Abreu de Almeida Gomes is an English professional footballer who plays as a midfielder for Ligue 1 club Lille. A versatile player, he has been deployed as an attacking midfielder, central midfielder and wide midfielder in his career.   
+
+阿德尔森·安赫尔·阿布鲁·德阿尔梅达·戈麦斯是一位英国职业足球运动员，在法甲俱乐部里尔担任中场球员。作为一名多才多艺的球员，他在职业生涯中曾担任攻击型中场、中场和边路中场。   
+
+阅读延伸[54088033]: [https://en.wikipedia.org/wiki/Angel_Gomes](https://en.wikipedia.org/wiki/Angel_Gomes)   
+
+## 欧足联_冠军_联赛   
+The UEFA Champions League is an annual club association football competition organised by the Union of European Football Associations (UEFA) and contested by top-division European clubs, deciding the competition winners through a round robin group stage to qualify for a double-legged knockout format, and a single leg final. It is the most-watched club competition in the world and the third most-watched football competition overall, behind only the UEFA European Championship and the FIFA World Cup. It is one of the most prestigious football tournaments in the world and the most prestigious club competition in European football, played by the national league champions of their national associations.   
+
+欧洲冠军联赛是一项一年一度的俱乐部协会足球比赛，由欧洲足球协会联盟（UEFA）组织，由欧洲顶级俱乐部参加，通过循环小组赛阶段决定比赛获胜者，以获得双回合淘汰赛的资格，以及单回合决赛。这是世界上收视率最高的俱乐部比赛，也是整体收视率第三高的足球比赛，仅次于欧洲锦标赛和国际足联世界杯。这是世界上最负盛名的足球锦标赛之一，也是欧洲足球中最负盛名的俱乐部比赛，由其国家协会的国家联赛冠军参加。   
+
+阅读延伸[44220]: [https://en.wikipedia.org/wiki/UEFA_Champions_League](https://en.wikipedia.org/wiki/UEFA_Champions_League)   
 
 ## 诺埃尔_加拉格尔   
 Noel Thomas David Gallagher is an English musician, singer and songwriter. He is the primary songwriter, lead guitarist and co-lead vocalist of the rock band Oasis. After formerly leaving Oasis, he formed Noel Gallagher's High Flying Birds. He is one of the most successful songwriters in British music history, as the writer of eight UK number-one singles and co-writer of a further number one, as well as the sole or primary writer of ten UK number-one studio albums. He is widely considered to be one of the most influential songwriters in the history of British rock music, cited by numerous major subsequent artists as an influence.   
@@ -79,69 +142,4 @@ The 2024 Summer Paralympics, also known as the Paris 2024 Paralympic Games, and 
 2024年夏季残奥会，也称为2024年巴黎残奥会，更名为2024年巴黎残奥会，是第17届夏季残奥会，是一项由国际残奥委员会管理的国际多项运动项目准体育赛事，于2024年8月28日至9月8日在法国巴黎举行。这些奥运会标志着巴黎首次举办夏季残奥会，也是法国第二次举办残奥会，蒂格内斯和艾伯特维尔共同举办了1992年冬季残奥会。   
 
 阅读延伸[41045645]: [https://en.wikipedia.org/wiki/2024_Summer_Paralympics](https://en.wikipedia.org/wiki/2024_Summer_Paralympics)   
-
-## 罗伯特_F._小肯尼迪   
-Robert Francis Kennedy Jr., also known by his initials RFK Jr., is an American politician, environmental lawyer, anti-vaccine activist, and conspiracy theorist. He is the chairman and founder of Children's Health Defense, an anti-vaccine advocacy group that is a leading proponent of COVID-19 vaccine misinformation, and an independent candidate in the 2024 United States presidential election. A member of the Kennedy family, he is a son of the U.S. attorney general and senator Robert F. Kennedy, and a nephew of the U.S. president John F. Kennedy and the senator Ted Kennedy.   
-
-小罗伯特·弗朗西斯·肯尼迪，他的名字缩写为RFK Jr.，是一位美国政治家、环境律师、反疫苗活动家和阴谋论者。他是儿童健康保护组织的主席和创始人，该组织是一个反疫苗倡导组织，是COVID-19疫苗错误信息的主要支持者，也是2024年美国总统选举的独立候选人。他是肯尼迪家族的一员，是美国司法部长兼参议员罗伯特·F·F的儿子。肯尼迪，也是美国总统约翰·F的侄子。肯尼迪和参议员特德·肯尼迪。   
-
-阅读延伸[522298]: [https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.](https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.)   
-
-## 2024- 25_欧足联_比利时_联赛   
-The 2024–25 UEFA Champions League is the 70th season of Europe's premier club football tournament organised by UEFA, and the 33rd season since it was rebranded from the European Champion Clubs' Cup to the UEFA Champions League. This will be the first season under a new format, where in the league phase each team plays eight games against different opponents, but all 36 teams are ranked in a joint group.   
-
-2024-25年欧洲冠军联赛是欧足联组织的欧洲顶级俱乐部足球锦标赛的第70个赛季，也是从欧洲冠军俱乐部杯更名为欧洲冠军联赛以来的第33个赛季。这将是新形式下的第一个赛季，在联赛阶段，每支球队将与不同的对手进行8场比赛，但所有36支球队都被归入一个联合小组。   
-
-阅读延伸[66705208]: [https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League](https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League)   
-
-## 外星人：_罗穆卢斯   
-Alien: Romulus is a 2024 American science fiction horror film. Directed by Fede Álvarez, who co-wrote it with Rodo Sayagues, the film was produced by Scott Free Productions and Brandywine Productions. It is the seventh installment in the Alien franchise and serves as a standalone interquel set between the events of Alien (1979) and Aliens (1986). It stars Cailee Spaeny, David Jonsson, Archie Renaux, Isabela Merced, Spike Fearn, and Aileen Wu.   
-
-《异形：罗穆卢斯》是一部2024年的美国科幻恐怖电影。这部电影由费德·阿尔瓦雷斯（Fede Álvarez）执导，并与罗多·萨亚格斯（Rodo Sayagues）共同编剧，由斯科特·自由制作公司（Scott Free Productions）和布兰迪怀恩制作公司（Brandywine Productions）制作。这是《异形》系列的第七部，是以《异形》（1979年）和《异形》（1986年）事件为背景的独立间集。该剧由Cailee Spaeny、David Jonsson、Archie Renaux、Isabela Merced、Spike Fearn和Aileen Wu主演。   
-
-阅读延伸[67165116]: [https://en.wikipedia.org/wiki/Alien%3A_Romulus](https://en.wikipedia.org/wiki/Alien%3A_Romulus)   
-
-## 卡马拉_哈里斯   
-Kamala Devi Harris is an American politician and attorney who is the 49th and current vice president of the United States since 2021 under President Joe Biden. She is the first female vice president, making her the highest-ranking female official in U.S. history, as well as the first African American and first Asian American vice president. A member of the Democratic Party, she served as a U.S. senator from California from 2017 to 2021, and earlier as the attorney general of California. Harris is the Democratic Party's nominee in the 2024 U.S. presidential election.   
-
-卡马拉·德维·哈里斯（Kamala Devi Harris）是一位美国政治家和律师，自2021年乔·拜登总统领导下担任美国第49位也是现任副总统。她是第一位女副总统，使她成为美国历史上级别最高的女官员，也是第一位非裔美国人和第一位亚裔美国人副总统。作为民主党成员，她曾于2017年至2021年担任加州美国参议员，并在此之前担任加州总检察长。哈里斯是2024年美国总统选举民主党提名人。   
-
-阅读延伸[3120522]: [https://en.wikipedia.org/wiki/Kamala_Harris](https://en.wikipedia.org/wiki/Kamala_Harris)   
-
-## 莱尔和埃里克·梅嫩德斯   
-Joseph Lyle Menéndez and Erik Galen Menéndez are American brothers who were convicted in 1996 of the murders of their parents, José and Mary Louise "Kitty" Menéndez.   
-
-约瑟夫·莱尔·梅嫩德斯（Joseph Lyle Menéndez）和埃里克·盖伦·梅嫩德斯（Erik Galen Menéndez）是美国兄弟，他们于1996年因谋杀父母何塞·路易丝·梅嫩德斯（José）和玛丽·路易丝·“基蒂”·梅嫩德斯（Mary Louise ' Kitty ' Menéndez）而被定罪。   
-
-阅读延伸[663704]: [https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez](https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez)   
-
-## 阿米_哈默   
-Armand Douglas Hammer is an American actor. He began his acting career with guest appearances in several television series. His first leading role was as Billy Graham in the 2008 film Billy: The Early Years, and he gained wider recognition for his double role portraying the twins Cameron and Tyler Winklevoss in David Fincher's biographical drama film The Social Network (2010), for which he won the Toronto Film Critics Association Award for Best Supporting Actor.   
-
-阿曼德·道格拉斯·哈默是一位美国演员。他的演艺生涯始于客串多部电视剧。他的第一个主角是在2008年的电影《比利：早年》中饰演比利·格雷厄姆，他因在大卫·芬奇的传记戏剧电影《社交网络》（2010年）中扮演双胞胎卡梅伦和泰勒·温克莱沃斯的双重角色而获得了更广泛的认可，并因此获得了多伦多影评人协会奖最佳男配角奖。   
-
-阅读延伸[16527939]: [https://en.wikipedia.org/wiki/Armie_Hammer](https://en.wikipedia.org/wiki/Armie_Hammer)   
-
-## Sonic_the_Hedgehog_3_（电影）   
-Sonic the Hedgehog 3 is an upcoming action adventure comedy film based on the video game series published by Sega, and the sequel to Sonic the Hedgehog 2 (2022). It is directed by Jeff Fowler and written by Pat Casey, Josh Miller, and John Whittington, based on a story by Casey and Miller. Jim Carrey, Ben Schwartz, James Marsden, Tika Sumpter, Idris Elba, Lee Majdoub, Natasha Rothwell, Adam Pally, Shemar Moore, and Colleen O'Shaughnessey reprise their roles, with Keanu Reeves, Krysten Ritter, Alyla Browne, and James Wolk joining the cast. In the film, Sonic, Tails, and Knuckles must ally with Dr. Robotnik to defeat a new enemy, Shadow the Hedgehog.   
-
-刺猬索尼克3是一部即将上映的动作冒险喜剧电影，改编自世嘉发行的电子游戏系列，也是《刺猬索尼克2》（2022年）的续集。该片由杰夫·福勒执导，帕特·凯西、乔什·米勒和约翰·惠廷顿编剧，改编自凯西和米勒的故事。金·凯瑞、本·施瓦茨、詹姆斯·马斯登、蒂卡·桑普特、伊德里斯·艾尔巴、李·马杰杜布、娜塔莎·罗斯韦尔、亚当·帕利、谢马尔·摩尔和科琳·奥肖尼西再次出演他们的角色，基努·里夫斯、克里斯汀·里特、阿莉拉·布朗和詹姆斯·沃尔克也加入了演员阵容。在电影中，索尼克、尾巴和指节必须与罗博特尼克博士结盟，以击败新敌人刺猬影子。   
-
-阅读延伸[70082895]: [https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3_(film)](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3_(film))   
-
-## 李_图   
-Li Tu is an Australian tennis player who mainly competes on the ATP Challenger Tour.
-Tu has career-high rankings by the ATP of 186 in singles, reached on 18 March 2024, and 197 in doubles, achieved on 9 January 2023.   
-
-李图是一名澳大利亚网球运动员，主要参加ATP挑战者巡回赛。
-屠呦呦在ATP上获得了职业生涯最高的排名，单打比赛于2024年3月18日达到186分，双打比赛于2023年1月9日达到197分。   
-
-阅读延伸[66573127]: [https://en.wikipedia.org/wiki/Li_Tu](https://en.wikipedia.org/wiki/Li_Tu)   
-
-## Kalki_2898_AD   
-Kalki 2898 AD is a 2024 Indian Telugu-language epic science fiction film directed by Nag Ashwin and produced by Vyjayanthi Movies. The film stars Amitabh Bachchan, Kamal Haasan, Prabhas, Deepika Padukone and Disha Patani. Inspired by Hindu scriptures, it is the first installment in a planned Kalki Cinematic Universe. Set in a post-apocalyptic world in the year 2898 AD, the film follows a select group who are on a mission to save lab subject SUM-80's unborn child, Kalki.   
-
-Kalki 2898 AD是一部2024年印度泰卢固语史诗科幻电影，由Nag Ashwin执导，Vyjayanthi Movies制作。这部电影由阿米塔布·巴赫钱（Amitabh Bachchan）、卡迈勒·哈桑（Kamal Haasan）、普拉巴斯（Prabhas）、迪皮卡·帕杜科内（Deepika Padukone）和迪莎·帕塔尼（Dissha Patani）主演。受印度教经文的启发，这是计划中的卡尔基电影宇宙的第一部。这部电影以公元2898年的后世界末日世界为背景，讲述了一群精选的人的故事，他们肩负着拯救实验室受试者UTE-80未出生的孩子Kalki的使命。   
-
-阅读延伸[69511366]: [https://en.wikipedia.org/wiki/Kalki_2898_AD](https://en.wikipedia.org/wiki/Kalki_2898_AD)   
 
