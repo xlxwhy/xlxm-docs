@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>二维码扫描示例</title>
+    <script src="https://cdn.jsdelivr.net/npm/html5-qrcode"></script>
+</head>
+<body>
+    <video id="qr-reader" width="640" height="480"></video>
+    <script>
+        html5QrcodeScanner.render({
+            fps: 10,
+            qrbox: 250
+        }, 'qr-reader', function(decodedText, decodedResult) {
+            // Use decodedText or decodedResult
+            console.log(`二维码内容：‌${decodedText}`, decodedResult);
+        }, function(errorMessage) {
+            // parse error, ignore it.
+        });
+    </script>
+</body>
+</html>
