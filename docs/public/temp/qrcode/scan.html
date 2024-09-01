@@ -16,12 +16,15 @@
         <div style="width: 100%" id="reader"></div>
     </div>
     <script>
+        function show(content){
+            document.getElementById("result").innerText=content;
+        }
 
         function onScanSuccess(decodedText, decodedResult) {
             // Handle on success condition with the decoded text or result.
             console.log(`Scan result: ${decodedText}`, decodedResult);
-            document.getElementById("result").innerText=decodedText;
-            html5QrcodeScanner.clear();
+            show(decodedText);
+            html5QrcodeScanner.pause(true) 
         }
 
         var html5QrcodeScanner = new Html5QrcodeScanner(
