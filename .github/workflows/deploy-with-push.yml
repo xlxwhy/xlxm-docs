@@ -53,16 +53,3 @@ jobs:
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v1
-
-    - name: Commit files
-      run: |
-        git config --local user.email "xlxwhy@gmail.com"
-        git config --local user.name  "xlxwhy"
-        git add .
-        git commit -a -m "daily commit!"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
-
