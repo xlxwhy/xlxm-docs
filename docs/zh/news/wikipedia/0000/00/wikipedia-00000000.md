@@ -1,17 +1,10 @@
 # 最新资讯  
-## 艾玛_纳瓦罗   
-Emma Navarro is an American professional tennis player. She has a career-high singles ranking of No. 12 by the WTA and a doubles ranking of No. 93, achieved in August 2024. She played college tennis at Virginia and won the NCAA Singles Championship in 2021, later becoming the first women's singles NCAA champion to reach the US Open quarterfinals. She won her first WTA Tour title at the 2024 Hobart International.   
+## 劳动日   
+Labor Day is a federal holiday in the United States celebrated on the first Monday of September to honor and recognize the American labor movement and the works and contributions of laborers to the development and achievements in the United States.   
 
-艾玛·纳瓦罗是一位美国职业网球运动员。她在WTA上的单打排名为职业生涯最高的第12位，双打排名为第93位，并于2024年8月获得。她在弗吉尼亚州打大学网球，并于2021年赢得了NCAA单打冠军，后来成为第一位进入美国公开赛四分之一决赛的NCAA女子单打冠军。她在2024年霍巴特国际赛上赢得了她的第一个WTA巡回赛冠军。   
+劳动节是美国的一个联邦假日，在九月的第一个星期一庆祝，旨在纪念和认可美国劳工运动以及劳工对美国发展和成就的工作和贡献。   
 
-阅读延伸[58606513]: [https://en.wikipedia.org/wiki/Emma_Navarro](https://en.wikipedia.org/wiki/Emma_Navarro)   
-
-## 索尔_班巴   
-Souleymane Bamba, known as Sol Bamba, was a professional football player and manager. As a player, he was a centre-back. Born in France, he played for the Ivory Coast national team.   
-
-苏莱曼·班巴（Souleymane Bamba），又名索尔·班巴（Sol Bamba），是一名职业足球运动员和教练。作为一名球员，他是一名中后卫。他出生于法国，曾效力于科特迪瓦国家队。   
-
-阅读延伸[8179770]: [https://en.wikipedia.org/wiki/Sol_Bamba](https://en.wikipedia.org/wiki/Sol_Bamba)   
+阅读延伸[19156272]: [https://en.wikipedia.org/wiki/Labor_Day](https://en.wikipedia.org/wiki/Labor_Day)   
 
 ## 印度_航空公司_航班_814   
 Indian Airlines Flight 814, commonly known as IC 814, was an Indian Airlines Airbus A300 en route from Tribhuvan International Airport in Kathmandu, Nepal, to Indira Gandhi International Airport in Delhi, India, on Friday, 24 December 1999, when it was hijacked and was flown to several locations before landing in Kandahar, Afghanistan.   
@@ -20,19 +13,12 @@ Indian Airlines Flight 814, commonly known as IC 814, was an Indian Airlines Air
 
 阅读延伸[405170]: [https://en.wikipedia.org/wiki/Indian_Airlines_Flight_814](https://en.wikipedia.org/wiki/Indian_Airlines_Flight_814)   
 
-## 瑞奇_皮尔索尔   
-Richard Pearsall Jr. is an American professional football wide receiver for the San Francisco 49ers of the National Football League (NFL). He played college football for the Arizona State Sun Devils and Florida Gators. Pearsall was drafted by the 49ers in the first round of the 2024 NFL draft.   
+## The_Accurance_（电影）   
+The Deliverance is a 2024 American supernatural horror thriller film directed by Lee Daniels and written by David Coggeshall, and Elijah Bynum. Inspired by the Ammons haunting case, it stars Andra Day with Rob Morgan, Caleb McLaughlin, Aunjanue Ellis-Taylor, Tasha Smith, Omar Epps, Mo'Nique, and Glenn Close. The film was released in select theaters on August 16, 2024, and began streaming on Netflix on August 30.   
 
-小理查德·皮尔索尔是美国国家橄榄球联盟（NFL）旧金山49人队的美国职业橄榄球外接球手。他曾为亚利桑那州太阳魔鬼队和佛罗里达鳄鱼队踢大学橄榄球。皮尔索尔在2024年NFL选秀第一轮中被49人队选中。   
+《复仇者》是一部2024年美国超自然恐怖惊悚电影，由李·丹尼尔斯执导，大卫·科格豪尔和伊利亚·拜纳姆编剧。受阿蒙斯令人难以忘怀的案件的启发，该片由安德拉·戴（Andra Day）与罗布·摩根（Rob Morgan）、凯莱布·麦克劳克林（Caleb McLaughlin）、奥贾努·埃利斯-泰勒（Aunjanue Ellis-Taylor）、塔莎·史密斯（Tasha Smith）、奥马尔·埃普斯（Omar Epps）、莫尼克（Mo ' Nique）和格伦·克洛斯（Glenn Close）主演。该片于2024年8月16日在部分影院上映，并于8月30日开始在Netflix上播出。   
 
-阅读延伸[71673569]: [https://en.wikipedia.org/wiki/Ricky_Pearsall](https://en.wikipedia.org/wiki/Ricky_Pearsall)   
-
-## 胖子_独家新闻   
-Isaac Freeman III, better known by his stage name Fatman Scoop, was an American rapper, hype man, and radio personality. Noted for his booming, raw vocal presence on various hip hop songs, he was best known for his guest performances on the 2005 singles "Lose Control" by Missy Elliott and "It's Like That" by Mariah Carey and for his 1999 sleeper hit single, "Be Faithful", which topped the UK Singles Chart in 2003.   
-
-艾萨克·弗里曼三世（Isaac Freeman III）以其艺名《Fatman Scoop》而闻名，他是一位美国说唱歌手、炒作者和电台名人。他以在各种嘻哈歌曲中蓬勃发展、原始的声乐表演而闻名，最出名的是在2005年Missy Elliott的单曲《Lose Control》和Mariah Carey的《It ' s Like That》中的客串表演，以及他1999年的卧铺热门单曲《Be Faithful》，该单曲于2003年登上英国单曲榜榜首。   
-
-阅读延伸[601403]: [https://en.wikipedia.org/wiki/Fatman_Scoop](https://en.wikipedia.org/wiki/Fatman_Scoop)   
+阅读延伸[72186753]: [https://en.wikipedia.org/wiki/The_Deliverance_(film)](https://en.wikipedia.org/wiki/The_Deliverance_(film))   
 
 ## 死侍_&_金刚狼   
 Deadpool & Wolverine is a 2024 American superhero film based on Marvel Comics featuring the characters Deadpool and Wolverine. Produced by Marvel Studios, Maximum Effort, and 21 Laps Entertainment, and distributed by Walt Disney Studios Motion Pictures, it is the 34th film in the Marvel Cinematic Universe (MCU) and the sequel to Deadpool (2016) and Deadpool 2 (2018). The film was directed by Shawn Levy from a screenplay he wrote with Ryan Reynolds, Rhett Reese, Paul Wernick, and Zeb Wells. Reynolds and Hugh Jackman respectively star as Wade Wilson / Deadpool and Logan / Wolverine, alongside Emma Corrin, Morena Baccarin, Rob Delaney, Leslie Uggams, Aaron Stanford, and Matthew Macfadyen. In the film, Deadpool learns that the Time Variance Authority is set to destroy his universe and works with a reluctant Wolverine from another universe to stop them.   
@@ -40,13 +26,6 @@ Deadpool & Wolverine is a 2024 American superhero film based on Marvel Comics fe
 《死侍与金刚狼》是一部根据漫威漫画改编的2024年美国超级英雄电影，主角是死侍和金刚狼。该片由漫威工作室、Maximum Effort和21 Laps Entertainment制作，由华特迪士尼工作室电影公司发行，是漫威电影宇宙（MCU）的第34部电影，也是《死侍》（Deadpool）（2016）和《死侍2》（2018）的续集。这部电影由肖恩·利维（Shawn Levy）执导，改编自他与瑞安·雷诺兹（Ryan Reynolds）、瑞德·里斯（Rhett Reese）、保罗·韦尔尼克（Paul Wernick）和泽布·威尔斯（Zeb Wells）共同创作的剧本。雷诺兹和休·杰克曼分别饰演韦德·威尔逊/死侍和洛根/金刚狼，与艾玛·科林、莫雷娜·巴卡林、罗布·德莱尼、莱斯利·乌格斯、亚伦·斯坦福和马修·麦克法迪恩一起出演。在电影中，死侍得知时间变异局准备摧毁他的宇宙，并与来自另一个宇宙的不情愿的金刚狼合作来阻止他们。   
 
 阅读延伸[52234178]: [https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine](https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine)   
-
-## The_Accurance_（电影）   
-The Deliverance is a 2024 American supernatural horror thriller film directed by Lee Daniels and written by David Coggeshall, and Elijah Bynum. Inspired by the Ammons haunting case, it stars Andra Day with Rob Morgan, Caleb McLaughlin, Aunjanue Ellis-Taylor, Tasha Smith, Omar Epps, Mo'Nique, and Glenn Close. The film was released in select theaters on August 16, 2024, and began streaming on Netflix on August 30.   
-
-《复仇者》是一部2024年美国超自然恐怖惊悚电影，由李·丹尼尔斯执导，大卫·科格豪尔和伊利亚·拜纳姆编剧。受阿蒙斯令人难以忘怀的案件的启发，该片由安德拉·戴（Andra Day）与罗布·摩根（Rob Morgan）、凯莱布·麦克劳克林（Caleb McLaughlin）、奥贾努·埃利斯-泰勒（Aunjanue Ellis-Taylor）、塔莎·史密斯（Tasha Smith）、奥马尔·埃普斯（Omar Epps）、莫尼克（Mo ' Nique）和格伦·克洛斯（Glenn Close）主演。该片于2024年8月16日在部分影院上映，并于8月30日开始在Netflix上播出。   
-
-阅读延伸[72186753]: [https://en.wikipedia.org/wiki/The_Deliverance_(film)](https://en.wikipedia.org/wiki/The_Deliverance_(film))   
 
 ## 死亡_in_2024   
 
@@ -58,6 +37,20 @@ The following notable deaths occurred in 2024. Names are reported under the date
 以下值得注意的死亡事件发生在2024年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
 
 阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
+
+## 印度_at_the_2024_夏季_残奥会   
+India is competing at the 2024 Summer Paralympics in Paris from 28 August to 8 September 2024. The nation made its official debut at the 1968 Summer Paralympics and has appeared in every edition of the Summer Paralympics since 1984. This is India's 13th appearance at the Summer Paralympics.   
+
+印度将于2024年8月28日至9月8日参加在巴黎举行的2024年夏季残奥会。该国在1968年夏季残奥会上正式亮相，并自1984年以来参加了历届夏季残奥会。这是印度第13次参加夏季残奥会。   
+
+阅读延伸[70964664]: [https://en.wikipedia.org/wiki/India_at_the_2024_Summer_Paralympics](https://en.wikipedia.org/wiki/India_at_the_2024_Summer_Paralympics)   
+
+## 弗朗西斯_蒂亚福   
+Frances Tiafoe Jr. is an American professional tennis player. He reached his career high at world No. 10 in singles on 19 June 2023, becoming the first Sierra Leonian American man to be ranked in the top 10 by the ATP.   
+
+小弗朗西斯·蒂亚福是美国职业网球运动员。2023年6月19日，他在单打比赛中达到了职业生涯新高，成为第一位被ATP排名前十的塞拉利昂美国男子。   
+
+阅读延伸[43200329]: [https://en.wikipedia.org/wiki/Frances_Tiafoe](https://en.wikipedia.org/wiki/Frances_Tiafoe)   
 
 ## 卡奥斯_（电视剧）   
 Kaos is a British mythological dark-comedy television series created by Charlie Covell for Netflix. It revolves around three humans as they discover their connection to each other and to a long-standing ancient prophecy while they deal with corrupt and arrogant gods of Classical mythology. The series was released on Netflix on 29 August 2024.   
@@ -73,12 +66,12 @@ Stree 2：Sarkate Ka Aatank是一部2024年印度语喜剧恐怖电影，由Amar
 
 阅读延伸[73535388]: [https://en.wikipedia.org/wiki/Stree_2](https://en.wikipedia.org/wiki/Stree_2)   
 
-## 本·纳瓦罗   
-Benjamin W. Navarro is an American billionaire businessman, the founder and chief executive officer of Sherman Financial Group, LLC, one of the largest buyers of consumer debt in the United States, and the owner of Credit One Bank, a bank specializing in credit cards for borrowers with low credit scores. He now also has several investments in Charleston real estate and sports. As of July 2024, he has an estimated net worth of US$1.5 billion according to Forbes. While his companies have been criticized for aggressive debt collection practices, he is credited for helping transform the once small and fragmented business of collecting credit card debt into a multibillion-dollar industry.   
+## 卡罗琳_沃兹尼亚奇   
+Caroline Wozniacki is a Danish professional tennis player. She was ranked world No. 1 in singles for a total of 71 weeks, including at the end of 2010 and 2011. She achieved the top ranking for the first time on 11 October 2010, becoming the 20th player in the Open Era and the first Scandinavian to hold the top position. In 2018, she became the first Dane to win a major singles title, at the Australian Open.   
 
-本杰明·W纳瓦罗是一位美国亿万富翁商人，谢尔曼金融集团有限责任公司（美国最大的消费者债务买家之一）的创始人兼首席执行官，也是Credit One Bank的所有者，这是一家专门为低信用评分借款人提供信用卡的银行。他现在还对查尔斯顿房地产和体育事业进行了多项投资。根据《福布斯》的数据，截至2024年7月，他的净资产估计为15亿美元。虽然他的公司因激进的收债行为而受到批评，但他因帮助将曾经规模小且分散的信用卡债务收款业务转变为一个价值数十亿美元的行业而受到赞誉。   
+卡罗琳·沃兹尼亚奇是丹麦职业网球运动员。她连续71周位居单曲世界第一，包括2010年底和2011年。2010年10月11日，她首次获得最高排名，成为公开赛时代的第20位球员，也是第一位占据最高位置的斯堪的纳维亚人。2018年，她成为第一位在澳大利亚网球公开赛上赢得主要单打冠军的丹麦人。   
 
-阅读延伸[58606448]: [https://en.wikipedia.org/wiki/Ben_Navarro](https://en.wikipedia.org/wiki/Ben_Navarro)   
+阅读延伸[2276820]: [https://en.wikipedia.org/wiki/Caroline_Wozniacki](https://en.wikipedia.org/wiki/Caroline_Wozniacki)   
 
 ## 陷阱_（2024年_电影）   
 Trap is a 2024 American psychological thriller film written, directed, and produced by M. Night Shyamalan. Starring Josh Hartnett, Ariel Donoghue, Saleka Night Shyamalan, Hayley Mills, and Alison Pill, it follows a serial killer evading a police blockade while attending a concert with his daughter. The film premiered in New York City on July 24, 2024, and was theatrically released in the United States by Warner Bros. Pictures on August 2, 2024. It received mixed reviews from critics and has grossed $72.3 million worldwide.   
@@ -87,40 +80,26 @@ Trap is a 2024 American psychological thriller film written, directed, and produ
 
 阅读延伸[71946032]: [https://en.wikipedia.org/wiki/Trap_(2024_film)](https://en.wikipedia.org/wiki/Trap_(2024_film))   
 
-## 绿洲_（乐队）   
-Oasis were an English rock band formed in Manchester in 1991. The group initially consisted of Liam Gallagher, Paul Arthurs (guitar), Paul McGuigan and Tony McCarroll (drums), with Liam asking his older brother Noel Gallagher to join as a fifth member a few months later to finalise their formation. Noel became the de facto leader of the group and took over the songwriting duties for the band's first four albums. They are characterised as one of the defining and most globally successful groups of the Britpop genre.   
+## 桑_人   
+The San peoples, or Bushmen, are the members of any of the indigenous hunter-gatherer cultures of southern Africa, and the oldest surviving cultures of the region. Their recent ancestral territories span Botswana, Namibia, Angola, Zambia, Zimbabwe, Lesotho, and South Africa.   
 
-Oasis是一支1991年在曼彻斯特成立的英国摇滚乐队。该乐队最初由利亚姆·加拉格尔（Liam Gallagher）、保罗·阿瑟（Paul Arthurs）（吉他）、保罗·麦吉根（Paul McGuigan）和托尼·麦卡罗尔（Tony McCarroll）（鼓手）组成，利亚姆要求他的哥哥诺埃尔·加拉格尔（Noel Gallagher）在几个月后加入，成为第五名成员，以确定他们的组建。诺埃尔成为乐队事实上的领导者，并接管了乐队前四张专辑的歌曲创作职责。他们被誉为英伦流行音乐流派中最具代表性且在全球最成功的乐队之一。   
+桑人或丛林人是南部非洲土著狩猎采集文化的成员，也是该地区现存最古老的文化。他们最近的祖先领地跨越博茨瓦纳、纳米比亚、安哥拉、赞比亚、津巴布韦、莱索托和南非。   
 
-阅读延伸[161515]: [https://en.wikipedia.org/wiki/Oasis_(band)](https://en.wikipedia.org/wiki/Oasis_(band))   
+阅读延伸[317886]: [https://en.wikipedia.org/wiki/San_people](https://en.wikipedia.org/wiki/San_people)   
 
-## 2024年_公式_One_World_锦标赛   
-The 2024 FIA Formula One World Championship is an ongoing motor racing championship for Formula One cars and is the 75th running of the Formula One World Championship. It is recognised by the Fédération Internationale de l'Automobile (FIA), the governing body of international motorsport, as the highest class of competition for open-wheel racing cars. The championship is contested over a record twenty-four Grands Prix held around the world. It began in March and will end in December.   
+## 艾玛_纳瓦罗   
+Emma Navarro is an American professional tennis player. She has a career-high singles ranking of No. 12 by the WTA and a doubles ranking of No. 93, achieved in August 2024. She played college tennis at Virginia and won the NCAA Singles Championship in 2021, later becoming the first women's singles NCAA champion to reach the US Open quarterfinals. She won her first WTA Tour title at the 2024 Hobart International.   
 
-2024年国际汽联一级方程式世界锦标赛是一项正在进行的一级方程式赛车锦标赛，也是一级方程式世界锦标赛的第75届。它被国际赛车运动的管理机构国际汽车联合会（FIA）认定为开放轮赛车的最高级别比赛。冠军争夺战是在世界各地举行的创纪录的二十四场大奖赛上进行的。它于三月开始，将于十二月结束。   
+艾玛·纳瓦罗是一位美国职业网球运动员。她在WTA上的单打排名为职业生涯最高的第12位，双打排名为第93位，并于2024年8月获得。她在弗吉尼亚州打大学网球，并于2021年赢得了NCAA单打冠军，后来成为第一位进入美国公开赛四分之一决赛的NCAA女子单打冠军。她在2024年霍巴特国际赛上赢得了她的第一个WTA巡回赛冠军。   
 
-阅读延伸[72504121]: [https://en.wikipedia.org/wiki/2024_Formula_One_World_Championship](https://en.wikipedia.org/wiki/2024_Formula_One_World_Championship)   
+阅读延伸[58606513]: [https://en.wikipedia.org/wiki/Emma_Navarro](https://en.wikipedia.org/wiki/Emma_Navarro)   
 
-## 约翰尼_高德罗   
-John Michael Gaudreau was an American professional ice hockey winger who played 11 seasons in the National Hockey League (NHL). He played for the NCAA Division I's Boston College Eagles from 2011 to 2014, and was selected by the Calgary Flames in the fourth round, 104th overall, of the 2011 NHL Entry Draft. Nicknamed "Johnny Hockey", he was named the 2014 winner of the Hobey Baker Award as the best player in the NCAA, and, during his first full NHL season in 2014–15, he was selected to play in the 2015 NHL All-Star Game, as well as being selected in the 2014 NHL All-Rookie team. Johnny was a Calder Memorial Trophy finalist for the NHL's best rookie. He won the Lady Byng Memorial Trophy as the NHL's most gentlemanly player for the 2016–17 season. In 2022, Gaudreau signed with the Columbus Blue Jackets, where he spent two seasons with the team.   
+## NXT_No_Mercy_（2024）   
+The 2024 NXT No Mercy was a professional wrestling event produced by WWE. It was the second annual No Mercy held for the promotion's developmental brand NXT and the 15th No Mercy event overall. The event took place on September 1, 2024, at the Ball Arena in Denver, Colorado and aired via WWE's livestreaming platforms. It also featured wrestlers from partner promotion Total Nonstop Action Wrestling (TNA).   
 
-约翰·迈克尔·高德罗是一位美国职业冰球边锋，在国家冰球联盟（NHL）效力了11个赛季。2011年至2014年，他效力于NCAA I组的波士顿学院老鹰队，并在2011年NHL入围选秀第四轮（总成绩第104名）中被卡尔加里火焰队选中。他绰号“约翰尼·霍基”，被评为2014年霍比·贝克奖（Hobey Baker Award）的NCAA最佳球员，并且在2014-15赛季的第一个完整NHL赛季中，他被选中参加2015年NHL全明星赛，并入选2014年NHL全新秀队。约翰尼是考尔德纪念杯NHL最佳新秀决赛入围者。他赢得了拜恩夫人纪念奖杯，成为NHL 2016-17赛季最绅士的球员。2022年，高德罗与哥伦布蓝夹克队签约，并在球队度过了两个赛季。   
+2024年NXT No Mercy是WWE制作的职业摔跤赛事。这是该促销活动的发展品牌NXT举办的第二次年度No Mercy活动，也是第15次No Mercy活动。该活动于2024年9月1日在科罗拉多州丹佛市的Ball Arena举行，并通过WWE的直播平台播出。它还邀请了合作伙伴推广Total Nonstop Action Wrestling（TNA）的摔跤手。   
 
-阅读延伸[33438856]: [https://en.wikipedia.org/wiki/Johnny_Gaudreau](https://en.wikipedia.org/wiki/Johnny_Gaudreau)   
-
-## 外星人：_罗穆卢斯   
-Alien: Romulus is a 2024 American science fiction horror film. Directed by Fede Álvarez, who co-wrote it with Rodo Sayagues, the film was produced by Scott Free Productions and Brandywine Productions. It is the seventh installment in the Alien franchise and serves as a standalone interquel set between the events of Alien (1979) and Aliens (1986). It stars Cailee Spaeny, David Jonsson, Archie Renaux, Isabela Merced, Spike Fearn, and Aileen Wu.   
-
-《异形：罗穆卢斯》是一部2024年的美国科幻恐怖电影。这部电影由费德·阿尔瓦雷斯（Fede Álvarez）执导，并与罗多·萨亚格斯（Rodo Sayagues）共同编剧，由斯科特·自由制作公司（Scott Free Productions）和布兰迪怀恩制作公司（Brandywine Productions）制作。这是《异形》系列的第七部，是以《异形》（1979年）和《异形》（1986年）事件为背景的独立间集。该剧由Cailee Spaeny、David Jonsson、Archie Renaux、Isabela Merced、Spike Fearn和Aileen Wu主演。   
-
-阅读延伸[67165116]: [https://en.wikipedia.org/wiki/Alien%3A_Romulus](https://en.wikipedia.org/wiki/Alien%3A_Romulus)   
-
-## 马库斯_弗里曼   
-Marcus Freeman is an American football coach and former linebacker who is the head coach of the Notre Dame Fighting Irish. He previously served as the defensive coordinator and linebackers coach at Notre Dame in 2021. Freeman has also previously served as an assistant coach at the University of Cincinnati, Purdue University, Kent State University, and Ohio State University.   
-
-马库斯·弗里曼是一名美式足球教练和前线卫，也是圣母大学爱尔兰队的主教练。他此前曾于2021年在圣母大学担任防守协调员和线卫教练。弗里曼此前还曾担任辛辛那提大学、普渡大学、肯特州立大学和俄亥俄州立大学的助理教练。   
-
-阅读延伸[20204408]: [https://en.wikipedia.org/wiki/Marcus_Freeman](https://en.wikipedia.org/wiki/Marcus_Freeman)   
+阅读延伸[77324571]: [https://en.wikipedia.org/wiki/NXT_No_Mercy_(2024)](https://en.wikipedia.org/wiki/NXT_No_Mercy_(2024))   
 
 ## 阿蒙斯_闹鬼_案例   
 The Ammons haunting case, also known as the 200 Demons House or Demon House, is an alleged haunting and demonic possession which occurred in Gary, Indiana in 2011. Latoya Ammons, her mother, Rosa Campbell, and her three children claimed paranormal activity occurred in the residence. The story was publicized in January 2014 and received national attention.   
@@ -129,17 +108,38 @@ The Ammons haunting case, also known as the 200 Demons House or Demon House, is 
 
 阅读延伸[56831578]: [https://en.wikipedia.org/wiki/Ammons_haunting_case](https://en.wikipedia.org/wiki/Ammons_haunting_case)   
 
-## Beetlejuice   
-Beetlejuice is a 1988 American dark fantasy horror comedy film directed by Tim Burton from a screenplay by Michael McDowell and Warren Skaaren based on a story by McDowell and Larry Wilson. The film stars Alec Baldwin, Geena Davis, Jeffrey Jones, Catherine O'Hara, Winona Ryder and Michael Keaton as the titular character. The first installment of the Beetlejuice franchise, the plot revolves around a recently deceased couple. As ghosts, they are not allowed to leave their house. They contact Betelgeuse, a charismatic "bio-exorcist" to scare the house's new inhabitants away. The film prominently features music from Harry Belafonte's albums Calypso and Jump Up Calypso.   
+## 布莱恩_凯利_（美式足球_教练）   
+Brian Keith Kelly is an American college football coach. He is the head football coach at Louisiana State University (LSU), a position he has held since the 2022 season. Kelly served as the head football coach at Grand Valley State University from 1991 to 2003, Central Michigan University from 2004 to 2006, the University of Cincinnati from 2006 to 2009, and the University of Notre Dame from 2010 to 2021. He led the Grand Valley State Lakers to consecutive NCAA Division II Football Championships in 2002 and 2003. Kelly's 2012 Notre Dame team reached the 2013 BCS National Championship Game, while his 2018 and 2020 teams made appearances in the College Football Playoff.   
 
-《Beetlejuice》是一部1988年的美国黑暗奇幻恐怖喜剧电影，由蒂姆·伯顿执导，改编自迈克尔·麦克道尔和沃伦·斯卡伦的剧本，改编自麦克道尔和拉里·威尔逊的故事。这部电影由亚历克·鲍德温、吉娜·戴维斯、杰弗里·琼斯、凯瑟琳·奥哈拉、薇诺娜·莱德和迈克尔·基顿担任主角。作为Beetlejuice系列的第一部，情节围绕一对最近去世的夫妇展开。作为鬼魂，他们不被允许离开家。他们联系了具有魅力的“生物驱魔人”，以吓跑房子的新居民。这部电影主要收录了Harry Belafonte的专辑Calypso和Jump Up Calypso中的音乐。   
+布莱恩·基思·凯利是一名美国大学橄榄球教练。他是路易斯安那州立大学（LSU）的足球主教练，自2022赛季以来一直担任该职位。凯利于1991年至2003年担任大谷州立大学足球主教练，2004年至2006年担任中密歇根大学足球主教练，2006年至2009年担任辛辛那提大学足球主教练，2010年至2021年担任圣母大学足球主教练。2002年和2003年，他带领大谷州立湖人队连续夺得NCAA二级足球锦标赛。凯利的2012年圣母大学队进入了2013年FCS全国锦标赛，而他的2018年和2020年球队则参加了大学橄榄球附加赛。   
 
-阅读延伸[293524]: [https://en.wikipedia.org/wiki/Beetlejuice](https://en.wikipedia.org/wiki/Beetlejuice)   
+阅读延伸[7054025]: [https://en.wikipedia.org/wiki/Brian_Kelly_(American_football_coach)](https://en.wikipedia.org/wiki/Brian_Kelly_(American_football_coach))   
 
-## 利亚姆·加拉格尔   
-William John Paul Gallagher is an English singer and songwriter. He is the lead singer of the rock band Oasis. He later fronted the rock band Beady Eye from 2009 to 2014, before starting a successful solo career in 2017. Oasis has had various line-up changes; Gallagher and his older brother Noel have been the only constant members. One of the most recognisable figures in British rock music, Gallagher is noted for his distinctive vocal style and outspoken personality.   
+## 2024年_夏季_残奥会   
+The 2024 Summer Paralympics, also known as the Paris 2024 Paralympic Games, and branded as Paris 2024, is the 17th Summer Paralympic Games, an international multi-sport parasports event governed by the International Paralympic Committee, held in Paris, France, from 28 August to 8 September 2024. These games mark the first time Paris is hosting the Summer Paralympics and the second time that France is hosting the Paralympic Games, as Tignes and Albertville jointly hosted the 1992 Winter Paralympics.   
 
-威廉·约翰·保罗·加拉格尔是一位英国歌手和词曲作者。他是摇滚乐队Oasis的主唱。后来，他于2009年至2014年担任摇滚乐队Beady Eye的主唱，并于2017年开始了成功的个人生涯。绿洲队的阵容发生了各种变化;加拉格尔和他的哥哥诺埃尔是唯一的固定成员。加拉格尔是英国摇滚音乐界最知名的人物之一，以其独特的声乐风格和直言不讳的个性而闻名。   
+2024年夏季残奥会，也称为2024年巴黎残奥会，更名为2024年巴黎残奥会，是第17届夏季残奥会，是一项由国际残奥委员会管理的国际多项运动项目准体育赛事，于2024年8月28日至9月8日在法国巴黎举行。这些奥运会标志着巴黎首次举办夏季残奥会，也是法国第二次举办残奥会，蒂格内斯和艾伯特维尔共同举办了1992年冬季残奥会。   
 
-阅读延伸[178326]: [https://en.wikipedia.org/wiki/Liam_Gallagher](https://en.wikipedia.org/wiki/Liam_Gallagher)   
+阅读延伸[41045645]: [https://en.wikipedia.org/wiki/2024_Summer_Paralympics](https://en.wikipedia.org/wiki/2024_Summer_Paralympics)   
+
+## 绿洲_（乐队）   
+Oasis were an English rock band formed in Manchester in 1991. The group initially consisted of Liam Gallagher, Paul Arthurs (guitar), Paul McGuigan and Tony McCarroll (drums), with Liam asking his older brother Noel Gallagher to join as a fifth member a few months later to finalise their formation. Noel became the de facto leader of the group and took over the songwriting duties for the band's first four albums. They are characterised as one of the defining and most globally successful groups of the Britpop genre.   
+
+Oasis是一支1991年在曼彻斯特成立的英国摇滚乐队。该乐队最初由利亚姆·加拉格尔（Liam Gallagher）、保罗·阿瑟（Paul Arthurs）（吉他）、保罗·麦吉根（Paul McGuigan）和托尼·麦卡罗尔（Tony McCarroll）（鼓手）组成，利亚姆要求他的哥哥诺埃尔·加拉格尔（Noel Gallagher）在几个月后加入，成为第五名成员，以确定他们的组建。诺埃尔成为乐队事实上的领导者，并接管了乐队前四张专辑的歌曲创作职责。他们被誉为英伦流行音乐流派中最具代表性且在全球最成功的乐队之一。   
+
+阅读延伸[161515]: [https://en.wikipedia.org/wiki/Oasis_(band)](https://en.wikipedia.org/wiki/Oasis_(band))   
+
+## 外星人：_罗穆卢斯   
+Alien: Romulus is a 2024 American science fiction horror film. Directed by Fede Álvarez, who co-wrote it with Rodo Sayagues, the film was produced by Scott Free Productions and Brandywine Productions. It is the seventh installment in the Alien franchise and serves as a standalone interquel set between the events of Alien (1979) and Aliens (1986). It stars Cailee Spaeny, David Jonsson, Archie Renaux, Isabela Merced, Spike Fearn, and Aileen Wu.   
+
+《异形：罗穆卢斯》是一部2024年的美国科幻恐怖电影。这部电影由费德·阿尔瓦雷斯（Fede Álvarez）执导，并与罗多·萨亚格斯（Rodo Sayagues）共同编剧，由斯科特·自由制作公司（Scott Free Productions）和布兰迪怀恩制作公司（Brandywine Productions）制作。这是《异形》系列的第七部，是以《异形》（1979年）和《异形》（1986年）事件为背景的独立间集。该剧由Cailee Spaeny、David Jonsson、Archie Renaux、Isabela Merced、Spike Fearn和Aileen Wu主演。   
+
+阅读延伸[67165116]: [https://en.wikipedia.org/wiki/Alien%3A_Romulus](https://en.wikipedia.org/wiki/Alien%3A_Romulus)   
+
+## 指环王：权力指环王   
+The Lord of the Rings: The Rings of Power is an American fantasy television series developed by J. D. Payne and Patrick McKay for the streaming service Amazon Prime Video. Based on J. R. R. Tolkien's history of Middle-earth, primarily material from the appendices of the novel The Lord of the Rings, the series is set thousands of years before the novel and depicts the major events of Middle-earth's Second Age. It is produced by Amazon MGM Studios in association with New Line Cinema.   
+
+《指环王：权力之戒》是一部由JD开发的美国奇幻电视剧。Payne和Patrick McKay负责流媒体服务Amazon Prime Video。基于JR R.托尔金的中土世界历史主要取材于小说《指环王》的附录，该系列故事以小说前数千年的时间为背景，描绘了中土世界第二纪元的重大事件。该片由亚马逊米高梅工作室与New Line Cinema联合制作。   
+
+阅读延伸[61677624]: [https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Rings_of_Power](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Rings_of_Power)   
 
