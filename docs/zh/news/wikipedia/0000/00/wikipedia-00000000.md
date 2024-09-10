@@ -1,4 +1,18 @@
 # 最新资讯  
+## 詹姆斯·厄尔·琼斯   
+James Earl Jones was an American actor known for his film roles and for his work in theater. He was one of the few performers to achieve the EGOT. Jones has been described as "one of America's most distinguished and versatile" actors for his performances on stage and screen. He has also been called "one of the greatest actors in American history". He was inducted into the American Theater Hall of Fame in 1985. He was honored with the National Medal of Arts in 1992, the Kennedy Center Honor in 2002, the Screen Actors Guild Life Achievement Award in 2009, and the Honorary Academy Award in 2011.   
+
+詹姆斯·厄尔·琼斯是一位美国演员，以其电影角色和戏剧工作而闻名。他是少数实现EGOT的表演者之一。琼斯因其在舞台和银幕上的表演而被描述为“美国最杰出、最多才多艺”的演员之一。他还被称为“美国历史上最伟大的演员之一”。1985年，他入选美国戏剧名人堂。他于1992年荣获国家艺术奖章，2002年荣获肯尼迪中心荣誉，2009年荣获美国演员工会终身成就奖，2011年荣获荣誉学院奖。   
+
+阅读延伸[18622049]: [https://en.wikipedia.org/wiki/James_Earl_Jones](https://en.wikipedia.org/wiki/James_Earl_Jones)   
+
+## 有史以来最伟大的   
+The Greatest of All Time is a 2024 Indian Tamil-language action thriller film directed by Venkat Prabhu and produced by AGS Entertainment. The film stars Vijay in dual roles, alongside Prashanth, Prabhu Deva, Mohan, Ajmal Ameer, Jayaram, Sneha, Laila, Meenakshi Chaudhary, Vaibhav, Yogi Babu, Premgi Amaren and Yugendran. It is the twenty-fifth production of the studio. The film follows Gandhi, former leader of a special anti-terrorist squad, who reconciles with his squad members to address the problems which were stemmed from their previous actions.   
+
+《史上最伟大的》是一部2024年印度泰米尔语动作惊悚电影，由Venkat Prabhu执导，AGS Entertainment制作。这部电影由维杰主演，与普拉山特、普拉布·德瓦、莫汉、阿杰马尔·阿米尔、贾亚拉姆、斯尼哈、莱拉、米纳克什·乔杜里、瓦伊巴哈夫、约吉·巴布、普雷姆吉·阿马伦和尤根德兰一起出演双重角色。这是该工作室的第二十五部作品。这部电影讲述了前反恐特别小组领导人甘地与小组成员和解以解决因他们之前的行为而产生的问题的故事。   
+
+阅读延伸[73855135]: [https://en.wikipedia.org/wiki/The_Greatest_of_All_Time](https://en.wikipedia.org/wiki/The_Greatest_of_All_Time)   
+
 ## 詹尼克_罪人   
 Jannik Sinner is an Italian professional tennis player. He is currently ranked as the World No. 1 in singles by the Association of Tennis Professionals (ATP).
 Sinner has won 15 singles titles on the ATP Tour, including a Grand Slam title at the 2024 Australian Open and three Masters 1000 titles.   
@@ -8,40 +22,12 @@ Sinner在ATP巡回赛中赢得了15个单打冠军，其中包括2024年澳大�
 
 阅读延伸[60061043]: [https://en.wikipedia.org/wiki/Jannik_Sinner](https://en.wikipedia.org/wiki/Jannik_Sinner)   
 
-## 有史以来最伟大的   
-The Greatest of All Time is a 2024 Indian Tamil-language action thriller film directed by Venkat Prabhu and produced by AGS Entertainment. The film stars Vijay in dual roles, alongside Prashanth, Prabhu Deva, Mohan, Ajmal Ameer, Jayaram, Sneha, Laila, Meenakshi Chaudhary, Vaibhav, Yogi Babu, Premgi Amaren and Yugendran. It is the twenty-fifth production of the studio. The film follows Gandhi, former leader of a special anti-terrorist squad, who reconciles with his squad members to address the problems which were stemmed from their previous actions.   
-
-《史上最伟大的》是一部2024年印度泰米尔语动作惊悚电影，由Venkat Prabhu执导，AGS Entertainment制作。这部电影由维杰主演，与普拉山特、普拉布·德瓦、莫汉、阿杰马尔·阿米尔、贾亚拉姆、斯尼哈、莱拉、米纳克什·乔杜里、瓦伊巴哈夫、约吉·巴布、普雷姆吉·阿马伦和尤根德兰一起出演双重角色。这是该工作室的第二十五部作品。这部电影讲述了前反恐特别小组领导人甘地与小组成员和解以解决因他们之前的行为而产生的问题的故事。   
-
-阅读延伸[73855135]: [https://en.wikipedia.org/wiki/The_Greatest_of_All_Time](https://en.wikipedia.org/wiki/The_Greatest_of_All_Time)   
-
 ## 完美情侣（电视剧）   
 The Perfect Couple is an American mystery drama series starring Nicole Kidman, Liev Schreiber, Dakota Fanning, and Eve Hewson. It is an adaptation of the 2018 novel of the same name by Elin Hilderbrand, premiered on September 5, 2024, on Netflix.   
 
 《完美情侣》是一部美国悬疑剧，由妮可·基德曼、利夫·施雷伯、达科塔·范宁和伊芙·休森主演。该剧改编自艾琳·希尔德布兰德（Elin Hilderbrand）2018年同名小说，于2024年9月5日在Netflix首播。   
 
 阅读延伸[73447868]: [https://en.wikipedia.org/wiki/The_Perfect_Couple_(TV_series)](https://en.wikipedia.org/wiki/The_Perfect_Couple_(TV_series))   
-
-## 杰弗里_琼斯   
-Jeffrey Duncan Jones is an American actor and convicted sex offender. He is known for his roles as Emperor Joseph II in Amadeus (1984), Edward R. Rooney in Ferris Bueller's Day Off (1986), Charles Deetz in Beetlejuice (1988), Dr. Skip Tyler in The Hunt for Red October (1990), Eddie Barzoon in The Devil's Advocate (1997), and A.W. Merrick in both Deadwood (2004–2006) and Deadwood: The Movie (2019).   
-
-杰弗里·邓肯·琼斯是一名美国演员，也是被定罪的性犯罪者。他因在《阿玛迪斯》（Amadeus，1984）中饰演约瑟夫二世皇帝而闻名，爱德华·R。鲁尼在《费里斯·布勒的休息日》（Ferris Bueller ' s Day Off）中、查尔斯·迪茨（Charles Deetz）在《披头士》（Beetlejuice）中、斯基普·泰勒（Dr. Skip Tyler）在《追捕红色十月》（1990）中、埃迪·巴尔佐（Eddie Barzoon）在《魔鬼代言人》（1997）中以及AW梅里克出演了《死木：电影》（2004-2006）和《死木：电影》（2019）。   
-
-阅读延伸[573096]: [https://en.wikipedia.org/wiki/Jeffrey_Jones](https://en.wikipedia.org/wiki/Jeffrey_Jones)   
-
-## Beetlejuice   
-Beetlejuice is a 1988 American dark fantasy horror comedy film directed by Tim Burton from a screenplay by Michael McDowell and Warren Skaaren based on a story by McDowell and Larry Wilson. The film stars Alec Baldwin, Geena Davis, Jeffrey Jones, Catherine O'Hara, Winona Ryder and Michael Keaton as the titular character. The first installment of the Beetlejuice franchise, the plot revolves around a recently deceased couple. As ghosts, they are not allowed to leave their house. They contact Betelgeuse, a charismatic "bio-exorcist" to scare the house's new inhabitants away. The film prominently features music from Harry Belafonte's albums Calypso and Jump Up Calypso.   
-
-《Beetlejuice》是一部1988年的美国黑暗奇幻恐怖喜剧电影，由蒂姆·伯顿执导，改编自迈克尔·麦克道尔和沃伦·斯卡伦的剧本，改编自麦克道尔和拉里·威尔逊的故事。这部电影由亚历克·鲍德温、吉娜·戴维斯、杰弗里·琼斯、凯瑟琳·奥哈拉、薇诺娜·莱德和迈克尔·基顿担任主角。作为Beetlejuice系列的第一部，情节围绕一对最近去世的夫妇展开。作为鬼魂，他们不被允许离开家。他们联系了具有魅力的“生物驱魔人”，以吓跑房子的新居民。这部电影主要收录了Harry Belafonte的专辑Calypso和Jump Up Calypso中的音乐。   
-
-阅读延伸[293524]: [https://en.wikipedia.org/wiki/Beetlejuice](https://en.wikipedia.org/wiki/Beetlejuice)   
-
-## 阿琳娜_萨巴伦卡   
-Aryna Siarhiejeŭna Sabalenka is a Belarusian professional tennis player. She is a former world No. 1 in both singles and doubles by the Women's Tennis Association (WTA). Sabalenka has won two major singles titles, at the 2023 and 2024 Australian Opens, and two major doubles titles, at the 2019 US Open and the 2021 Australian Open, both partnering with Elise Mertens. She has won 21 career titles in total, 15 in singles and six in doubles.Sabalenka was relatively unknown until 2017, when together with Aliaksandra Sasnovich they led the Belarus Fed Cup team to a runner-up finish, despite both of them being ranked outside the top 75 at the time. She finished both 2018 and 2019 ranked No. 11 in the world in singles. Following two major singles semifinal appearances in 2021, Sabalenka peaked at the world No. 2 ranking, but struggled to consistently maintain that success in 2022. In 2023, she won her first major singles title at the Australian Open, reached the semifinals at all four major tournaments, and obtained the world No. 1 ranking, being named the ITF World Champion for the season.Sabalenka also began playing doubles regularly in 2019. With Mertens as her partner, she completed the Sunshine Double by winning the two Premier Mandatory tournaments in March, the Indian Wells Open and the Miami Open. After the US Open doubles title later in the year, she also qualified for the WTA Finals for the first time. With the 2021 Australian Open doubles title, she became the world No. 1 in the discipline.Sabalenka has a very aggressive style of play, often accumulating high numbers of winners and unforced errors. With her height, she also has a very powerful serve.   
-
-Aryna Siarhiejeŭna Sabalenka是白俄罗斯职业网球运动员。她是前女子网球协会(WTA)单打和双打世界排名第一的选手。萨巴伦卡在2023年和2024年澳大利亚网球公开赛上赢得了两次主要单打冠军，在2019年美国网球公开赛和2021年澳大利亚网球公开赛上赢得了两次主要双打冠军，这两次都是与埃莉斯·默滕斯合作。萨巴伦卡总共赢得了21个职业生涯冠军，其中15个是单打冠军，6个是双打冠军。直到2017年，萨巴伦卡还相对默默无闻，当时他们与阿利亚克桑德拉·萨斯诺维奇一起带领白俄罗斯联邦杯球队获得亚军，尽管他们当时都排在前75名之外。她在2018年和2019年的单打世界排名都是第11位。在2021年两次出现在单打半决赛之后，萨巴伦卡在世界排名第二的位置上达到了顶峰，但在2022年一直难以保持这一成功。2023年，她在澳大利亚网球公开赛上赢得了自己的第一个大单打冠军，在所有四大赛事中都进入了半决赛，并获得了世界排名第一，被评为ITF当季世界冠军。萨巴伦卡也从2019年开始定期打双打。与默滕斯搭档，她完成了阳光双打，赢得了3月份的两项顶级强制性锦标赛，印第安威尔斯公开赛和迈阿密公开赛。在今年晚些时候获得美国网球公开赛双打冠军后，她也第一次获得了进入WTA总决赛的资格。凭借2021年澳大利亚网球公开赛双打冠军，萨巴伦卡成为该项目的世界排名第一。萨巴伦卡的打法非常咄咄逼人，经常积累大量的获胜者和非受迫性失误。以她的身高，她的发球也非常有力。   
-
-阅读延伸[50222577]: [https://en.wikipedia.org/wiki/Aryna_Sabalenka](https://en.wikipedia.org/wiki/Aryna_Sabalenka)   
 
 ## 甲虫汁_甲虫汁   
 Beetlejuice Beetlejuice is a 2024 American fantasy comedy horror film directed by Tim Burton from a screenplay by the writing team of Alfred Gough and Miles Millar, based on a story by Gough, Millar, and Seth Grahame-Smith. A sequel to Beetlejuice (1988) and the second film of the Beetlejuice franchise, it stars Michael Keaton, Winona Ryder, and Catherine O'Hara reprising their roles alongside new cast members Justin Theroux, Monica Bellucci, Jenna Ortega, and Willem Dafoe.   
@@ -50,40 +36,12 @@ Beetlejuice Beetlejuice是一部2024年美国奇幻喜剧恐怖电影，由蒂�
 
 阅读延伸[70574547]: [https://en.wikipedia.org/wiki/Beetlejuice_Beetlejuice](https://en.wikipedia.org/wiki/Beetlejuice_Beetlejuice)   
 
-## 泰勒_弗里茨   
-Taylor Harry Fritz is an American professional tennis player. He has a career-high singles ranking of world No. 5 by the ATP, achieved on 27 February 2023, and a doubles ranking of No. 104, achieved on 26 July 2021. Fritz has won eight ATP Tour singles titles, including a Masters 1000 title in Indian Wells. He is a three-time Eastbourne titlist. His best Grand Slam results are reaching the semifinal at the 2024 US Open and the quarterfinals at the 2022 and 2024 Wimbledon, the 2023 US Open and at the 2024 Australian Open.   
+## Beetlejuice   
+Beetlejuice is a 1988 American dark fantasy horror comedy film directed by Tim Burton from a screenplay by Michael McDowell and Warren Skaaren based on a story by McDowell and Larry Wilson. The film stars Alec Baldwin, Geena Davis, Jeffrey Jones, Catherine O'Hara, Winona Ryder and Michael Keaton as the titular character. The first installment of the Beetlejuice franchise, the plot revolves around a recently deceased couple. As ghosts, they are not allowed to leave their house. They contact Betelgeuse, a charismatic "bio-exorcist" to scare the house's new inhabitants away. The film prominently features music from Harry Belafonte's albums Calypso and Jump Up Calypso.   
 
-泰勒·哈里·弗里茨是一位美国职业网球运动员。他于2023年2月27日在ATP上获得了职业生涯最高的单打排名，世界第5位，并于2021年7月26日获得了双打排名第104位。弗里茨赢得了八次ATP巡回赛单打冠军，其中包括印第安维尔斯的大师赛1000冠军。他是三届伊斯特本冠军。他的最佳大满贯成绩是进入2024年美国公开赛半决赛以及2022年和2024年温布尔登、2023年美国公开赛和2024年澳大利亚公开赛四分之一决赛。   
+《Beetlejuice》是一部1988年的美国黑暗奇幻恐怖喜剧电影，由蒂姆·伯顿执导，改编自迈克尔·麦克道尔和沃伦·斯卡伦的剧本，改编自麦克道尔和拉里·威尔逊的故事。这部电影由亚历克·鲍德温、吉娜·戴维斯、杰弗里·琼斯、凯瑟琳·奥哈拉、薇诺娜·莱德和迈克尔·基顿担任主角。作为Beetlejuice系列的第一部，情节围绕一对最近去世的夫妇展开。作为鬼魂，他们不被允许离开家。他们联系了具有魅力的“生物驱魔人”，以吓跑房子的新居民。这部电影主要收录了Harry Belafonte的专辑Calypso和Jump Up Calypso中的音乐。   
 
-阅读延伸[43661110]: [https://en.wikipedia.org/wiki/Taylor_Fritz](https://en.wikipedia.org/wiki/Taylor_Fritz)   
-
-## 艾米丽_阿姆斯特朗_（音乐家）   
-Emily Armstrong is an American singer, songwriter and musician. Described as "Janis Joplin for the arena rock age", she co-founded Dead Sara in 2005 and joined Linkin Park as lead singer in September 2024.   
-
-艾米丽·阿姆斯特朗是一位美国歌手、词曲作者和音乐家。她被称为“竞技场摇滚时代的Janis Joplin”，于2005年与人共同创立了Dead Sara，并于2024年9月加入Linkin Park担任主唱。   
-
-阅读延伸[77789990]: [https://en.wikipedia.org/wiki/Emily_Armstrong_(musician)](https://en.wikipedia.org/wiki/Emily_Armstrong_(musician))   
-
-## 叛逆岭   
-Rebel Ridge is an American crime action thriller film written, produced, directed and edited by Jeremy Saulnier. The film stars Aaron Pierre as Terry Richmond, a Black Marine who has the funds needed to post bail for his cousin unjustly seized via civil forfeiture by a corrupt police force. Don Johnson, AnnaSophia Robb, David Denman, Emory Cohen, Steve Zissis, Zsané Jhé, Dana Lee, and James Cromwell also appear in the film.   
-
-《叛逆岭》是一部由杰里米·索尼尔编剧、制作、导演和剪辑的美国犯罪动作惊悚电影。这部电影由亚伦·皮埃尔（Aaron Pierre）饰演特里·里士满（Terry Richmond），一名黑人海军陆战队员，他拥有为他的表弟保释所需的资金，但他的表弟被腐败的警察部队通过民事没收而不公正地扣押。唐·约翰逊、安娜·索菲亚·罗布、大卫·丹曼、埃默里·科恩、史蒂夫·齐西斯、扎内·杰、达纳·李和詹姆斯·克伦威尔也出现在影片中。   
-
-阅读延伸[63209923]: [https://en.wikipedia.org/wiki/Rebel_Ridge](https://en.wikipedia.org/wiki/Rebel_Ridge)   
-
-## All_Out_（2024）   
-The 2024 All Out was a professional wrestling pay-per-view (PPV) event produced by All Elite Wrestling (AEW). It was the sixth annual All Out event and took place on Saturday, September 7, 2024, at the Now Arena in the Chicago suburb of Hoffman Estates, Illinois. This marked the event's fourth edition at the venue, after 2019, 2021, and 2022. It also returned the event to Saturday for the first time since 2020. All Out was previously held during Labor Day weekend, and although the 2024 event had originally been scheduled for the holiday on Sunday, September 1, AEW decided to push the event back by a week due to fan concerns of it taking place only one week after All In, which had occurred the prior year.   
-
-2024年All Out是由All Elite Wrestling（AEW）制作的职业摔跤付费（PPV）赛事。这是第六届年度All Out活动，于2024年9月7日星期六在伊利诺伊州芝加哥郊区霍夫曼庄园的Now Arena举行。这是继2019年、2021年和2022年之后，该活动在该场馆举办的第四届。它还自2020年以来首次将活动重新推迟到周六。All Out此前是在劳动节周末举行的，尽管2024年活动原定于9月1日星期日假期举行，但AEW决定将该活动推迟一周，因为粉丝担心该活动只在All In一周后举行。前一年。   
-
-阅读延伸[76555996]: [https://en.wikipedia.org/wiki/All_Out_(2024)](https://en.wikipedia.org/wiki/All_Out_(2024))   
-
-## 伊芙_休森   
-Memphis Eve Sunny Day Iris Hewson is an Irish actress. Her first major role was in the 2011 drama film This Must Be the Place, and she made her television debut as Nurse Lucy Elkins in the 2014 Steven Soderbergh series The Knick. She has appeared in films such as Blood Ties (2013), Bridge of Spies (2015), and Robin Hood (2018). In 2020, she starred in the miniseries The Luminaries. In 2021 she starred as Adele in the Netflix miniseries Behind Her Eyes, then in 2022 she played Becka in the Apple TV+ series Bad Sisters, which won a Peabody Award, and in 2023 she played the lead Flora in the Apple TV+ movie Flora and Son.   
-
-孟菲斯伊芙晴天艾里斯·休森是一位爱尔兰女演员。她的第一个主要角色是在2011年的剧情片《This Must Be the Place》中，并在2014年史蒂文·索德伯格（Steven Soderbergh）的电视剧《尼克》中饰演护士露西·埃尔金斯（Nurse Lucy Elkins）首次在电视上亮相。她曾出演过《血色纽带》（2013年）、《间谍之桥》（2015年）和《罗宾汉》（2018年）等电影。2020年，她主演了迷你剧《The Luminaries》。2021年，她在Netflix迷你剧《Behind Her Eyes》中饰演阿黛尔，2022年，她在Apple TV+电视剧《Bad Sisters》中饰演贝卡，该剧荣获皮博迪奖，2023年，她在Apple TV+电影《Flora and Son》中饰演主角Flora。   
-
-阅读延伸[34150718]: [https://en.wikipedia.org/wiki/Eve_Hewson](https://en.wikipedia.org/wiki/Eve_Hewson)   
+阅读延伸[293524]: [https://en.wikipedia.org/wiki/Beetlejuice](https://en.wikipedia.org/wiki/Beetlejuice)   
 
 ## 死亡_in_2024   
 
@@ -96,6 +54,55 @@ The following notable deaths occurred in 2024. Names are reported under the date
 
 阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
 
+## 杰弗里_琼斯   
+Jeffrey Duncan Jones is an American actor and convicted sex offender. He is known for his roles as Emperor Joseph II in Amadeus (1984), Edward R. Rooney in Ferris Bueller's Day Off (1986), Charles Deetz in Beetlejuice (1988), Dr. Skip Tyler in The Hunt for Red October (1990), Eddie Barzoon in The Devil's Advocate (1997), and A.W. Merrick in both Deadwood (2004–2006) and Deadwood: The Movie (2019).   
+
+杰弗里·邓肯·琼斯是一名美国演员，也是被定罪的性犯罪者。他因在《阿玛迪斯》（Amadeus，1984）中饰演约瑟夫二世皇帝而闻名，爱德华·R。鲁尼在《费里斯·布勒的休息日》（Ferris Bueller ' s Day Off）中、查尔斯·迪茨（Charles Deetz）在《披头士》（Beetlejuice）中、斯基普·泰勒（Dr. Skip Tyler）在《追捕红色十月》（1990）中、埃迪·巴尔佐（Eddie Barzoon）在《魔鬼代言人》（1997）中以及AW梅里克出演了《死木：电影》（2004-2006）和《死木：电影》（2019）。   
+
+阅读延伸[573096]: [https://en.wikipedia.org/wiki/Jeffrey_Jones](https://en.wikipedia.org/wiki/Jeffrey_Jones)   
+
+## 塞西莉亚_哈特   
+Cecilia Hart, sometimes credited as Ceci Jones, was an American actress who played Stacey Erickson in the CBS police drama Paris, which originally ran from 1979 until 1980. Hart co-starred with her future husband James Earl Jones in the series.   
+
+塞西莉亚·哈特（Cecilia Hart），有时被称为塞西莉亚·琼斯（Ceci Jones），是一位美国女演员，曾在哥伦比亚广播公司（CBS）的警匪剧《巴黎》中饰演史黛西·埃里克森（Stacey Erickson），该剧最初于1979年播出至1980年。哈特与她未来的丈夫詹姆斯·厄尔·琼斯共同主演了该剧。   
+
+阅读延伸[9135927]: [https://en.wikipedia.org/wiki/Cecilia_Hart](https://en.wikipedia.org/wiki/Cecilia_Hart)   
+
+## 艾米丽_阿姆斯特朗_（音乐家）   
+Emily Armstrong is an American singer, songwriter and musician. Described as "Janis Joplin for the arena rock age", she co-founded Dead Sara in 2005 and joined Linkin Park as lead singer in September 2024.   
+
+艾米丽·阿姆斯特朗是一位美国歌手、词曲作者和音乐家。她被称为“竞技场摇滚时代的Janis Joplin”，于2005年与人共同创立了Dead Sara，并于2024年9月加入Linkin Park担任主唱。   
+
+阅读延伸[77789990]: [https://en.wikipedia.org/wiki/Emily_Armstrong_(musician)](https://en.wikipedia.org/wiki/Emily_Armstrong_(musician))   
+
+## 伊芙_休森   
+Memphis Eve Sunny Day Iris Hewson is an Irish actress. Her first major role was in the 2011 drama film This Must Be the Place, and she made her television debut as Nurse Lucy Elkins in the 2014 Steven Soderbergh series The Knick. She has appeared in films such as Blood Ties (2013), Bridge of Spies (2015), and Robin Hood (2018). In 2020, she starred in the miniseries The Luminaries. In 2021 she starred as Adele in the Netflix miniseries Behind Her Eyes, then in 2022 she played Becka in the Apple TV+ series Bad Sisters, which won a Peabody Award, and in 2023 she played the lead Flora in the Apple TV+ movie Flora and Son.   
+
+孟菲斯伊芙晴天艾里斯·休森是一位爱尔兰女演员。她的第一个主要角色是在2011年的剧情片《This Must Be the Place》中，并在2014年史蒂文·索德伯格（Steven Soderbergh）的电视剧《尼克》中饰演护士露西·埃尔金斯（Nurse Lucy Elkins）首次在电视上亮相。她曾出演过《血色纽带》（2013年）、《间谍之桥》（2015年）和《罗宾汉》（2018年）等电影。2020年，她主演了迷你剧《The Luminaries》。2021年，她在Netflix迷你剧《Behind Her Eyes》中饰演阿黛尔，2022年，她在Apple TV+电视剧《Bad Sisters》中饰演贝卡，该剧荣获皮博迪奖，2023年，她在Apple TV+电影《Flora and Son》中饰演主角Flora。   
+
+阅读延伸[34150718]: [https://en.wikipedia.org/wiki/Eve_Hewson](https://en.wikipedia.org/wiki/Eve_Hewson)   
+
+## Vikas_Sethi   
+Vikas Sethi was an Indian actor. He played the lead role in the 2003 adult drama film Oops!, he went on to play supporting roles in numerous hit TV series and Bollywood films. His most notable television appearances include in Kahiin To Hoga, as Swayam Shergill and in the Indian soap opera Kasautii Zindagi Kay, where he plays the role of Prem Basu. He appeared in the fourth season of Nach Baliye, performing along with his then wife, Amita.   
+
+Vikas Sethi是一位印度演员。他在2003年成人剧情片《哎呀！》中担任主角，他随后在众多热门电视剧和宝莱坞电影中担任配角。他最著名的电视露面包括在Kahiin To Hoga中饰演Swayam Shergill以及在印度肥皂剧Kasautii Zindagi Kay中饰演Prem Basu。他出现在《Nach Baliye》第四季中，与当时的妻子阿米塔一起表演。   
+
+阅读延伸[12892044]: [https://en.wikipedia.org/wiki/Vikas_Sethi](https://en.wikipedia.org/wiki/Vikas_Sethi)   
+
+## 詹姆斯·厄尔·琼斯在银幕和舞台上   
+American actor James Earl Jones had an extensive career in various film, television, and theater. He started out in film by appearing in the 1964 political satire film Dr. Strangelove as Lt. Lothar Zogg. He then went on to star in the 1970 film The Great White Hope as Jack Jefferson, a role he first played in the Broadway production of the same name. The film role earned him two Golden Globe nominations, one for Best Actor and winning one for New Star of the Year. He also received an Academy Award nomination for Best Actor. His other work in the 1970s included playing the title character in Malcolm X (1972), Johnny Williams in The River Niger (1976), Nick Debrett in Swashbuckler (1976), Malcolm X again in The Greatest (1977), and The Bushido Blade with Richard Boone (1979).   
+
+美国演员詹姆斯·厄尔·琼斯在各种电影、电视和戏剧领域拥有广泛的职业生涯。他在1964年的政治讽刺电影《奇爱博士》中饰演洛塔尔·佐格中尉，开始涉足电影界。随后，他在1970年的电影《伟大的白人希望》中饰演杰克·杰斐逊，这是他在同名百老汇作品中首次扮演的角色。这个电影角色为他赢得了两项金球奖提名，其中一项是最佳男主角，一项是年度新星。他还获得了奥斯卡最佳男主角提名。他在20世纪70年代的其他作品包括在《马尔科姆·X》（Malcolm X，1972年）中扮演主角、在《尼日尔河》（The River Niger，1976年）中扮演约翰尼·威廉姆斯（Johnny Williams）、在《斯沃什巴克勒》（Swashbuckler，1976年）中扮演尼克·德布雷特（Nick Debrett）、在《最伟大的》（The Greatest，1977年）中再次扮演马尔科姆·X和理查德·布恩的武士道刀锋（The Bushido Blade，1979年）。   
+
+阅读延伸[43192439]: [https://en.wikipedia.org/wiki/James_Earl_Jones_on_screen_and_stage](https://en.wikipedia.org/wiki/James_Earl_Jones_on_screen_and_stage)   
+
+## 叛逆岭   
+Rebel Ridge is an American crime action thriller film written, produced, directed and edited by Jeremy Saulnier. The film stars Aaron Pierre as Terry Richmond, a Black Marine who has the funds needed to post bail for his cousin unjustly seized via civil forfeiture by a corrupt police force. Don Johnson, AnnaSophia Robb, David Denman, Emory Cohen, Steve Zissis, Zsané Jhé, Dana Lee, and James Cromwell also appear in the film.   
+
+《叛逆岭》是一部由杰里米·索尼尔编剧、制作、导演和剪辑的美国犯罪动作惊悚电影。这部电影由亚伦·皮埃尔（Aaron Pierre）饰演特里·里士满（Terry Richmond），一名黑人海军陆战队员，他拥有为他的表弟保释所需的资金，但他的表弟被腐败的警察部队通过民事没收而不公正地扣押。唐·约翰逊、安娜·索菲亚·罗布、大卫·丹曼、埃默里·科恩、史蒂夫·齐西斯、扎内·杰、达纳·李和詹姆斯·克伦威尔也出现在影片中。   
+
+阅读延伸[63209923]: [https://en.wikipedia.org/wiki/Rebel_Ridge](https://en.wikipedia.org/wiki/Rebel_Ridge)   
+
 ## LinkedIn_Park   
 Linkin Park is an American rock band formed in Agoura Hills, California, in 1996. The band's lineup consists of vocalist/rhythm guitarist/keyboardist Mike Shinoda, lead guitarist Brad Delson, DJ/turntablist Joe Hahn, bassist Dave Farrell and drummer Colin Brittain, with lead vocalist Emily Armstrong. From 1999 until his death in 2017, Chester Bennington was the band's lead vocalist. Categorized mainly as alternative rock and nu metal, Linkin Park's earlier music spanned a fusion of heavy metal and hip hop, while their later music features more electronica and pop elements.   
 
@@ -103,45 +110,38 @@ Linkin Park是一支美国摇滚乐队，于1996年在加利福尼亚州阿古�
 
 阅读延伸[18646]: [https://en.wikipedia.org/wiki/Linkin_Park](https://en.wikipedia.org/wiki/Linkin_Park)   
 
+## 扑克手列表   
+In poker, players form sets of five playing cards, called hands, according to the rules of the game. Each hand has a rank, which is compared against the ranks of other hands participating in the showdown to decide who wins the pot. In high games, like Texas hold 'em and seven-card stud, the highest-ranking hands win. In low games, like razz, the lowest-ranking hands win. In high-low split games, both the highest-ranking and lowest-ranking hands win, though different rules are used to rank the high and low hands.   
+
+在扑克游戏中，玩家根据游戏规则形成一套五张扑克牌，称为手牌。每手牌都有一个排名，将其与参与对决的其他手牌的排名进行比较，以决定谁赢得赌注。在高级别游戏中，例如德克萨斯扑克和七张牌种马，排名最高的手牌获胜。在低级游戏中，比如razz，排名最低的牌获胜。在高低分割游戏中，排名最高的手牌和排名最低的手牌都获胜，尽管使用不同的规则来对高手牌和低位牌进行排名。   
+
+阅读延伸[24527593]: [https://en.wikipedia.org/wiki/List_of_poker_hands](https://en.wikipedia.org/wiki/List_of_poker_hands)   
+
+## 马修_斯塔福德   
+John Matthew Stafford is an American professional football quarterback for the Los Angeles Rams of the National Football League (NFL). He played college football for the Georgia Bulldogs and was selected first overall by the Detroit Lions in the 2009 NFL draft. Ranking in the top 12 of all time in pass attempts, pass completions, passing yards and passing touchdowns, Stafford is currently fifth all-time in passing yards per game and is the fastest player in NFL history to have reached 40,000 career passing yards.   
+
+约翰·马修·斯塔福德（John Matthew Stafford）是美国国家橄榄球联盟（NFL）洛杉矶公羊队的美国职业橄榄球四分卫。他曾为佐治亚斗牛犬队踢大学橄榄球，并在2009年NFL选秀中被底特律雄狮队选为第一名。斯塔福德在传球尝试、传球完成、传球码数和传球达阵方面排名历史前12名，目前场均传球码数历史上排名第五，也是NFL历史上职业生涯传球码数达到40，000码的最快球员。   
+
+阅读延伸[7574767]: [https://en.wikipedia.org/wiki/Matthew_Stafford](https://en.wikipedia.org/wiki/Matthew_Stafford)   
+
+## 泰里克_希尔   
+Tyreek Hill is an American professional football wide receiver for the Miami Dolphins of the National Football League (NFL). Hill was drafted by the Kansas City Chiefs in the fifth round of the 2016 NFL draft. He played college football at Garden City, Oklahoma State, and West Alabama.   
+
+泰里克·希尔（Tyreek Hill）是美国国家橄榄球联盟（NFL）迈阿密海豚队的美国职业橄榄球边路接球手。希尔在2016年NFL选秀第五轮被堪萨斯城酋长队选中。他在花园城、俄克拉荷马州和西阿拉巴马州踢大学橄榄球。   
+
+阅读延伸[36445204]: [https://en.wikipedia.org/wiki/Tyreek_Hill](https://en.wikipedia.org/wiki/Tyreek_Hill)   
+
+## 街道_2   
+Stree 2: Sarkate Ka Aatank is a 2024 Hindi-language comedy horror film directed by Amar Kaushik, written by Niren Bhatt, and produced jointly by Maddock Films and Jio Studios. The film stars Rajkummar Rao, Shraddha Kapoor, Pankaj Tripathi, Abhishek Banerjee and Aparshakti Khurana. It is the fifth installment in the Maddock Supernatural Universe and is the sequel to Stree (2018).   
+
+Stree 2：Sarkate Ka Aatank是一部2024年印度语喜剧恐怖电影，由Amar Kaushik执导，Niren Bhatt编剧，Maddock Films和Jio Studios联合制作。这部电影由拉贾马尔·拉奥、什拉达·卡普尔、潘卡吉·特里帕蒂、阿布舍克·班纳吉和阿帕尔沙克蒂·库拉纳主演。这是《马多克超自然宇宙》的第五部，也是《Stree》（2018）的续集。   
+
+阅读延伸[73535388]: [https://en.wikipedia.org/wiki/Stree_2](https://en.wikipedia.org/wiki/Stree_2)   
+
 ## 死侍_&_金刚狼   
 Deadpool & Wolverine is a 2024 American superhero film based on Marvel Comics featuring the characters Deadpool and Wolverine. Produced by Marvel Studios, Maximum Effort, and 21 Laps Entertainment, and distributed by Walt Disney Studios Motion Pictures, it is the 34th film in the Marvel Cinematic Universe (MCU) and the sequel to Deadpool (2016) and Deadpool 2 (2018). The film was directed by Shawn Levy from a screenplay he wrote with Ryan Reynolds, Rhett Reese, Paul Wernick, and Zeb Wells. Reynolds and Hugh Jackman respectively star as Wade Wilson / Deadpool and Logan / Wolverine, alongside Emma Corrin, Morena Baccarin, Rob Delaney, Leslie Uggams, Aaron Stanford, and Matthew Macfadyen. In the film, Deadpool learns that the Time Variance Authority is set to destroy his universe and works with a reluctant Wolverine from another universe to stop them.   
 
 《死侍与金刚狼》是一部根据漫威漫画改编的2024年美国超级英雄电影，主角是死侍和金刚狼。该片由漫威工作室、Maximum Effort和21 Laps Entertainment制作，由华特迪士尼工作室电影公司发行，是漫威电影宇宙（MCU）的第34部电影，也是《死侍》（Deadpool）（2016）和《死侍2》（2018）的续集。这部电影由肖恩·利维（Shawn Levy）执导，改编自他与瑞安·雷诺兹（Ryan Reynolds）、瑞德·里斯（Rhett Reese）、保罗·韦尔尼克（Paul Wernick）和泽布·威尔斯（Zeb Wells）共同创作的剧本。雷诺兹和休·杰克曼分别饰演韦德·威尔逊/死侍和洛根/金刚狼，与艾玛·科林、莫雷娜·巴卡林、罗布·德莱尼、莱斯利·乌格斯、亚伦·斯坦福和马修·麦克法迪恩一起出演。在电影中，死侍得知时间变异局准备摧毁他的宇宙，并与来自另一个宇宙的不情愿的金刚狼合作来阻止他们。   
 
 阅读延伸[52234178]: [https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine](https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine)   
-
-## 尼科多_鳄梨   
-Nicholas Perry, known online as Nikocado Avocado, is a Ukrainian-born American internet celebrity and YouTuber known for his mukbang videos on YouTube. As of January 2024, he has accumulated more than 8.6 million subscribers and approximately 2.5 billion total views across six YouTube channels. His online persona is known for his comedic and theatrical performances, gaining excess weight on camera and generating over 10 billion views on TikTok.   
-
-尼古拉斯·佩里（Nicholas Perry），网名Nikocado Avocado，是一位乌克兰出生的美国网络名人，也是YouTuber，因其在YouTube上的mukbang视频而闻名。截至2024年1月，他在6个YouTube频道上积累了超过860万订阅者和约25亿次总观看次数。他的网络形象以其喜剧和戏剧表演而闻名，在镜头上获得了额外的关注，并在TikTok上产生了超过100亿次观看。   
-
-阅读延伸[66827824]: [https://en.wikipedia.org/wiki/Nikocado_Avocado](https://en.wikipedia.org/wiki/Nikocado_Avocado)   
-
-## 利夫_施赖伯   
-Isaac Liev Schreiber is an American actor, director, screenwriter, and producer. He became known during the late 1990s and early 2000s after appearing in several independent films, and later mainstream Hollywood films. He has received numerous accolades including a Tony Award as well as nominations for nine Emmy Awards and five Golden Globe Awards.   
-
-艾萨克·利夫·施赖伯是一位美国演员、导演、编剧和制片人。他在20世纪90年代末和2000年代初出演多部独立电影以及后来的主流好莱坞电影后逐渐出名。他获得了众多荣誉，包括托尼奖以及九项艾美奖和五项金球奖的提名。   
-
-阅读延伸[101393]: [https://en.wikipedia.org/wiki/Liev_Schreiber](https://en.wikipedia.org/wiki/Liev_Schreiber)   
-
-## 亚伦_皮埃尔_（演员）   
-Aaron Stone Pierre is an English actor. After training at the London Academy of Music and Dramatic Art (LAMDA), Pierre gained recognition for his role as Dev-Em in Krypton and later as Caesar in Barry Jenkins' The Underground Railroad. He continued to build his career with performances in M. Night Shyamalan's Old (2021) and the upcoming Mufasa: The Lion King (2024), where he voices the character Mufasa. His recent work includes Rebel Ridge, a thriller directed by Jeremy Saulnier.   
-
-亚伦·斯通·皮埃尔是一位英国演员。在伦敦音乐与戏剧艺术学院（LAEDA）接受培训后，皮埃尔因在《氪星》中饰演Dev-Em以及后来在巴里·詹金斯的《地下铁路》中饰演凯撒而获得认可。他继续凭借在M的表现建立自己的职业生涯。Night Shyamalan的《Old》（2021）和即将上映的《Mufasa：The Lion King》（2024），其中他为Mufasa这个角色配音。他最近的作品包括杰里米·索尼尔执导的惊悚片《叛逆岭》。   
-
-阅读延伸[65436695]: [https://en.wikipedia.org/wiki/Aaron_Pierre_(actor)](https://en.wikipedia.org/wiki/Aaron_Pierre_(actor))   
-
-## 妮可_基德曼   
-Nicole Mary Kidman is an Australian and American actress and producer. Known for her work in film and television productions across many genres, she has consistently ranked among the world's highest-paid actresses since the late 1990s. Her accolades include an Academy Award, a BAFTA Award, two Primetime Emmy Awards, six Golden Globe Awards and the Volpi Cup for Best Actress. She became the first Australian actor to receive the AFI Life Achievement Award honor in 2024.   
-
-妮可·玛丽·基德曼是澳大利亚和美国女演员兼制片人。她因在许多类型的电影和电视制作中的工作而闻名，自20世纪90年代末以来一直跻身世界收入最高的女演员之列。她获得的荣誉包括奥斯卡金像奖、英国电影和电视艺术学院奖、两项黄金时段艾美奖、六项金球奖和沃尔皮杯最佳女主角。2024年，她成为第一位获得AFI终身成就奖的澳大利亚演员。   
-
-阅读延伸[21504]: [https://en.wikipedia.org/wiki/Nicole_Kidman](https://en.wikipedia.org/wiki/Nicole_Kidman)   
-
-## 切斯特_本宁顿   
-Chester Charles Bennington was an American singer who was the lead vocalist of the rock band Linkin Park. He was also the lead vocalist of Grey Daze, Dead by Sunrise, and Stone Temple Pilots at various points.   
-
-切斯特·查尔斯·本宁顿（Chester Charles Bennington）是一位美国歌手，也是摇滚乐队Linkin Park的主唱。他还多次担任Grey Daze、Dead by日出和Stone Temple Pilots的主唱。   
-
-阅读延伸[142809]: [https://en.wikipedia.org/wiki/Chester_Bennington](https://en.wikipedia.org/wiki/Chester_Bennington)   
 
