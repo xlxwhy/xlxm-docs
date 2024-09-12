@@ -1,4 +1,18 @@
 # 最新资讯  
+## 卡马拉_哈里斯   
+Kamala Devi Harris is an American politician and attorney who is the 49th and current vice president of the United States since 2021 under President Joe Biden. She is the first female vice president, making her the highest-ranking female official in U.S. history, as well as the first African American and first Asian American vice president. A member of the Democratic Party, she served as a U.S. senator from California from 2017 to 2021, and earlier as the attorney general of California. Harris is the Democratic Party's nominee in the 2024 U.S. presidential election.   
+
+卡马拉·德维·哈里斯（Kamala Devi Harris）是一位美国政治家和律师，自2021年乔·拜登总统领导下担任美国第49位也是现任副总统。她是第一位女副总统，使她成为美国历史上级别最高的女官员，也是第一位非裔美国人和第一位亚裔美国人副总统。作为民主党成员，她曾于2017年至2021年担任加州美国参议员，并在此之前担任加州总检察长。哈里斯是2024年美国总统选举民主党提名人。   
+
+阅读延伸[3120522]: [https://en.wikipedia.org/wiki/Kamala_Harris](https://en.wikipedia.org/wiki/Kamala_Harris)   
+
+## 9月11日_袭击   
+The September 11 attacks, commonly known as 9/11, were four coordinated Islamist terrorist suicide attacks carried out by al-Qaeda against the United States in 2001. On that morning, 19 terrorists hijacked four commercial airliners scheduled to travel from the East Coast to California. The hijackers crashed the first two planes into the Twin Towers of the World Trade Center in New York City and aimed the next two flights toward targets in or near Washington, D.C., in an attack on the nation's capital. The third team succeeded in striking the Pentagon, the headquarters of the U.S. Department of Defense in Arlington County, Virginia, while the fourth plane crashed in rural Pennsylvania during a passenger revolt. The September 11 attacks killed 2,977 people, making it the deadliest terrorist attack in history. In response to the attacks, the United States waged the multi-decade global war on terror to eliminate hostile groups deemed terrorist organizations, as well as the foreign governments purported to support them, in Afghanistan, Iraq, Syria, and several other countries.   
+
+9·11袭击，俗称9·11，是基地组织2001年对美国发动的四次有组织的伊斯兰恐怖主义自杀式袭击。当天上午，19名恐怖分子劫持了四架原定从东海岸飞往加利福尼亚州的商业客机。劫机者将前两架飞机撞向纽约世贸中心双子塔，并将接下来的两架飞机对准华盛顿特区或附近的目标，对美国首都发动袭击。第三小队成功袭击了位于弗吉尼亚州阿灵顿县的美国国防部总部五角大楼，而第四架飞机在一次乘客叛乱中在宾夕法尼亚州农村地区坠毁。9·11恐怖袭击造成2977人死亡，成为历史上死亡人数最多的恐怖袭击。作为对袭击的回应，美国在阿富汗、伊拉克、叙利亚和其他几个国家发动了长达数十年的全球反恐战争，以消灭被视为恐怖组织的敌对组织，以及据称支持这些组织的外国政府。   
+
+阅读延伸[5058690]: [https://en.wikipedia.org/wiki/September_11_attacks](https://en.wikipedia.org/wiki/September_11_attacks)   
+
 ## 詹姆斯·厄尔·琼斯   
 James Earl Jones was an American actor known for his film roles and for his work in theater. He was one of the few performers to achieve the EGOT. Jones has been described as "one of America's most distinguished and versatile" actors for his performances on stage and screen. He has also been called "one of the greatest actors in American history". He was inducted into the American Theater Hall of Fame in 1985. He was honored with the National Medal of Arts in 1992, the Kennedy Center Honor in 2002, the Screen Actors Guild Life Achievement Award in 2009, and the Honorary Academy Award in 2011.   
 
@@ -6,12 +20,68 @@ James Earl Jones was an American actor known for his film roles and for his work
 
 阅读延伸[18622049]: [https://en.wikipedia.org/wiki/James_Earl_Jones](https://en.wikipedia.org/wiki/James_Earl_Jones)   
 
-## 塞西莉亚_哈特   
-Cecilia Hart, sometimes credited as Ceci Jones, was an American actress who played Stacey Erickson in the CBS police drama Paris, which originally ran from 1979 until 1980. Hart co-starred with her future husband James Earl Jones in the series.   
+## 弗兰基_贝弗利   
+Frankie Beverly was an American singer, songwriter, and producer, known primarily for his recordings with the soul and funk band Maze. Beverly formed Maze, originally called Raw Soul, in his hometown of Philadelphia in 1970. After a relocation to San Francisco and an introduction to Marvin Gaye, Maze went on to release nine Gold albums and create a large and devoted following. Beverly was the band's writer, producer and lead singer. He was known for his distinctive smooth baritone voice and charismatic stage presence.   
 
-塞西莉亚·哈特（Cecilia Hart），有时被称为塞西莉亚·琼斯（Ceci Jones），是一位美国女演员，曾在哥伦比亚广播公司（CBS）的警匪剧《巴黎》中饰演史黛西·埃里克森（Stacey Erickson），该剧最初于1979年播出至1980年。哈特与她未来的丈夫詹姆斯·厄尔·琼斯共同主演了该剧。   
+弗兰基·贝弗利（Frankie Beverly）是一位美国歌手、词曲作者和制作人，主要因与灵魂乐和放克乐队Maze合作的唱片而闻名。贝弗利于1970年在家乡费城成立了Maze，原名Raw Soul。在搬到旧金山并介绍马文·盖伊（Marvin Gaye）后，Maze继续发行了九张Gold专辑，并培养了大量忠实的追随者。贝弗利是乐队的编剧、制作人和主唱。他以其独特流畅的男中音声音和魅力十足的舞台表演而闻名。   
 
-阅读延伸[9135927]: [https://en.wikipedia.org/wiki/Cecilia_Hart](https://en.wikipedia.org/wiki/Cecilia_Hart)   
+阅读延伸[1681033]: [https://en.wikipedia.org/wiki/Frankie_Beverly](https://en.wikipedia.org/wiki/Frankie_Beverly)   
+
+## 大卫_缪尔   
+David Jason Muir is an American journalist and anchor for ABC World News Tonight and co-anchor of the ABC News magazine 20/20, part of the news department of the ABC broadcast-television network, based in New York City. Muir previously served as the weekend anchor and primary substitute anchor on ABC's World News Tonight with Diane Sawyer succeeding her on September 1, 2014. At ABC News, Muir has won multiple Emmy and Edward R. Murrow awards for his national and international journalism. He was the 2024 recipient of the Walter Cronkite Award for Excellence in Journalism.   
+
+大卫·杰森·缪尔（David Jason Muir）是一名美国记者，也是ABC今晚世界新闻的主持人，也是ABC新闻杂志20/20的联合主持人，该杂志是ABC广播电视网络新闻部门的一部分，总部位于纽约市。缪尔此前曾担任美国广播公司《今夜世界新闻》的周末主播和主要替补主播，黛安·索耶（Diane Sawyer）于2014年9月1日接替她。在美国广播公司新闻频道，缪尔曾多次获得艾美奖和爱德华·R。默罗因其国内和国际新闻报道而获奖。他是2024年沃尔特·克朗凯特新闻卓越奖的获得者。   
+
+阅读延伸[17880869]: [https://en.wikipedia.org/wiki/David_Muir](https://en.wikipedia.org/wiki/David_Muir)   
+
+## 戴夫_格罗尔   
+David Eric Grohl is an American musician. He founded the rock band Foo Fighters, of which he is the lead singer, guitarist, and principal songwriter. From 1990 to 1994, he was the drummer of the grunge band Nirvana.   
+
+大卫·埃里克·格罗尔是一位美国音乐家。他创立了摇滚乐队Foo Fighters，担任主唱、吉他手和首席词曲作者。1990年至1994年，他担任垃圾乐队Nirvana的鼓手。   
+
+阅读延伸[8099]: [https://en.wikipedia.org/wiki/Dave_Grohl](https://en.wikipedia.org/wiki/Dave_Grohl)   
+
+## Malaika_Arora   
+Malaika Arora is an Indian actress, dancer, model, VJ and television personality who appears in Hindi-language films. She made her debut as a film producer in 2008 with her former husband Arbaaz Khan, founding the company Arbaaz Khan Productions, which created the Dabangg film series. As an actress, she has starred in films like Kaante (2002) and EMI (2008). She also performed in the songs Chaiyya Chaiyya (1998), Gur Naalo Ishq Mitha (1998), Maahi Ve (2002), Kaal Dhamaal (2005) and Munni Badnaam Hui (2010).   
+
+Malaika Arora是一位印度女演员、舞者、模特、VJ和电视名人，曾出演印度语电影。2008年，她与前夫Arbaaz Khan一起首次担任电影制片人，创立了Arbaaz Khan Productions公司，该公司制作了Dabangg电影系列。作为一名女演员，她曾主演过《Kaante》（2002年）和《EMI》（2008年）等电影。她还演唱了歌曲Chaiyya Chaiyya（1998）、Gur Naalo Ishq Mitha（1998）、Maahi Ve（2002）、Kaal Dhamaal（2005）和Munni Badnaam Hui（2010）。   
+
+阅读延伸[2452594]: [https://en.wikipedia.org/wiki/Malaika_Arora](https://en.wikipedia.org/wiki/Malaika_Arora)   
+
+## 唐纳德_J_哈里斯   
+Donald Jasper Harris, is a Jamaican-American economist and professor emeritus at Stanford University, known for applying post-Keynesian ideas to development economics.   
+
+唐纳德·贾斯珀·哈里斯（Donald Jasper Harris）是牙买加裔美国经济学家、斯坦福大学名誉教授，以将后凯恩斯主义思想应用于发展经济学而闻名。   
+
+阅读延伸[64832502]: [https://en.wikipedia.org/wiki/Donald_J._Harris](https://en.wikipedia.org/wiki/Donald_J._Harris)   
+
+## 项目_2025   
+The 2025 Presidential Transition Project, also known as Project 2025, is an initiative organized by the Heritage Foundation with the aim of promoting a collection of conservative and right-wing policy proposals to reshape the United States federal government and consolidate executive power should Donald Trump win the 2024 presidential election. The Project asserts that the entire executive branch is under the direct control of the president under Article II of the U.S. Constitution and the unitary executive theory. It proposes reclassifying tens of thousands of federal civil service workers as political appointees, in order to replace them with loyalists more willing to enable Trump's policies. In doing so, proponents argue that the change would dismantle what they view as a vast, unaccountable, and mostly liberal government bureaucracy. The Project seeks to infuse the government and society with Christian values. Critics have characterized Project 2025 as an authoritarian, Christian nationalist plan to steer the U.S. toward autocracy. Many legal experts have said it would undermine the rule of law, the separation of powers, the separation of church and state, and civil liberties.   
+
+2025年总统过渡项目，也被称为2025年项目，是由传统基金会组织的一个倡议，目的是促进一系列保守派和右翼政策建议的收集，以重塑美国联邦政府，并巩固行政权力，如果唐纳德·特朗普赢得2024年总统选举的话。该项目声称，根据美国宪法第二条和单一行政理论，整个行政部门都在总统的直接控制之下。它提议将数万名联邦公务员重新归类为政治任命人员，以取代他们，让更愿意支持特朗普政策的忠诚者取而代之。在这样做的过程中，支持者辩称，这一变化将瓦解他们认为庞大、不负责任、大多是自由派的政府官僚机构。该项目旨在向政府和社会灌输基督教价值观。批评人士将2025计划描述为一个威权的基督教民族主义计划，旨在引导美国走向独裁。许多法律专家表示，这将破坏法治、权力分离、政教分离和公民自由。   
+
+阅读延伸[74699486]: [https://en.wikipedia.org/wiki/Project_2025](https://en.wikipedia.org/wiki/Project_2025)   
+
+## 中央公园慢跑者案例   
+The Central Park jogger case was a criminal case concerning the assault and rape of Trisha Meili, a woman in Central Park in Manhattan, New York, on April 19, 1989. On the night of the attack, dozens of teenagers had entered the park, and there were reports of muggings and physical assaults.   
+
+中央公园慢跑者案是一起刑事案件，涉及1989年4月19日在纽约曼哈顿中央公园袭击和强奸一名妇女特里莎·梅利（Trisha Meili）的案件。袭击发生当晚，数十名青少年进入公园，有报道称发生了抢劫和人身攻击事件。   
+
+阅读延伸[210677]: [https://en.wikipedia.org/wiki/Central_Park_jogger_case](https://en.wikipedia.org/wiki/Central_Park_jogger_case)   
+
+## 维克托_欧尔班   
+Viktor Mihály Orbán is a Hungarian lawyer and politician who has been Prime Minister of Hungary since 2010, previously holding the office from 1998 to 2002. He has led the Fidesz political party since 1993, with a break between 2000 and 2003.   
+
+维克托·米哈里·欧尔班（Viktor Mihály Orbán）是一位匈牙利律师和政治家，自2010年以来一直担任匈牙利总理，此前曾于1998年至2002年担任总理。他自1993年以来一直领导青民盟政党，并在2000年至2003年间中断。   
+
+阅读延伸[750582]: [https://en.wikipedia.org/wiki/Viktor_Orb%C3%A1n](https://en.wikipedia.org/wiki/Viktor_Orb%C3%A1n)   
+
+## 唐纳德_特朗普   
+Donald John Trump is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021.   
+
+唐纳德·约翰·特朗普是一位美国政治家、媒体人物和商人，曾于2017年至2021年担任美国第45任总统。   
+
+阅读延伸[4848272]: [https://en.wikipedia.org/wiki/Donald_Trump](https://en.wikipedia.org/wiki/Donald_Trump)   
 
 ## 有史以来最伟大的   
 The Greatest of All Time is a 2024 Indian Tamil-language action thriller film directed by Venkat Prabhu and produced by AGS Entertainment. The film stars Vijay in dual roles, alongside Prashanth, Prabhu Deva, Mohan, Ajmal Ameer, Jayaram, Sneha, Laila, Meenakshi Chaudhary, Vaibhav, Yogi Babu, Premgi Amaren and Yugendran. It is the twenty-fifth production of the studio. The film follows Gandhi, former leader of a special anti-terrorist squad, who reconciles with his squad members to address the problems which were stemmed from their previous actions.   
@@ -20,19 +90,19 @@ The Greatest of All Time is a 2024 Indian Tamil-language action thriller film di
 
 阅读延伸[73855135]: [https://en.wikipedia.org/wiki/The_Greatest_of_All_Time](https://en.wikipedia.org/wiki/The_Greatest_of_All_Time)   
 
-## 天使_戈麦斯   
-Adilson Angel Abreu de Almeida Gomes is an English professional footballer who plays as a midfielder for Ligue 1 club Lille. A versatile player, he has been deployed as an attacking midfielder, central midfielder and wide midfielder in his career.   
+## 压裂   
+Fracking is a well stimulation technique involving the fracturing of formations in bedrock by a pressurized liquid. The process involves the high-pressure injection of "fracking fluid" into a wellbore to create cracks in the deep-rock formations through which natural gas, petroleum, and brine will flow more freely. When the hydraulic pressure is removed from the well, small grains of hydraulic fracturing proppants hold the fractures open.   
 
-阿德尔森·安赫尔·阿布鲁·德阿尔梅达·戈麦斯是一位英国职业足球运动员，在法甲俱乐部里尔担任中场球员。作为一名多才多艺的球员，他在职业生涯中曾担任攻击型中场、中场和边路中场。   
+水力压裂是一种井增产技术，涉及通过加压液体压裂岩床中的地层。该过程涉及将“水力压裂液”高压注入井眼，以在深层岩层中产生裂缝，天然气、石油和盐水将通过裂缝更自由地流动。当水力从井中去除时，小颗粒水力压裂支撑剂将使裂缝保持开放。   
 
-阅读延伸[54088033]: [https://en.wikipedia.org/wiki/Angel_Gomes](https://en.wikipedia.org/wiki/Angel_Gomes)   
+阅读延伸[32544339]: [https://en.wikipedia.org/wiki/Fracking](https://en.wikipedia.org/wiki/Fracking)   
 
-## 泰里克_希尔   
-Tyreek Hill is an American professional football wide receiver for the Miami Dolphins of the National Football League (NFL). Hill was drafted by the Kansas City Chiefs in the fifth round of the 2016 NFL draft. He played college football at Garden City, Oklahoma State, and West Alabama.   
+## 林赛_戴维斯   
+Linsey Davis is an American broadcast journalist at ABC News, who currently anchors the Sunday edition of World News Tonight and the network's weekday prime-time streaming program, ABC News Live Prime with Linsey Davis. She is also a substitute anchor for Good Morning America, and the weekday and Saturday editions of ABC World News Tonight.   
 
-泰里克·希尔（Tyreek Hill）是美国国家橄榄球联盟（NFL）迈阿密海豚队的美国职业橄榄球边路接球手。希尔在2016年NFL选秀第五轮被堪萨斯城酋长队选中。他在花园城、俄克拉荷马州和西阿拉巴马州踢大学橄榄球。   
+林赛·戴维斯（Linsey Davis）是美国广播公司新闻（ABC News）的美国广播记者，目前主持周日版的《今夜世界新闻》（World News Tonight）和该电视台平日黄金时段流媒体节目《ABC News Live Prime》（Linsey Davis）。她还是《早安美国》以及ABC《今夜世界新闻》平日和周六版的替补主播。   
 
-阅读延伸[36445204]: [https://en.wikipedia.org/wiki/Tyreek_Hill](https://en.wikipedia.org/wiki/Tyreek_Hill)   
+阅读延伸[72448272]: [https://en.wikipedia.org/wiki/Linsey_Davis](https://en.wikipedia.org/wiki/Linsey_Davis)   
 
 ## 死亡_in_2024   
 
@@ -45,101 +115,31 @@ The following notable deaths occurred in 2024. Names are reported under the date
 
 阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
 
+## 2024年_联合_州_总统_选举   
+The 2024 United States presidential election will be the 60th quadrennial presidential election, set to be held on Tuesday, November 5, 2024. Voters in each state and the District of Columbia will choose electors to the Electoral College, who will then elect a president and vice president for a term of four years.   
+
+2024年美国总统选举将是第60次四年一度的总统选举，定于2024年11月5日星期二举行。每个州和哥伦比亚特区的选民将选择选举人团选举人，然后选举人团选举总统和副总统，任期四年。   
+
+阅读延伸[59568546]: [https://en.wikipedia.org/wiki/2024_United_States_presidential_election](https://en.wikipedia.org/wiki/2024_United_States_presidential_election)   
+
+## 2024年_United_States_Presidential_debates   
+The 2024 United States presidential debates are a series of debates held before the 2024 presidential election. The first general election debate between the major candidates was sponsored by CNN and attended by then-presumptive Democratic nominee Joe Biden and presumptive Republican nominee Donald Trump on June 27, 2024. Biden’s poor performance in the debate led him to withdraw from the race on July 21, and Kamala Harris was elected to replace him, while Trump became the official Republican nominee that same month. The second debate, which was sponsored by ABC, was held on September 10, 2024.   
+
+2024年美国总统辩论是2024年总统选举前举行的一系列辩论。主要候选人之间的首次大选辩论由CNN赞助，当时的民主党推定候选人乔·拜登和共和党推定候选人唐纳德·特朗普于2024年6月27日出席。拜登在辩论中的表现不佳导致他于7月21日退出竞选，卡马拉·哈里斯当选接替他，而特朗普同月成为共和党官方提名人。第二场辩论由ABC赞助，于2024年9月10日举行。   
+
+阅读延伸[75379533]: [https://en.wikipedia.org/wiki/2024_United_States_presidential_debates](https://en.wikipedia.org/wiki/2024_United_States_presidential_debates)   
+
+## 2020年_联合_州_总统_选举   
+The 2020 United States presidential election was the 59th quadrennial presidential election, held on Tuesday, November 3, 2020. The Democratic ticket of former vice president Joe Biden and the junior U.S. senator from California Kamala Harris defeated the incumbent Republican president, Donald Trump, and vice president, Mike Pence. The election took place against the backdrop of the global COVID-19 pandemic and related recession. The election saw the highest voter turnout by percentage since 1900, with each of the two main tickets receiving more than 74 million votes, surpassing Barack Obama's record of 69.5 million votes from 2008. Biden received more than 81 million votes, the most votes ever cast for a candidate in a U.S. presidential election.   
+
+2020年美国总统选举是第59次四年一度的总统选举，于2020年11月3日星期二举行。前副总统乔·拜登和来自加利福尼亚州的美国初级参议员卡马拉·哈里斯的民主党候选人击败了现任共和党总统唐纳德·特朗普和副总统迈克·彭斯。这次选举是在全球COVID-19大流行和相关经济衰退的背景下举行的。这次选举的选民投票率创下了1900年以来最高的一次，两张主要选票均获得超过7400万张选票，超过了巴拉克·奥巴马（Barack Obama）2008年创下的6950万张选票的纪录。拜登获得了超过8100万张选票，这是美国总统选举中候选人获得的最多选票。   
+
+阅读延伸[48410011]: [https://en.wikipedia.org/wiki/2020_United_States_presidential_election](https://en.wikipedia.org/wiki/2020_United_States_presidential_election)   
+
 ## 完美情侣（电视剧）   
 The Perfect Couple is an American mystery drama series starring Nicole Kidman, Liev Schreiber, Dakota Fanning, and Eve Hewson. It is an adaptation of the 2018 novel of the same name by Elin Hilderbrand, premiered on September 5, 2024, on Netflix.   
 
 《完美情侣》是一部美国悬疑剧，由妮可·基德曼、利夫·施雷伯、达科塔·范宁和伊芙·休森主演。该剧改编自艾琳·希尔德布兰德（Elin Hilderbrand）2018年同名小说，于2024年9月5日在Netflix首播。   
 
 阅读延伸[73447868]: [https://en.wikipedia.org/wiki/The_Perfect_Couple_(TV_series)](https://en.wikipedia.org/wiki/The_Perfect_Couple_(TV_series))   
-
-## 戴夫_格罗尔   
-David Eric Grohl is an American musician. He founded the rock band Foo Fighters, of which he is the lead singer, guitarist, and principal songwriter. From 1990 to 1994, he was the drummer of the grunge band Nirvana.   
-
-大卫·埃里克·格罗尔是一位美国音乐家。他创立了摇滚乐队Foo Fighters，担任主唱、吉他手和首席词曲作者。1990年至1994年，他担任垃圾乐队Nirvana的鼓手。   
-
-阅读延伸[8099]: [https://en.wikipedia.org/wiki/Dave_Grohl](https://en.wikipedia.org/wiki/Dave_Grohl)   
-
-## 朱丽安·玛丽   
-Julienne Marie is an American former actress and singer, best known for her work on the Broadway stage. In addition to her career in theater, Marie appeared in soap operas such as Our Private World (1965) and Ryan's Hope (1978).   
-
-朱丽安·玛丽是一位美国前女演员和歌手，以其在百老汇舞台上的作品而闻名。除了戏剧生涯外，玛丽还出演了《我们的私人世界》（1965年）和《瑞恩的希望》（1978年）等肥皂剧。   
-
-阅读延伸[35595716]: [https://en.wikipedia.org/wiki/Julienne_Marie](https://en.wikipedia.org/wiki/Julienne_Marie)   
-
-## 乔丹_梅森   
-Jordan Ponchez Mason is an American professional football running back for the San Francisco 49ers of the National Football League (NFL). He played college football at Georgia Tech.   
-
-乔丹·庞切斯·梅森（Jordan Ponchez Mason）是美国国家橄榄球联盟（NFL）旧金山49人队的美国职业足球跑卫。他在佐治亚理工学院踢大学橄榄球。   
-
-阅读延伸[71637991]: [https://en.wikipedia.org/wiki/Jordan_Mason](https://en.wikipedia.org/wiki/Jordan_Mason)   
-
-## 甲虫汁_甲虫汁   
-Beetlejuice Beetlejuice is a 2024 American fantasy comedy horror film directed by Tim Burton from a screenplay by the writing team of Alfred Gough and Miles Millar, based on a story by Gough, Millar, and Seth Grahame-Smith. A sequel to Beetlejuice (1988) and the second film of the Beetlejuice franchise, it stars Michael Keaton, Winona Ryder, and Catherine O'Hara reprising their roles alongside new cast members Justin Theroux, Monica Bellucci, Jenna Ortega, and Willem Dafoe.   
-
-Beetlejuice Beetlejuice是一部2024年美国奇幻喜剧恐怖电影，由蒂姆·伯顿执导，改编自阿尔弗雷德·高夫和迈尔斯·米勒编剧团队的剧本，改编自高夫、米勒和塞斯·格雷厄姆-史密斯的故事。这是《Beetlejuice》（1988）的续集，也是《Beetlejuice》系列的第二部电影，由迈克尔·基顿、薇诺娜·莱德和凯瑟琳·奥哈拉主演，与新演员贾斯汀·塞洛克斯、莫妮卡·贝鲁奇、珍娜·奥尔特加和威廉·达福一起重新扮演他们的角色。   
-
-阅读延伸[70574547]: [https://en.wikipedia.org/wiki/Beetlejuice_Beetlejuice](https://en.wikipedia.org/wiki/Beetlejuice_Beetlejuice)   
-
-## 约翰尼_高德罗   
-John Michael Gaudreau was an American professional ice hockey winger who played 11 seasons in the National Hockey League (NHL). He played for the NCAA Division I's Boston College Eagles from 2011 to 2014, and was selected by the Calgary Flames in the fourth round, 104th overall, of the 2011 NHL Entry Draft. Nicknamed "Johnny Hockey", he was named the 2014 winner of the Hobey Baker Award as the best player in the NCAA, and, during his first full NHL season in 2014–15, he was selected to play in the 2015 NHL All-Star Game, as well as being selected in the 2014 NHL All-Rookie team. Johnny was a Calder Memorial Trophy finalist for the NHL's best rookie. He won the Lady Byng Memorial Trophy as the NHL's most gentlemanly player for the 2016–17 season. In 2022, Gaudreau signed with the Columbus Blue Jackets, where he spent two seasons with the team.   
-
-约翰·迈克尔·高德罗是一位美国职业冰球边锋，在国家冰球联盟（NHL）效力了11个赛季。2011年至2014年，他效力于NCAA I组的波士顿学院老鹰队，并在2011年NHL入围选秀第四轮（总成绩第104名）中被卡尔加里火焰队选中。他绰号“约翰尼·霍基”，被评为2014年霍比·贝克奖（Hobey Baker Award）的NCAA最佳球员，并且在2014-15赛季的第一个完整NHL赛季中，他被选中参加2015年NHL全明星赛，并入选2014年NHL全新秀队。约翰尼是考尔德纪念杯NHL最佳新秀决赛入围者。他赢得了拜恩夫人纪念奖杯，成为NHL 2016-17赛季最绅士的球员。2022年，高德罗与哥伦布蓝夹克队签约，并在球队度过了两个赛季。   
-
-阅读延伸[33438856]: [https://en.wikipedia.org/wiki/Johnny_Gaudreau](https://en.wikipedia.org/wiki/Johnny_Gaudreau)   
-
-## 詹姆斯·厄尔·琼斯在银幕和舞台上   
-American actor James Earl Jones had an extensive career in various film, television, and theater. He started out in film by appearing in the 1964 political satire film Dr. Strangelove as Lt. Lothar Zogg. He then went on to star in the 1970 film The Great White Hope as Jack Jefferson, a role he first played in the Broadway production of the same name. The film role earned him two Golden Globe nominations, one for Best Actor and winning one for New Star of the Year. He also received an Academy Award nomination for Best Actor. His other work in the 1970s included playing the title character in Malcolm X (1972), Johnny Williams in The River Niger (1976), Nick Debrett in Swashbuckler (1976), Malcolm X again in The Greatest (1977), and The Bushido Blade with Richard Boone (1979).   
-
-美国演员詹姆斯·厄尔·琼斯在各种电影、电视和戏剧领域拥有广泛的职业生涯。他在1964年的政治讽刺电影《奇爱博士》中饰演洛塔尔·佐格中尉，开始涉足电影界。随后，他在1970年的电影《伟大的白人希望》中饰演杰克·杰斐逊，这是他在同名百老汇作品中首次扮演的角色。这个电影角色为他赢得了两项金球奖提名，其中一项是最佳男主角，一项是年度新星。他还获得了奥斯卡最佳男主角提名。他在20世纪70年代的其他作品包括在《马尔科姆·X》（Malcolm X，1972年）中扮演主角、在《尼日尔河》（The River Niger，1976年）中扮演约翰尼·威廉姆斯（Johnny Williams）、在《斯沃什巴克勒》（Swashbuckler，1976年）中扮演尼克·德布雷特（Nick Debrett）、在《最伟大的》（The Greatest，1977年）中再次扮演马尔科姆·X和理查德·布恩的武士道刀锋（The Bushido Blade，1979年）。   
-
-阅读延伸[43192439]: [https://en.wikipedia.org/wiki/James_Earl_Jones_on_screen_and_stage](https://en.wikipedia.org/wiki/James_Earl_Jones_on_screen_and_stage)   
-
-## Beetlejuice   
-Beetlejuice is a 1988 American dark fantasy horror comedy film directed by Tim Burton from a screenplay by Michael McDowell and Warren Skaaren based on a story by McDowell and Larry Wilson. The film stars Alec Baldwin, Geena Davis, Jeffrey Jones, Catherine O'Hara, Winona Ryder and Michael Keaton as the titular character. The first installment of the Beetlejuice franchise, the plot revolves around a recently deceased couple. As ghosts, they are not allowed to leave their house. They contact Betelgeuse, a charismatic "bio-exorcist" to scare the house's new inhabitants away. The film prominently features music from Harry Belafonte's albums Calypso and Jump Up Calypso.   
-
-《Beetlejuice》是一部1988年的美国黑暗奇幻恐怖喜剧电影，由蒂姆·伯顿执导，改编自迈克尔·麦克道尔和沃伦·斯卡伦的剧本，改编自麦克道尔和拉里·威尔逊的故事。这部电影由亚历克·鲍德温、吉娜·戴维斯、杰弗里·琼斯、凯瑟琳·奥哈拉、薇诺娜·莱德和迈克尔·基顿担任主角。作为Beetlejuice系列的第一部，情节围绕一对最近去世的夫妇展开。作为鬼魂，他们不被允许离开家。他们联系了具有魅力的“生物驱魔人”，以吓跑房子的新居民。这部电影主要收录了Harry Belafonte的专辑Calypso和Jump Up Calypso中的音乐。   
-
-阅读延伸[293524]: [https://en.wikipedia.org/wiki/Beetlejuice](https://en.wikipedia.org/wiki/Beetlejuice)   
-
-## 艾米丽_阿姆斯特朗_（音乐家）   
-Emily Armstrong is an American singer, songwriter and musician. Described as "Janis Joplin for the arena rock age", she co-founded Dead Sara in 2005 and joined Linkin Park as lead singer in September 2024.   
-
-艾米丽·阿姆斯特朗是一位美国歌手、词曲作者和音乐家。她被称为“竞技场摇滚时代的Janis Joplin”，于2005年与人共同创立了Dead Sara，并于2024年9月加入Linkin Park担任主唱。   
-
-阅读延伸[77789990]: [https://en.wikipedia.org/wiki/Emily_Armstrong_(musician)](https://en.wikipedia.org/wiki/Emily_Armstrong_(musician))   
-
-## 亚伦_罗杰斯   
-Aaron Charles Rodgers is an American professional football quarterback for the New York Jets of the National Football League (NFL). He played college football for the California Golden Bears, before being selected in the first round of the 2005 NFL draft by the Green Bay Packers, spending 18 seasons with the team. He is regarded among the greatest and most talented quarterbacks of all time.   
-
-亚伦·查尔斯·罗杰斯（Aaron Charles Rodgers）是美国国家橄榄球联盟（NFL）纽约喷气机队的美国职业橄榄球四分卫。他曾为加州金熊队踢大学橄榄球，随后在2005年NFL选秀第一轮被绿湾包装工队选中，并在球队度过了18个赛季。他被认为是有史以来最伟大、最有才华的四分卫之一。   
-
-阅读延伸[1284267]: [https://en.wikipedia.org/wiki/Aaron_Rodgers](https://en.wikipedia.org/wiki/Aaron_Rodgers)   
-
-## 切斯特_本宁顿   
-Chester Charles Bennington was an American singer who was the lead vocalist of the rock band Linkin Park. He was also the lead vocalist of Grey Daze, Dead by Sunrise, and Stone Temple Pilots at various points.   
-
-切斯特·查尔斯·本宁顿（Chester Charles Bennington）是一位美国歌手，也是摇滚乐队Linkin Park的主唱。他还多次担任Grey Daze、Dead by日出和Stone Temple Pilots的主唱。   
-
-阅读延伸[142809]: [https://en.wikipedia.org/wiki/Chester_Bennington](https://en.wikipedia.org/wiki/Chester_Bennington)   
-
-## 卡马拉_哈里斯   
-Kamala Devi Harris is an American politician and attorney who is the 49th and current vice president of the United States since 2021 under President Joe Biden. She is the first female vice president, making her the highest-ranking female official in U.S. history, as well as the first African American and first Asian American vice president. A member of the Democratic Party, she served as a U.S. senator from California from 2017 to 2021, and earlier as the attorney general of California. Harris is the Democratic Party's nominee in the 2024 U.S. presidential election.   
-
-卡马拉·德维·哈里斯（Kamala Devi Harris）是一位美国政治家和律师，自2021年乔·拜登总统领导下担任美国第49位也是现任副总统。她是第一位女副总统，使她成为美国历史上级别最高的女官员，也是第一位非裔美国人和第一位亚裔美国人副总统。作为民主党成员，她曾于2017年至2021年担任加州美国参议员，并在此之前担任加州总检察长。哈里斯是2024年美国总统选举民主党提名人。   
-
-阅读延伸[3120522]: [https://en.wikipedia.org/wiki/Kamala_Harris](https://en.wikipedia.org/wiki/Kamala_Harris)   
-
-## 伊芙_休森   
-Memphis Eve Sunny Day Iris Hewson is an Irish actress. Her first major role was in the 2011 drama film This Must Be the Place, and she made her television debut as Nurse Lucy Elkins in the 2014 Steven Soderbergh series The Knick. She has appeared in films such as Blood Ties (2013), Bridge of Spies (2015), and Robin Hood (2018). In 2020, she starred in the miniseries The Luminaries. In 2021 she starred as Adele in the Netflix miniseries Behind Her Eyes, then in 2022 she played Becka in the Apple TV+ series Bad Sisters, which won a Peabody Award, and in 2023 she played the lead Flora in the Apple TV+ movie Flora and Son.   
-
-孟菲斯伊芙晴天艾里斯·休森是一位爱尔兰女演员。她的第一个主要角色是在2011年的剧情片《This Must Be the Place》中，并在2014年史蒂文·索德伯格（Steven Soderbergh）的电视剧《尼克》中饰演护士露西·埃尔金斯（Nurse Lucy Elkins）首次在电视上亮相。她曾出演过《血色纽带》（2013年）、《间谍之桥》（2015年）和《罗宾汉》（2018年）等电影。2020年，她主演了迷你剧《The Luminaries》。2021年，她在Netflix迷你剧《Behind Her Eyes》中饰演阿黛尔，2022年，她在Apple TV+电视剧《Bad Sisters》中饰演贝卡，该剧荣获皮博迪奖，2023年，她在Apple TV+电影《Flora and Son》中饰演主角Flora。   
-
-阅读延伸[34150718]: [https://en.wikipedia.org/wiki/Eve_Hewson](https://en.wikipedia.org/wiki/Eve_Hewson)   
-
-## LinkedIn_Park   
-Linkin Park is an American rock band formed in Agoura Hills, California, in 1996. The band's lineup consists of vocalist/rhythm guitarist/keyboardist Mike Shinoda, lead guitarist Brad Delson, DJ/turntablist Joe Hahn, bassist Dave Farrell and drummer Colin Brittain, with lead vocalist Emily Armstrong. From 1999 until his death in 2017, Chester Bennington was the band's lead vocalist. Categorized mainly as alternative rock and nu metal, Linkin Park's earlier music spanned a fusion of heavy metal and hip hop, while their later music features more electronica and pop elements.   
-
-Linkin Park是一支美国摇滚乐队，于1996年在加利福尼亚州阿古拉山成立。乐队的阵容包括歌手/节奏吉他手/键盘手Mike Shinoda、主音吉他手Brad Delson、DJ/唱片歌手Joe Hahn、贝斯手Dave Farrell和鼓手Colin Brittain以及主唱Emily Armstrong。从1999年到2017年去世，切斯特·本宁顿（Chester Bennington）一直是乐队的主唱。Linkin Park的早期音乐主要分为另类摇滚和nu metal，融合了重金属和嘻哈，而他们后来的音乐则采用了更多电子音乐和流行元素。   
-
-阅读延伸[18646]: [https://en.wikipedia.org/wiki/Linkin_Park](https://en.wikipedia.org/wiki/Linkin_Park)   
 
