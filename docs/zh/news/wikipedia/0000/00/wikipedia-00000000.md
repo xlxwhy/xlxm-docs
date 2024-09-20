@@ -1,4 +1,11 @@
 # 最新资讯  
+## 莱尔和埃里克·梅嫩德斯   
+Joseph Lyle Menéndez and Erik Galen Menéndez are American brothers who were convicted in 1996 of the murders of their parents, José and Mary Louise "Kitty" Menéndez.   
+
+约瑟夫·莱尔·梅嫩德斯（Joseph Lyle Menéndez）和埃里克·盖伦·梅嫩德斯（Erik Galen Menéndez）是美国兄弟，他们于1996年因谋杀父母何塞·路易丝·梅嫩德斯（José）和玛丽·路易丝·“基蒂”·梅嫩德斯（Mary Louise ' Kitty ' Menéndez）而被定罪。   
+
+阅读延伸[663704]: [https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez](https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez)   
+
 ## 肖恩_库姆斯   
 Sean Love Combs, also known by his stage name Diddy, formerly Puff Daddy and P. Diddy, is an American rapper, record producer and record executive. He is credited with the discovery and cultivation of artists such as the Notorious B.I.G., Mary J. Blige, and Usher. Combs has won three Grammy Awards from 13 nominations, two MTV Video Music Awards, and a Guinness World Record for "Most Successful Rap Producer" in 1997.   
 
@@ -6,12 +13,19 @@ Sean Love Combs, also known by his stage name Diddy, formerly Puff Daddy and P. 
 
 阅读延伸[152447]: [https://en.wikipedia.org/wiki/Sean_Combs](https://en.wikipedia.org/wiki/Sean_Combs)   
 
-## 安娜_索罗金   
-Anna Sorokin, also known as Anna Delvey, is a con artist and fraudster who posed as a wealthy heiress to access upper-class New York social and art scenes from 2013 to 2017.   
+## 阿加莎_All_Along_（迷你剧）   
+Agatha All Along is an American television miniseries created by Jac Schaeffer for the streaming service Disney+, based on the Marvel Comics character Agatha Harkness. A spin-off from the series WandaVision (2021), it is the 11th television series in the Marvel Cinematic Universe (MCU) produced by Marvel Studios, via its Marvel Television label, sharing continuity with the films of the franchise. Schaeffer serves as showrunner and lead director.   
 
-安娜·索罗金（Anna Sorokin），又名安娜·德尔维（Anna Delvey），是一名骗子和欺诈犯，2013年至2017年间，她冒充富有的女继承人，接触纽约上流社会的社交和艺术场景。   
+《阿加莎一直》是一部美国电视迷你剧，由雅克·谢弗（Jac Schaeffer）为流媒体服务Disney+创作，改编自漫威漫画角色阿加莎·哈克内斯（Agatha Harkness）。该剧是《WandaVision》系列剧的衍生作品，是漫威电影宇宙（MCU）的第11部电视剧，由漫威工作室通过其漫威电视品牌制作，与该系列电影具有连续性。谢弗担任剧集主管和首席导演。   
 
-阅读延伸[57545953]: [https://en.wikipedia.org/wiki/Anna_Sorokin](https://en.wikipedia.org/wiki/Anna_Sorokin)   
+阅读延伸[68916575]: [https://en.wikipedia.org/wiki/Agatha_All_Along_(miniseries)](https://en.wikipedia.org/wiki/Agatha_All_Along_(miniseries))   
+
+## 怪物：_The_Lyle_和_Erik_Menendez_故事   
+Monsters: The Lyle and Erik Menendez Story is the second season of the American biographical crime drama anthology television series Monster, created by Ryan Murphy and Ian Brennan for Netflix. This season centers on the 1989 murders of José and Kitty Menéndez, who were killed by their sons, Lyle and Erik. It was released on September 19, 2024.   
+
+怪物：莱尔和埃里克·梅嫩德斯的故事是美国传记犯罪剧选集电视连续剧《怪物》的第二季，由瑞安·墨菲和伊恩·布伦南为Netflix制作。本季以1989年何塞·梅嫩德斯（José Menéndez）和基蒂·梅嫩德斯（Kitty Menéndez）被谋杀为中心，他们被他们的儿子莱尔（Lyle）和埃里克（Erik）杀害。它于2024年9月19日发布。   
+
+阅读延伸[77801671]: [https://en.wikipedia.org/wiki/Monsters%3A_The_Lyle_and_Erik_Menendez_Story](https://en.wikipedia.org/wiki/Monsters%3A_The_Lyle_and_Erik_Menendez_Story)   
 
 ## 2024年_pager_爆炸   
 On 17 September 2024, around 3,000 pagers simultaneously exploded across Lebanon and Syria in an apparent coordinated attack during the ongoing conflict between Israel and the Hezbollah political party and militant group. Many of the pagers were owned by Hezbollah members. At least nine people were killed and over 2,750 wounded, including Hezbollah members and civilians. It is not clear if only Hezbollah members were carrying the pagers.   
@@ -27,40 +41,12 @@ Hezbollah is a Lebanese Shia Islamist political party and paramilitary group, le
 
 阅读延伸[13919]: [https://en.wikipedia.org/wiki/Hezbollah](https://en.wikipedia.org/wiki/Hezbollah)   
 
-## 寻呼机   
-A pager, also known as a beeper or bleeper, is a wireless telecommunications device that receives and displays alphanumeric or voice messages. One-way pagers can only receive messages, while response pagers and two-way pagers can also acknowledge, reply to, and originate messages using an internal transmitter. In Japanese, it was commonly called a pocket bell or pokeberu (ポケベル), which is an example of wasei-eigo.   
+## 艾默生_罗梅罗   
+Emerson Irving Romero was a Cuban-American silent film actor who worked under the screen name Tommy Albert. Romero developed the first technique to provide captions for sound films, making them accessible for the deaf and hard of hearing; his efforts inspired the invention of the captioning technique used in films and movies today.   
 
-呼叫器，也称为蜂鸣器或哔声器，是一种接收和显示字母数字或语音消息的无线电信设备。单向呼叫机只能接收消息，而响应呼叫机和双向呼叫机也可以使用内部发射机确认、回复和发起消息。在日语中，它通常被称为口袋铃或pokeberu（ðŸ Ÿ），这是wasei-eigo的一个例子。   
+艾默生·欧文·罗梅罗是一位古巴裔美国无声电影演员，原名汤米·阿尔伯特。罗梅罗开发了第一种为有声电影提供字幕的技术，使聋人和重听者能够使用它们;他的努力启发了当今电影和电影中使用的字幕技术的发明。   
 
-阅读延伸[229045]: [https://en.wikipedia.org/wiki/Pager](https://en.wikipedia.org/wiki/Pager)   
-
-## 塞尔瓦托_席拉奇   
-Salvatore Schillaci, commonly known as Totò Schillaci, was an Italian professional footballer who played as a striker. During his club career, he played for Messina (1982–1989), Juventus (1989–1992), Internazionale (1992–1994) and Júbilo Iwata (1994–1997).   
-
-塞尔瓦托雷·席拉奇（Salvatore Schillaci），俗称托特米尔·席拉奇（Totaly Schillaci），是一位意大利职业足球运动员，担任前锋。在他的俱乐部生涯中，他曾效力于墨西拿（1982-1989）、尤文图斯（1989-1992）、国际米兰（1992-1994）和岩田鲁比洛（1994-1997）。   
-
-阅读延伸[987976]: [https://en.wikipedia.org/wiki/Salvatore_Schillaci](https://en.wikipedia.org/wiki/Salvatore_Schillaci)   
-
-## 九月_2024_月_日食   
-A partial lunar eclipse is currently under way on Wednesday, 17–18 September 2024, the second of two lunar eclipses in 2024 and the final partial lunar eclipse of Lunar Saros 118. This eclipse will take place 9 hours before perigee meaning the moon will be a supermoon with a distance of 357486 km and diameter of 33.4'.   
-
-目前，月偏食将于2024年9月17日至18日星期三进行，这是2024年两次月食中的第二次，也是Lunar Saros 118的最后一次月偏食。这次日食将发生在近地点前9小时，这意味着月球将是一颗距离为357486公里、直径为33.4英寸的超级月亮。   
-
-阅读延伸[22043195]: [https://en.wikipedia.org/wiki/September_2024_lunar_eclipse](https://en.wikipedia.org/wiki/September_2024_lunar_eclipse)   
-
-## 亚伦_埃尔南德斯   
-Aaron Josef Hernandez was an American professional football player who was a tight end in the National Football League (NFL). He played three seasons with the New England Patriots until his arrest and conviction for the murder of Odin Lloyd.   
-
-亚伦·约瑟夫·埃尔南德斯（Aaron Josef Hernandez）是一位美国职业足球运动员，在国家橄榄球联盟（NFL）中表现出色。他在新英格兰爱国者队效力了三个赛季，直到因谋杀奥登·劳埃德而被捕并被定罪。   
-
-阅读延伸[25193857]: [https://en.wikipedia.org/wiki/Aaron_Hernandez](https://en.wikipedia.org/wiki/Aaron_Hernandez)   
-
-## 埃里克_罗伯茨   
-Eric Anthony Roberts is an American actor. In a career spanning 50 years, Roberts has amassed more than 700 credits and appeared in blockbusters, independent films, television series, animation, short films, student films, and music videos. As of 2024, he is one of the most prolific English-speaking screen actors of all time.   
-
-埃里克·安东尼·罗伯茨是一位美国演员。在50年的职业生涯中，罗伯茨积累了700多个学分，并出现在大片、独立电影、电视剧、动画、短片、学生电影和音乐视频中。截至2024年，他是有史以来最多产的英语银幕演员之一。   
-
-阅读延伸[399280]: [https://en.wikipedia.org/wiki/Eric_Roberts](https://en.wikipedia.org/wiki/Eric_Roberts)   
+阅读延伸[65128520]: [https://en.wikipedia.org/wiki/Emerson_Romero](https://en.wikipedia.org/wiki/Emerson_Romero)   
 
 ## 死亡_in_2024   
 
@@ -73,40 +59,40 @@ The following notable deaths occurred in 2024. Names are reported under the date
 
 阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
 
-## 1582   
-1582 (MDLXXXII) was a common year starting on Monday in the Julian calendar, and a common year starting on Friday of the Proleptic Gregorian calendar. This year saw the beginning of the Gregorian calendar switch, when the papal bull Inter gravissimas introduced the Gregorian calendar, adopted by Spain, Portugal, the Polish–Lithuanian Commonwealth and most of present-day Italy from the start. In these countries, the year continued as normal through Thursday, October 4; the next day became Friday, October 15, like a common year starting on Friday. France followed two months later, letting Sunday, December 9 be followed by Monday, December 20. Other countries continued using the Julian calendar, switching calendars in later years, and the complete conversion to the Gregorian calendar was not entirely done until 1923   
+## 亚伦_埃尔南德斯   
+Aaron Josef Hernandez was an American professional football player who was a tight end in the National Football League (NFL). He played three seasons with the New England Patriots until his arrest and conviction for the murder of Odin Lloyd.   
 
-1582年（MDLXXXII）是儒略历中从星期一开始的常见年份，也是从Proleptic Gregory的星期五开始的常见年份。今年，格里戈里日历转换的开始，教皇的命令Inter gravissimas引入了格里戈里日历，该日历从一开始就被西班牙、葡萄牙、波兰立陶宛联邦和当今意大利大部分地区采用。在这些国家，这一年一直正常到10月4日星期四;第二天变成了10月15日星期五，就像通常从星期五开始的一年一样。两个月后，法国紧随其后，让12月9日星期日之后是12月20日星期一。其他国家继续使用儒略历，并在晚年更换了日历，直到1923年才完全改用格里历   
+亚伦·约瑟夫·埃尔南德斯（Aaron Josef Hernandez）是一位美国职业足球运动员，在国家橄榄球联盟（NFL）中表现出色。他在新英格兰爱国者队效力了三个赛季，直到因谋杀奥登·劳埃德而被捕并被定罪。   
 
-阅读延伸[34868]: [https://en.wikipedia.org/wiki/1582](https://en.wikipedia.org/wiki/1582)   
+阅读延伸[25193857]: [https://en.wikipedia.org/wiki/Aaron_Hernandez](https://en.wikipedia.org/wiki/Aaron_Hernandez)   
 
-## 日落_小镇   
-Sundown towns, also known as sunset towns, gray towns, or sundowner towns, are all-white municipalities or neighborhoods in the United States. They are considered towns that practiced or still practice a form of racial segregation by excluding non-whites via some combination of discriminatory local laws, intimidation or violence. They were most prevalent before the 1950s. The term came into use because of signs that directed "colored people" to leave town by sundown.   
+## 安娜_索罗金   
+Anna Sorokin, also known as Anna Delvey, is a con artist and fraudster who posed as a wealthy heiress to access upper-class New York social and art scenes from 2013 to 2017.   
 
-日落城镇，也称为日落城镇、灰色城镇或日落城镇，是美国全白人的城市或社区。它们被认为实行或仍然实行一种种族隔离的城镇，通过歧视性当地法律、恐吓或暴力的某种组合将非白人排除在外。它们在20世纪50年代之前最为普遍。这个词的使用是因为有指示“有色人种”在日落前离开城镇的标志。   
+安娜·索罗金（Anna Sorokin），又名安娜·德尔维（Anna Delvey），是一名骗子和欺诈犯，2013年至2017年间，她冒充富有的女继承人，接触纽约上流社会的社交和艺术场景。   
 
-阅读延伸[1227696]: [https://en.wikipedia.org/wiki/Sundown_town](https://en.wikipedia.org/wiki/Sundown_town)   
+阅读延伸[57545953]: [https://en.wikipedia.org/wiki/Anna_Sorokin](https://en.wikipedia.org/wiki/Anna_Sorokin)   
 
-## 阿蒂什_玛琳娜_辛格   
-Atishi Marlena Singh, also known as Atishi Singh or Atishi Marlena or Atishi is a Indian Politician and MLA from Kalkaji, Delhi and 8th and current Chief Minister of Delhi since September 2024, after the resignation of Arvind Kejriwal She is a member of the Political Affairs Committee of Aam Aadmi Party and Minister of Education, P.W.D, Culture and Tourism in the Delhi Government. She served as Advisor to the Former Deputy Chief Minister of Delhi, Manish Sisodia, primarily on education, from July 2015 to 17 April 2018. She was named as the 8th Chief Minister of Delhi.   
+## 自画像_（电影）   
+Self-Portrait was a 1969 film made by the artist Yoko Ono. Premiering at the Institute of Contemporary Arts in London on 10 September 1969, the 42 minute film consisted of a single shot of her husband John Lennon's semi-erect penis.   
 
-阿蒂什·马莱娜·辛格（Atiishi Marlena Singh），又名阿蒂什·马莱娜·辛格（Atiishi Marlena）或阿蒂什是一位印度政治家和MLA，来自德里卡尔卡吉，在Arvind Kejriwal辞职后，自2024年9月以来担任第八位也是现任德里首席部长。她是Aam Aadmi党政治事务委员会成员，也是德里政府教育、公共教育、文化和旅游部长。2015年7月至2018年4月17日，她担任德里前副首席部长马尼什·西索迪亚（Manish Sisodia）的顾问，主要负责教育。她被任命为德里第八任首席部长。   
+《自画像》是艺术家小野洋子于1969年制作的一部电影。这部42分钟的电影于1969年9月10日在伦敦当代艺术学院首映，其中包括她丈夫约翰·列侬半勃起阴茎的一个镜头。   
 
-阅读延伸[45399337]: [https://en.wikipedia.org/wiki/Atishi_Marlena_Singh](https://en.wikipedia.org/wiki/Atishi_Marlena_Singh)   
+阅读延伸[57926736]: [https://en.wikipedia.org/wiki/Self-Portrait_(film)](https://en.wikipedia.org/wiki/Self-Portrait_(film))   
 
-## 凯特琳_奥尔森   
-Kaitlin Willow Olson McElhenney is an American actress. She began her career in the Sunday Company at the Groundlings, an improvisational theatre and school in Los Angeles. She had minor roles in several television series before being cast as Deandra "Sweet Dee" Reynolds on the FX comedy series It's Always Sunny in Philadelphia (2005–present).   
+## 达纳_柏拉图   
+Dana Michelle Plato was an American actress. An influential teen idol of the late 1970s and early 1980s, she played Kimberly Drummond on the sitcom Diff'rent Strokes (1978–1986). Her personal struggles with substance abuse were well documented by the media and led to her premature death at the age of 34. Her life has retrospectively been called a "tragedy".   
 
-凯特琳·威洛·奥尔森·麦克尔亨尼是一位美国女演员。她的职业生涯始于洛杉矶的临时剧院和学校The Groundlings的Sunday Company。她在多部电视剧中扮演过小角色，之后在FX喜剧连续剧《费城总是阳光明媚》（2005年至今）中饰演Deandra“Sweet Dee”Reynolds。   
+达纳·米歇尔·柏拉图是一位美国女演员。她是20世纪70年代末和80年代初颇具影响力的青少年偶像，在情景喜剧《Diff ' rent Strokes》（1978-1986）中扮演金伯利·德拉蒙德（Kimberly Drummond）。媒体详细记录了她个人与药物滥用的斗争，并导致她在34岁时过早去世。回顾过去，她的一生被称为“悲剧”。   
 
-阅读延伸[6135328]: [https://en.wikipedia.org/wiki/Kaitlin_Olson](https://en.wikipedia.org/wiki/Kaitlin_Olson)   
+阅读延伸[9048]: [https://en.wikipedia.org/wiki/Dana_Plato](https://en.wikipedia.org/wiki/Dana_Plato)   
 
-## JD_Southher   
-John David Souther was an American singer, songwriter, and actor. He wrote and co-wrote songs recorded by Linda Ronstadt and the Eagles. Souther was known for his songwriting abilities, especially in the field of country rock. He co-wrote some of the biggest hits for the Eagles, including "Best of My Love", "Victim of Love", "Heartache Tonight", and "New Kid in Town". "How Long", which appeared on Eagles' Long Road Out of Eden, was written by Souther and originally recorded on his first solo album in 1972. Souther recorded two major hit songs in his solo career: "You're Only Lonely" (1979) and "Her Town Too" (1981), a duet with his longtime friend James Taylor.   
+## 穆罕默德·法耶德   
+Mohamed Al-Fayed was an Egyptian billionaire businessman whose residence and primary business interests were in the United Kingdom from the mid-1960s. His business interests included ownership of the Hôtel Ritz Paris, and Harrods department store and Fulham Football Club, both in London. At the time of his death in 2023, Fayed's wealth was estimated at US$2 billion by Forbes.   
 
-约翰·大卫·索瑟是一位美国歌手、词曲作者和演员。他创作并共同创作了琳达·朗斯塔特和老鹰乐队录制的歌曲。索瑟以其歌曲创作能力而闻名，尤其是在乡村摇滚领域。他与人合写了老鹰队的一些热门歌曲，包括《Best of My Love》、《Victim of Love》、《Heartache Tonight》和《New Kid in Town》。《How Long》出现在Eagles的《Long Road Out of Eden》中，由Southher创作，最初录制在他1972年的第一张个人专辑中。索瑟在他的个人生涯中录制了两首热门歌曲：《You ' re Only Lonely》（1979）和《Her Town Too》（1981），这是与他的老朋友詹姆斯·泰勒（James Taylor）的二重唱。   
+穆罕默德·法耶德（Mohamed Al-Fayed）是一位埃及亿万富翁商人，他的住所和主要商业利益从20世纪60年代中期起就在英国。他的商业利益包括巴黎丽兹酒店、伦敦哈罗德百货公司和富勒姆足球俱乐部的所有权。2023年法耶德去世时，福布斯估计他的财富为20亿美元。   
 
-阅读延伸[1129635]: [https://en.wikipedia.org/wiki/JD_Souther](https://en.wikipedia.org/wiki/JD_Souther)   
+阅读延伸[20089]: [https://en.wikipedia.org/wiki/Mohamed_Al-Fayed](https://en.wikipedia.org/wiki/Mohamed_Al-Fayed)   
 
 ## 街道_2   
 Stree 2: Sarkate Ka Aatank is a 2024 Hindi-language comedy horror film directed by Amar Kaushik, written by Niren Bhatt, and produced jointly by Maddock Films and Jio Studios. The film stars Rajkummar Rao, Shraddha Kapoor, Pankaj Tripathi, Abhishek Banerjee and Aparshakti Khurana. It is the fifth installment in the Maddock Supernatural Universe and is the sequel to Stree (2018).   
@@ -115,20 +101,6 @@ Stree 2：Sarkate Ka Aatank是一部2024年印度语喜剧恐怖电影，由Amar
 
 阅读延伸[73535388]: [https://en.wikipedia.org/wiki/Stree_2](https://en.wikipedia.org/wiki/Stree_2)   
 
-## 有史以来最伟大的   
-The Greatest of All Time is a 2024 Indian Tamil-language action thriller film directed by Venkat Prabhu and produced by AGS Entertainment. The film stars Vijay in dual roles, alongside Prashanth, Prabhu Deva, Mohan, Ajmal Ameer, Jayaram, Sneha, Laila, Meenakshi Chaudhary, Vaibhav, Yogi Babu, Premgi Amaren and Yugendran. It is the twenty-fifth production of the studio. The film follows Gandhi, former leader of a special anti-terrorist squad, who reconciles with his squad members to address the problems which were stemmed from their previous actions.   
-
-《史上最伟大的》是一部2024年印度泰米尔语动作惊悚电影，由Venkat Prabhu执导，AGS Entertainment制作。这部电影由维杰主演，与普拉山特、普拉布·德瓦、莫汉、阿杰马尔·阿米尔、贾亚拉姆、斯尼哈、莱拉、米纳克什·乔杜里、瓦伊巴哈夫、约吉·巴布、普雷姆吉·阿马伦和尤根德兰一起出演双重角色。这是该工作室的第二十五部作品。这部电影讲述了前反恐特别小组领导人甘地与小组成员和解以解决因他们之前的行为而产生的问题的故事。   
-
-阅读延伸[73855135]: [https://en.wikipedia.org/wiki/The_Greatest_of_All_Time](https://en.wikipedia.org/wiki/The_Greatest_of_All_Time)   
-
-## 与星共舞_（美国电视剧）_第33季   
-The thirty-third season of Dancing with the Stars premiered on ABC and Disney+ on September 17, 2024. This season is the second to air live on both simultaneously, with next-day streaming made available on Hulu. Alfonso Ribeiro returned to host the season, while former professional dancer Julianne Hough returned to co-host.   
-
-《与星共舞》第三十三季于2024年9月17日在ABC和Disney+首播。本季是第二季同时在两者上直播，第二天的流媒体将在Hulu上播出。阿方索·里贝罗（Alfonso Ribeiro）回归主持本季，而前职业舞蹈家朱丽安·霍夫（Julianne Hough）回归共同主持。   
-
-阅读延伸[77350220]: [https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_33](https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_33)   
-
 ## 甲虫汁_甲虫汁   
 Beetlejuice Beetlejuice is a 2024 American fantasy comedy horror film directed by Tim Burton from a screenplay by the writing team of Alfred Gough and Miles Millar, based on a story by Gough, Millar, and Seth Grahame-Smith. A sequel to Beetlejuice (1988) and the second film of the Beetlejuice franchise, it stars Michael Keaton, Winona Ryder, and Catherine O'Hara reprising their roles alongside new cast members Justin Theroux, Monica Bellucci, Jenna Ortega, and Willem Dafoe.   
 
@@ -136,10 +108,42 @@ Beetlejuice Beetlejuice是一部2024年美国奇幻喜剧恐怖电影，由蒂�
 
 阅读延伸[70574547]: [https://en.wikipedia.org/wiki/Beetlejuice_Beetlejuice](https://en.wikipedia.org/wiki/Beetlejuice_Beetlejuice)   
 
+## 马克_罗宾逊_（美国_政治家）   
+Mark Keith Robinson is an American politician serving as the 35th lieutenant governor of North Carolina since 2021. A member of the Republican Party, he is the nominee in the 2024 North Carolina gubernatorial election. He is North Carolina's first Black lieutenant governor and first Black major party nominee for governor.   
+
+马克·基思·罗宾逊（Mark Keith Robinson）是一位美国政治家，自2021年以来担任北卡罗来纳州第35任副州长。作为共和党成员，他是2024年北卡罗来纳州州长选举的提名人。他是北卡罗来纳州第一位黑人副州长，也是第一位黑人主要政党州长候选人。   
+
+阅读延伸[63891485]: [https://en.wikipedia.org/wiki/Mark_Robinson_(American_politician)](https://en.wikipedia.org/wiki/Mark_Robinson_(American_politician))   
+
 ## 卡马拉_哈里斯   
 Kamala Devi Harris is an American politician and attorney who is the 49th and current vice president of the United States since 2021 under President Joe Biden. She is the first female vice president, making her the highest-ranking female official in U.S. history, as well as the first African American and first Asian American vice president. A member of the Democratic Party, she served as a U.S. senator from California from 2017 to 2021, and earlier as the attorney general of California. Harris is the Democratic Party's nominee in the 2024 U.S. presidential election.   
 
 卡马拉·德维·哈里斯（Kamala Devi Harris）是一位美国政治家和律师，自2021年乔·拜登总统领导下担任美国第49位也是现任副总统。她是第一位女副总统，使她成为美国历史上级别最高的女官员，也是第一位非裔美国人和第一位亚裔美国人副总统。作为民主党成员，她曾于2017年至2021年担任加州美国参议员，并在此之前担任加州总检察长。哈里斯是2024年美国总统选举民主党提名人。   
 
 阅读延伸[3120522]: [https://en.wikipedia.org/wiki/Kamala_Harris](https://en.wikipedia.org/wiki/Kamala_Harris)   
+
+## 有史以来最伟大的   
+The Greatest of All Time is a 2024 Indian Tamil-language action thriller film directed by Venkat Prabhu and produced by AGS Entertainment. The film stars Vijay in dual roles, alongside Prashanth, Prabhu Deva, Mohan, Ajmal Ameer, Jayaram, Sneha, Laila, Meenakshi Chaudhary, Vaibhav, Yogi Babu, Premgi Amaren and Yugendran. It is the twenty-fifth production of the studio. The film follows Gandhi, former leader of a special anti-terrorist squad, who reconciles with his squad members to address the problems which were stemmed from their previous actions.   
+
+《史上最伟大的》是一部2024年印度泰米尔语动作惊悚电影，由Venkat Prabhu执导，AGS Entertainment制作。这部电影由维杰主演，与普拉山特、普拉布·德瓦、莫汉、阿杰马尔·阿米尔、贾亚拉姆、斯尼哈、莱拉、米纳克什·乔杜里、瓦伊巴哈夫、约吉·巴布、普雷姆吉·阿马伦和尤根德兰一起出演双重角色。这是该工作室的第二十五部作品。这部电影讲述了前反恐特别小组领导人甘地与小组成员和解以解决因他们之前的行为而产生的问题的故事。   
+
+阅读延伸[73855135]: [https://en.wikipedia.org/wiki/The_Greatest_of_All_Time](https://en.wikipedia.org/wiki/The_Greatest_of_All_Time)   
+
+## 黎巴嫩   
+
+
+Lebanon, officially the Republic of Lebanon, is a country in the Levant region of West Asia. It is bordered by Syria to the north and east, by Israel to the south, and by the Mediterranean Sea to the west; Cyprus lies a short distance away from the country's coastline. Lebanon is located at the crossroads of the Mediterranean Basin and the Arabian hinterlands. Lebanon has a population of more than five million people and covers an area of 10,452 square kilometres (4,036 sq mi). Beirut is the country's capital and largest city.   
+
+
+
+黎巴嫩，正式名称黎巴嫩共和国，是西亚黎凡特地区的一个国家。它北与叙利亚接壤，南与以色列接壤，西临地中海;塞浦路斯距离该国海岸线不远。黎巴嫩位于地中海盆地和阿拉伯荒原的交汇处。黎巴嫩人口超过500万，面积10，452平方公里（4，036平方英里）。贝鲁特是该国的首都和最大城市。   
+
+阅读延伸[17771]: [https://en.wikipedia.org/wiki/Lebanon](https://en.wikipedia.org/wiki/Lebanon)   
+
+## 克里斯托弗_里夫   
+Christopher D'Olier Reeve was an American actor, activist, director, and author. He amassed several stage and screen credits in his 34-year career, including playing the title character in the Superman film series (1978–1987). He won a British Academy Film Award, an Emmy Award, a Grammy Award and a Screen Actors Guild Award. He was also known for his activism.   
+
+克里斯托弗·德奥利尔·里夫是一位美国演员、活动家、导演和作家。在34年的职业生涯中，他积累了多个舞台和银幕作品，包括在超人系列电影（1978-1987）中扮演主角。他荣获英国电影学院奖、艾美奖、格莱美奖和演员工会奖。他还以其激进主义而闻名。   
+
+阅读延伸[73626]: [https://en.wikipedia.org/wiki/Christopher_Reeve](https://en.wikipedia.org/wiki/Christopher_Reeve)   
 
