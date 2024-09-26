@@ -6,20 +6,6 @@ Joseph Lyle Menéndez and Erik Galen Menéndez are American brothers who were co
 
 阅读延伸[663704]: [https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez](https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez)   
 
-## 肖恩_库姆斯   
-Sean Love Combs, also known by his stage name Diddy, formerly Puff Daddy and P. Diddy, is an American rapper, record producer and record executive. He is credited with the discovery and cultivation of artists such as the Notorious B.I.G., Mary J. Blige, and Usher. Combs has won three Grammy Awards from 13 nominations, two MTV Video Music Awards, and a Guinness World Record for "Most Successful Rap Producer" in 1997.   
-
-肖恩·洛夫·库姆斯（Sean Love Combs）也以艺名“吹牛老爹”（P. Diddy）而闻名，他是一位美国说唱歌手、唱片制作人和唱片主管。他因发现和培养臭名昭著的BIG等艺术家而受到赞誉玛丽·J·布莱姬和亚瑟。库姆斯曾获得13项提名中的3项格莱美奖、两项MTV音乐录影带奖以及1997年“最成功说唱制作人”吉尼斯世界纪录。   
-
-阅读延伸[152447]: [https://en.wikipedia.org/wiki/Sean_Combs](https://en.wikipedia.org/wiki/Sean_Combs)   
-
-## 杰登_丹尼尔斯   
-Jayden Daniels is an American professional football quarterback for the Washington Commanders of the National Football League (NFL). He played three seasons of college football for the Arizona State Sun Devils and two with the LSU Tigers, winning the 2023 Heisman Trophy with the latter after leading the FBS in total yards and setting its single-season passer rating record. Daniels was selected by the Commanders second overall in the 2024 NFL draft.   
-
-杰登·丹尼尔斯是美国国家橄榄球联盟（NFL）华盛顿指挥官队的美国职业橄榄球四分卫。他为亚利桑那州立大学太阳魔鬼队踢了三个赛季的大学橄榄球，为路易斯安那州立大学老虎队踢了两个赛季的大学橄榄球，在总码数领先FSB并创下单赛季传球手评分纪录后，与后者一起赢得了2023年海斯曼杯。丹尼尔斯在2024年NFL选秀中被指挥官选中，获得第二名。   
-
-阅读延伸[61639754]: [https://en.wikipedia.org/wiki/Jayden_Daniels](https://en.wikipedia.org/wiki/Jayden_Daniels)   
-
 ## 菲利西亚·盖尔谋杀案   
 Felicia Gayle "Lisha" Picus was an American journalist who was murdered during a burglary in her gated community in University City, Missouri, on August 11, 1998. Gayle, a 42-year-old reporter for the St. Louis Post-Dispatch, was found dead in her home, having been stabbed and cut 43 times with a butcher's knife taken from her kitchen.   
 
@@ -27,19 +13,26 @@ Felicia Gayle“Lisha”Picus是一名美国记者，1998年8月11日，她在�
 
 阅读延伸[54968119]: [https://en.wikipedia.org/wiki/Murder_of_Felicia_Gayle](https://en.wikipedia.org/wiki/Murder_of_Felicia_Gayle)   
 
-## 怪物：_The_Lyle_和_Erik_Menendez_故事   
-Monsters: The Lyle and Erik Menendez Story is the second season of the American biographical crime drama anthology television series Monster, created by Ryan Murphy and Ian Brennan for Netflix. This season centers on the 1989 murders of José and Kitty Menéndez, who were killed by their sons, Lyle and Erik. It was released on September 19, 2024.   
+## 肖恩_库姆斯   
+Sean Love Combs, also known by his stage name Diddy, formerly Puff Daddy and P. Diddy, is an American rapper, record producer and record executive. He is credited with the discovery and cultivation of artists such as the Notorious B.I.G., Mary J. Blige, and Usher. Combs has won three Grammy Awards from 13 nominations, two MTV Video Music Awards, and a Guinness World Record for "Most Successful Rap Producer" in 1997.   
 
-怪物：莱尔和埃里克·梅嫩德斯的故事是美国传记犯罪剧选集电视连续剧《怪物》的第二季，由瑞安·墨菲和伊恩·布伦南为Netflix制作。本季以1989年何塞·梅嫩德斯（José Menéndez）和基蒂·梅嫩德斯（Kitty Menéndez）被谋杀为中心，他们被他们的儿子莱尔（Lyle）和埃里克（Erik）杀害。它于2024年9月19日发布。   
+肖恩·洛夫·库姆斯（Sean Love Combs）也以艺名“吹牛老爹”（P. Diddy）而闻名，他是一位美国说唱歌手、唱片制作人和唱片主管。他因发现和培养臭名昭著的BIG等艺术家而受到赞誉玛丽·J·布莱姬和亚瑟。库姆斯曾获得13项提名中的3项格莱美奖、两项MTV音乐录影带奖以及1997年“最成功说唱制作人”吉尼斯世界纪录。   
 
-阅读延伸[77801671]: [https://en.wikipedia.org/wiki/Monsters%3A_The_Lyle_and_Erik_Menendez_Story](https://en.wikipedia.org/wiki/Monsters%3A_The_Lyle_and_Erik_Menendez_Story)   
+阅读延伸[152447]: [https://en.wikipedia.org/wiki/Sean_Combs](https://en.wikipedia.org/wiki/Sean_Combs)   
 
-## 雷电 *   
-Thunderbolts* is an upcoming American superhero film based on the Marvel Comics team Thunderbolts. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is intended to be the 36th film in the Marvel Cinematic Universe (MCU). The film is directed by Jake Schreier and written by Eric Pearson, Lee Sung Jin, and Joanna Calo. It stars an ensemble cast featuring David Harbour, Hannah John-Kamen, Julia Louis-Dreyfus, Sebastian Stan, Wyatt Russell, Geraldine Viswanathan, Lewis Pullman, Olga Kurylenko, and Florence Pugh. In the film, a group of antiheroes goes on missions for the government.   
+## 安娜_索罗金   
+Anna Sorokin, also known as Anna Delvey, is a con artist and fraudster who posed as a wealthy heiress to access upper-class New York social and art scenes from 2013 to 2017.   
 
-Thunderbolts* 是一部即将上映的美国超级英雄电影，根据漫威漫画团队Thunderbolts改编。该片由漫威工作室制作，华特迪士尼工作室电影公司发行，预计将成为漫威电影宇宙（MCU）的第36部电影。这部电影由杰克·施赖尔执导，埃里克·皮尔森、李成真和乔安娜·卡洛编剧。该剧由大卫·哈伯（David Harbour）、汉娜·约翰-卡门（Hannah John-Kamen）、朱莉娅·路易斯-德雷福斯（Julia Louis-Dreyfus）、塞巴斯蒂安·斯坦（Sebastian Stan）、怀亚特·拉塞尔（Wyatt Russell）、杰拉尔丁·维斯瓦纳坦（Geraldine Viswanathan）、刘易斯·普尔曼（Lewis Pullman）、奥尔加·库里连科（Olga Kurylenko）和弗洛伦斯·普格（Florence Pugh）主演。在影片中，一群反英雄为政府执行任务。   
+安娜·索罗金（Anna Sorokin），又名安娜·德尔维（Anna Delvey），是一名骗子和欺诈犯，2013年至2017年间，她冒充富有的女继承人，接触纽约上流社会的社交和艺术场景。   
 
-阅读延伸[67647660]: [https://en.wikipedia.org/wiki/Thunderbolts*](https://en.wikipedia.org/wiki/Thunderbolts*)   
+阅读延伸[57545953]: [https://en.wikipedia.org/wiki/Anna_Sorokin](https://en.wikipedia.org/wiki/Anna_Sorokin)   
+
+## 博班_扬科维奇   
+Slobodan "Boban" Janković was a Serbian professional basketball player. His son, Vlado Janković, is also a professional basketball player.   
+
+斯洛博丹·“博班”·扬科维奇是塞尔维亚职业篮球运动员。他的儿子弗拉多·扬科维奇也是一名职业篮球运动员。   
+
+阅读延伸[9374025]: [https://en.wikipedia.org/wiki/Boban_Jankovi%C4%87](https://en.wikipedia.org/wiki/Boban_Jankovi%C4%87)   
 
 ## 死亡_in_2024   
 
@@ -52,12 +45,33 @@ The following notable deaths occurred in 2024. Names are reported under the date
 
 阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
 
-## 孟加拉国_民族主义_党   
-The Bangladesh Nationalist Party is a major political party in Bangladesh. Founded on 1 September 1978 by the late Bangladeshi president Ziaur Rahman, with a view to uniting people with a nationalist ideology, BNP later became one of the two dominant parties in Bangladesh, along with its archrival Awami League. Initially a big tent centrist party, it later moved towards more right-wing politics.   
+## Kim_Porter   
+Kimberly Antwinette Porter was an American model and actress.   
 
-孟加拉国民族主义党是孟加拉国的一个主要政党。BNP由已故孟加拉国总统齐亚尔·拉赫曼于1978年9月1日创立，旨在用民族主义意识形态团结人民，后来与其主要竞争对手人民联盟一起成为孟加拉国的两个主要政党之一。它最初是一个大的中间派政党，后来转向更右翼的政治。   
+金伯利·安特维内特·波特是一位美国模特和演员。   
 
-阅读延伸[309760]: [https://en.wikipedia.org/wiki/Bangladesh_Nationalist_Party](https://en.wikipedia.org/wiki/Bangladesh_Nationalist_Party)   
+阅读延伸[7599520]: [https://en.wikipedia.org/wiki/Kim_Porter](https://en.wikipedia.org/wiki/Kim_Porter)   
+
+## 拉斐尔_瓦拉内   
+Raphaël Xavier Varane is a French former professional footballer who played as a centre-back. He decided to retire in September 2024 following a longer period of injuries.   
+
+拉斐尔·泽维尔·瓦拉内（Raphaël Xavier Varane）是一位法国前职业足球运动员，曾担任中后卫。在经历了更长时间的伤病后，他决定于2024年9月退役。   
+
+阅读延伸[29503123]: [https://en.wikipedia.org/wiki/Rapha%C3%ABl_Varane](https://en.wikipedia.org/wiki/Rapha%C3%ABl_Varane)   
+
+## 怪物：_The_Lyle_和_Erik_Menendez_故事   
+Monsters: The Lyle and Erik Menendez Story is the second season of the American biographical crime drama anthology television series Monster, created by Ryan Murphy and Ian Brennan for Netflix. This season centers on the 1989 murders of José and Kitty Menéndez, who were killed by their sons, Lyle and Erik. It was released on September 19, 2024.   
+
+怪物：莱尔和埃里克·梅嫩德斯的故事是美国传记犯罪剧选集电视连续剧《怪物》的第二季，由瑞安·墨菲和伊恩·布伦南为Netflix制作。本季以1989年何塞·梅嫩德斯（José Menéndez）和基蒂·梅嫩德斯（Kitty Menéndez）被谋杀为中心，他们被他们的儿子莱尔（Lyle）和埃里克（Erik）杀害。它于2024年9月19日发布。   
+
+阅读延伸[77801671]: [https://en.wikipedia.org/wiki/Monsters%3A_The_Lyle_and_Erik_Menendez_Story](https://en.wikipedia.org/wiki/Monsters%3A_The_Lyle_and_Erik_Menendez_Story)   
+
+## 与星共舞_（美国电视剧）_第33季   
+The thirty-third season of Dancing with the Stars premiered on ABC and Disney+ on September 17, 2024. This season is the second to air live on both simultaneously, with next-day streaming made available on Hulu. Alfonso Ribeiro returned to host the season, while former professional dancer Julianne Hough returned to co-host.   
+
+《与星共舞》第三十三季于2024年9月17日在ABC和Disney+首播。本季是第二季同时在两者上直播，第二天的流媒体将在Hulu上播出。阿方索·里贝罗（Alfonso Ribeiro）回归主持本季，而前职业舞蹈家朱丽安·霍夫（Julianne Hough）回归共同主持。   
+
+阅读延伸[77350220]: [https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_33](https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_33)   
 
 ## 黎巴嫩   
 
@@ -70,26 +84,12 @@ Lebanon, officially the Republic of Lebanon, is a country in the Levant region o
 
 阅读延伸[17771]: [https://en.wikipedia.org/wiki/Lebanon](https://en.wikipedia.org/wiki/Lebanon)   
 
-## Kim_Porter   
-Kimberly Antwinette Porter was an American model and actress.   
+## 爆米花   
+Popcorn is a variety of corn kernel which expands and puffs up when heated; the same names also refer to the foodstuff produced by the expansion.   
 
-金伯利·安特维内特·波特是一位美国模特和演员。   
+爆米花是一种玉米粒，加热时会膨胀和膨胀;相同的名称也指膨胀产生的食物。   
 
-阅读延伸[7599520]: [https://en.wikipedia.org/wiki/Kim_Porter](https://en.wikipedia.org/wiki/Kim_Porter)   
-
-## 布雷特_法夫尔   
-Brett Lorenzo Favre is an American former professional football quarterback who played in the National Football League (NFL) for 20 seasons, primarily with the Green Bay Packers. Favre had 321 consecutive starts from 1992 to 2010, including 297 regular season games, the most in league history. He was also the first NFL quarterback to obtain 70,000 yards, 10,000 passes, 6,000 completions, 500 touchdowns, and victories over all 32 teams.   
-
-布雷特·洛伦佐·法夫尔（Brett Lorenzo Favre）是一名美国前职业橄榄球四分卫，曾在国家橄榄球联盟（NFL）效力20个赛季，主要效力于绿湾包装工队。从1992年到2010年，法弗尔连续首发321次，其中包括297场常规赛，这是联盟历史上最多的一次。他也是第一位获得70，000码、10，000次传球、6，000次完成、500次达阵并战胜所有32支球队的NFL四分卫。   
-
-阅读延伸[4920175]: [https://en.wikipedia.org/wiki/Brett_Favre](https://en.wikipedia.org/wiki/Brett_Favre)   
-
-## 乔治_华盛顿   
-George Washington was an American Founding Father, politician, military officer, and farmer who served as the first president of the United States from 1789 to 1797. Appointed by the Second Continental Congress as commander of the Continental Army in 1775, Washington led Patriot forces to victory in the American Revolutionary War and then served as president of the Constitutional Convention in 1787, which drafted the current Constitution of the United States. Washington has thus become commonly known as the "Father of his Country".   
-
-乔治·华盛顿是美国国父、政治家、军官和农民，曾于1789年至1797年担任美国首任总统。1775年，华盛顿被第二届大陆会议任命为大陆军司令，带领爱国者军队在美国独立战争中取得胜利，随后于1787年担任制宪会议主席，该会议起草了美国现行宪法。华盛顿因此被称为“国父”。   
-
-阅读延伸[11968]: [https://en.wikipedia.org/wiki/George_Washington](https://en.wikipedia.org/wiki/George_Washington)   
+阅读延伸[232176]: [https://en.wikipedia.org/wiki/Popcorn](https://en.wikipedia.org/wiki/Popcorn)   
 
 ## 真主党   
 Hezbollah is a Lebanese Shia Islamist political party and paramilitary group, led since 1992 by its Secretary-General Hassan Nasrallah. Hezbollah's paramilitary wing is the Jihad Council, and its political wing is the Loyalty to the Resistance Bloc party in the Lebanese Parliament. Its armed strength was assessed to be equivalent to that of a medium-sized army in 2016.   
@@ -105,33 +105,26 @@ Dominique Ellen Dunne was an American actress. Born and raised in Santa Monica, 
 
 阅读延伸[477067]: [https://en.wikipedia.org/wiki/Dominique_Dunne](https://en.wikipedia.org/wiki/Dominique_Dunne)   
 
-## 企鹅（电视剧）   
-The Penguin is an American crime drama television miniseries created by Lauren LeFranc for HBO. Based on the DC Comics character Penguin, it is a spin-off from the film The Batman (2022) that explores the Penguin's rise to power in Gotham City's criminal underworld. LeFranc serves as the showrunner of the series, which is produced by DC Studios in association with Warner Bros. Television.   
+## 沃伊切赫_什琴斯尼   
+Wojciech Tomasz Szczęsny is a Polish professional footballer who plays as a goalkeeper.   
 
-《企鹅》是劳伦·勒弗兰克为HBO制作的一部美国犯罪剧电视迷你剧。该剧以DC漫画人物企鹅为背景，是电影《蝙蝠侠》（2022年）的衍生作品，探讨了企鹅在哥谭市犯罪地下世界中掌权的过程。勒弗兰克担任该剧的制片人，该剧由DC Studios与华纳兄弟电视台联合制作。   
+沃伊切赫·托马斯·什琴斯尼是一位波兰职业足球运动员，担任门将。   
 
-阅读延伸[68724660]: [https://en.wikipedia.org/wiki/The_Penguin_(TV_series)](https://en.wikipedia.org/wiki/The_Penguin_(TV_series))   
+阅读延伸[24223895]: [https://en.wikipedia.org/wiki/Wojciech_Szcz%C4%99sny](https://en.wikipedia.org/wiki/Wojciech_Szcz%C4%99sny)   
 
-## 卢克_麦卡弗里   
-Luke McCaffrey is an American professional football wide receiver for the Washington Commanders of the National Football League (NFL). He played college football for the Nebraska Cornhuskers and Rice Owls, originally at quarterback before switching to wide receiver at Rice. McCaffrey was selected by the Commanders in the third round of the 2024 NFL draft. A member of the McCaffrey football family, he is the son of Ed and the youngest brother of Max, Christian, and Dylan.   
+## 阿加莎_All_Along_（迷你剧）   
+Agatha All Along is an American television miniseries created by Jac Schaeffer for the streaming service Disney+, based on the Marvel Comics character Agatha Harkness. A spin-off from the series WandaVision (2021), it is the 11th television series in the Marvel Cinematic Universe (MCU) produced by Marvel Studios, via its Marvel Television label, sharing continuity with the films of the franchise. Schaeffer serves as showrunner and lead director.   
 
-卢克·麦卡弗里（Luke McCaffrey）是美国国家橄榄球联盟（NFL）华盛顿指挥官队的美国职业橄榄球外接球手。他曾在内布拉斯加州Cornhuskers队和Rice Owls队踢大学橄榄球，最初担任四分卫，后来在Rice担任外接手。麦卡弗里在2024年NFL选秀第三轮中被指挥官选中。他是麦卡弗里足球家族的一员，是艾德的儿子，也是马克斯、克里斯蒂安和迪伦的最小兄弟。   
+《阿加莎一直》是一部美国电视迷你剧，由雅克·谢弗（Jac Schaeffer）为流媒体服务Disney+创作，改编自漫威漫画角色阿加莎·哈克内斯（Agatha Harkness）。该剧是《WandaVision》系列剧的衍生作品，是漫威电影宇宙（MCU）的第11部电视剧，由漫威工作室通过其漫威电视品牌制作，与该系列电影具有连续性。谢弗担任剧集主管和首席导演。   
 
-阅读延伸[71907118]: [https://en.wikipedia.org/wiki/Luke_McCaffrey](https://en.wikipedia.org/wiki/Luke_McCaffrey)   
+阅读延伸[68916575]: [https://en.wikipedia.org/wiki/Agatha_All_Along_(miniseries)](https://en.wikipedia.org/wiki/Agatha_All_Along_(miniseries))   
 
-## 莱斯利_艾布拉姆森   
-Leslie Hope Abramson is an American criminal defense attorney best known for her role in the legal defense of Lyle and Erik Menéndez. She is also a published author.   
+## 卡马拉_哈里斯   
+Kamala Devi Harris is an American politician and attorney who is the 49th and current vice president of the United States since 2021 under President Joe Biden. She is the first female vice president, making her the highest-ranking female official in U.S. history, as well as the first African American and first Asian American vice president. A member of the Democratic Party, she served as a U.S. senator from California from 2017 to 2021, and earlier as the attorney general of California. Harris is the Democratic Party's nominee in the 2024 U.S. presidential election.   
 
-莱斯利·霍普·艾布拉姆森（Leslie Hope Abramson）是一位美国刑事辩护律师，因为莱尔和埃里克·梅嫩德斯（Erik Menéndez）提供法律辩护而闻名。她也是一位出版作家。   
+卡马拉·德维·哈里斯（Kamala Devi Harris）是一位美国政治家和律师，自2021年乔·拜登总统领导下担任美国第49位也是现任副总统。她是第一位女副总统，使她成为美国历史上级别最高的女官员，也是第一位非裔美国人和第一位亚裔美国人副总统。作为民主党成员，她曾于2017年至2021年担任加州美国参议员，并在此之前担任加州总检察长。哈里斯是2024年美国总统选举民主党提名人。   
 
-阅读延伸[2508066]: [https://en.wikipedia.org/wiki/Leslie_Abramson](https://en.wikipedia.org/wiki/Leslie_Abramson)   
-
-## 史努比_狗狗   
-Calvin Cordozar Broadus Jr., also known by his stage name Snoop Dogg, is an American rapper, singer, songwriter, record producer, media personality, and actor. His initial fame dates back to 1992 following his guest appearance on Dr. Dre's debut solo single, "Deep Cover", and later on Dre's debut album, The Chronic that same year. Broadus has since sold over 23 million albums in the United States, and 35 million albums worldwide. His accolades include an American Music Award, a Primetime Emmy Award, and 17 Grammy Award nominations.   
-
-小卡尔文·科德扎尔·布罗德斯，艺名Snoop Dogg也被称为，他是一位美国说唱歌手、歌手、词曲作者、唱片制作人、媒体名人和演员。他最初的名气可以追溯到1992年，当时他客串了Dr. Dre的首张个人单曲《Deep Cover》，并于同年客串了Dre的首张专辑《The Chrony》。此后，Broadus在美国售出了超过2300万张专辑，在全球售出了3500万张专辑。他获得的荣誉包括美国音乐奖、黄金时段艾美奖和17项格莱美奖提名。   
-
-阅读延伸[88923]: [https://en.wikipedia.org/wiki/Snoop_Dogg](https://en.wikipedia.org/wiki/Snoop_Dogg)   
+阅读延伸[3120522]: [https://en.wikipedia.org/wiki/Kamala_Harris](https://en.wikipedia.org/wiki/Kamala_Harris)   
 
 ## _实质   
 The Substance is a 2024 satirical body horror film co-produced, written and directed by Coralie Fargeat. The film stars Demi Moore, Margaret Qualley and Dennis Quaid. An international co-production between the United Kingdom and France, its plot follows a fading celebrity (Moore) who decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself (Qualley), unknowingly giving her horrifying side effects.   
@@ -140,10 +133,17 @@ The Substance is a 2024 satirical body horror film co-produced, written and dire
 
 阅读延伸[70519613]: [https://en.wikipedia.org/wiki/The_Substance](https://en.wikipedia.org/wiki/The_Substance)   
 
-## 亚伦_卡特   
-Aaron Charles Carter was an American singer and rapper. He came to fame as a teen pop singer in the late 1990s, establishing himself as a star among preteen and teenage audiences during the first years of the 21st century, with his four studio albums.   
+## 企鹅（电视剧）   
+The Penguin is an American crime drama television miniseries created by Lauren LeFranc for HBO. Based on the DC Comics character Penguin, it is a spin-off from the film The Batman (2022) that explores the Penguin's rise to power in Gotham City's criminal underworld. LeFranc serves as the showrunner of the series, which is produced by DC Studios in association with Warner Bros. Television.   
 
-亚伦·查尔斯·卡特是一位美国歌手和说唱歌手。20世纪90年代末，他以青少年流行歌手的身份声名鹊起，凭借四张录音室专辑，在21世纪头几年成为青少年和青少年观众中的明星。   
+《企鹅》是劳伦·勒弗兰克为HBO制作的一部美国犯罪剧电视迷你剧。该剧以DC漫画人物企鹅为背景，是电影《蝙蝠侠》（2022年）的衍生作品，探讨了企鹅在哥谭市犯罪地下世界中掌权的过程。勒弗兰克担任该剧的制片人，该剧由DC Studios与华纳兄弟电视台联合制作。   
 
-阅读延伸[83108]: [https://en.wikipedia.org/wiki/Aaron_Carter](https://en.wikipedia.org/wiki/Aaron_Carter)   
+阅读延伸[68724660]: [https://en.wikipedia.org/wiki/The_Penguin_(TV_series)](https://en.wikipedia.org/wiki/The_Penguin_(TV_series))   
+
+## Yotei的幽灵   
+Ghost of Yōtei is an upcoming action-adventure game developed by Sucker Punch Productions and published by Sony Interactive Entertainment. It is the sequel to the 2020 game Ghost of Tsushima, though does not follow the first game's story. It is set to release in 2025.   
+
+《幽灵》是一款即将推出的动作冒险游戏，由Sucker Punch Productions开发，索尼互动娱乐公司发行。它是2020年游戏《对岛幽灵》的续集，但并不遵循第一款游戏的故事。该游戏将于2025年发布。   
+
+阅读延伸[77961727]: [https://en.wikipedia.org/wiki/Ghost_of_Yotei](https://en.wikipedia.org/wiki/Ghost_of_Yotei)   
 
