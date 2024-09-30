@@ -1,17 +1,17 @@
 # 最新资讯  
-## 玛吉_史密斯   
-Dame Margaret Natalie Smith was a British actress. Known for her wit in comedic roles, she had an extensive career on stage and screen over seven decades and was one of Britain's most recognisable and prolific actresses. She received numerous accolades, including two Academy Awards, five BAFTA Awards, four Emmy Awards, three Golden Globe Awards and a Tony Award, as well as nominations for six Laurence Olivier Awards. Smith was one of the few performers to earn the Triple Crown of Acting.   
-
-玛格丽特·娜塔莉·史密斯女爵士是一位英国女演员。她以喜剧角色的机智而闻名，七十多年来在舞台和银幕上拥有丰富的职业生涯，是英国最受认可、最多产的女演员之一。她获得了众多荣誉，包括两项奥斯卡金像奖、五项英国电影和电视艺术学院奖、四项艾美奖、三项金球奖和一项托尼奖，以及六项劳伦斯·奥利维尔奖提名。史密斯是少数获得表演三冠王的表演者之一。   
-
-阅读延伸[82765]: [https://en.wikipedia.org/wiki/Maggie_Smith](https://en.wikipedia.org/wiki/Maggie_Smith)   
-
 ## 莱尔和埃里克·梅嫩德斯   
 Joseph Lyle Menéndez and Erik Galen Menéndez are American brothers who were convicted in 1996 of the murders of their parents, José and Mary Louise "Kitty" Menéndez.   
 
 约瑟夫·莱尔·梅嫩德斯（Joseph Lyle Menéndez）和埃里克·盖伦·梅嫩德斯（Erik Galen Menéndez）是美国兄弟，他们于1996年因谋杀父母何塞·路易丝·梅嫩德斯（José）和玛丽·路易丝·“基蒂”·梅嫩德斯（Mary Louise ' Kitty ' Menéndez）而被定罪。   
 
 阅读延伸[663704]: [https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez](https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez)   
+
+## 克里斯_克里斯托弗森   
+Kristoffer Kristofferson was an American country singer, songwriter and actor. Among his songwriting credits are "Me and Bobby McGee", "For the Good Times", "Sunday Mornin' Comin' Down", and "Help Me Make It Through the Night", all of which were hits for other artists.   
+
+克里斯托弗·克里斯托弗·克里斯托弗森是一位美国乡村歌手、词曲作者和演员。他的歌曲创作作品包括《Me and Bobby McGee》、《For the Good Times》、《Sunday Mornin ' Comin ' Down》和《Help Me Make It Through the Night》，所有这些歌曲都是其他艺术家的热门歌曲。   
+
+阅读延伸[168094]: [https://en.wikipedia.org/wiki/Kris_Kristofferson](https://en.wikipedia.org/wiki/Kris_Kristofferson)   
 
 ## 哈桑_纳斯鲁拉   
 Hassan Nasrallah is a Lebanese cleric and the secretary-general of Hezbollah, a Shia Islamist political party and militant group.   
@@ -20,12 +20,12 @@ Hassan Nasrallah is a Lebanese cleric and the secretary-general of Hezbollah, a 
 
 阅读延伸[313436]: [https://en.wikipedia.org/wiki/Hassan_Nasrallah](https://en.wikipedia.org/wiki/Hassan_Nasrallah)   
 
-## 真主党   
-Hezbollah is a Lebanese Shia Islamist political party and paramilitary group, led since 1992 by its Secretary-General Hassan Nasrallah. Hezbollah's paramilitary wing is the Jihad Council, and its political wing is the Loyalty to the Resistance Bloc party in the Lebanese Parliament. Its armed strength was assessed to be equivalent to that of a medium-sized army in 2016.   
+## 玛吉_史密斯   
+Dame Margaret Natalie Smith was a British actress. Known for her wit in comedic roles, she had an extensive career on stage and screen over seven decades and was one of Britain's most recognisable and prolific actresses. She received numerous accolades, including two Academy Awards, five BAFTA Awards, four Emmy Awards, three Golden Globe Awards and a Tony Award, as well as nominations for six Laurence Olivier Awards. Smith was one of the few performers to earn the Triple Crown of Acting.   
 
-真主党是黎巴嫩什叶派伊斯兰政党和准军事组织，自1992年以来由秘书长哈桑·纳斯鲁拉领导。真主党的准军事派别是圣战委员会，其政治派别是黎巴嫩议会中的忠于抵抗集团党。2016年，其武装力量被评估为相当于一支中型军队。   
+玛格丽特·娜塔莉·史密斯女爵士是一位英国女演员。她以喜剧角色的机智而闻名，七十多年来在舞台和银幕上拥有丰富的职业生涯，是英国最受认可、最多产的女演员之一。她获得了众多荣誉，包括两项奥斯卡金像奖、五项英国电影和电视艺术学院奖、四项艾美奖、三项金球奖和一项托尼奖，以及六项劳伦斯·奥利维尔奖提名。史密斯是少数获得表演三冠王的表演者之一。   
 
-阅读延伸[13919]: [https://en.wikipedia.org/wiki/Hezbollah](https://en.wikipedia.org/wiki/Hezbollah)   
+阅读延伸[82765]: [https://en.wikipedia.org/wiki/Maggie_Smith](https://en.wikipedia.org/wiki/Maggie_Smith)   
 
 ## 德瓦拉：_第1部分   
 Devara: Part 1 is a 2024 Indian Telugu-language action drama film directed by Koratala Siva and jointly produced by Yuvasudha Arts and N. T. R. Arts. The film stars N. T. Rama Rao Jr in dual roles, alongside Saif Ali Khan, Janhvi Kapoor and Shruti Marathe in their first Telugu film. Prakash Raj, Srikanth, Shine Tom Chacko, Narain, Kalaiyarasan and Murali Sharma appear in supporting roles.   
@@ -34,6 +34,20 @@ Devara: Part 1 is a 2024 Indian Telugu-language action drama film directed by Ko
 
 阅读延伸[74985384]: [https://en.wikipedia.org/wiki/Devara%3A_Part_1](https://en.wikipedia.org/wiki/Devara%3A_Part_1)   
 
+## 德雷克_霍格斯汀   
+Donald Drake Hogestyn was an American actor best known for his long-running role as John Black on the American soap opera Days of Our Lives.   
+
+唐纳德·德雷克·霍格斯顿是一位美国演员，因在美国肥皂剧《我们的日子》中长期扮演约翰·布莱克而闻名。   
+
+阅读延伸[746812]: [https://en.wikipedia.org/wiki/Drake_Hogestyn](https://en.wikipedia.org/wiki/Drake_Hogestyn)   
+
+## 真主党   
+Hezbollah is a Lebanese Shia Islamist political party and paramilitary group, led since 1992 by its Secretary-General Hassan Nasrallah. Hezbollah's paramilitary wing is the Jihad Council, and its political wing is the Loyalty to the Resistance Bloc party in the Lebanese Parliament. Its armed strength was assessed to be equivalent to that of a medium-sized army in 2016.   
+
+真主党是黎巴嫩什叶派伊斯兰政党和准军事组织，自1992年以来由秘书长哈桑·纳斯鲁拉领导。真主党的准军事派别是圣战委员会，其政治派别是黎巴嫩议会中的忠于抵抗集团党。2016年，其武装力量被评估为相当于一支中型军队。   
+
+阅读延伸[13919]: [https://en.wikipedia.org/wiki/Hezbollah](https://en.wikipedia.org/wiki/Hezbollah)   
+
 ## 肖恩_库姆斯   
 Sean Love Combs, also known by his stage name Diddy, formerly Puff Daddy and P. Diddy, is an American rapper, record producer and record executive. He is credited with the discovery and cultivation of artists such as the Notorious B.I.G., Mary J. Blige, and Usher. Combs has won three Grammy Awards from 13 nominations, two MTV Video Music Awards, and a Guinness World Record for "Most Successful Rap Producer" in 1997.   
 
@@ -41,19 +55,12 @@ Sean Love Combs, also known by his stage name Diddy, formerly Puff Daddy and P. 
 
 阅读延伸[152447]: [https://en.wikipedia.org/wiki/Sean_Combs](https://en.wikipedia.org/wiki/Sean_Combs)   
 
-## 托比_斯蒂芬斯   
-Toby Stephens is a British actor who has appeared in films in the UK, US and India. He is known for the roles of Bond villain Gustav Graves in the 2002 James Bond film Die Another Day, for which he was nominated for the Saturn Award for Best Supporting Actor, William Gordon in the 2005 Mangal Pandey: The Rising film and Edward Fairfax Rochester in the 2006 BBC television adaptation of Jane Eyre. From 2014 to 2017, he starred as Captain Flint in the Starz television series Black Sails, followed by one of the lead roles in the Netflix science fiction series Lost in Space from 2018 to 2021. He currently stars as the Greek God Poseidon in Percy Jackson and the Olympians.   
+## Jean_Smart   
+Jean Elizabeth Smart is an American actress. Her work includes both comedy and drama, and her accolades include six Primetime Emmy Awards, a Golden Globe Award, and nominations for a Tony Award and a Grammy Award.   
 
-托比·斯蒂芬斯是一位英国演员，曾出演过英国、美国和印度的电影。他因在2002年詹姆斯·邦德电影《改天再死》中饰演邦德反派古斯塔夫·格雷夫斯而闻名，并因此获得土星奖最佳男配角提名，在2005年《曼加尔·潘迪：崛起》电影中饰演威廉·戈登，在2006年BBC电视剧《简·爱》中饰演爱德华·费尔法克斯·罗切斯特。2014年至2017年，他在Starz电视剧《黑帆》中饰演弗林特船长，随后于2018年至2021年在Netflix科幻剧《迷失太空》中担任主角之一。他目前在《珀西·杰克逊与奥林匹亚人》中饰演希腊神波塞冬。   
+让·伊丽莎白·斯马特是一位美国女演员。她的作品包括喜剧和戏剧，她的荣誉包括六次黄金时段艾美奖、金球奖以及托尼奖和格莱美奖提名。   
 
-阅读延伸[747361]: [https://en.wikipedia.org/wiki/Toby_Stephens](https://en.wikipedia.org/wiki/Toby_Stephens)   
-
-## 克里斯_拉金   
-Christopher Larkin Stephens, known professionally as Chris Larkin, is an English actor.   
-
-克里斯托弗·拉金·斯蒂芬斯（Christopher Larkin Stephens），专业名称克里斯·拉金（Chris Larkin），是一位英国演员。   
-
-阅读延伸[2787840]: [https://en.wikipedia.org/wiki/Chris_Larkin](https://en.wikipedia.org/wiki/Chris_Larkin)   
+阅读延伸[939763]: [https://en.wikipedia.org/wiki/Jean_Smart](https://en.wikipedia.org/wiki/Jean_Smart)   
 
 ## 死亡_in_2024   
 
@@ -73,37 +80,12 @@ Adam Jared Brody is an American actor. His breakout role was as Seth Cohen on th
 
 阅读延伸[377205]: [https://en.wikipedia.org/wiki/Adam_Brody](https://en.wikipedia.org/wiki/Adam_Brody)   
 
-## 卡尔-安东尼_城镇   
-Karl-Anthony Towns Jr., also known by the initialed nickname KAT, is a Dominican-American professional basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA). He played college basketball for the Kentucky Wildcats. Towns was named to the Dominican Republic national team as a 16-year-old. He was selected with the first overall pick in the 2015 NBA draft by the Minnesota Timberwolves, and went on to be named NBA Rookie of the Year for the 2015–16 season. He has received four All-Star selections, and won the 2021–22 NBA Three-Point Contest.   
-
-小卡尔-安东尼·唐斯，又名KAT，是美国国家篮球协会（NBA）明尼苏达森林狼队的多米尼加裔美国职业篮球运动员。他曾为肯塔基野猫队打大学篮球。唐斯16岁时入选多米尼加共和国国家队。他在2015年NBA选秀中以第一顺位被明尼苏达森林狼队选中，并被评为2015-16赛季NBA年度最佳新秀。他曾四次入选全明星，并赢得2021-22赛季NBA三分球大赛冠军。   
-
-阅读延伸[37985010]: [https://en.wikipedia.org/wiki/Karl-Anthony_Towns](https://en.wikipedia.org/wiki/Karl-Anthony_Towns)   
-
 ## 大都市_（电影）   
 Megalopolis is a 2024 American epic science fiction drama film written, directed, and produced by Francis Ford Coppola. The film stars Adam Driver, Giancarlo Esposito, Nathalie Emmanuel, Aubrey Plaza, Shia LaBeouf, Jon Voight, Laurence Fishburne, Talia Shire, Jason Schwartzman, Kathryn Hunter, Grace VanderWaal, Chloe Fineman, James Remar, D. B. Sweeney, and Dustin Hoffman. Set in an imagined modern United States, it follows visionary architect Cesar Catilina (Driver) as he clashes with the corrupt Mayor Franklyn Cicero (Esposito) in determining how to rebuild the metropolis of New Rome after a devastating disaster. The film references the characters involved in the Catilinarian conspiracy of 63 BC, including Catiline and Cicero, in addition to Caesar.   
 
 《大都市》是一部2024年美国史诗科幻剧情片，由弗朗西斯·福特·科波拉编剧、导演和制作。这部电影由亚当·德赖弗（Adam Driver）、吉安卡洛·埃斯波西托（Giancarlo Esposito）、娜塔莉·伊曼纽尔（Nathalie Emmanuel）、奥布里·普拉亚·拉博夫（Aubrey Plaza）、乔恩·沃伊特（Jon Voight）、劳伦斯·菲什伯恩（Laurence Fishburne）、塔利亚·夏尔（Talia Shire）、杰森·施瓦茨曼（Jason Schwartzman）、凯瑟琳·亨特（Kathryn Hunter）、格蕾丝·范德瓦尔（Grace VanderWaal）、克洛伊·芬曼（Chloe Fineman）、詹姆斯·雷马尔（James Remar）、D. B.斯威尼和达斯汀·霍夫曼。故事以想象中的现代美国为背景，讲述了富有远见的建筑师塞萨尔·卡蒂利纳（司机饰）与腐败的市长富兰克林·西塞罗（埃斯波西托饰）在毁灭性灾难后决定如何重建新罗马大都市的故事。除了凯撒之外，这部电影还提到了参与公元前63年卡提利纳阴谋的人物，包括卡提林和西塞罗。   
 
 阅读延伸[68613611]: [https://en.wikipedia.org/wiki/Megalopolis_(film)](https://en.wikipedia.org/wiki/Megalopolis_(film))   
-
-## 黎巴嫩   
-
-
-Lebanon, officially the Republic of Lebanon, is a country in the Levant region of West Asia. It is bordered by Syria to the north and east, by Israel to the south, and by the Mediterranean Sea to the west; Cyprus lies a short distance away from the country's coastline. Lebanon is located at the crossroads of the Mediterranean Basin and the Arabian hinterlands. Lebanon has a population of more than five million people and covers an area of 10,452 square kilometres (4,036 sq mi). Beirut is the country's capital and largest city.   
-
-
-
-黎巴嫩，正式名称黎巴嫩共和国，是西亚黎凡特地区的一个国家。它北与叙利亚接壤，南与以色列接壤，西临地中海;塞浦路斯距离该国海岸线不远。黎巴嫩位于地中海盆地和阿拉伯荒原的交汇处。黎巴嫩人口超过500万，面积10，452平方公里（4，036平方英里）。贝鲁特是该国的首都和最大城市。   
-
-阅读延伸[17771]: [https://en.wikipedia.org/wiki/Lebanon](https://en.wikipedia.org/wiki/Lebanon)   
-
-## 罗伯特_斯蒂芬斯   
-Sir Robert Graham Stephens was a leading English actor in the early years of Britain's Royal National Theatre. He was one of the most respected actors of his generation and was at one time regarded as the natural successor to Laurence Olivier.   
-
-罗伯特·格雷厄姆·斯蒂芬斯爵士是英国皇家国家剧院早年的英国著名演员。他是这一代人中最受尊敬的演员之一，一度被认为是劳伦斯·奥利维尔的自然继任者。   
-
-阅读延伸[881625]: [https://en.wikipedia.org/wiki/Robert_Stephens](https://en.wikipedia.org/wiki/Robert_Stephens)   
 
 ## 怪物：_The_Lyle_和_Erik_Menendez_故事   
 Monsters: The Lyle and Erik Menendez Story is the second season of the American biographical crime drama anthology television series Monster, created by Ryan Murphy and Ian Brennan for Netflix. This season centers on the 1989 murders of José and Kitty Menéndez, who were killed by their sons, Lyle and Erik. It was released on September 19, 2024.   
@@ -112,38 +94,52 @@ Monsters: The Lyle and Erik Menendez Story is the second season of the American 
 
 阅读延伸[77801671]: [https://en.wikipedia.org/wiki/Monsters%3A_The_Lyle_and_Erik_Menendez_Story](https://en.wikipedia.org/wiki/Monsters%3A_The_Lyle_and_Erik_Menendez_Story)   
 
-## 拉娜·德尔·雷伊   
-Elizabeth Woolridge Grant, known professionally as Lana Del Rey, is an American singer and songwriter. Her music is noted for its cinematic quality and exploration of tragic romance, glamour, and melancholia, with frequent references to pop culture and 1950s–1970s Americana. Her vintage Hollywood glamour aesthetic is showcased in her music videos. She is the recipient of various accolades, including an MTV Video Music Award, three MTV Europe Music Awards, two Brit Awards, two Billboard Women in Music, and a Satellite Award, in addition to nominations for eleven Grammy Awards and a Golden Globe Award. Variety honored her at their Hitmakers Awards for being "one of the most influential singer-songwriters of the 21st century". In 2023, Rolling Stone placed Del Rey on their list of the "200 Greatest Singers of All Time", while their sister publication Rolling Stone UK named her as "The Greatest American Songwriter of the 21st century".   
+## 瑞安_威廉姆斯_（边路接球手）   
+Ryan Alexander Coleman Williams is an American football wide receiver for the Alabama Crimson Tide.   
 
-伊丽莎白·伍尔里奇·格兰特（Elizabeth Woolridge Grant），专业名称拉娜·德雷（Lana Del Rey），是一位美国歌手和词曲作者。她的音乐以其电影品质和对悲剧浪漫、魅力和忧郁症的探索而闻名，经常提到流行文化和20世纪50年代至70年代的美国。她复古的好莱坞魅力美学在她的音乐视频中得到了展示。她获得了各种荣誉，包括MTV音乐录影带奖、三项MTV欧洲音乐奖、两项全英音乐奖、两项公告牌音乐女性奖和一项卫星奖，此外还获得了十一项格莱美奖和金球奖的提名。Variety在热门歌手奖上表彰她为“21世纪最具影响力的创作型歌手之一”。2023年，滚石乐队将德雷列入“有史以来200位最伟大歌手”名单，而他们的姊妹出版物《滚石英国》将她评为“21世纪最伟大的美国歌曲作家”。   
+瑞安·亚历山大·科尔曼·威廉姆斯（Ryan Alexander Coleman Williams）是阿拉巴马州红潮队的美式橄榄球外接球手。   
 
-阅读延伸[33209238]: [https://en.wikipedia.org/wiki/Lana_Del_Rey](https://en.wikipedia.org/wiki/Lana_Del_Rey)   
+阅读延伸[76914030]: [https://en.wikipedia.org/wiki/Ryan_Williams_(wide_receiver)](https://en.wikipedia.org/wiki/Ryan_Williams_(wide_receiver))   
 
-## 贝弗利_克罗斯   
-Alan Beverley Cross was an English playwright, librettist, and screenwriter.   
+## 卡伦_德波尔   
+Kalen Douglas DeBoer is an American college football coach who is currently the head coach at the University of Alabama. He also served as the head coach at the University of Sioux Falls from 2005 to 2009, Fresno State from 2020 to 2021, and the University of Washington from 2022 to 2023. At Sioux Falls, his teams won three NAIA Football National Championships, in 2006, 2008, and 2009. DeBoer’s record as head coach is 108-12.   
 
-艾伦·贝弗利·克罗斯是一位英国剧作家、剧本作家和编剧。   
+卡伦·道格拉斯·德波尔（Kalen Douglas DeBoer）是一名美国大学橄榄球教练，现任阿拉巴马大学主教练。他还于2005年至2009年在苏福尔斯大学、2020年至2021年在弗雷斯诺州立大学和2022年至2023年在华盛顿大学担任主教练。在苏福尔斯，他的球队于2006年、2008年和2009年赢得了三届NAIA足球全国锦标赛。德波尔作为主教练的战绩是108胜12负。   
 
-阅读延伸[11168980]: [https://en.wikipedia.org/wiki/Beverley_Cross](https://en.wikipedia.org/wiki/Beverley_Cross)   
+阅读延伸[29188943]: [https://en.wikipedia.org/wiki/Kalen_DeBoer](https://en.wikipedia.org/wiki/Kalen_DeBoer)   
 
-## 狼队_（电影）   
-Wolfs is a 2024 American action comedy film written and directed by Jon Watts. The film stars George Clooney, Brad Pitt, Amy Ryan, Austin Abrams, and Poorna Jagannathan. Its plot follows two professional fixers who are forced to work together on a job despite their preference to operate as lone wolves.   
+## 利亚姆·德拉普   
+Liam Rory Delap is an English professional footballer who plays as a forward for Premier League club Ipswich Town.   
 
-《狼》是一部2024年美国动作喜剧电影，由乔恩·沃茨编剧和导演。这部电影由乔治·克鲁尼、布拉德·皮特、艾米·瑞安、奥斯汀·艾布拉姆斯和普尔娜·贾甘纳森主演。故事情节讲述了两名专业修理工，尽管他们更喜欢像独狼一样运作，但他们被迫一起工作。   
+利亚姆·罗里·德拉普（Liam Rory Delap）是一名英国职业足球运动员，在英超俱乐部伊普斯维奇镇（Ipswich Town）担任前锋。   
 
-阅读延伸[68810034]: [https://en.wikipedia.org/wiki/Wolfs_(film)](https://en.wikipedia.org/wiki/Wolfs_(film))   
+阅读延伸[65409225]: [https://en.wikipedia.org/wiki/Liam_Delap](https://en.wikipedia.org/wiki/Liam_Delap)   
 
-## 2024年_bollah_Headquarters_罢工   
-On 27 September 2024, Hassan Nasrallah, the secretary-general of Hezbollah, was assassinated in an Israeli airstrike in Beirut. The strike took place while Hezbollah leaders were meeting at a headquarters in Haret Hreik in the Dahieh suburb to the south of Beirut. Conducted by the Israeli Air Force's 119th Squadron using F-16I fighters, the operation involved dropping more than 80 bombs, including US-made 5,000-pound (2,300 kg) bunker buster bombs, destroying the headquarters, which were reportedly located underground. The Israel Defense Forces (IDF) codenamed the operation "New Order".   
+## Jelly_Roll_（歌手）   
+Jason Bradley DeFord, known professionally as Jelly Roll, is an American singer, rapper, and songwriter from Antioch, Tennessee. Beginning his career in 2003, he rose to mainstream prominence following the release of his 2022 singles "Son of a Sinner" and "Need a Favor".   
 
-2024年9月27日，真主党秘书长哈桑·纳斯鲁拉在以色列对贝鲁特的空袭中被暗杀。袭击发生时，真主党领导人正在贝鲁特南部达希耶郊区哈雷克的总部开会。此次行动由以色列空军第119中队使用F-16 I战斗机进行，投掷了80多枚炸弹，其中包括美国制造的5，000磅（2，300公斤）掩体克星炸弹，摧毁了总部，据报道总部位于地下。以色列国防军（IDF）将此次行动代号为“新秩序”。   
+杰森·布拉德利·德福特（Jason Bradley DeFord），专业名称Jelly Roll，是一位来自田纳西州安提阿的美国歌手、说唱歌手和词曲作者。他于2003年开始职业生涯，在2022年发行单曲《Son of a Sinner》和《Need a Favor》后，他声名鹊起。   
 
-阅读延伸[77983443]: [https://en.wikipedia.org/wiki/2024_Hezbollah_headquarters_strike](https://en.wikipedia.org/wiki/2024_Hezbollah_headquarters_strike)   
+阅读延伸[42260973]: [https://en.wikipedia.org/wiki/Jelly_Roll_(singer)](https://en.wikipedia.org/wiki/Jelly_Roll_(singer))   
 
-## 安塞尔_亚当斯   
-Ansel Easton Adams was an American landscape photographer and environmentalist known for his black-and-white images of the American West. He helped found Group f/64, an association of photographers advocating "pure" photography which favored sharp focus and the use of the full tonal range of a photograph. He and Fred Archer developed a system of image-making called the Zone System, a method of achieving a desired final print through a technical understanding of how the tonal range of an image is the result of choices made in exposure, negative development, and printing.   
+## 2025_AFC_U-20_Asian_Cup_资格赛   
+The 2025 AFC U-20 Asian Cup qualification was an international men's under-20 football competition which was held to decide the participating teams of the 2025 AFC U-20 Asian Cup.   
 
-安塞尔·伊斯顿·亚当斯（Ansel Easton Adams）是一位美国风景摄影师和环保主义者，以拍摄美国西部的黑白照片而闻名。他帮助创立了Group f/64，这是一个倡导“纯粹”摄影的摄影师协会，主张清晰的焦点和使用照片的全色调范围。他和弗雷德·阿彻开发了一种名为“区域系统”的图像制作系统，这是一种通过技术了解图像的色调范围如何是曝光、底片冲洗和印刷选择的结果来实现所需的最终印刷的方法。   
+2025年AFC U-20亚洲杯预选赛是一项国际男子20岁以下足球比赛，旨在决定2025年AFC U-20亚洲杯参赛球队。   
 
-阅读延伸[84317]: [https://en.wikipedia.org/wiki/Ansel_Adams](https://en.wikipedia.org/wiki/Ansel_Adams)   
+阅读延伸[76656323]: [https://en.wikipedia.org/wiki/2025_AFC_U-20_Asian_Cup_qualification](https://en.wikipedia.org/wiki/2025_AFC_U-20_Asian_Cup_qualification)   
+
+## _实质   
+The Substance is a 2024 satirical body horror film co-produced, written and directed by Coralie Fargeat. The film stars Demi Moore, Margaret Qualley and Dennis Quaid. An international co-production between the United Kingdom and France, its plot follows a fading celebrity (Moore) who decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself (Qualley), unknowingly giving her horrifying side effects.   
+
+《物质》是一部2024年的讽刺身体恐怖电影，由Coralie Fargeat联合制作、编剧和导演。这部电影由黛米·摩尔、玛格丽特·夸利和丹尼斯·奎德主演。这是英国和法国之间的国际联合制作，其情节讲述了一位日渐衰落的名人（摩尔饰）决定使用一种黑市药物，这是一种细胞复制物质，可以暂时创造出一个更年轻、更好的自己（夸利饰），在不知不觉中给了她可怕的副作用。   
+
+阅读延伸[70519613]: [https://en.wikipedia.org/wiki/The_Substance](https://en.wikipedia.org/wiki/The_Substance)   
+
+## 约翰·阿什顿（演员）   
+John David Ashton was an American actor, known for his roles in the Beverly Hills Cop films, Some Kind of Wonderful, and Midnight Run.   
+
+约翰·大卫·阿什顿是一位美国演员，因在比佛利山庄警察电影《某种美好》和《午夜快跑》中的角色而闻名。   
+
+阅读延伸[4119446]: [https://en.wikipedia.org/wiki/John_Ashton_(actor)](https://en.wikipedia.org/wiki/John_Ashton_(actor))   
 
