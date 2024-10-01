@@ -1,11 +1,4 @@
 # 最新资讯  
-## 莱尔和埃里克·梅嫩德斯   
-Joseph Lyle Menéndez and Erik Galen Menéndez are American brothers who were convicted in 1996 of the murders of their parents, José and Mary Louise "Kitty" Menéndez.   
-
-约瑟夫·莱尔·梅嫩德斯（Joseph Lyle Menéndez）和埃里克·盖伦·梅嫩德斯（Erik Galen Menéndez）是美国兄弟，他们于1996年因谋杀父母何塞·路易丝·梅嫩德斯（José）和玛丽·路易丝·“基蒂”·梅嫩德斯（Mary Louise ' Kitty ' Menéndez）而被定罪。   
-
-阅读延伸[663704]: [https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez](https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez)   
-
 ## 克里斯_克里斯托弗森   
 Kristoffer Kristofferson was an American country singer, songwriter and actor. Among his songwriting credits are "Me and Bobby McGee", "For the Good Times", "Sunday Mornin' Comin' Down", and "Help Me Make It Through the Night", all of which were hits for other artists.   
 
@@ -13,19 +6,26 @@ Kristoffer Kristofferson was an American country singer, songwriter and actor. A
 
 阅读延伸[168094]: [https://en.wikipedia.org/wiki/Kris_Kristofferson](https://en.wikipedia.org/wiki/Kris_Kristofferson)   
 
-## 哈桑_纳斯鲁拉   
-Hassan Nasrallah is a Lebanese cleric and the secretary-general of Hezbollah, a Shia Islamist political party and militant group.   
+## 莱尔和埃里克·梅嫩德斯   
+Joseph Lyle Menéndez and Erik Galen Menéndez are American brothers who were convicted in 1996 of the murders of their parents, José and Mary Louise "Kitty" Menéndez.   
 
-哈桑·纳斯鲁拉是一名黎巴嫩神职人员，也是什叶派伊斯兰政党和激进组织真主党的秘书长。   
+约瑟夫·莱尔·梅嫩德斯（Joseph Lyle Menéndez）和埃里克·盖伦·梅嫩德斯（Erik Galen Menéndez）是美国兄弟，他们于1996年因谋杀父母何塞·路易丝·梅嫩德斯（José）和玛丽·路易丝·“基蒂”·梅嫩德斯（Mary Louise ' Kitty ' Menéndez）而被定罪。   
 
-阅读延伸[313436]: [https://en.wikipedia.org/wiki/Hassan_Nasrallah](https://en.wikipedia.org/wiki/Hassan_Nasrallah)   
+阅读延伸[663704]: [https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez](https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez)   
 
-## 玛吉_史密斯   
-Dame Margaret Natalie Smith was a British actress. Known for her wit in comedic roles, she had an extensive career on stage and screen over seven decades and was one of Britain's most recognisable and prolific actresses. She received numerous accolades, including two Academy Awards, five BAFTA Awards, four Emmy Awards, three Golden Globe Awards and a Tony Award, as well as nominations for six Laurence Olivier Awards. Smith was one of the few performers to earn the Triple Crown of Acting.   
+## 迪肯贝_穆托姆博   
+Dikembe Mutombo Mpolondo Mukamba Jean-Jacques Wamutombo was a Congolese-American professional basketball player. Mutombo played 18 seasons in the National Basketball Association (NBA). Nicknamed "Mount Mutombo" for his defensive prowess, he is commonly regarded as one of the best shot-blockers and defensive players of all time. Outside of basketball, he was well known for his humanitarian work.   
 
-玛格丽特·娜塔莉·史密斯女爵士是一位英国女演员。她以喜剧角色的机智而闻名，七十多年来在舞台和银幕上拥有丰富的职业生涯，是英国最受认可、最多产的女演员之一。她获得了众多荣誉，包括两项奥斯卡金像奖、五项英国电影和电视艺术学院奖、四项艾美奖、三项金球奖和一项托尼奖，以及六项劳伦斯·奥利维尔奖提名。史密斯是少数获得表演三冠王的表演者之一。   
+迪肯贝·穆托姆博·姆波隆多·穆坎巴让-雅克·瓦穆托姆博是一名刚果裔美国职业篮球运动员。穆托姆博在国家篮球协会（NBA）效力了18个赛季。他因其防守能力而被昵称为“穆托姆博山”，被普遍认为是有史以来最好的盖帽手和防守球员之一。除了篮球之外，他还因其人道主义工作而闻名。   
 
-阅读延伸[82765]: [https://en.wikipedia.org/wiki/Maggie_Smith](https://en.wikipedia.org/wiki/Maggie_Smith)   
+阅读延伸[241113]: [https://en.wikipedia.org/wiki/Dikembe_Mutombo](https://en.wikipedia.org/wiki/Dikembe_Mutombo)   
+
+## 彼得_但丁   
+Peter Francis Dante is an American character actor, comedian and singer. He frequently appeared in films from Happy Madison Productions alongside Adam Sandler.   
+
+彼得·弗朗西斯·但丁是一位美国角色演员、喜剧演员和歌手。他经常与亚当·桑德勒一起出现在Happy Madison Productions的电影中。   
+
+阅读延伸[6214264]: [https://en.wikipedia.org/wiki/Peter_Dante](https://en.wikipedia.org/wiki/Peter_Dante)   
 
 ## 德瓦拉：_第1部分   
 Devara: Part 1 is a 2024 Indian Telugu-language action drama film directed by Koratala Siva and jointly produced by Yuvasudha Arts and N. T. R. Arts. The film stars N. T. Rama Rao Jr in dual roles, alongside Saif Ali Khan, Janhvi Kapoor and Shruti Marathe in their first Telugu film. Prakash Raj, Srikanth, Shine Tom Chacko, Narain, Kalaiyarasan and Murali Sharma appear in supporting roles.   
@@ -34,19 +34,26 @@ Devara: Part 1 is a 2024 Indian Telugu-language action drama film directed by Ko
 
 阅读延伸[74985384]: [https://en.wikipedia.org/wiki/Devara%3A_Part_1](https://en.wikipedia.org/wiki/Devara%3A_Part_1)   
 
-## 德雷克_霍格斯汀   
-Donald Drake Hogestyn was an American actor best known for his long-running role as John Black on the American soap opera Days of Our Lives.   
+## 丽塔_柯立芝   
+Rita Coolidge is an American recording artist. During the 1970s and 1980s, her songs were on Billboard magazine's pop, country, adult contemporary, and jazz charts, and she won two Grammy Awards with fellow musician and then-husband Kris Kristofferson. Her recordings include "(Your Love Keeps Lifting Me) Higher and Higher," "We're All Alone", "I'd Rather Leave While I'm in Love",	and the theme song for the 1983 James Bond film Octopussy: "All Time High".   
 
-唐纳德·德雷克·霍格斯顿是一位美国演员，因在美国肥皂剧《我们的日子》中长期扮演约翰·布莱克而闻名。   
+丽塔·柯立芝是一位美国唱片艺术家。20世纪70年代和80年代，她的歌曲登上了《公告牌》杂志的流行音乐、乡村音乐、成人当代音乐和爵士乐排行榜，并与音乐家、当时的丈夫克里斯·克里斯托弗森（Kris Kristoferson）一起荣获两项格莱美奖。她的唱片包括《（你的爱不断提升我）越来越高》、《我们都是孤独的》、《当我恋爱时我宁愿离开》、	以及1983年詹姆斯·邦德电影《章鱼》的主题曲：“All Time High”。   
 
-阅读延伸[746812]: [https://en.wikipedia.org/wiki/Drake_Hogestyn](https://en.wikipedia.org/wiki/Drake_Hogestyn)   
+阅读延伸[582015]: [https://en.wikipedia.org/wiki/Rita_Coolidge](https://en.wikipedia.org/wiki/Rita_Coolidge)   
 
-## 真主党   
-Hezbollah is a Lebanese Shia Islamist political party and paramilitary group, led since 1992 by its Secretary-General Hassan Nasrallah. Hezbollah's paramilitary wing is the Jihad Council, and its political wing is the Loyalty to the Resistance Bloc party in the Lebanese Parliament. Its armed strength was assessed to be equivalent to that of a medium-sized army in 2016.   
+## 加文_克里尔   
+Gavin James Creel was an American actor, singer, and songwriter best known for his work in musical theater and American Horror Stories. Creel made his Broadway debut in 2002 in the leading role of Jimmy in Thoroughly Modern Millie before starring as Claude in the 2009 Broadway revival of Hair, both Tony Award-nominated performances. From 2012 to 2015, he starred as Elder Price in The Book of Mormon; he received a Laurence Olivier Award for originating the role in the West End version of the musical and has played the role in the US National Tour and on Broadway. In 2017, he received a Tony Award for his performance as Cornelius Hackl in Broadway's Hello, Dolly!.   
 
-真主党是黎巴嫩什叶派伊斯兰政党和准军事组织，自1992年以来由秘书长哈桑·纳斯鲁拉领导。真主党的准军事派别是圣战委员会，其政治派别是黎巴嫩议会中的忠于抵抗集团党。2016年，其武装力量被评估为相当于一支中型军队。   
+加文·詹姆斯·克里尔（Gavin James Creel）是一位美国演员、歌手和词曲作者，以其在音乐剧和美国恐怖故事方面的作品而闻名。克里尔于2002年首次在百老汇亮相，在《彻底现代的米莉》中饰演吉米，然后在2009年百老汇复兴版《头发》中饰演克劳德，两次表演均获得托尼奖提名。2012年至2015年，他在《摩门经》中饰演埃尔德·普莱斯（Elder Price）;他因在该音乐剧西区版本中担任该角色而获得劳伦斯·奥利维尔奖，并曾在美国全国巡演和百老汇扮演该角色。2017年，他因在百老汇的《你好，多莉！》中饰演科尼利厄斯·哈克尔而获得托尼奖。   
 
-阅读延伸[13919]: [https://en.wikipedia.org/wiki/Hezbollah](https://en.wikipedia.org/wiki/Hezbollah)   
+阅读延伸[1380095]: [https://en.wikipedia.org/wiki/Gavin_Creel](https://en.wikipedia.org/wiki/Gavin_Creel)   
+
+## 皮特_罗斯   
+Peter Edward Rose Sr., also known by his nickname "Charlie Hustle", was an American professional baseball player and manager. He played in Major League Baseball (MLB) from 1963 to 1986, most prominently as a member of the Cincinnati Reds lineup known as the Big Red Machine for their dominance of the National League in the 1970s. He was successful playing for the Philadelphia Phillies, where he won his third World Series championship, and had a brief stint with the Montreal Expos. He managed the Reds from 1984 to 1989.   
+
+老彼得·爱德华·罗斯，绰号“查理·赫斯特”，是一位美国职业棒球运动员和经理。1963年至1986年，他在美国职业棒球大联盟（MLB）效力，最引人注目的是作为辛辛那提红人队阵容的一员，因其在20世纪70年代在全国联盟中的统治地位而被称为“红色大机器”。他成功地为费城费城人队效力，在那里他赢得了第三个世界大赛冠军，并在蒙特利尔博览会短暂效力。他于1984年至1989年执教红军。   
+
+阅读延伸[52970]: [https://en.wikipedia.org/wiki/Pete_Rose](https://en.wikipedia.org/wiki/Pete_Rose)   
 
 ## 肖恩_库姆斯   
 Sean Love Combs, also known by his stage name Diddy, formerly Puff Daddy and P. Diddy, is an American rapper, record producer and record executive. He is credited with the discovery and cultivation of artists such as the Notorious B.I.G., Mary J. Blige, and Usher. Combs has won three Grammy Awards from 13 nominations, two MTV Video Music Awards, and a Guinness World Record for "Most Successful Rap Producer" in 1997.   
@@ -55,12 +62,12 @@ Sean Love Combs, also known by his stage name Diddy, formerly Puff Daddy and P. 
 
 阅读延伸[152447]: [https://en.wikipedia.org/wiki/Sean_Combs](https://en.wikipedia.org/wiki/Sean_Combs)   
 
-## Jean_Smart   
-Jean Elizabeth Smart is an American actress. Her work includes both comedy and drama, and her accolades include six Primetime Emmy Awards, a Golden Globe Award, and nominations for a Tony Award and a Grammy Award.   
+## 玛吉_史密斯   
+Dame Margaret Natalie Smith was a British actress. Known for her wit in comedic roles, she had an extensive career on stage and screen over seven decades and was one of Britain's most recognisable and prolific actresses. She received numerous accolades, including two Academy Awards, five BAFTA Awards, four Emmy Awards, three Golden Globe Awards and a Tony Award, as well as nominations for six Laurence Olivier Awards. Smith was one of the few performers to earn the Triple Crown of Acting.   
 
-让·伊丽莎白·斯马特是一位美国女演员。她的作品包括喜剧和戏剧，她的荣誉包括六次黄金时段艾美奖、金球奖以及托尼奖和格莱美奖提名。   
+玛格丽特·娜塔莉·史密斯女爵士是一位英国女演员。她以喜剧角色的机智而闻名，七十多年来在舞台和银幕上拥有丰富的职业生涯，是英国最受认可、最多产的女演员之一。她获得了众多荣誉，包括两项奥斯卡金像奖、五项英国电影和电视艺术学院奖、四项艾美奖、三项金球奖和一项托尼奖，以及六项劳伦斯·奥利维尔奖提名。史密斯是少数获得表演三冠王的表演者之一。   
 
-阅读延伸[939763]: [https://en.wikipedia.org/wiki/Jean_Smart](https://en.wikipedia.org/wiki/Jean_Smart)   
+阅读延伸[82765]: [https://en.wikipedia.org/wiki/Maggie_Smith](https://en.wikipedia.org/wiki/Maggie_Smith)   
 
 ## 死亡_in_2024   
 
@@ -73,12 +80,26 @@ The following notable deaths occurred in 2024. Names are reported under the date
 
 阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
 
-## 亚当_布罗迪   
-Adam Jared Brody is an American actor. His breakout role was as Seth Cohen on the Fox television series The O.C. (2003–2007). In the first decade of the 21st century, Brody appeared in films including Mr. & Mrs. Smith (2005), Thank You for Smoking (2005), In the Land of Women (2007), and Jennifer's Body (2009).   
+## 哈桑_纳斯鲁拉   
+Hassan Nasrallah is a Lebanese cleric and the secretary-general of Hezbollah, a Shia Islamist political party and militant group.   
 
-亚当·贾里德·布罗迪是一位美国演员。他的突破性角色是在福克斯电视剧《The OC》中饰演塞斯·科恩（2003-2007年）。在21世纪的头十年里，布罗迪出现在《史密斯先生和夫人》（2005年）、《谢谢你抽烟》（2005年）、《在女人的国度》（2007年）和《詹妮弗的身体》（2009年）等电影中。   
+哈桑·纳斯鲁拉是一名黎巴嫩神职人员，也是什叶派伊斯兰政党和激进组织真主党的秘书长。   
 
-阅读延伸[377205]: [https://en.wikipedia.org/wiki/Adam_Brody](https://en.wikipedia.org/wiki/Adam_Brody)   
+阅读延伸[313436]: [https://en.wikipedia.org/wiki/Hassan_Nasrallah](https://en.wikipedia.org/wiki/Hassan_Nasrallah)   
+
+## 克里斯_克里斯托弗森_电影记录   
+American singer-songwriter and actor Kris Kristofferson has been in numerous films, television films, television series and video games. He started acting in the 1970s, appearing in the films The Last Movie (1971), Cisco Pike (1972), Pat Garrett and Billy the Kid (1973), Blume in Love (1973), Alice Doesn't Live Here Anymore (1974), Bring Me the Head of Alfredo Garcia (1974) and Vigilante Force (1976), before starring in the 1976 film A Star Is Born as John Norman Howard, which earned him a Golden Globe Award for Best Actor - Motion Picture Musical or Comedy. He went on to co-star in Stagecoach (1986) and star in films such as Semi-Tough (1977), Convoy (1978), Heaven's Gate (1980), Flashpoint (1984), Big Top Pee-wee (1988), and Welcome Home (1989).   
+
+美国创作型歌手兼演员克里斯·克里斯托弗森（Kris Kristoferson）曾出演过众多电影、电视电影、电视剧和电子游戏。他于20世纪70年代开始演戏，出演过电影《最后的电影》（1971年）、《思科·派克》（1972年）、《帕特·加勒特》和《比利小子》（1973年）、《Blume in Love》（1973年）、《爱丽丝不再住在这里》（1974年）、《把阿尔弗雷多·加西亚的头给我带来》（1974年）和《治安部队》（1976年），随后在1976年的电影《明星的诞生》中饰演约翰·诺曼·霍华德，该片为他赢得了金球奖音乐剧或喜剧类最佳男主角。他随后与人联合主演了《马车》（1986），并主演了《半硬汉》（1977）、《礼宾部》（1978）、《天堂之门》（1980）、《燃点》（1984）、《Big Top Pee-wee》（1988）和《欢迎回家》（1989）等电影。   
+
+阅读延伸[46569724]: [https://en.wikipedia.org/wiki/Kris_Kristofferson_filmography](https://en.wikipedia.org/wiki/Kris_Kristofferson_filmography)   
+
+## 德里克_亨利   
+Derrick Lamar Henry Jr. is an American professional football running back for the Baltimore Ravens of the National Football League (NFL). Nicknamed "King Henry", he is known for his imposing style of play and larger build than the average running back.   
+
+德里克·拉马尔·亨利小是美国国家橄榄球联盟（NFL）巴尔的摩乌鸦队的美式职业足球跑卫。绰号“亨利国王”的他以其雄伟的比赛风格和比一般跑卫更大的身材而闻名。   
+
+阅读延伸[41535681]: [https://en.wikipedia.org/wiki/Derrick_Henry](https://en.wikipedia.org/wiki/Derrick_Henry)   
 
 ## 大都市_（电影）   
 Megalopolis is a 2024 American epic science fiction drama film written, directed, and produced by Francis Ford Coppola. The film stars Adam Driver, Giancarlo Esposito, Nathalie Emmanuel, Aubrey Plaza, Shia LaBeouf, Jon Voight, Laurence Fishburne, Talia Shire, Jason Schwartzman, Kathryn Hunter, Grace VanderWaal, Chloe Fineman, James Remar, D. B. Sweeney, and Dustin Hoffman. Set in an imagined modern United States, it follows visionary architect Cesar Catilina (Driver) as he clashes with the corrupt Mayor Franklyn Cicero (Esposito) in determining how to rebuild the metropolis of New Rome after a devastating disaster. The film references the characters involved in the Catilinarian conspiracy of 63 BC, including Catiline and Cicero, in addition to Caesar.   
@@ -87,54 +108,26 @@ Megalopolis is a 2024 American epic science fiction drama film written, directed
 
 阅读延伸[68613611]: [https://en.wikipedia.org/wiki/Megalopolis_(film)](https://en.wikipedia.org/wiki/Megalopolis_(film))   
 
-## 怪物：_The_Lyle_和_Erik_Menendez_故事   
-Monsters: The Lyle and Erik Menendez Story is the second season of the American biographical crime drama anthology television series Monster, created by Ryan Murphy and Ian Brennan for Netflix. This season centers on the 1989 murders of José and Kitty Menéndez, who were killed by their sons, Lyle and Erik. It was released on September 19, 2024.   
+## Ambergris   
+Ambergris, ambergrease, or grey amber is a solid, waxy, flammable substance of a dull grey or blackish colour produced in the digestive system of sperm whales. Freshly produced ambergris has a marine, fecal odor. It acquires a sweet, earthy scent as it ages, commonly likened to the fragrance of isopropyl alcohol without the vaporous chemical astringency.   
 
-怪物：莱尔和埃里克·梅嫩德斯的故事是美国传记犯罪剧选集电视连续剧《怪物》的第二季，由瑞安·墨菲和伊恩·布伦南为Netflix制作。本季以1989年何塞·梅嫩德斯（José Menéndez）和基蒂·梅嫩德斯（Kitty Menéndez）被谋杀为中心，他们被他们的儿子莱尔（Lyle）和埃里克（Erik）杀害。它于2024年9月19日发布。   
+龙须草、琥珀脂或灰琥珀是抹香鲸消化系统产生的一种固体、蜡质、易燃物质，呈暗灰色或黑色。新鲜生产的龙葵有一种海洋粪便气味。随着年龄的增长，它会产生一种甜味、泥土的气味，通常被比作不含气态化学涩的异丙醇的香味。   
 
-阅读延伸[77801671]: [https://en.wikipedia.org/wiki/Monsters%3A_The_Lyle_and_Erik_Menendez_Story](https://en.wikipedia.org/wiki/Monsters%3A_The_Lyle_and_Erik_Menendez_Story)   
+阅读延伸[1697]: [https://en.wikipedia.org/wiki/Ambergris](https://en.wikipedia.org/wiki/Ambergris)   
 
-## 瑞安_威廉姆斯_（边路接球手）   
-Ryan Alexander Coleman Williams is an American football wide receiver for the Alabama Crimson Tide.   
+## 亚当_布罗迪   
+Adam Jared Brody is an American actor. His breakout role was as Seth Cohen on the Fox television series The O.C. (2003–2007). In the first decade of the 21st century, Brody appeared in films including Mr. & Mrs. Smith (2005), Thank You for Smoking (2005), In the Land of Women (2007), and Jennifer's Body (2009).   
 
-瑞安·亚历山大·科尔曼·威廉姆斯（Ryan Alexander Coleman Williams）是阿拉巴马州红潮队的美式橄榄球外接球手。   
+亚当·贾里德·布罗迪是一位美国演员。他的突破性角色是在福克斯电视剧《The OC》中饰演塞斯·科恩（2003-2007年）。在21世纪的头十年里，布罗迪出现在《史密斯先生和夫人》（2005年）、《谢谢你抽烟》（2005年）、《在女人的国度》（2007年）和《詹妮弗的身体》（2009年）等电影中。   
 
-阅读延伸[76914030]: [https://en.wikipedia.org/wiki/Ryan_Williams_(wide_receiver)](https://en.wikipedia.org/wiki/Ryan_Williams_(wide_receiver))   
+阅读延伸[377205]: [https://en.wikipedia.org/wiki/Adam_Brody](https://en.wikipedia.org/wiki/Adam_Brody)   
 
-## 卡伦_德波尔   
-Kalen Douglas DeBoer is an American college football coach who is currently the head coach at the University of Alabama. He also served as the head coach at the University of Sioux Falls from 2005 to 2009, Fresno State from 2020 to 2021, and the University of Washington from 2022 to 2023. At Sioux Falls, his teams won three NAIA Football National Championships, in 2006, 2008, and 2009. DeBoer’s record as head coach is 108-12.   
+## 真主党   
+Hezbollah is a Lebanese Shia Islamist political party and paramilitary group, led since 1992 by its Secretary-General Hassan Nasrallah. Hezbollah's paramilitary wing is the Jihad Council, and its political wing is the Loyalty to the Resistance Bloc party in the Lebanese Parliament. Its armed strength was assessed to be equivalent to that of a medium-sized army in 2016.   
 
-卡伦·道格拉斯·德波尔（Kalen Douglas DeBoer）是一名美国大学橄榄球教练，现任阿拉巴马大学主教练。他还于2005年至2009年在苏福尔斯大学、2020年至2021年在弗雷斯诺州立大学和2022年至2023年在华盛顿大学担任主教练。在苏福尔斯，他的球队于2006年、2008年和2009年赢得了三届NAIA足球全国锦标赛。德波尔作为主教练的战绩是108胜12负。   
+真主党是黎巴嫩什叶派伊斯兰政党和准军事组织，自1992年以来由秘书长哈桑·纳斯鲁拉领导。真主党的准军事派别是圣战委员会，其政治派别是黎巴嫩议会中的忠于抵抗集团党。2016年，其武装力量被评估为相当于一支中型军队。   
 
-阅读延伸[29188943]: [https://en.wikipedia.org/wiki/Kalen_DeBoer](https://en.wikipedia.org/wiki/Kalen_DeBoer)   
-
-## 利亚姆·德拉普   
-Liam Rory Delap is an English professional footballer who plays as a forward for Premier League club Ipswich Town.   
-
-利亚姆·罗里·德拉普（Liam Rory Delap）是一名英国职业足球运动员，在英超俱乐部伊普斯维奇镇（Ipswich Town）担任前锋。   
-
-阅读延伸[65409225]: [https://en.wikipedia.org/wiki/Liam_Delap](https://en.wikipedia.org/wiki/Liam_Delap)   
-
-## Jelly_Roll_（歌手）   
-Jason Bradley DeFord, known professionally as Jelly Roll, is an American singer, rapper, and songwriter from Antioch, Tennessee. Beginning his career in 2003, he rose to mainstream prominence following the release of his 2022 singles "Son of a Sinner" and "Need a Favor".   
-
-杰森·布拉德利·德福特（Jason Bradley DeFord），专业名称Jelly Roll，是一位来自田纳西州安提阿的美国歌手、说唱歌手和词曲作者。他于2003年开始职业生涯，在2022年发行单曲《Son of a Sinner》和《Need a Favor》后，他声名鹊起。   
-
-阅读延伸[42260973]: [https://en.wikipedia.org/wiki/Jelly_Roll_(singer)](https://en.wikipedia.org/wiki/Jelly_Roll_(singer))   
-
-## 2025_AFC_U-20_Asian_Cup_资格赛   
-The 2025 AFC U-20 Asian Cup qualification was an international men's under-20 football competition which was held to decide the participating teams of the 2025 AFC U-20 Asian Cup.   
-
-2025年AFC U-20亚洲杯预选赛是一项国际男子20岁以下足球比赛，旨在决定2025年AFC U-20亚洲杯参赛球队。   
-
-阅读延伸[76656323]: [https://en.wikipedia.org/wiki/2025_AFC_U-20_Asian_Cup_qualification](https://en.wikipedia.org/wiki/2025_AFC_U-20_Asian_Cup_qualification)   
-
-## _实质   
-The Substance is a 2024 satirical body horror film co-produced, written and directed by Coralie Fargeat. The film stars Demi Moore, Margaret Qualley and Dennis Quaid. An international co-production between the United Kingdom and France, its plot follows a fading celebrity (Moore) who decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself (Qualley), unknowingly giving her horrifying side effects.   
-
-《物质》是一部2024年的讽刺身体恐怖电影，由Coralie Fargeat联合制作、编剧和导演。这部电影由黛米·摩尔、玛格丽特·夸利和丹尼斯·奎德主演。这是英国和法国之间的国际联合制作，其情节讲述了一位日渐衰落的名人（摩尔饰）决定使用一种黑市药物，这是一种细胞复制物质，可以暂时创造出一个更年轻、更好的自己（夸利饰），在不知不觉中给了她可怕的副作用。   
-
-阅读延伸[70519613]: [https://en.wikipedia.org/wiki/The_Substance](https://en.wikipedia.org/wiki/The_Substance)   
+阅读延伸[13919]: [https://en.wikipedia.org/wiki/Hezbollah](https://en.wikipedia.org/wiki/Hezbollah)   
 
 ## 约翰·阿什顿（演员）   
 John David Ashton was an American actor, known for his roles in the Beverly Hills Cop films, Some Kind of Wonderful, and Midnight Run.   
@@ -142,4 +135,11 @@ John David Ashton was an American actor, known for his roles in the Beverly Hill
 约翰·大卫·阿什顿是一位美国演员，因在比佛利山庄警察电影《某种美好》和《午夜快跑》中的角色而闻名。   
 
 阅读延伸[4119446]: [https://en.wikipedia.org/wiki/John_Ashton_(actor)](https://en.wikipedia.org/wiki/John_Ashton_(actor))   
+
+## _Highwaymen_（国家_超级团体）   
+The Highwaymen was an American country music supergroup, composed of four of country music's biggest artists who pioneered the outlaw country subgenre: Johnny Cash, Waylon Jennings, Willie Nelson, and Kris Kristofferson. Between 1985 and 1995, the group recorded three major label albums as The Highwaymen: two on Columbia Records and one for Liberty Records. Their Columbia works produced three chart singles, including the number one "Highwayman" in 1985.   
+
+The Highwaymen是一个美国乡村音乐超级乐队，由四位乡村音乐最伟大的艺术家组成，他们开创了不法乡村亚流派：约翰尼·卡什、韦伦·詹宁斯、威利·尼尔森和克里斯·克里斯托弗森。1985年至1995年间，该乐队录制了三张主要唱片《The Highwaymen》：两张在哥伦比亚唱片公司发行，一张在Liberty Records发行。他们的哥伦比亚作品制作了三首排行榜单曲，其中包括1985年排名第一的《Highwayman》。   
+
+阅读延伸[4541136]: [https://en.wikipedia.org/wiki/The_Highwaymen_(country_supergroup)](https://en.wikipedia.org/wiki/The_Highwaymen_(country_supergroup))   
 
