@@ -13,12 +13,61 @@ Joker: Folie à Deux is a 2024 American musical psychological thriller film dire
 
 阅读延伸[62402361]: [https://en.wikipedia.org/wiki/Joker%3A_Folie_%C3%A0_Deux](https://en.wikipedia.org/wiki/Joker%3A_Folie_%C3%A0_Deux)   
 
-## 肖恩_库姆斯   
-Sean Love Combs, also known by his stage name Diddy, formerly Puff Daddy and P. Diddy, is an American rapper, record producer and record executive. He is credited with the discovery and cultivation of artists such as the Notorious B.I.G., Mary J. Blige, and Usher. Combs has won three Grammy Awards from 13 nominations, two MTV Video Music Awards, and a Guinness World Record for "Most Successful Rap Producer" in 1997.   
+## 飓风_米尔顿   
+Hurricane Milton is an extremely powerful tropical cyclone active in the Gulf of Mexico, currently impacting the Yucatán Peninsula. The thirteenth named storm, ninth hurricane, fourth major hurricane, and second Category 5 hurricane of the 2024 Atlantic hurricane season, Milton formed from a long-tracked tropical disturbance which originated in the western Caribbean Sea and consolidated in the Bay of Campeche on October 5. The hurricane underwent explosive intensification into a Category 5 hurricane on October 7. The storm is expected to impact Florida less than two weeks after Hurricane Helene devastated its Big Bend region. Milton is the strongest Atlantic hurricane since Wilma in 2005 and the strongest Gulf of Mexico hurricane since Rita in 2005. It is also the fifth most intense Atlantic hurricane on record; only Rita, the 1935 Labor Day hurricane, Gilbert and Wilma had lower minimum pressures.   
 
-肖恩·洛夫·库姆斯（Sean Love Combs）也以艺名“吹牛老爹”（P. Diddy）而闻名，他是一位美国说唱歌手、唱片制作人和唱片主管。他因发现和培养臭名昭著的BIG等艺术家而受到赞誉玛丽·J·布莱姬和亚瑟。库姆斯曾获得13项提名中的3项格莱美奖、两项MTV音乐录影带奖以及1997年“最成功说唱制作人”吉尼斯世界纪录。   
+飓风米尔顿是活跃在墨西哥湾的一个极其强大的热带气旋，目前影响尤卡坦半岛。米尔顿是2024年大西洋飓风季节的第十三场命名风暴、第九场飓风、第四场大型飓风和第二场5级飓风，由一场长期热带扰动形成，该扰动起源于西加勒比海，并于10月5日在坎佩切湾巩固。10月7日，飓风爆发性增强为5级飓风。预计这场风暴将在飓风海伦摧毁佛罗里达州大弯地区不到两周后影响佛罗里达州。米尔顿是自2005年威尔玛以来最强的大西洋飓风，也是自2005年丽塔以来最强的墨西哥湾飓风。这也是有记录以来第五强的大西洋飓风;只有1935年劳动节飓风丽塔、吉尔伯特和威尔玛的最低气压较低。   
 
-阅读延伸[152447]: [https://en.wikipedia.org/wiki/Sean_Combs](https://en.wikipedia.org/wiki/Sean_Combs)   
+阅读延伸[78046814]: [https://en.wikipedia.org/wiki/Hurricane_Milton](https://en.wikipedia.org/wiki/Hurricane_Milton)   
+
+## 2024年_Haryana_立法机关_议会_选举   
+General elections were held in Haryana on 5 October 2024 to elect all 90 members of the Haryana Legislative Assembly. The ballots will be counted and the results will be declared on 8 October 2024.   
+
+哈里亚纳邦于2024年10月5日举行大选，选出哈里亚纳邦立法议会的全部90名议员。选票将于2024年10月8日清点并公布结果。   
+
+阅读延伸[67522002]: [https://en.wikipedia.org/wiki/2024_Haryana_Legislative_Assembly_election](https://en.wikipedia.org/wiki/2024_Haryana_Legislative_Assembly_election)   
+
+## 2019年_Haryana_立法机构_议会_选举   
+Legislative Assembly election was held in Haryana on 21 October 2019 to elect 90 members of the Haryana Legislative Assembly. The final voter turnout was recorded at 68.20%. The results were announced on 24 October 2019.   
+
+2019年10月21日，哈里亚纳邦举行了立法议会选举，选举出哈里亚纳邦立法议会的90名议员。最终选民投票率为68.20%。结果于2019年10月24日公布。   
+
+阅读延伸[59711535]: [https://en.wikipedia.org/wiki/2019_Haryana_Legislative_Assembly_election](https://en.wikipedia.org/wiki/2019_Haryana_Legislative_Assembly_election)   
+
+## 杰弗里_辛顿   
+Geoffrey Everest Hinton is a British-Canadian computer scientist, cognitive scientist, psychologist and most noted for his work on artificial neural networks, which has earned him the title as the "Godfather of AI".   
+
+杰弗里·珠穆朗玛峰·辛顿（Geoffrey Everest Hinton）是一位英裔加拿大计算机科学家、认知科学家、心理学家，因其在人工神经网络方面的工作而闻名，这为他赢得了“人工智能教父”的称号。   
+
+阅读延伸[507174]: [https://en.wikipedia.org/wiki/Geoffrey_Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)   
+
+## 克里斯托弗_托马斯_奈特   
+Christopher Thomas Knight, also known as the North Pond Hermit, is a former recluse and burglar who claimed to have lived without human contact for 27 years between 1986 and 2013 in the North Pond area of Maine's Belgrade Lakes.   
+
+克里斯托弗·托马斯·奈特（Christopher Thomas Knight），又名北池隐士，曾是一名隐士和窃贼，声称1986年至2013年间，他在缅因州贝尔格莱德湖的北池地区生活了27年，没有与人接触。   
+
+阅读延伸[43671811]: [https://en.wikipedia.org/wiki/Christopher_Thomas_Knight](https://en.wikipedia.org/wiki/Christopher_Thomas_Knight)   
+
+## 罗伯特·萨利赫   
+Robert Saleh is an American professional football coach who most recently was the head coach of the New York Jets of the National Football League (NFL). He has been assistant coach for the Houston Texans, Seattle Seahawks, Jacksonville Jaguars, and San Francisco 49ers. Saleh has appeared in two Super Bowls, one each with the Seahawks and 49ers, winning Super Bowl XLVIII with the former.   
+
+罗伯特·萨利赫（Robert Saleh）是一位美国职业足球教练，最近担任国家橄榄球联盟（NFL）纽约喷气机队的主教练。他曾担任休斯顿德克萨斯人队、西雅图海鹰队、杰克逊维尔美洲虎队和旧金山49人队的助理教练。萨利赫曾参加过两次超级碗比赛，其中海鹰队和49人队各一次，并凭借前者赢得了超级碗第XLVIII名。   
+
+阅读延伸[43301263]: [https://en.wikipedia.org/wiki/Robert_Saleh](https://en.wikipedia.org/wiki/Robert_Saleh)   
+
+## 飓风_卡特里娜   
+Hurricane Katrina was a powerful and devastating tropical cyclone that caused 1,392 fatalities and damages estimated at $125 billion in late August 2005, particularly in the city of New Orleans and its surrounding area. Katrina was the twelfth tropical cyclone, the fifth hurricane, and the third major hurricane of the 2005 Atlantic hurricane season. It was also the fourth-most intense Atlantic hurricane to make landfall in the contiguous United States, gauged by barometric pressure.   
+
+卡特里娜飓风是一场强大且具有破坏性的热带气旋，2005年8月下旬造成1，392人死亡，损失估计达1，250亿美元，特别是在新奥尔良市及其周边地区。卡特里娜是2005年大西洋飓风季节的第十二个热带气旋、第五个飓风和第三个大型飓风。根据气压测量，这也是登陆美国本土的第四强大西洋飓风。   
+
+阅读延伸[2569378]: [https://en.wikipedia.org/wiki/Hurricane_Katrina](https://en.wikipedia.org/wiki/Hurricane_Katrina)   
+
+## 约翰_霍普菲尔德   
+John Joseph Hopfield is an American physicist and emeritus professor of Princeton University, most widely known for his study of associative neural networks in 1982. He is known for the development of the Hopfield network.   
+
+约翰·约瑟夫·霍普菲尔德（John Joseph Hopfield）是一位美国物理学家，也是普林斯顿大学名誉教授，他因1982年对联想神经网络的研究而闻名。他因Hopfield网络的开发而闻名。   
+
+阅读延伸[649572]: [https://en.wikipedia.org/wiki/John_Hopfield](https://en.wikipedia.org/wiki/John_Hopfield)   
 
 ## 死亡_in_2024   
 
@@ -31,54 +80,26 @@ The following notable deaths occurred in 2024. Names are reported under the date
 
 阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
 
-## 飓风_米尔顿   
-Hurricane Milton is an extremely powerful tropical cyclone active in the Gulf of Mexico, currently impacting the Yucatán Peninsula. The thirteenth named storm, ninth hurricane, fourth major hurricane, and second Category 5 hurricane of the 2024 Atlantic hurricane season, Milton formed from a long-tracked tropical disturbance which originated in the western Caribbean Sea and consolidated in the Bay of Campeche on October 5. The hurricane underwent explosive intensification into a Category 5 hurricane on October 7. The storm is expected to impact Florida less than two weeks after Hurricane Helene devastated its Big Bend region. Milton is the strongest Atlantic hurricane since Wilma in 2005 and the strongest Gulf of Mexico hurricane since Rita in 2005. It is also the fifth most intense Atlantic hurricane on record; only Rita, the 1935 Labor Day hurricane, Gilbert and Wilma had lower minimum pressures.   
+## 2024年_查谟_克什米尔_立法_议会_选举   
+Legislative Assembly elections were held in Jammu and Kashmir from 18 September to 1 October 2024 in 3 phases to elect 90 members of Jammu and Kashmir Legislative Assembly. The results of the elections were announced on 8 October 2024. The INDIA coalition of Jammu and Kashmir National Conference (JKNC), Indian National Congress (INC) and Communist Party of India (Marxist) won a majority of seats in the election, winning 49 of the 90 seats for which elections were held.   
 
-飓风米尔顿是活跃在墨西哥湾的一个极其强大的热带气旋，目前影响尤卡坦半岛。米尔顿是2024年大西洋飓风季节的第十三场命名风暴、第九场飓风、第四场大型飓风和第二场5级飓风，由一场长期热带扰动形成，该扰动起源于西加勒比海，并于10月5日在坎佩切湾巩固。10月7日，飓风爆发性增强为5级飓风。预计这场风暴将在飓风海伦摧毁佛罗里达州大弯地区不到两周后影响佛罗里达州。米尔顿是自2005年威尔玛以来最强的大西洋飓风，也是自2005年丽塔以来最强的墨西哥湾飓风。这也是有记录以来第五强的大西洋飓风;只有1935年劳动节飓风丽塔、吉尔伯特和威尔玛的最低气压较低。   
+查谟和克什米尔立法议会选举于2024年9月18日至10月1日分3个阶段举行，选举出90名查谟和克什米尔立法议会议员。选举结果于2024年10月8日公布。查谟和克什米尔全国会议（JKNC）、印度国大党（REC）和印度共产党（马克思主义）组成的印度联盟在选举中赢得了多数席位，赢得了90个选举席位中的49个。   
 
-阅读延伸[78046814]: [https://en.wikipedia.org/wiki/Hurricane_Milton](https://en.wikipedia.org/wiki/Hurricane_Milton)   
+阅读延伸[66210415]: [https://en.wikipedia.org/wiki/2024_Jammu_and_Kashmir_Legislative_Assembly_election](https://en.wikipedia.org/wiki/2024_Jammu_and_Kashmir_Legislative_Assembly_election)   
 
-## 加里_鲁夫昆   
-Gary Bruce Ruvkun is an American molecular biologist and Nobel laureate at Massachusetts General Hospital and professor of genetics at Harvard Medical School in Boston.   
+## 查谟和克什米尔国家会议   
+The Jammu and Kashmir National Conference (JKNC) is a regional political party in Indian-administered Kashmir's union territories of Jammu and Kashmir and Ladakh. Founded as the All Jammu and Kashmir Muslim Conference by Sheikh Abdullah and Chaudhry Ghulam Abbas in 1932 in the princely state of Jammu and Kashmir, the organisation renamed itself to National Conference in 1939 in order to represent all the people of the state. It supported the accession of the princely state to India in 1947. Prior to that, in 1941, a group led by Ghulam Abbas broke off from the National Conference and revived the old Muslim Conference. The revived Muslim Conference supported the accession of the princely state to Pakistan and led the movement for Azad Kashmir.   
 
-加里·布鲁斯·鲁夫昆（Gary Bruce Ruvkun）是美国分子生物学家、马萨诸塞州总医院诺贝尔奖获得者、波士顿哈佛医学院遗传学教授。   
+查谟和克什米尔全国会议（JKNC）是印控克什米尔联邦领土查谟、克什米尔和拉达克的一个地区政党。该组织由谢赫·阿卜杜拉和乔杜里·古拉姆·阿巴斯于1932年在查谟和克什米尔公国成立，原名全查谟和克什米尔穆斯林会议，并于1939年更名为全国会议，以代表该州所有人民。它支持这个公国于1947年加入印度。在此之前，1941年，古拉姆·阿巴斯领导的团体脱离了全国会议，并恢复了旧的穆斯林会议。复兴的穆斯林会议支持这个公国加入巴基斯坦，并领导了阿扎德克什米尔运动。   
 
-阅读延伸[17604561]: [https://en.wikipedia.org/wiki/Gary_Ruvkun](https://en.wikipedia.org/wiki/Gary_Ruvkun)   
+阅读延伸[512306]: [https://en.wikipedia.org/wiki/Jammu_%26_Kashmir_National_Conference](https://en.wikipedia.org/wiki/Jammu_%26_Kashmir_National_Conference)   
 
-## 辛汉姆_再次   
-Singham Again is an upcoming Indian Hindi-language action film directed by Rohit Shetty, who also co-produced it under Rohit Shetty Picturez, alongside Reliance Entertainment, Jio Studios and Devgn Films. The film stars Ajay Devgn in the title role, alongside Kareena Kapoor Khan, Ranveer Singh, Akshay Kumar, Deepika Padukone, Tiger Shroff, Arjun Kapoor and Jackie Shroff. It is the fifth installment of Shetty's Cop Universe and a direct sequel to Singham Returns (2014).   
+## 肖恩_库姆斯   
+Sean Love Combs, also known by his stage name Diddy, formerly Puff Daddy and P. Diddy, is an American rapper, record producer and record executive. He is credited with the discovery and cultivation of artists such as the Notorious B.I.G., Mary J. Blige, and Usher. Combs has won three Grammy Awards from 13 nominations, two MTV Video Music Awards, and a Guinness World Record for "Most Successful Rap Producer" in 1997.   
 
-《又一次星厄姆》是一部即将上映的印度印地语动作片，由罗希特·谢蒂执导，他还与罗希特·谢蒂·皮克图雷斯（Rohit Shetty Picturez）、信实娱乐（Reliance Entertainment）、Jio Studios和Devgn Films共同制作。这部电影由Ajay Devgn主演，与Kareena Kapoor Khan、Ranveer Singh、Akshay Kumar、Deepika Padukone、Tiger Shroff、Arjun Kapoor和Jackie Shroff一起主演。这是《谢蒂的警察宇宙》的第五部，也是《辛汉姆归来》（Singham Returns）（2014）的直接续集。   
+肖恩·洛夫·库姆斯（Sean Love Combs）也以艺名“吹牛老爹”（P. Diddy）而闻名，他是一位美国说唱歌手、唱片制作人和唱片主管。他因发现和培养臭名昭著的BIG等艺术家而受到赞誉玛丽·J·布莱姬和亚瑟。库姆斯曾获得13项提名中的3项格莱美奖、两项MTV音乐录影带奖以及1997年“最成功说唱制作人”吉尼斯世界纪录。   
 
-阅读延伸[75680669]: [https://en.wikipedia.org/wiki/Singham_Again](https://en.wikipedia.org/wiki/Singham_Again)   
-
-## 维克多_安布罗斯   
-Victor R. Ambros is an American developmental biologist and Nobel Laureate who discovered the first known microRNA (miRNA). He is a professor at the University of Massachusetts Medical School. He completed both his undergraduate and doctoral studies at the Massachusetts Institute of Technology. Ambros received the Nobel Prize in Physiology or Medicine in 2024 for his research on microRNA.   
-
-维克多·R安布罗斯是一位美国发育生物学家、诺贝尔奖获得者，他发现了第一个已知的微RNA（miRNA）。他是马萨诸塞大学医学院的教授。他在麻省理工学院完成了本科和博士学业。安布罗斯因其对微RNA的研究于2024年获得诺贝尔生理学或医学奖。   
-
-阅读延伸[17599761]: [https://en.wikipedia.org/wiki/Victor_Ambros](https://en.wikipedia.org/wiki/Victor_Ambros)   
-
-## 亚当_布罗迪   
-Adam Jared Brody is an American actor. His breakout role was as Seth Cohen on the Fox television series The O.C. (2003–2007). In the first decade of the 21st century, Brody appeared in films including Mr. & Mrs. Smith (2005), Thank You for Smoking (2005), In the Land of Women (2007), and Jennifer's Body (2009).   
-
-亚当·贾里德·布罗迪是一位美国演员。他的突破性角色是在福克斯电视剧《The OC》中饰演塞斯·科恩（2003-2007年）。在21世纪的头十年里，布罗迪出现在《史密斯先生和夫人》（2005年）、《谢谢你抽烟》（2005年）、《在女人的国度》（2007年）和《詹妮弗的身体》（2009年）等电影中。   
-
-阅读延伸[377205]: [https://en.wikipedia.org/wiki/Adam_Brody](https://en.wikipedia.org/wiki/Adam_Brody)   
-
-## 2024年_统计_飓风_季节   
-The 2024 Atlantic hurricane season is the ongoing Atlantic hurricane season in the Northern Hemisphere. The season officially began on June 1, and will end on November 30. These dates, adopted by convention, historically describe the period in each year when most subtropical or tropical cyclogenesis occurs in the Atlantic Ocean. The first system, Tropical Storm Alberto, developed on June 19, making it the latest first named storm since 2014.   
-
-2024年大西洋飓风季节是北半球持续的大西洋飓风季节。该赛季于6月1日正式开始，并将于11月30日结束。这些按惯例采用的日期历史上描述了每年大西洋发生大多数亚热带或热带气旋的时期。第一个系统是热带风暴阿尔贝托，于6月19日形成，成为2014年以来最新的首个命名风暴。   
-
-阅读延伸[58609028]: [https://en.wikipedia.org/wiki/2024_Atlantic_hurricane_season](https://en.wikipedia.org/wiki/2024_Atlantic_hurricane_season)   
-
-## 余_达尔文   
-Faridoon Yu Darvish Sefat , more commonly known as Yu Darvish, is a Japanese professional baseball pitcher for the San Diego Padres of Major League Baseball (MLB). Darvish has also played in MLB for the Texas Rangers, Los Angeles Dodgers, and Chicago Cubs and in Nippon Professional Baseball for the Hokkaido Nippon-Ham Fighters. In international play, Darvish pitched in the 2008 Beijing Olympics and the 2009 World Baseball Classic as a member of the Japan national baseball team.   
-
-Faridoon Yu Darvish Sefat（又名Yu Darvish）是美国职业棒球大联盟（MLB）圣地亚哥教士队的日本职业棒球投手。达维什还曾在美国职业棒球大联盟效力于德克萨斯游骑兵队、洛杉矶道奇队和芝加哥小熊队，并在北海道日本火腿斗士队效力于日本职业棒球队。在国际比赛中，达维什作为日本国家棒球队成员参加了2008年北京奥运会和2009年世界棒球经典赛。   
-
-阅读延伸[4550231]: [https://en.wikipedia.org/wiki/Yu_Darvish](https://en.wikipedia.org/wiki/Yu_Darvish)   
+阅读延伸[152447]: [https://en.wikipedia.org/wiki/Sean_Combs](https://en.wikipedia.org/wiki/Sean_Combs)   
 
 ## 飓风_海伦   
 Hurricane Helene was a large, destructive, and fast-moving Atlantic hurricane that was the strongest to strike the Big Bend region of Florida on record. The eighth named storm, fifth hurricane, and second major hurricane of the 2024 Atlantic hurricane season, Helene developed from a broad area of low pressure in the Western Caribbean Sea in late September that the National Hurricane Center (NHC) first began watching on September 17. By September 24, the disturbance had consolidated enough to become a tropical storm as it approached the Yucatán Peninsula, receiving the name Helene. Favorable conditions led to the cyclone's gradual intensification, and it became a hurricane early on September 25. More pronounced and eventually rapid intensification ensued as Helene traversed the Gulf of Mexico the following day, reaching Category 4 intensity on the evening of September 26. Late on September 26, Helene made landfall at peak intensity in the Big Bend region of Florida, near the city of Perry, with maximum sustained winds of 140 miles per hour (230 km/h).   
@@ -87,59 +108,38 @@ Hurricane Helene was a large, destructive, and fast-moving Atlantic hurricane th
 
 阅读延伸[77945659]: [https://en.wikipedia.org/wiki/Hurricane_Helene](https://en.wikipedia.org/wiki/Hurricane_Helene)   
 
-## 企鹅（电视剧）   
-The Penguin is an American crime drama television miniseries created by Lauren LeFranc for HBO. Based on the DC Comics character Penguin, it is a spin-off from the film The Batman (2022) that explores the Penguin's rise to power in Gotham City's criminal underworld. LeFranc serves as the showrunner of the series, which is produced by DC Studios in association with Warner Bros. Television.   
+## 大西洋飓风记录列表   
+As of May 2024, there have been 1,727 tropical cyclones of at least tropical storm intensity, 960 at hurricane intensity, and 333 at major hurricane intensity within the Atlantic Ocean since 1851, the first Atlantic hurricane season to be included in the official Atlantic tropical cyclone record. Though a majority of these cyclones have fallen within climatological averages, prevailing atmospheric conditions occasionally lead to anomalous tropical systems which at times reach extremes in statistical record-keeping including in duration and intensity. The scope of this list is limited to tropical cyclone records solely within the Atlantic Ocean and is subdivided by their reason for notability.   
 
-《企鹅》是劳伦·勒弗兰克为HBO制作的一部美国犯罪剧电视迷你剧。该剧以DC漫画人物企鹅为背景，是电影《蝙蝠侠》（2022年）的衍生作品，探讨了企鹅在哥谭市犯罪地下世界中掌权的过程。勒弗兰克担任该剧的制片人，该剧由DC Studios与华纳兄弟电视台联合制作。   
+截至2024年5月，自1851年以来，大西洋内已出现1，727个至少热带风暴强度的热带气旋，960个飓风强度的热带气旋，333个飓风强度的热带气旋，这是第一个被纳入大西洋热带气旋官方记录的大西洋飓风季节。尽管其中大多数气旋都处于气候平均水平之内，但普遍的大气条件偶尔会导致异常热带系统，这些系统有时在统计记录中达到极端，包括持续时间和强度。该列表的范围仅限于大西洋内的热带气旋记录，并根据其引人注目的原因进行细分。   
 
-阅读延伸[68724660]: [https://en.wikipedia.org/wiki/The_Penguin_(TV_series)](https://en.wikipedia.org/wiki/The_Penguin_(TV_series))   
+阅读延伸[3665572]: [https://en.wikipedia.org/wiki/List_of_Atlantic_hurricane_records](https://en.wikipedia.org/wiki/List_of_Atlantic_hurricane_records)   
 
-## 德瓦拉：_第1部分   
-Devara: Part 1 is a 2024 Indian Telugu-language action drama film directed by Koratala Siva and jointly produced by Yuvasudha Arts and N. T. R. Arts. The film stars N. T. Rama Rao Jr in dual roles, alongside Saif Ali Khan, Janhvi Kapoor and Shruti Marathe in their first Telugu film. Prakash Raj, Srikanth, Shine Tom Chacko, Narain, Kalaiyarasan and Murali Sharma appear in supporting roles.   
+## 2024年_统计_飓风_季节   
+The 2024 Atlantic hurricane season is the ongoing Atlantic hurricane season in the Northern Hemisphere. The season officially began on June 1, and will end on November 30. These dates, adopted by convention, historically describe the period in each year when most subtropical or tropical cyclogenesis occurs in the Atlantic Ocean. The first system, Tropical Storm Alberto, developed on June 19, making it the latest first named storm since 2014.   
 
-《Devara：第一部分》是一部2024年印度泰卢固语动作片，由Koratala Siva执导，Yuvasudha Arts和N.联合制作。T. R.条这部电影由N主演。T.小拉马·拉奥（Rama Rao Jr）与赛义夫·阿里·汗（Saif Ali Khan）、贾维·卡普尔（Janhvi Kapoor）和什鲁蒂·马库（Shruti Marbitt）在他们的第一部泰卢固语电影中扮演双重角色。Prakash Raj、Srikanth、Shine Tom Chacko、Narain、Kalaiyarasan和Murali Sharma均担任配角。   
+2024年大西洋飓风季节是北半球持续的大西洋飓风季节。该赛季于6月1日正式开始，并将于11月30日结束。这些按惯例采用的日期历史上描述了每年大西洋发生大多数亚热带或热带气旋的时期。第一个系统是热带风暴阿尔贝托，于6月19日形成，成为2014年以来最新的首个命名风暴。   
 
-阅读延伸[74985384]: [https://en.wikipedia.org/wiki/Devara%3A_Part_1](https://en.wikipedia.org/wiki/Devara%3A_Part_1)   
+阅读延伸[58609028]: [https://en.wikipedia.org/wiki/2024_Atlantic_hurricane_season](https://en.wikipedia.org/wiki/2024_Atlantic_hurricane_season)   
 
-## 怪物：_The_Lyle_和_Erik_Menendez_故事   
-Monsters: The Lyle and Erik Menendez Story is the second season of the American biographical crime drama anthology television series Monster, created by Ryan Murphy and Ian Brennan for Netflix. This season centers on the 1989 murders of José and Kitty Menéndez, who were killed by their sons, Lyle and Erik. It was released on September 19, 2024.   
+## 飓风_威尔玛   
+Hurricane Wilma was the most intense tropical cyclone in the Atlantic basin and the second-most intense tropical cyclone in the Western Hemisphere, both based on barometric pressure, after Hurricane Patricia in 2015. Wilma's rapid intensification led to a 24-hour pressure drop of 97 mbar (2.9 inHg), setting a new basin record. At its peak, Hurricane Wilma's eye contracted to a record minimum diameter of 2.3 mi (3.7 km). In the record-breaking 2005 Atlantic hurricane season, Wilma was the twenty-second storm, thirteenth hurricane, sixth major hurricane, fourth Category 5 hurricane, and the second costliest.   
 
-怪物：莱尔和埃里克·梅嫩德斯的故事是美国传记犯罪剧选集电视连续剧《怪物》的第二季，由瑞安·墨菲和伊恩·布伦南为Netflix制作。本季以1989年何塞·梅嫩德斯（José Menéndez）和基蒂·梅嫩德斯（Kitty Menéndez）被谋杀为中心，他们被他们的儿子莱尔（Lyle）和埃里克（Erik）杀害。它于2024年9月19日发布。   
+飓风威尔玛是大西洋盆地最强的热带气旋，也是西半球第二强的热带气旋，两者都是基于大气压力，仅次于2015年的飓风帕特里夏。威尔玛的迅速增强导致24小时内气压下降97 mbar（2.9英寸汞），创下了新的盆地纪录。在顶峰时期，飓风威尔玛的风眼缩小至创纪录的最小直径2.3英里（3.7公里）。在创纪录的2005年大西洋飓风季节，威尔玛是第二十二场风暴、第十三场飓风、第六场大型飓风、第四场5级飓风，也是第二大飓风。   
 
-阅读延伸[77801671]: [https://en.wikipedia.org/wiki/Monsters%3A_The_Lyle_and_Erik_Menendez_Story](https://en.wikipedia.org/wiki/Monsters%3A_The_Lyle_and_Erik_Menendez_Story)   
+阅读延伸[2878666]: [https://en.wikipedia.org/wiki/Hurricane_Wilma](https://en.wikipedia.org/wiki/Hurricane_Wilma)   
 
-## 跳蚤_（音乐家）   
-Michael Peter Balzary, known professionally as Flea, is an American musician and actor. He is a founding member and bassist of the rock band Red Hot Chili Peppers and, along with the vocalist Anthony Kiedis, appears on every one of their albums.   
+## 西西_休斯顿   
+Emily Drinkard, known professionally as Cissy Houston, was an American soul and gospel singer. Houston was a founding member of the R&B group The Sweet Inspirations, and sang backup for artists such as Roy Hamilton, Dionne Warwick, Elvis Presley, Aretha Franklin, and Chaka Khan. Houston embarked on a solo career in 1970, and won two Grammy Awards in the Traditional Gospel Album category.   
 
-迈克尔·彼得·巴尔扎里（Michael Peter Balzary），专业名称“跳蚤”，是一位美国音乐家和演员。他是摇滚乐队Red Hot Chili Peppers的创始成员和贝斯手，并与歌手安东尼·基迪斯一起出现在他们的每一张专辑中。   
+艾米丽·德林卡德（Emily Drinkard），专业名称西西·休斯顿（Cissy Houston），是一位美国灵魂乐和福音歌手。休斯顿是R & B乐队The Sweet Inspirations的创始成员，曾为罗伊·汉密尔顿、迪昂·沃里克、猫王、艾瑞莎·富兰克林和查卡·汗等艺术家伴唱。休斯顿于1970年开始独唱生涯，并荣获两项传统福音专辑类别格莱美奖。   
 
-阅读延伸[22439395]: [https://en.wikipedia.org/wiki/Flea_(musician)](https://en.wikipedia.org/wiki/Flea_(musician))   
+阅读延伸[926691]: [https://en.wikipedia.org/wiki/Cissy_Houston](https://en.wikipedia.org/wiki/Cissy_Houston)   
 
-## 埃隆_马斯克   
-Elon Reeve Musk is a businessman and investor known for his key roles in the space company SpaceX and the automotive company Tesla, Inc. Other involvements include ownership of X Corp., the company that operates the social media platform X, and his role in the founding of the Boring Company, xAI, Neuralink, and OpenAI. He is one of the wealthiest individuals in the world; as of August 2024 Forbes estimates his net worth to be US$247 billion.   
+## 列表_of_类别_5_统计学_飓风   
+A Category 5 Atlantic hurricane is a tropical cyclone that reaches Category 5 intensity on the Saffir–Simpson hurricane wind scale, within the Atlantic Ocean to the north of the equator. They are among the strongest tropical cyclones that can form on Earth, having 1-minute sustained wind speeds of at least 137 knots. The United States National Hurricane Center currently estimates that 11 tropical cyclones between 1851 and 1959 peaked as Category 5 hurricanes. However, because technologies such as satellite monitoring were not available until the 1960s, some such cyclones may have remained undetected. Since 1960, 31 Atlantic hurricanes have reached Category 5.   
 
-埃隆·里夫·马斯克（Elon Reeve Musk）是一位商人和投资者，因在航天公司SpaceX和汽车公司特斯拉公司（Tesla，Inc.）中发挥关键作用而闻名。其他参与包括X Corp.的所有权，运营社交媒体平台X的公司，以及他在Boring Company、xAI、Neuralink和OpenAI的创立中所扮演的角色。他是世界上最富有的人之一;截至2024年8月，福布斯估计他的净资产为2470亿美元。   
+5级大西洋飓风是一种热带气旋，在赤道以北的大西洋内达到萨菲尔-辛普森飓风风速等级上的5级强度。它们是地球上可能形成的最强热带气旋之一，1分钟持续风速至少为137节。美国国家飓风中心目前估计，1851年至1959年间有11个热带气旋达到5级飓风峰值。然而，由于卫星监测等技术直到20世纪60年代才可用，因此一些此类气旋可能尚未被发现。自1960年以来，已有31场大西洋飓风达到5级。   
 
-阅读延伸[909036]: [https://en.wikipedia.org/wiki/Elon_Musk](https://en.wikipedia.org/wiki/Elon_Musk)   
-
-## 打电话给她爸爸   
-Call Her Daddy is an advice and comedy podcast created by Alexandra Cooper and Sofia Franklyn in 2018. The podcast was formerly owned and distributed by Barstool Sports until June 2021, when it was announced that Cooper had signed an exclusive deal with Spotify worth $60 million. In the late spring of 2020, Cooper and Franklyn were engaged in a publicized dispute with Barstool founder David Portnoy, which resulted in Franklyn leaving the show. Cooper reached an agreement with Barstool and continued hosting the podcast on her own.   
-
-Call Her Daddy是亚历山德拉·库珀和索菲亚·富兰克林于2018年创建的建议和喜剧播客。该播客之前由Barstool Sports拥有和发行，直到2021年6月，当时Cooper宣布与Spotify签署了价值6000万美元的独家协议。2020年春末，库珀和富兰克林与Barstool创始人David Portnoy发生了一场公开的争执，导致富兰克林离开了该剧。库珀与巴斯托尔达成协议，并继续独自主持播客。   
-
-阅读延伸[65586501]: [https://en.wikipedia.org/wiki/Call_Her_Daddy](https://en.wikipedia.org/wiki/Call_Her_Daddy)   
-
-## Bigg_Boss_（泰米尔语_电视_系列）_季节_8   
-Bigg Boss 8 also known as Bigg Boss 8: New Man, New Play is an reality show and the eighth season of the Indian Tamil-language reality television series Bigg Boss, produced by Endemol Shine India. The season aired on Star Vijay and digitally streamed on Disney+ Hotstar. Vijay Sethupathi assumed the role of the host this season. The season aired on 6 October 2024.   
-
-Bigg Boss 8也被称为Bigg Boss 8：新人，新剧是一档真人秀节目，也是印度泰米尔语真人秀电视连续剧《Bigg Boss》的第八季，由Endemol Shine India制作。该剧在Star Vijay上播出，并在Disney+ Hotstar上进行数字直播。维贾伊·塞图帕蒂（Vijay Sethupati）担任本赛季主持人。该剧于2024年10月6日播出。   
-
-阅读延伸[77806915]: [https://en.wikipedia.org/wiki/Bigg_Boss_(Tamil_TV_series)_season_8](https://en.wikipedia.org/wiki/Bigg_Boss_(Tamil_TV_series)_season_8)   
-
-## 莱斯利_艾布拉姆森   
-Leslie Hope Abramson is an American criminal defense attorney best known for her role in the legal defense of Lyle and Erik Menéndez. She is also a published author.   
-
-莱斯利·霍普·艾布拉姆森（Leslie Hope Abramson）是一位美国刑事辩护律师，因为莱尔和埃里克·梅嫩德斯（Erik Menéndez）提供法律辩护而闻名。她也是一位出版作家。   
-
-阅读延伸[2508066]: [https://en.wikipedia.org/wiki/Leslie_Abramson](https://en.wikipedia.org/wiki/Leslie_Abramson)   
+阅读延伸[2588836]: [https://en.wikipedia.org/wiki/List_of_Category_5_Atlantic_hurricanes](https://en.wikipedia.org/wiki/List_of_Category_5_Atlantic_hurricanes)   
 
