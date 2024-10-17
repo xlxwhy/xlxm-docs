@@ -1,17 +1,24 @@
 # 最新资讯  
-## 巴巴_西迪克   
-Baba Ziauddin Siddique was an Indian politician who was a Member of Legislative Assembly (MLA) in the state of Maharashtra for the Bandra West constituency. He was the MLA for three consecutive terms in 1999, 2004 and 2009, and had also served as Minister of State for Food & Civil Supplies (FDA) and Labour under Chief Minister Vilasrao Deshmukh between 2004 and 2008.   
+## 利亚姆·佩恩   
+Liam James Payne was an English singer who rose to fame as a member of the boy band One Direction. Payne made his debut as a singer in 2008 when he auditioned for the British television series The X Factor. After being eliminated in the competition, he auditioned again in 2010 and was put into a group with four other boys to form One Direction, which went on to become one of the best-selling boy bands of all time. Payne worked with other producers under the monikers "Big Payno" and "Payno", creating remixes for songs by his group and Cheryl.   
 
-巴巴·齐奥丁·西迪克（Baba Ziauddin Siddique）是一位印度政治家，曾担任马哈拉施特拉邦班德拉西选区立法议会（MLA）议员。他于1999年、2004年和2009年连续三届担任MLA，并于2004年至2008年间在首席部长Vilasrao Deshmukh的领导下担任食品和民用用品国务部长（FDA）和劳工部长。   
+利亚姆·詹姆斯·佩恩（Liam James Payne）是一位英国歌手，作为男孩乐队One Direction的成员而声名鹊起。佩恩于2008年首次以歌手身份亮相，当时他参加了英国电视剧《X Factor》的试镜。在比赛中被淘汰后，他于2010年再次试镜，并与其他四名男孩组成了One Direction乐队，该乐队后来成为有史以来最畅销的男孩乐队之一。佩恩与其他制作人合作，绰号“Big Payno”和“Payno”，为他的乐队和谢丽尔的歌曲创作混音版。   
 
-阅读延伸[39631364]: [https://en.wikipedia.org/wiki/Baba_Siddique](https://en.wikipedia.org/wiki/Baba_Siddique)   
+阅读延伸[40605906]: [https://en.wikipedia.org/wiki/Liam_Payne](https://en.wikipedia.org/wiki/Liam_Payne)   
 
-## 劳伦斯_Bishnoi   
-Lawrence Bishnoi is an Indian gangster. He has two dozen criminal cases against him including ones for murder and extortion. He has denied these allegations. His gang is affiliated with over 700 shooters.   
+## 谢丽尔_（歌手）   
+Cheryl Ann Tweedy is an English singer and television personality. She rose to fame as a member of Girls Aloud, a pop girl group created through ITV's reality competition show Popstars: The Rivals in 2002. Named the United Kingdom's best-selling girl group of the 21st century in 2012, Girls Aloud amassed a string of 20 consecutive UK top ten singles, two UK number one albums, five consecutive platinum-selling studio albums, and five Brit Award nominations, winning Best Single for "The Promise" in 2009. The group went on an indefinite hiatus in 2013, before reuniting for a tour in 2024.   
 
-劳伦斯·比什诺伊是一名印度黑帮。他有二十起针对他的刑事案件，其中包括谋杀和敲诈勒索。他否认了这些指控。他的团伙与700多名枪手有联系。   
+谢丽尔·安·特威迪（Cheryl Ann Tweedy）是一位英国歌手和电视名人。她作为Girls Aloud的成员而声名鹊起，这是一个由ITV真人秀节目《Popstar：The Rivals》创建的流行女子团体。Girls Aloud于2012年被评为英国21世纪最畅销女子组合，连续发行了20首英国十大单曲、两张英国排名第一的专辑、五张连续白金销量录音室专辑以及五项全英音乐奖提名，并于2009年凭借《The Promise》荣获最佳单曲奖。该乐队于2013年无限期中断，然后于2024年重聚巡演。   
 
-阅读延伸[70916099]: [https://en.wikipedia.org/wiki/Lawrence_Bishnoi](https://en.wikipedia.org/wiki/Lawrence_Bishnoi)   
+阅读延伸[8979822]: [https://en.wikipedia.org/wiki/Cheryl_(singer)](https://en.wikipedia.org/wiki/Cheryl_(singer))   
+
+## 单向   
+One Direction, often shortened to 1D, are an English-Irish pop boy band formed in London in 2010. The group was composed of Niall Horan, Harry Styles, Louis Tomlinson, Zayn Malik, and Liam Payne. They became one of the best-selling boy groups of all time before going on an indefinite hiatus in 2016.   
+
+One Direction（通常缩写为1D）是一支英格兰爱尔兰流行男孩乐队，于2010年在伦敦成立。该乐队由尼尔·霍兰、哈里·斯泰尔斯、路易斯·汤姆林森、扎恩·马利克和利亚姆·佩恩组成。他们成为有史以来最畅销的男孩组合之一，直到2016年无限期中断。   
+
+阅读延伸[31772741]: [https://en.wikipedia.org/wiki/One_Direction](https://en.wikipedia.org/wiki/One_Direction)   
 
 ## 莱尔和埃里克·梅嫩德斯   
 Joseph Lyle Menéndez and Erik Galen Menéndez are American brothers who were convicted in 1996 of the murders of their parents, José and Mary Louise "Kitty" Menéndez.   
@@ -20,26 +27,19 @@ Joseph Lyle Menéndez and Erik Galen Menéndez are American brothers who were co
 
 阅读延伸[663704]: [https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez](https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez)   
 
-## 可怕的_3   
-Terrifier 3 is a 2024 American Christmas supernatural slasher film written and directed by Damien Leone, and starring David Howard Thornton, Lauren LaVera, Elliott Fullam, and Samantha Scaffidi. Taking place on Christmas, the story follows Sienna Shaw as she attempts to rebuild her life while Art the Clown is in pursuit of her alongside his new accomplice, Victoria Heyes. It is the sequel to Terrifier 2 (2022), and is the third installment in the Terrifier franchise.   
+## 托马斯_图赫尔   
+Thomas Tuchel is a German professional football manager and former player. He will become head coach of the England national team on 1 January 2025. Widely regarded as a forward thinking tactical innovator, Tuchel is considered one of the best managers in the world.   
 
-《恐怖分子3》是一部2024年美国圣诞超自然恐怖电影，由达米恩·莱昂编剧和导演，大卫·霍华德·桑顿、劳伦·拉维拉、埃利奥特·富勒姆和萨曼莎·斯卡菲迪主演。故事发生在圣诞节，讲述了西耶娜·肖试图重建自己的生活，而小丑阿特则与他的新同伙维多利亚·海斯一起追捕她。这是《恐怖分子2》（2022年）的续集，也是《恐怖分子》系列的第三部。   
+托马斯·图切尔是德国职业足球经理和前球员。他将于2025年1月1日成为英格兰国家队主教练。图赫尔被广泛认为是具有前瞻性思维的战术创新者，被认为是世界上最好的经理之一。   
 
-阅读延伸[72500053]: [https://en.wikipedia.org/wiki/Terrifier_3](https://en.wikipedia.org/wiki/Terrifier_3)   
+阅读延伸[23866703]: [https://en.wikipedia.org/wiki/Thomas_Tuchel](https://en.wikipedia.org/wiki/Thomas_Tuchel)   
 
-## 哥伦布_日   
-Columbus Day is a national holiday in many countries of the Americas and elsewhere, and a federal holiday in the United States, which officially celebrates the anniversary of Christopher Columbus's arrival in the Americas. He went ashore at Guanahaní, an island in the Bahamas, on October 12, 1492 [OS]. On his return in 1493, he moved his coastal base of operations 70 miles east to the island of Hispaniola, what is now the Dominican Republic and established the settlement of La Isabela, the first permanent Spanish settlement in the Americas.   
+## 劳伦斯_Bishnoi   
+Lawrence Bishnoi is an Indian gangster. He has two dozen criminal cases against him including ones for murder and extortion. He has denied these allegations. His gang is affiliated with over 700 shooters.   
 
-哥伦布日是美洲许多国家和其他地区的国定假日，也是美国的联邦假日，正式庆祝克里斯托弗·哥伦布抵达美洲的周年纪念日。1492年10月12日，他在巴哈马群岛瓜纳哈尼岛上岸[OS]。1493年回国后，他将沿海行动基地向东迁移70英里，移至伊斯帕尼奥拉岛（现在的多米尼加共和国），并建立了西班牙在美洲的第一个永久定居点拉伊莎贝拉定居点。   
+劳伦斯·比什诺伊是一名印度黑帮。他有二十起针对他的刑事案件，其中包括谋杀和敲诈勒索。他否认了这些指控。他的团伙与700多名枪手有联系。   
 
-阅读延伸[121439]: [https://en.wikipedia.org/wiki/Columbus_Day](https://en.wikipedia.org/wiki/Columbus_Day)   
-
-## 克里斯托弗_哥伦布   
-Christopher Columbus was an Italian explorer and navigator from the Republic of Genoa who completed four Spanish-based voyages across the Atlantic Ocean sponsored by the Catholic Monarchs, opening the way for the widespread European exploration and colonization of the Americas. His expeditions were the first known European contact with the Caribbean and Central and South America.   
-
-克里斯托弗·哥伦布是一位来自热那亚共和国的意大利探险家和航海家，他在天主教君主的赞助下完成了四次以西班牙为基地的穿越大西洋的航行，为欧洲人的广泛探索和美洲殖民开辟了道路。他的探险是已知的欧洲第一次接触加勒比海和中美洲和南美洲。   
-
-阅读延伸[5635]: [https://en.wikipedia.org/wiki/Christopher_Columbus](https://en.wikipedia.org/wiki/Christopher_Columbus)   
+阅读延伸[70916099]: [https://en.wikipedia.org/wiki/Lawrence_Bishnoi](https://en.wikipedia.org/wiki/Lawrence_Bishnoi)   
 
 ## 死亡_in_2024   
 
@@ -52,47 +52,19 @@ The following notable deaths occurred in 2024. Names are reported under the date
 
 阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
 
-## 拉坦_塔塔   
-Ratan Naval Tata was an Indian industrialist and philanthropist who served the chairman of Tata Group and Tata Sons from 1990 to 2012, and then as interim chairman from October 2016 through February 2017. In 2008, he received the Padma Vibhushan, the second highest civilian honour in India, after receiving the Padma Bhushan, the third highest civilian honour in 2000.   
+## 可怕的_3   
+Terrifier 3 is a 2024 American Christmas supernatural slasher film written and directed by Damien Leone, and starring David Howard Thornton, Lauren LaVera, Elliott Fullam, and Samantha Scaffidi. Taking place on Christmas, the story follows Sienna Shaw as she attempts to rebuild her life while Art the Clown is in pursuit of her alongside his new accomplice, Victoria Heyes. It is the sequel to Terrifier 2 (2022), and is the third installment in the Terrifier franchise.   
 
-拉坦·纳瓦尔·塔塔（Ratan Naval Tata）是一位印度实业家和慈善家，于1990年至2012年担任塔塔集团（Tata Group）和塔塔父子（Tata Sons）董事长，并于2016年10月至2017年2月担任临时董事长。继2000年获得第三高平民荣誉帕德玛·布胡山勋章（Padma Bhushan）之后，2008年，他获得了印度第二高平民荣誉帕德玛·布胡山勋章（Padma Vibhushan）。   
+《恐怖分子3》是一部2024年美国圣诞超自然恐怖电影，由达米恩·莱昂编剧和导演，大卫·霍华德·桑顿、劳伦·拉维拉、埃利奥特·富勒姆和萨曼莎·斯卡菲迪主演。故事发生在圣诞节，讲述了西耶娜·肖试图重建自己的生活，而小丑阿特则与他的新同伙维多利亚·海斯一起追捕她。这是《恐怖分子2》（2022年）的续集，也是《恐怖分子》系列的第三部。   
 
-阅读延伸[1137487]: [https://en.wikipedia.org/wiki/Ratan_Tata](https://en.wikipedia.org/wiki/Ratan_Tata)   
+阅读延伸[72500053]: [https://en.wikipedia.org/wiki/Terrifier_3](https://en.wikipedia.org/wiki/Terrifier_3)   
 
-## 收件箱：_Folie_à_Deux   
-Joker: Folie à Deux is a 2024 American musical psychological thriller film directed by Todd Phillips from a screenplay co-written with Scott Silver. It is the sequel to Joker (2019), loosely based on DC Comics characters, and stars Joaquin Phoenix reprising his role as the Joker with Lady Gaga joining the cast as his love interest Harley Quinn. Zazie Beetz also reprises her role from the previous film, while Brendan Gleeson and Catherine Keener join the cast. It is produced by Warner Bros. Pictures and DC Studios in association with Joint Effort.   
+## 娜奥米_坎贝尔   
+Naomi Elaine Campbell is a British fashion model. Beginning her career at the age of eight, Campbell was one of six models of her generation declared supermodels by the fashion industry and the international press. She was the first black woman to appear as a model on the covers of Time and Vogue France.   
 
-小丑：Folie à Deux是一部2024年美国音乐心理惊悚电影，由托德·菲利普斯执导，剧本与斯科特·西尔弗共同编剧。这是《尤利西斯》（2019）的续集，大致根据DC漫画人物改编，由华金·菲尼克斯（Joaquin Phoenix）主演，饰演小丑，Lady Gaga饰演他的恋人哈莉·奎因（Harley Quinn）加入演员阵容。Zazie Beetz还重新扮演了上一部电影中的角色，而Brendan Gleeson和Catherine Keener也加入了演员阵容。该片由华纳兄弟影业和DC Studios与Joint Effort联合制作。   
+娜奥米·伊莱恩·坎贝尔（Naomi Elaine Campbell）是一位英国时装模特。坎贝尔从八岁开始职业生涯，是时尚界和国际媒体宣布的六位超模之一。她是第一位以模特身份登上《时代》和《Vogue France》封面的黑人女性。   
 
-阅读延伸[62402361]: [https://en.wikipedia.org/wiki/Joker%3A_Folie_%C3%A0_Deux](https://en.wikipedia.org/wiki/Joker%3A_Folie_%C3%A0_Deux)   
-
-## 维泰扬   
-Vettaiyan ( transl. Hunter) is a 2024 Indian Tamil-language action drama film directed by T. J. Gnanavel and produced by Subaskaran Allirajah's Lyca Productions. The film stars Rajinikanth in the titular role, alongside Amitabh Bachchan, Fahadh Faasil, Rana Daggubati, Manju Warrier, Ritika Singh, Dushara Vijayan, Rohini, Rao Ramesh, Abhirami and Ramesh Thilak. It is the thirtieth production for the studio and marks the Tamil debut of Bachchan. The film follows Athiyan "Athi", a Superintendent of police in Kanyakumari, who accidentally shoots an innocent during an encounter killing for the murder case of a teacher he knows, Saranya.   
-
-Vettaiyan（翻译：Hunter）是一部2024年印度泰米尔语动作片，由T.执导。J. Gnanavel，由Subaskaran Allirajah的Lyca Productions制作。这部电影由Rajinikanth饰演名义角色，还有Amitabh Bachchan、Fahadh Faasil、Rana Daggubati、Manju Eiser、Ritika Singh、Dushara Vijayan、Rohini、Rao Ramesh、Abhirami和Ramesh Thilak。这是该工作室的第三十部作品，标志着Bachchan在泰米尔语中的首次亮相。这部电影讲述了卡尼亚库马里警察局长Athiyan“Athi”的故事，他在一次因他认识的教师Saranya谋杀案而被杀的遭遇中意外射杀了一名无辜者。   
-
-阅读延伸[71576618]: [https://en.wikipedia.org/wiki/Vettaiyan](https://en.wikipedia.org/wiki/Vettaiyan)   
-
-## 企鹅（电视剧）   
-The Penguin is an American crime drama television miniseries created by Lauren LeFranc for HBO. Based on the DC Comics character Penguin, it is a spin-off from the film The Batman (2022) that explores the Penguin's rise to power in Gotham City's criminal underworld. LeFranc serves as the showrunner of the series, which is produced by DC Studios in association with Warner Bros. Television.   
-
-《企鹅》是劳伦·勒弗兰克为HBO制作的一部美国犯罪剧电视迷你剧。该剧以DC漫画人物企鹅为背景，是电影《蝙蝠侠》（2022年）的衍生作品，探讨了企鹅在哥谭市犯罪地下世界中掌权的过程。勒弗兰克担任该剧的制片人，该剧由DC Studios与华纳兄弟电视台联合制作。   
-
-阅读延伸[68724660]: [https://en.wikipedia.org/wiki/The_Penguin_(TV_series)](https://en.wikipedia.org/wiki/The_Penguin_(TV_series))   
-
-## Atul_Parchure   
-Atul Parchure was an Indian actor who performed in films, television serials, and on stage. He was mainly known for his comedic roles in Marathi and Hindi film industry. Although he was mainly seen working in movies, he played like Vasu Chi Sasu, Priyatama, and Tarun Turk Mhatare Arka to his credit. He worked alongside various actors and was seen playing supporting roles. Some of his work can be seen in the movies Navra Mazha Navsacha, Salaam-E-Ishq, Partner, All the Best: Fun Begins, Khatta Meetha, Bbuddah... Hoga Terra Baap, and Brave Heart. His 2017 release includes the Marathi drama film Conditions Apply - Ati Lagu. Directed by Girish Mohite, the movie along with Atul Parchure stars Subodh Bhave, Radhika Vidyasagar and Dipti Srikanth in the lead.   
-
-阿图尔·帕丘尔（Atul Parchure）是一位印度演员，曾在电影、电视剧和舞台上表演。他主要因在马拉地语和印地语电影界扮演的喜剧角色而闻名。尽管他主要在电影中工作，但他扮演的角色包括Vasu Chi Sasu、Priyatama和Tarun Turk Mhatare Arka。他与多位演员一起工作，并被视为扮演配角。他的一些作品可以在电影《Navra Mazha Navsacha》、《Salaam-E-Ishq》、《合伙人》、《All the Best：Fun Begins》、《Khatta Meetha》、《Bbuddah》中看到. Hoga Terra Baap和Brave Heart。他2017年上映的电影包括马拉地戏剧电影《条件适用-阿蒂·拉古》。这部电影由吉里什·莫海特（Girish Mohite）执导，阿图尔·帕彻（Atul Parchure）主演苏博德·巴韦（Subodh Bave）、拉迪卡·维达亚萨加尔（Radhika Vidyasagar）和迪普蒂·斯里坎斯（Dipti Srikanth）主演。   
-
-阅读延伸[29942995]: [https://en.wikipedia.org/wiki/Atul_Parchure](https://en.wikipedia.org/wiki/Atul_Parchure)   
-
-## 原住民_人民_日_（美国）   
-Indigenous Peoples' Day is a holiday in the United States that celebrates and honors Indigenous American peoples and commemorates their histories and cultures. It is celebrated across the United States on the second Monday in October, and is an official city and state holiday in various localities. It began as a counter-celebration held on the same day as the U.S. federal holiday of Columbus Day, which honors Italian explorer Christopher Columbus. Some people do not observe Columbus Day at all, citing the lasting harm Indigenous tribes suffered because of Columbus's contributions to the European colonization of the Americas.   
-
-原住民日是美国的一个节日，旨在庆祝和纪念美国原住民并纪念他们的历史和文化。美国各地在十月的第二个星期一庆祝这一节日，并且是各地的官方城市和州假日。它最初是在美国联邦假日哥伦布日同一天举行的反庆祝活动，纪念意大利探险家克里斯托弗·哥伦布。有些人根本不庆祝哥伦布日，理由是由于哥伦布对欧洲殖民美洲的贡献，原住民部落遭受了持久的伤害。   
-
-阅读延伸[73075531]: [https://en.wikipedia.org/wiki/Indigenous_Peoples'_Day_(United_States)](https://en.wikipedia.org/wiki/Indigenous_Peoples'_Day_(United_States))   
+阅读延伸[19371120]: [https://en.wikipedia.org/wiki/Naomi_Campbell](https://en.wikipedia.org/wiki/Naomi_Campbell)   
 
 ## _实质   
 The Substance is a 2024 satirical body horror film co-produced, written and directed by Coralie Fargeat. The film stars Demi Moore, Margaret Qualley and Dennis Quaid. An international co-production between the United Kingdom and France, its plot follows a fading celebrity (Moore) who decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself (Qualley), unknowingly giving her horrifying side effects.   
@@ -101,12 +73,61 @@ The Substance is a 2024 satirical body horror film co-produced, written and dire
 
 阅读延伸[70519613]: [https://en.wikipedia.org/wiki/The_Substance](https://en.wikipedia.org/wiki/The_Substance)   
 
-## 更可怕的   
-Terrifier is a 2016 American independent slasher film written and directed by Damien Leone. The film stars Jenna Kanell, Samantha Scaffidi, David Howard Thornton, and Catherine Corcoran. The plot centers on partygoer Tara Heyes (Kanell) and her sister Victoria (Scaffidi), who become targets of the enigmatic serial killer known only as Art the Clown (Thornton) on Halloween night.   
+## 尼尔_霍兰   
+Niall James Horan is an Irish singer-songwriter. He rose to prominence as a member of the boy band One Direction, formed in 2010 on the singing competition The X Factor. The group released five albums and went on to become one of the best-selling boy bands of all time.   
 
-《恐怖分子》是一部2016年的美国独立惊悚电影，由达米恩·莱昂编剧和导演。这部电影由珍娜·卡内尔、萨曼莎·斯卡菲迪、大卫·霍华德·桑顿和凯瑟琳·科科伦主演。故事以派对常客塔拉·海斯（卡内尔饰）和她的妹妹维多利亚（斯卡菲迪饰）为中心，她们在万圣节之夜成为神秘连环杀手的目标，又名小丑阿特（桑顿饰）。   
+尼尔·詹姆斯·霍兰（Niall James Horan）是一位爱尔兰创作型歌手。他作为男孩乐队One Direction的成员而声名鹊起，该乐队于2010年在歌唱比赛The X Factor中成立。该乐队发行了五张专辑，并成为有史以来最畅销的男孩乐队之一。   
 
-阅读延伸[56771713]: [https://en.wikipedia.org/wiki/Terrifier](https://en.wikipedia.org/wiki/Terrifier)   
+阅读延伸[43405715]: [https://en.wikipedia.org/wiki/Niall_Horan](https://en.wikipedia.org/wiki/Niall_Horan)   
+
+## 扎恩_马利克   
+Zain Javadd Malik, known professionally as Zayn Malik or simply Zayn, is an English singer. He auditioned as a solo contestant for the British music competition television series The X Factor in 2010. After being eliminated, he was brought back to the competition to form the five-piece boy band One Direction, which went on to become one of the best-selling boy bands of all time. He left the group in March 2015 and signed a solo recording contract with RCA Records.   
+
+Zain Javadd Malik，专业名称Zayn Malik或简称Zayn，是一位英国歌手。2010年，他作为个人参赛者参加了英国音乐竞赛电视剧《X Factor》的试镜。被淘汰后，他被带回比赛，组建了五人男孩乐队One Direction，该乐队后来成为有史以来最畅销的男孩乐队之一。他于2015年3月离开乐队，并与RCA Records签署了个人唱片合同。   
+
+阅读延伸[46230076]: [https://en.wikipedia.org/wiki/Zayn_Malik](https://en.wikipedia.org/wiki/Zayn_Malik)   
+
+## 约翰尼_高德罗   
+John Michael Gaudreau was an American professional ice hockey winger who played 11 seasons in the National Hockey League (NHL). He played for the NCAA Division I's Boston College Eagles from 2011 to 2014, and was selected by the Calgary Flames in the fourth round, 104th overall, of the 2011 NHL Entry Draft. Nicknamed "Johnny Hockey", he was named the 2014 winner of the Hobey Baker Award as the best player in the NCAA, and, during his first full NHL season in 2014–15, he was selected to play in the 2015 NHL All-Star Game, as well as being selected in the 2014 NHL All-Rookie team. Johnny was a Calder Memorial Trophy finalist for the NHL's best rookie. He won the Lady Byng Memorial Trophy as the NHL's most gentlemanly player for the 2016–17 season. In 2022, Gaudreau signed with the Columbus Blue Jackets, where he spent two seasons with the team.   
+
+约翰·迈克尔·高德罗是一位美国职业冰球边锋，在国家冰球联盟（NHL）效力了11个赛季。2011年至2014年，他效力于NCAA I组的波士顿学院老鹰队，并在2011年NHL入围选秀第四轮（总成绩第104名）中被卡尔加里火焰队选中。他绰号“约翰尼·霍基”，被评为2014年霍比·贝克奖（Hobey Baker Award）的NCAA最佳球员，并且在2014-15赛季的第一个完整NHL赛季中，他被选中参加2015年NHL全明星赛，并入选2014年NHL全新秀队。约翰尼是考尔德纪念杯NHL最佳新秀决赛入围者。他赢得了拜恩夫人纪念奖杯，成为NHL 2016-17赛季最绅士的球员。2022年，高德罗与哥伦布蓝夹克队签约，并在球队度过了两个赛季。   
+
+阅读延伸[33438856]: [https://en.wikipedia.org/wiki/Johnny_Gaudreau](https://en.wikipedia.org/wiki/Johnny_Gaudreau)   
+
+## 与星共舞_（美国电视剧）_第33季   
+The thirty-third season of Dancing with the Stars premiered on ABC and Disney+ on September 17, 2024. This season is the second to air live on both simultaneously, with next-day streaming made available on Hulu. Alfonso Ribeiro returned to host the season, while former professional dancer Julianne Hough returned to co-host.   
+
+《与星共舞》第三十三季于2024年9月17日在ABC和Disney+首播。本季是第二季同时在两者上直播，第二天的流媒体将在Hulu上播出。阿方索·里贝罗（Alfonso Ribeiro）回归主持本季，而前职业舞蹈家朱丽安·霍夫（Julianne Hough）回归共同主持。   
+
+阅读延伸[77350220]: [https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_33](https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_33)   
+
+## 莱昂内尔_梅西   
+Lionel Andrés "Leo" Messi is an Argentine professional footballer who plays as a forward for and captains both Major League Soccer club Inter Miami and the Argentina national team. Widely regarded as one of the greatest players of all time, Messi set numerous records for individual accolades won throughout his professional footballing career such as eight Ballon d'Or awards and eight times being named the world's best player by FIFA. He is the most decorated player in the history of professional football having won 45 team trophies, including twelve league titles, four UEFA Champions Leagues, two Copa Américas, and one FIFA World Cup. Messi holds the records for most European Golden Shoes (6), most goals for a single club, most goals (474), hat-tricks (36) and assists (192) in La Liga, most matches played (39), assists (18) and goal contributions (34) in the Copa América, most matches played (26) and goal contributions (21) in the World Cup, most international appearances (189) and international goals (112) by a South American male, and the second-most in the latter category outright. A prolific goalscorer and creative playmaker, Messi has scored over 850 senior career goals for club and country.   
+
+莱昂内尔·安德烈·S“里奥”·梅西是一名阿根廷职业足球运动员，在美国职业足球大联盟俱乐部国际迈阿密和阿根廷国家队担任前锋和队长。梅西被广泛认为是有史以来最伟大的球员之一，在他的职业足球生涯中，他创造了无数的个人荣誉记录，例如八次金球奖和八次被国际足联评为世界最佳球员。他是职业足球史上获奖最多的球员，赢得了45个球队奖杯，包括12个联赛冠军，4个欧洲冠军联赛，2个美洲杯和1个国际足联世界杯。梅西保持着欧洲金球鞋最多(6个)、单一俱乐部进球最多、西甲进球最多(474个)、帽子戏法(36个)和助攻(192个)的最高纪录，美洲杯出场最多(39场)、助攻(18个)和进球贡献(34个)，世界杯出场最多(26场)和进球最多(21个)，出场次数最多(189次)和国际进球最多(112次)都是由南美男性保持的，后者绝对是第二多的。作为一名多产的射手和富有创造力的中场组织者，梅西已经为俱乐部和国家队打进了超过850个高级职业生涯进球。   
+
+阅读延伸[2150841]: [https://en.wikipedia.org/wiki/Lionel_Messi](https://en.wikipedia.org/wiki/Lionel_Messi)   
+
+## 收件箱：_Folie_à_Deux   
+Joker: Folie à Deux is a 2024 American musical psychological thriller film directed by Todd Phillips from a screenplay co-written with Scott Silver. It is the sequel to Joker (2019), loosely based on DC Comics characters, and stars Joaquin Phoenix reprising his role as the Joker with Lady Gaga joining the cast as his love interest Harley Quinn. Zazie Beetz also reprises her role from the previous film, while Brendan Gleeson and Catherine Keener join the cast. It is produced by Warner Bros. Pictures and DC Studios in association with Joint Effort.   
+
+小丑：Folie à Deux是一部2024年美国音乐心理惊悚电影，由托德·菲利普斯执导，剧本与斯科特·西尔弗共同编剧。这是《尤利西斯》（2019）的续集，大致根据DC漫画人物改编，由华金·菲尼克斯（Joaquin Phoenix）主演，饰演小丑，Lady Gaga饰演他的恋人哈莉·奎因（Harley Quinn）加入演员阵容。Zazie Beetz还重新扮演了上一部电影中的角色，而Brendan Gleeson和Catherine Keener也加入了演员阵容。该片由华纳兄弟影业和DC Studios与Joint Effort联合制作。   
+
+阅读延伸[62402361]: [https://en.wikipedia.org/wiki/Joker%3A_Folie_%C3%A0_Deux](https://en.wikipedia.org/wiki/Joker%3A_Folie_%C3%A0_Deux)   
+
+## 科林_奥尔雷德   
+Colin Zachary Allred is an American politician, civil rights lawyer, and former professional football player serving as the U.S. representative from Texas's 32nd congressional district since 2019. The district includes the northeastern corner of Dallas, as well as many of its northeastern suburbs, such as Garland, Richardson, Sachse, Wylie, and the Park Cities.   
+
+科林·扎卡里·奥尔雷德（Colin Zachary Allred）是一名美国政治家、民权律师和前职业足球运动员，自2019年以来一直担任德克萨斯州第32国会选区的美国代表。该地区包括达拉斯的东北角以及许多东北部郊区，例如加兰、理查森、萨克斯、怀利和帕克城。   
+
+阅读延伸[14312712]: [https://en.wikipedia.org/wiki/Colin_Allred](https://en.wikipedia.org/wiki/Colin_Allred)   
+
+## 2024年_联合_州_总统_选举   
+The 2024 United States presidential election will be the 60th quadrennial presidential election, set to be held on Tuesday, November 5, 2024. Voters in each state and the District of Columbia will choose electors to the Electoral College, who will then elect a president and vice president for a term of four years.   
+
+2024年美国总统选举将是第60次四年一度的总统选举，定于2024年11月5日星期二举行。每个州和哥伦比亚特区的选民将选择选举人团选举人，然后选举人团选举总统和副总统，任期四年。   
+
+阅读延伸[59568546]: [https://en.wikipedia.org/wiki/2024_United_States_presidential_election](https://en.wikipedia.org/wiki/2024_United_States_presidential_election)   
 
 ## 肖恩_库姆斯   
 Sean Love Combs, also known by his stage name Diddy, formerly Puff Daddy and P. Diddy, is an American rapper, record producer and record executive. He is credited with the discovery and cultivation of artists such as the Notorious B.I.G., Mary J. Blige, and Usher. Combs has won three Grammy Awards from 13 nominations, two MTV Video Music Awards, and a Guinness World Record for "Most Successful Rap Producer" in 1997.   
@@ -115,31 +136,10 @@ Sean Love Combs, also known by his stage name Diddy, formerly Puff Daddy and P. 
 
 阅读延伸[152447]: [https://en.wikipedia.org/wiki/Sean_Combs](https://en.wikipedia.org/wiki/Sean_Combs)   
 
-## 达伦_阿西莫格鲁   
-Kamer Daron Acemoğlu is a Turkish American economist who has taught at the Massachusetts Institute of Technology since 1993, where he is currently the Elizabeth and James Killian Professor of Economics, and was named an Institute Professor at MIT in 2019. He received the John Bates Clark Medal in 2005, and the Nobel Prize in Economics in 2024.   
-
-卡默·达伦·阿西莫卢（Kamer Daron Acemoğlu）是一位土耳其裔美国经济学家，自1993年以来一直在麻省理工学院任教，目前担任该学院伊丽莎白和詹姆斯·基利安（Elizabeth Killian）经济学教授，并于2019年被任命为麻省理工学院研究所教授。他于2005年获得约翰·贝茨·克拉克奖章，并于2024年获得诺贝尔经济学奖。   
-
-阅读延伸[1803497]: [https://en.wikipedia.org/wiki/Daron_Acemoglu](https://en.wikipedia.org/wiki/Daron_Acemoglu)   
-
 ## 埃隆_马斯克   
 Elon Reeve Musk is a businessman and investor known for his key roles in the space company SpaceX and the automotive company Tesla, Inc. Other involvements include ownership of X Corp., the company that operates the social media platform X, and his role in the founding of the Boring Company, xAI, Neuralink, and OpenAI. He is one of the wealthiest individuals in the world; as of August 2024 Forbes estimates his net worth to be US$247 billion.   
 
 埃隆·里夫·马斯克（Elon Reeve Musk）是一位商人和投资者，因在航天公司SpaceX和汽车公司特斯拉公司（Tesla，Inc.）中发挥关键作用而闻名。其他参与包括X Corp.的所有权，运营社交媒体平台X的公司，以及他在Boring Company、xAI、Neuralink和OpenAI的创立中所扮演的角色。他是世界上最富有的人之一;截至2024年8月，福布斯估计他的净资产为2470亿美元。   
 
 阅读延伸[909036]: [https://en.wikipedia.org/wiki/Elon_Musk](https://en.wikipedia.org/wiki/Elon_Musk)   
-
-## 泽山_西迪克   
-Zeeshan Baba Siddique is an Indian politician belonging to the Indian National Congress. He is currently a MLA in Maharashtra Legislative Assembly & President of Mumbai Youth Congress.   
-
-Zeeshan Baba Siddique是印度国大党成员的印度政治家。他目前是马哈拉施特拉邦立法议会MLA和孟买青年大会主席。   
-
-阅读延伸[62154518]: [https://en.wikipedia.org/wiki/Zeeshan_Siddique](https://en.wikipedia.org/wiki/Zeeshan_Siddique)   
-
-## 斯蒂芬·沃尔多夫枪击案   
-Stephen Waldorf was shot and seriously injured by police officers in London on 14 January 1983 after they mistook him for David Martin, an escaped criminal. The shooting caused a public outcry and led to a series of reforms to the training and authorisation of armed police officers in the United Kingdom. Martin was a thief and fraudster who was known to carry firearms and had previously shot a police officer. He escaped from custody in December 1982, and the police placed his girlfriend under surveillance. On the day of the shooting, they followed her as she travelled in a car whose front-seat passenger (Waldorf) resembled Martin. When the car stopped in traffic, Detective Constable Finch—the only officer present who had met Martin—was sent forward on foot to confirm the passenger's identity.   
-
-1983年1月14日，斯蒂芬·沃尔多夫（Stephen Waldorf）在伦敦被警察误认为是逃犯大卫·马丁（David Martin）开枪打死并受重伤。枪击事件引起了公众的强烈抗议，并导致英国对武装警察的培训和授权进行了一系列改革。马丁是一名小偷和欺诈者，以携带枪支而闻名，此前曾枪杀过一名警察。1982年12月，他越狱，警方对他的女朋友进行了监视。枪击事件发生当天，他们跟踪她乘坐一辆车，前座乘客（沃尔多夫饰）很像马丁。当汽车在车流中停下来时，警探芬奇（在场唯一见过马丁的警官）被派步行上前确认乘客的身份。   
-
-阅读延伸[2378365]: [https://en.wikipedia.org/wiki/Shooting_of_Stephen_Waldorf](https://en.wikipedia.org/wiki/Shooting_of_Stephen_Waldorf)   
 
