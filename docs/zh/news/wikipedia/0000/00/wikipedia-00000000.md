@@ -20,6 +20,41 @@ One Direction（通常缩写为1D）是一支英格兰爱尔兰流行男孩乐�
 
 阅读延伸[31772741]: [https://en.wikipedia.org/wiki/One_Direction](https://en.wikipedia.org/wiki/One_Direction)   
 
+## 叶海亚_辛瓦尔   
+Yahya Ibrahim Hassan Sinwar was a Palestinian militant and politician who served as the de facto leader of Hamas. He was the chairman of the Hamas Political Bureau from August 2024 and the Hamas leader in the Gaza Strip from February 2017 until his death, succeeding Ismail Haniyeh in both roles.   
+
+叶海亚·易卜拉欣·哈桑·辛瓦尔是一名巴勒斯坦激进分子和政治家，曾担任哈马斯事实上的领导人。他从2024年8月起担任哈马斯政治局主席，从2017年2月起担任加沙地带哈马斯领导人直至去世，接替伊斯梅尔·哈尼亚担任这两个职位。   
+
+阅读延伸[53195047]: [https://en.wikipedia.org/wiki/Yahya_Sinwar](https://en.wikipedia.org/wiki/Yahya_Sinwar)   
+
+## 扎恩_马利克   
+Zain Javadd Malik, known professionally as Zayn Malik or simply Zayn, is an English singer. He auditioned as a solo contestant for the British music competition television series The X Factor in 2010. After being eliminated, he was brought back to the competition to form the five-piece boy band One Direction, which went on to become one of the best-selling boy bands of all time. He left the group in March 2015 and signed a solo recording contract with RCA Records.   
+
+Zain Javadd Malik，专业名称Zayn Malik或简称Zayn，是一位英国歌手。2010年，他作为个人参赛者参加了英国音乐竞赛电视剧《X Factor》的试镜。被淘汰后，他被带回比赛，组建了五人男孩乐队One Direction，该乐队后来成为有史以来最畅销的男孩乐队之一。他于2015年3月离开乐队，并与RCA Records签署了个人唱片合同。   
+
+阅读延伸[46230076]: [https://en.wikipedia.org/wiki/Zayn_Malik](https://en.wikipedia.org/wiki/Zayn_Malik)   
+
+## 尼尔_霍兰   
+Niall James Horan is an Irish singer-songwriter. He rose to prominence as a member of the boy band One Direction, formed in 2010 on the singing competition The X Factor. The group released five albums and went on to become one of the best-selling boy bands of all time.   
+
+尼尔·詹姆斯·霍兰（Niall James Horan）是一位爱尔兰创作型歌手。他作为男孩乐队One Direction的成员而声名鹊起，该乐队于2010年在歌唱比赛The X Factor中成立。该乐队发行了五张专辑，并成为有史以来最畅销的男孩乐队之一。   
+
+阅读延伸[43405715]: [https://en.wikipedia.org/wiki/Niall_Horan](https://en.wikipedia.org/wiki/Niall_Horan)   
+
+## 路易斯_汤姆林森   
+Louis William Tomlinson is an English singer, songwriter and producer. He rose to fame as a member of the boy band One Direction. Tomlinson auditioned on the British music competition series The X Factor in 2010. After being eliminated as a solo performer, he was placed into a group with four other contestants which went on to become one of the best-selling boy bands of all time.   
+
+路易斯·威廉·汤姆林森（Louis William Tomlinson）是一位英国歌手、词曲作者和制作人。他作为男孩乐队One Direction的成员而声名鹊起。汤姆林森于2010年参加了英国音乐竞赛系列剧《X Factor》的试镜。在作为独奏者被淘汰后，他与其他四名参赛者一起被安排在一个乐队中，该乐队后来成为有史以来最畅销的男孩乐队之一。   
+
+阅读延伸[40136993]: [https://en.wikipedia.org/wiki/Louis_Tomlinson](https://en.wikipedia.org/wiki/Louis_Tomlinson)   
+
+## 哈利_斯泰尔斯   
+Harry Edward Styles is an English singer. Known for his influence in popular culture, showmanship, artistry, and philanthropy, he is a subject of widespread public interest with a vast fanbase. Styles is considered to be among the most successful solo artists who have emerged from a band.   
+
+哈里·爱德华·斯泰尔斯是一位英国歌手。他以其在流行文化、表演、艺术和慈善事业方面的影响力而闻名，是一个广受公众关注的对象，拥有庞大的粉丝群。斯泰尔斯被认为是从乐队中脱颖而出的最成功的独唱艺术家之一。   
+
+阅读延伸[35459623]: [https://en.wikipedia.org/wiki/Harry_Styles](https://en.wikipedia.org/wiki/Harry_Styles)   
+
 ## 莱尔和埃里克·梅嫩德斯   
 Joseph Lyle Menéndez and Erik Galen Menéndez are American brothers who were convicted in 1996 of the murders of their parents, José and Mary Louise "Kitty" Menéndez.   
 
@@ -27,19 +62,12 @@ Joseph Lyle Menéndez and Erik Galen Menéndez are American brothers who were co
 
 阅读延伸[663704]: [https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez](https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez)   
 
-## 托马斯_图赫尔   
-Thomas Tuchel is a German professional football manager and former player. He will become head coach of the England national team on 1 January 2025. Widely regarded as a forward thinking tactical innovator, Tuchel is considered one of the best managers in the world.   
+## 娜奥米_坎贝尔   
+Naomi Elaine Campbell is a British fashion model. Beginning her career at the age of eight, Campbell was one of six models of her generation declared supermodels by the fashion industry and the international press. She was the first black woman to appear as a model on the covers of Time and Vogue France.   
 
-托马斯·图切尔是德国职业足球经理和前球员。他将于2025年1月1日成为英格兰国家队主教练。图赫尔被广泛认为是具有前瞻性思维的战术创新者，被认为是世界上最好的经理之一。   
+娜奥米·伊莱恩·坎贝尔（Naomi Elaine Campbell）是一位英国时装模特。坎贝尔从八岁开始职业生涯，是时尚界和国际媒体宣布的六位超模之一。她是第一位以模特身份登上《时代》和《Vogue France》封面的黑人女性。   
 
-阅读延伸[23866703]: [https://en.wikipedia.org/wiki/Thomas_Tuchel](https://en.wikipedia.org/wiki/Thomas_Tuchel)   
-
-## 劳伦斯_Bishnoi   
-Lawrence Bishnoi is an Indian gangster. He has two dozen criminal cases against him including ones for murder and extortion. He has denied these allegations. His gang is affiliated with over 700 shooters.   
-
-劳伦斯·比什诺伊是一名印度黑帮。他有二十起针对他的刑事案件，其中包括谋杀和敲诈勒索。他否认了这些指控。他的团伙与700多名枪手有联系。   
-
-阅读延伸[70916099]: [https://en.wikipedia.org/wiki/Lawrence_Bishnoi](https://en.wikipedia.org/wiki/Lawrence_Bishnoi)   
+阅读延伸[19371120]: [https://en.wikipedia.org/wiki/Naomi_Campbell](https://en.wikipedia.org/wiki/Naomi_Campbell)   
 
 ## 死亡_in_2024   
 
@@ -52,6 +80,41 @@ The following notable deaths occurred in 2024. Names are reported under the date
 
 阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
 
+## 劳伦斯_Bishnoi   
+Lawrence Bishnoi is an Indian gangster. He has two dozen criminal cases against him including ones for murder and extortion. He has denied these allegations. His gang is affiliated with over 700 shooters.   
+
+劳伦斯·比什诺伊是一名印度黑帮。他有二十起针对他的刑事案件，其中包括谋杀和敲诈勒索。他否认了这些指控。他的团伙与700多名枪手有联系。   
+
+阅读延伸[70916099]: [https://en.wikipedia.org/wiki/Lawrence_Bishnoi](https://en.wikipedia.org/wiki/Lawrence_Bishnoi)   
+
+## 阿加莎_All_Along_（迷你剧）   
+Agatha All Along is an American television miniseries created by Jac Schaeffer for the streaming service Disney+, based on the Marvel Comics character Agatha Harkness. A spin-off from the series WandaVision (2021), it is the 11th television series in the Marvel Cinematic Universe (MCU) produced by Marvel Studios, via its Marvel Television label, sharing continuity with the films of the franchise. Schaeffer serves as showrunner and lead director.   
+
+《阿加莎一直》是一部美国电视迷你剧，由雅克·谢弗（Jac Schaeffer）为流媒体服务Disney+创作，改编自漫威漫画角色阿加莎·哈克内斯（Agatha Harkness）。该剧是《WandaVision》系列剧的衍生作品，是漫威电影宇宙（MCU）的第11部电视剧，由漫威工作室通过其漫威电视品牌制作，与该系列电影具有连续性。谢弗担任剧集主管和首席导演。   
+
+阅读延伸[68916575]: [https://en.wikipedia.org/wiki/Agatha_All_Along_(miniseries)](https://en.wikipedia.org/wiki/Agatha_All_Along_(miniseries))   
+
+## 凯蒂_卡西迪   
+Katherine Evelyn Anita Cassidy is an American actress. Following several minor television roles, she came to attention as a scream queen after starring in the horror films When a Stranger Calls (2006), as Kelli Presley in Black Christmas (2006) and as Ruby in the third season of the horror series Supernatural (2007–2008). Following a supporting role in the action film Taken (2008), Cassidy played leading roles in the slasher series Harper's Island (2009) and the remake of the drama series Melrose Place (2009–2010). She starred as Kris Fowles in the slasher film remake A Nightmare on Elm Street (2010) and had a recurring role as Juliet Sharp during the fourth season of the teen drama Gossip Girl (2010–2012).   
+
+凯瑟琳·伊芙琳·安妮塔·卡西迪是一位美国女演员。在出演几个小电视角色后，她因出演恐怖电影《当陌生人来电》（2006年）、在《黑色圣诞节》（2006年）中饰演凯莉·普雷斯利（Kelli Presley）和在恐怖系列《超自然》（2007-2008年）第三季中饰演鲁比而成为尖叫女王而受到关注。卡西迪在动作片《Taken》（2008年）中担任配角后，又在惊悚片《Harper ' s Island》（2009年）和翻拍的电视剧《Melrose Place》（2009-2010年）中担任主角。她在翻拍的惊悚电影《榆树街的噩梦》（2010年）中饰演克里斯·福尔斯，并在青少年电视剧《绯闻女孩》（2010-2012年）第四季中反复饰演朱丽叶·夏普。   
+
+阅读延伸[2269885]: [https://en.wikipedia.org/wiki/Katie_Cassidy](https://en.wikipedia.org/wiki/Katie_Cassidy)   
+
+## 阿什利_科尔   
+Ashley Cole is an English football coach and former player. As a player, he played as a left-back, most notably for Arsenal and Chelsea. Cole is considered by many critics and fellow professional players as one of the best defenders of his generation, one of the greatest English players of all time as well as one of the greatest left-backs in the history of the sport. Born in Stepney, London, Cole began his youth career at Arsenal and made his full debut for the club in November 1999, going on to make 228 appearances and scoring nine goals for the North London club. With Arsenal he won two Premier League titles, three FA Cups, and was an integral member of the "Invincibles" team of the 2003–04 season, who went the entire league season undefeated. Cole also made an appearance in Arsenal's first UEFA Champions League final in 2006; the club lost 2–1 to Barcelona.   
+
+阿什利·科尔是一名英国足球教练和前球员。作为一名球员，他曾担任左后卫，尤其是效力于阿森纳和切尔西。科尔被许多评论家和职业球员视为他这一代人中最好的后卫之一，有史以来最伟大的英格兰球员之一，也是这项运动历史上最伟大的左后卫之一。科尔出生于伦敦斯特普尼，在阿森纳开始了他的青少年生涯，并于1999年11月为俱乐部首次亮相，随后为这家北伦敦俱乐部出场228次，打进9个进球。他在阿森纳赢得了两次英超冠军、三次足总杯冠军，并且是2003-04赛季“无敌”球队不可或缺的一员，他们在整个联赛赛季都保持不败。科尔还出现在2006年阿森纳的首场欧洲冠军联赛决赛中;俱乐部1 - 2输给了巴塞罗那。   
+
+阅读延伸[751310]: [https://en.wikipedia.org/wiki/Ashley_Cole](https://en.wikipedia.org/wiki/Ashley_Cole)   
+
+## 米茨_盖纳   
+Mitzi Gaynor was an American actress, singer, and dancer. Her notable films included We're Not Married! (1952), There's No Business Like Show Business (1954), The Birds and the Bees (1956), and South Pacific (1958) – for which she was nominated for the Golden Globe Award for Best Actress – Motion Picture Comedy or Musical at the 1959 awards.   
+
+米茨·盖纳（Mitzi Gaynor）是一位美国女演员、歌手和舞者。她的著名电影包括《我们还没结婚！》（1952年）、《演艺界》（1954年）、《鸟与蜜蜂》（1956年）和《南太平洋》（1958年）--她因此获得金球奖最佳女主角提名-电影喜剧或音乐剧。   
+
+阅读延伸[1396687]: [https://en.wikipedia.org/wiki/Mitzi_Gaynor](https://en.wikipedia.org/wiki/Mitzi_Gaynor)   
+
 ## 可怕的_3   
 Terrifier 3 is a 2024 American Christmas supernatural slasher film written and directed by Damien Leone, and starring David Howard Thornton, Lauren LaVera, Elliott Fullam, and Samantha Scaffidi. Taking place on Christmas, the story follows Sienna Shaw as she attempts to rebuild her life while Art the Clown is in pursuit of her alongside his new accomplice, Victoria Heyes. It is the sequel to Terrifier 2 (2022), and is the third installment in the Terrifier franchise.   
 
@@ -59,12 +122,19 @@ Terrifier 3 is a 2024 American Christmas supernatural slasher film written and d
 
 阅读延伸[72500053]: [https://en.wikipedia.org/wiki/Terrifier_3](https://en.wikipedia.org/wiki/Terrifier_3)   
 
-## 娜奥米_坎贝尔   
-Naomi Elaine Campbell is a British fashion model. Beginning her career at the age of eight, Campbell was one of six models of her generation declared supermodels by the fashion industry and the international press. She was the first black woman to appear as a model on the covers of Time and Vogue France.   
+## 微笑_2   
+Smile 2 is a 2024 American psychological supernatural horror film written and directed by Parker Finn. A sequel to Smile (2022), the film stars Naomi Scott as a pop star who begins to experience a series of increasingly disturbing events as she is about to go on tour. It also features Rosemarie DeWitt, Lukas Gage, Miles Gutierrez-Riley, Peter Jacobson, Raúl Castillo, Dylan Gelula, and Ray Nicholson, as well as Kyle Gallner reprising his role from the first film.   
 
-娜奥米·伊莱恩·坎贝尔（Naomi Elaine Campbell）是一位英国时装模特。坎贝尔从八岁开始职业生涯，是时尚界和国际媒体宣布的六位超模之一。她是第一位以模特身份登上《时代》和《Vogue France》封面的黑人女性。   
+《微笑2》是一部2024年美国心理超自然恐怖电影，由帕克·芬恩编剧和导演。这部电影是《微笑》（2022年）的续集，由娜奥米·斯科特主演，饰演一位流行歌星，她在即将巡演时开始经历一系列日益令人不安的事件。影片中还包括罗斯玛丽·德威特、卢卡斯·盖奇、迈尔斯·古铁雷斯-莱利、彼得·雅各布森、劳尔·卡斯蒂略、迪伦·杰卢拉和雷·尼科尔森，以及凯尔·加尔纳在第一部电影中重演他的角色。   
 
-阅读延伸[19371120]: [https://en.wikipedia.org/wiki/Naomi_Campbell](https://en.wikipedia.org/wiki/Naomi_Campbell)   
+阅读延伸[74885356]: [https://en.wikipedia.org/wiki/Smile_2](https://en.wikipedia.org/wiki/Smile_2)   
+
+## 哈马斯   
+The Islamic Resistance Movement, abbreviated Hamas, is a Palestinian nationalist Sunni Islamist political organisation with a military wing called the Ezzedeen Al-Qassam Brigades. It has governed the Israeli-occupied Gaza Strip since 2007.   
+
+伊斯兰抵抗运动（缩写为哈马斯）是一个巴勒斯坦民族主义逊尼派伊斯兰政治组织，其军事部门名为Ezzedeen Al-Qassam Brigades。自2007年以来，它一直统治以色列占领的加沙地带。   
+
+阅读延伸[13913]: [https://en.wikipedia.org/wiki/Hamas](https://en.wikipedia.org/wiki/Hamas)   
 
 ## _实质   
 The Substance is a 2024 satirical body horror film co-produced, written and directed by Coralie Fargeat. The film stars Demi Moore, Margaret Qualley and Dennis Quaid. An international co-production between the United Kingdom and France, its plot follows a fading celebrity (Moore) who decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself (Qualley), unknowingly giving her horrifying side effects.   
@@ -72,74 +142,4 @@ The Substance is a 2024 satirical body horror film co-produced, written and dire
 《物质》是一部2024年的讽刺身体恐怖电影，由Coralie Fargeat联合制作、编剧和导演。这部电影由黛米·摩尔、玛格丽特·夸利和丹尼斯·奎德主演。这是英国和法国之间的国际联合制作，其情节讲述了一位日渐衰落的名人（摩尔饰）决定使用一种黑市药物，这是一种细胞复制物质，可以暂时创造出一个更年轻、更好的自己（夸利饰），在不知不觉中给了她可怕的副作用。   
 
 阅读延伸[70519613]: [https://en.wikipedia.org/wiki/The_Substance](https://en.wikipedia.org/wiki/The_Substance)   
-
-## 尼尔_霍兰   
-Niall James Horan is an Irish singer-songwriter. He rose to prominence as a member of the boy band One Direction, formed in 2010 on the singing competition The X Factor. The group released five albums and went on to become one of the best-selling boy bands of all time.   
-
-尼尔·詹姆斯·霍兰（Niall James Horan）是一位爱尔兰创作型歌手。他作为男孩乐队One Direction的成员而声名鹊起，该乐队于2010年在歌唱比赛The X Factor中成立。该乐队发行了五张专辑，并成为有史以来最畅销的男孩乐队之一。   
-
-阅读延伸[43405715]: [https://en.wikipedia.org/wiki/Niall_Horan](https://en.wikipedia.org/wiki/Niall_Horan)   
-
-## 扎恩_马利克   
-Zain Javadd Malik, known professionally as Zayn Malik or simply Zayn, is an English singer. He auditioned as a solo contestant for the British music competition television series The X Factor in 2010. After being eliminated, he was brought back to the competition to form the five-piece boy band One Direction, which went on to become one of the best-selling boy bands of all time. He left the group in March 2015 and signed a solo recording contract with RCA Records.   
-
-Zain Javadd Malik，专业名称Zayn Malik或简称Zayn，是一位英国歌手。2010年，他作为个人参赛者参加了英国音乐竞赛电视剧《X Factor》的试镜。被淘汰后，他被带回比赛，组建了五人男孩乐队One Direction，该乐队后来成为有史以来最畅销的男孩乐队之一。他于2015年3月离开乐队，并与RCA Records签署了个人唱片合同。   
-
-阅读延伸[46230076]: [https://en.wikipedia.org/wiki/Zayn_Malik](https://en.wikipedia.org/wiki/Zayn_Malik)   
-
-## 约翰尼_高德罗   
-John Michael Gaudreau was an American professional ice hockey winger who played 11 seasons in the National Hockey League (NHL). He played for the NCAA Division I's Boston College Eagles from 2011 to 2014, and was selected by the Calgary Flames in the fourth round, 104th overall, of the 2011 NHL Entry Draft. Nicknamed "Johnny Hockey", he was named the 2014 winner of the Hobey Baker Award as the best player in the NCAA, and, during his first full NHL season in 2014–15, he was selected to play in the 2015 NHL All-Star Game, as well as being selected in the 2014 NHL All-Rookie team. Johnny was a Calder Memorial Trophy finalist for the NHL's best rookie. He won the Lady Byng Memorial Trophy as the NHL's most gentlemanly player for the 2016–17 season. In 2022, Gaudreau signed with the Columbus Blue Jackets, where he spent two seasons with the team.   
-
-约翰·迈克尔·高德罗是一位美国职业冰球边锋，在国家冰球联盟（NHL）效力了11个赛季。2011年至2014年，他效力于NCAA I组的波士顿学院老鹰队，并在2011年NHL入围选秀第四轮（总成绩第104名）中被卡尔加里火焰队选中。他绰号“约翰尼·霍基”，被评为2014年霍比·贝克奖（Hobey Baker Award）的NCAA最佳球员，并且在2014-15赛季的第一个完整NHL赛季中，他被选中参加2015年NHL全明星赛，并入选2014年NHL全新秀队。约翰尼是考尔德纪念杯NHL最佳新秀决赛入围者。他赢得了拜恩夫人纪念奖杯，成为NHL 2016-17赛季最绅士的球员。2022年，高德罗与哥伦布蓝夹克队签约，并在球队度过了两个赛季。   
-
-阅读延伸[33438856]: [https://en.wikipedia.org/wiki/Johnny_Gaudreau](https://en.wikipedia.org/wiki/Johnny_Gaudreau)   
-
-## 与星共舞_（美国电视剧）_第33季   
-The thirty-third season of Dancing with the Stars premiered on ABC and Disney+ on September 17, 2024. This season is the second to air live on both simultaneously, with next-day streaming made available on Hulu. Alfonso Ribeiro returned to host the season, while former professional dancer Julianne Hough returned to co-host.   
-
-《与星共舞》第三十三季于2024年9月17日在ABC和Disney+首播。本季是第二季同时在两者上直播，第二天的流媒体将在Hulu上播出。阿方索·里贝罗（Alfonso Ribeiro）回归主持本季，而前职业舞蹈家朱丽安·霍夫（Julianne Hough）回归共同主持。   
-
-阅读延伸[77350220]: [https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_33](https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_33)   
-
-## 莱昂内尔_梅西   
-Lionel Andrés "Leo" Messi is an Argentine professional footballer who plays as a forward for and captains both Major League Soccer club Inter Miami and the Argentina national team. Widely regarded as one of the greatest players of all time, Messi set numerous records for individual accolades won throughout his professional footballing career such as eight Ballon d'Or awards and eight times being named the world's best player by FIFA. He is the most decorated player in the history of professional football having won 45 team trophies, including twelve league titles, four UEFA Champions Leagues, two Copa Américas, and one FIFA World Cup. Messi holds the records for most European Golden Shoes (6), most goals for a single club, most goals (474), hat-tricks (36) and assists (192) in La Liga, most matches played (39), assists (18) and goal contributions (34) in the Copa América, most matches played (26) and goal contributions (21) in the World Cup, most international appearances (189) and international goals (112) by a South American male, and the second-most in the latter category outright. A prolific goalscorer and creative playmaker, Messi has scored over 850 senior career goals for club and country.   
-
-莱昂内尔·安德烈·S“里奥”·梅西是一名阿根廷职业足球运动员，在美国职业足球大联盟俱乐部国际迈阿密和阿根廷国家队担任前锋和队长。梅西被广泛认为是有史以来最伟大的球员之一，在他的职业足球生涯中，他创造了无数的个人荣誉记录，例如八次金球奖和八次被国际足联评为世界最佳球员。他是职业足球史上获奖最多的球员，赢得了45个球队奖杯，包括12个联赛冠军，4个欧洲冠军联赛，2个美洲杯和1个国际足联世界杯。梅西保持着欧洲金球鞋最多(6个)、单一俱乐部进球最多、西甲进球最多(474个)、帽子戏法(36个)和助攻(192个)的最高纪录，美洲杯出场最多(39场)、助攻(18个)和进球贡献(34个)，世界杯出场最多(26场)和进球最多(21个)，出场次数最多(189次)和国际进球最多(112次)都是由南美男性保持的，后者绝对是第二多的。作为一名多产的射手和富有创造力的中场组织者，梅西已经为俱乐部和国家队打进了超过850个高级职业生涯进球。   
-
-阅读延伸[2150841]: [https://en.wikipedia.org/wiki/Lionel_Messi](https://en.wikipedia.org/wiki/Lionel_Messi)   
-
-## 收件箱：_Folie_à_Deux   
-Joker: Folie à Deux is a 2024 American musical psychological thriller film directed by Todd Phillips from a screenplay co-written with Scott Silver. It is the sequel to Joker (2019), loosely based on DC Comics characters, and stars Joaquin Phoenix reprising his role as the Joker with Lady Gaga joining the cast as his love interest Harley Quinn. Zazie Beetz also reprises her role from the previous film, while Brendan Gleeson and Catherine Keener join the cast. It is produced by Warner Bros. Pictures and DC Studios in association with Joint Effort.   
-
-小丑：Folie à Deux是一部2024年美国音乐心理惊悚电影，由托德·菲利普斯执导，剧本与斯科特·西尔弗共同编剧。这是《尤利西斯》（2019）的续集，大致根据DC漫画人物改编，由华金·菲尼克斯（Joaquin Phoenix）主演，饰演小丑，Lady Gaga饰演他的恋人哈莉·奎因（Harley Quinn）加入演员阵容。Zazie Beetz还重新扮演了上一部电影中的角色，而Brendan Gleeson和Catherine Keener也加入了演员阵容。该片由华纳兄弟影业和DC Studios与Joint Effort联合制作。   
-
-阅读延伸[62402361]: [https://en.wikipedia.org/wiki/Joker%3A_Folie_%C3%A0_Deux](https://en.wikipedia.org/wiki/Joker%3A_Folie_%C3%A0_Deux)   
-
-## 科林_奥尔雷德   
-Colin Zachary Allred is an American politician, civil rights lawyer, and former professional football player serving as the U.S. representative from Texas's 32nd congressional district since 2019. The district includes the northeastern corner of Dallas, as well as many of its northeastern suburbs, such as Garland, Richardson, Sachse, Wylie, and the Park Cities.   
-
-科林·扎卡里·奥尔雷德（Colin Zachary Allred）是一名美国政治家、民权律师和前职业足球运动员，自2019年以来一直担任德克萨斯州第32国会选区的美国代表。该地区包括达拉斯的东北角以及许多东北部郊区，例如加兰、理查森、萨克斯、怀利和帕克城。   
-
-阅读延伸[14312712]: [https://en.wikipedia.org/wiki/Colin_Allred](https://en.wikipedia.org/wiki/Colin_Allred)   
-
-## 2024年_联合_州_总统_选举   
-The 2024 United States presidential election will be the 60th quadrennial presidential election, set to be held on Tuesday, November 5, 2024. Voters in each state and the District of Columbia will choose electors to the Electoral College, who will then elect a president and vice president for a term of four years.   
-
-2024年美国总统选举将是第60次四年一度的总统选举，定于2024年11月5日星期二举行。每个州和哥伦比亚特区的选民将选择选举人团选举人，然后选举人团选举总统和副总统，任期四年。   
-
-阅读延伸[59568546]: [https://en.wikipedia.org/wiki/2024_United_States_presidential_election](https://en.wikipedia.org/wiki/2024_United_States_presidential_election)   
-
-## 肖恩_库姆斯   
-Sean Love Combs, also known by his stage name Diddy, formerly Puff Daddy and P. Diddy, is an American rapper, record producer and record executive. He is credited with the discovery and cultivation of artists such as the Notorious B.I.G., Mary J. Blige, and Usher. Combs has won three Grammy Awards from 13 nominations, two MTV Video Music Awards, and a Guinness World Record for "Most Successful Rap Producer" in 1997.   
-
-肖恩·洛夫·库姆斯（Sean Love Combs）也以艺名“吹牛老爹”（P. Diddy）而闻名，他是一位美国说唱歌手、唱片制作人和唱片主管。他因发现和培养臭名昭著的BIG等艺术家而受到赞誉玛丽·J·布莱姬和亚瑟。库姆斯曾获得13项提名中的3项格莱美奖、两项MTV音乐录影带奖以及1997年“最成功说唱制作人”吉尼斯世界纪录。   
-
-阅读延伸[152447]: [https://en.wikipedia.org/wiki/Sean_Combs](https://en.wikipedia.org/wiki/Sean_Combs)   
-
-## 埃隆_马斯克   
-Elon Reeve Musk is a businessman and investor known for his key roles in the space company SpaceX and the automotive company Tesla, Inc. Other involvements include ownership of X Corp., the company that operates the social media platform X, and his role in the founding of the Boring Company, xAI, Neuralink, and OpenAI. He is one of the wealthiest individuals in the world; as of August 2024 Forbes estimates his net worth to be US$247 billion.   
-
-埃隆·里夫·马斯克（Elon Reeve Musk）是一位商人和投资者，因在航天公司SpaceX和汽车公司特斯拉公司（Tesla，Inc.）中发挥关键作用而闻名。其他参与包括X Corp.的所有权，运营社交媒体平台X的公司，以及他在Boring Company、xAI、Neuralink和OpenAI的创立中所扮演的角色。他是世界上最富有的人之一;截至2024年8月，福布斯估计他的净资产为2470亿美元。   
-
-阅读延伸[909036]: [https://en.wikipedia.org/wiki/Elon_Musk](https://en.wikipedia.org/wiki/Elon_Musk)   
 
