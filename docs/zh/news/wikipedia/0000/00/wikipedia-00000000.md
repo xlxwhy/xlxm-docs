@@ -13,12 +13,26 @@ Liam James Payne was an English singer who rose to fame as a member of the boy b
 
 阅读延伸[40605906]: [https://en.wikipedia.org/wiki/Liam_Payne](https://en.wikipedia.org/wiki/Liam_Payne)   
 
+## 保罗_迪安诺   
+Paul Andrews, better known by his stage name Paul Di'Anno, was an English heavy metal singer who was the lead vocalist for Iron Maiden from 1978 to 1981. In his post-Maiden career, Di'Anno issued numerous albums over the years, as both a solo artist and as a member of such bands as Gogmagog, Di'Anno's Battlezone, Killers, Rockfellas, and more recently, Warhorse.   
+
+保罗·安德鲁斯（Paul Andrews）以艺名保罗·迪·安诺（Paul Di ' Anno）而闻名，是一位英国重金属歌手，于1978年至1981年担任《铁娘子》主唱。在少女时代后的职业生涯中，迪安诺多年来发行了大量专辑，既是一名独唱艺术家，也是Gogmagog、Di ' Anno ' s Battlezone、Killers、Rockfellas以及最近的Warhorse等乐队的成员。   
+
+阅读延伸[674386]: [https://en.wikipedia.org/wiki/Paul_Di'Anno](https://en.wikipedia.org/wiki/Paul_Di'Anno)   
+
 ## 最佳女性   
 Woman of the Hour is a 2024 American true crime thriller film directed by Anna Kendrick in her directorial debut and written by Ian MacAllister McDonald. It is based on the life of serial killer Rodney Alcala, who in 1978 appeared on the television show The Dating Game in the midst of his murder spree. The film revolves around the events of the game show, and stars Kendrick as contestant Cheryl Bradshaw.   
 
 《时刻女性》是一部2024年美国真实犯罪惊悚电影，由安娜·肯德里克执导，伊恩·麦卡利斯特·麦克唐纳编剧。该剧改编自连环杀手罗德尼·阿尔卡拉（Rodney Alcala）的生活，他于1978年在疯狂谋杀期间出现在电视节目《约会游戏》中。这部电影围绕游戏节目的事件展开，肯德里克饰演参赛者谢丽尔·布拉德肖。   
 
 阅读延伸[72668163]: [https://en.wikipedia.org/wiki/Woman_of_the_Hour](https://en.wikipedia.org/wiki/Woman_of_the_Hour)   
+
+## 莉迪亚_索普   
+Lidia Alma Thorpe is an Aboriginal Australian independent politician. She has been a senator for Victoria since 2020 and is the first Aboriginal senator from that state. She was a member of the Australian Greens until February 2023 when she quit the party over disagreements concerning the proposed Indigenous Voice to Parliament, and became a leading figure in the "progressive No" campaign for the Voice referendum in October 2023. She had also served as the Greens' deputy leader in the Senate from June to October 2022.   
+
+莉迪亚·阿尔玛·索普（Lidia Alma Thorpe）是澳大利亚原住民独立政治家。她自2020年以来一直担任维多利亚州参议员，是该州第一位原住民参议员。她一直是澳大利亚绿党的成员，直到2023年2月，她因对拟议的议会原住民之声存在分歧而退党，并成为2023年10月原住民之声公投“进步反对”运动的主要人物。2022年6月至10月，她还担任绿党在参议院的副领袖。   
+
+阅读延伸[55826797]: [https://en.wikipedia.org/wiki/Lidia_Thorpe](https://en.wikipedia.org/wiki/Lidia_Thorpe)   
 
 ## 莱尔和埃里克·梅嫩德斯   
 Joseph Lyle Menéndez and Erik Galen Menéndez are American brothers who were convicted in 1996 of the murders of their parents, José and Mary Louise "Kitty" Menéndez.   
@@ -27,40 +41,12 @@ Joseph Lyle Menéndez and Erik Galen Menéndez are American brothers who were co
 
 阅读延伸[663704]: [https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez](https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez)   
 
-## 克里斯_霍伊   
-Sir Christopher Andrew Hoy MBE is a former track cyclist and racing driver from Scotland who represented Great Britain at the Olympic and World Championships and Scotland at the Commonwealth Games.   
+## 汤米_艾德曼   
+Thomas Hyunsu Edman is an American professional baseball utility player for the Los Angeles Dodgers of Major League Baseball (MLB). He has previously played in MLB for the St. Louis Cardinals. Edman also represents the South Korean national team in international competition.   
 
-克里斯托弗·安德鲁·霍伊爵士MBE是来自苏格兰的前场地自行车运动员和赛车手，曾代表英国参加奥运会和世界锦标赛，并代表苏格兰参加英联邦运动会。   
+Thomas Hyunsu Edman是美国职业棒球大联盟（MLB）洛杉矶道奇队的美国职业棒球运动员。他此前曾为圣路易斯红雀队效力于美国职业棒球大联盟。埃德曼还代表韩国国家队参加国际比赛。   
 
-阅读延伸[2132449]: [https://en.wikipedia.org/wiki/Chris_Hoy](https://en.wikipedia.org/wiki/Chris_Hoy)   
-
-## 微笑_2   
-Smile 2 is a 2024 American psychological supernatural horror film written and directed by Parker Finn. A sequel to Smile (2022), the film stars Naomi Scott as a pop star who begins to experience a series of increasingly disturbing events as she is about to go on tour. It also features Rosemarie DeWitt, Lukas Gage, Miles Gutierrez-Riley, Peter Jacobson, Raúl Castillo, Dylan Gelula, and Ray Nicholson, as well as Kyle Gallner reprising his role from the first film.   
-
-《微笑2》是一部2024年美国心理超自然恐怖电影，由帕克·芬恩编剧和导演。这部电影是《微笑》（2022年）的续集，由娜奥米·斯科特主演，饰演一位流行歌星，她在即将巡演时开始经历一系列日益令人不安的事件。影片中还包括罗斯玛丽·德威特、卢卡斯·盖奇、迈尔斯·古铁雷斯-莱利、彼得·雅各布森、劳尔·卡斯蒂略、迪伦·杰卢拉和雷·尼科尔森，以及凯尔·加尔纳在第一部电影中重演他的角色。   
-
-阅读延伸[74885356]: [https://en.wikipedia.org/wiki/Smile_2](https://en.wikipedia.org/wiki/Smile_2)   
-
-## 阿奇_曼宁   
-Elisha Archibald Manning V(born April 27, 2005) is an American football quarterback for the Texas Longhorns. He is a member of the Manning family.   
-
-伊莱沙·阿奇博尔德·曼宁V（Elisha Archibald Manning V，2005年4月27日出生）是德克萨斯长角队的美式橄榄球四分卫。他是曼宁家族的成员。   
-
-阅读延伸[65490215]: [https://en.wikipedia.org/wiki/Arch_Manning](https://en.wikipedia.org/wiki/Arch_Manning)   
-
-## 劳伦斯_Bishnoi   
-Lawrence Bishnoi is an Indian gangster. He has two dozen criminal cases against him including ones for murder and extortion. He has denied these allegations. His gang is affiliated with over 700 shooters.   
-
-劳伦斯·比什诺伊是一名印度黑帮。他有二十起针对他的刑事案件，其中包括谋杀和敲诈勒索。他否认了这些指控。他的团伙与700多名枪手有联系。   
-
-阅读延伸[70916099]: [https://en.wikipedia.org/wiki/Lawrence_Bishnoi](https://en.wikipedia.org/wiki/Lawrence_Bishnoi)   
-
-## 胡安·索托   
-Juan José Soto Pacheco is a Dominican professional baseball outfielder for the New York Yankees of Major League Baseball (MLB). He has previously played in MLB for the Washington Nationals and San Diego Padres. Soto signed with the Nationals as an international free agent in 2015. He made his MLB debut in 2018 and was the runner-up for the NL Rookie of the Year Award. In 2019, he played a key part in the Nationals' first World Series championship, earning him the Babe Ruth Award. In 2020, he won the National League batting title with a .351 average. Soto has won the Silver Slugger Award four times and is a four-time All-Star.   
-
-胡安·何塞·索托·帕切科（Juan José Soto Pacheco）是美国职业棒球大联盟（MLB）纽约洋基队的多米尼加职业棒球外野手。他此前曾在美国职业棒球大联盟效力于华盛顿国民队和圣地亚哥教士队。索托于2015年以国际自由球员身份与国民队签约。他于2018年首次亮相美国职业棒球大联盟（MLB），并获得国联年度新秀奖亚军。2019年，他在国民队首届世界大赛冠军中发挥了关键作用，为他赢得了贝比·露丝奖。2020年，他以0.351的平均击球率赢得了全国联赛击球冠军。索托曾四次获得银棒奖，四次入选全明星。   
-
-阅读延伸[51867270]: [https://en.wikipedia.org/wiki/Juan_Soto](https://en.wikipedia.org/wiki/Juan_Soto)   
+阅读延伸[57016668]: [https://en.wikipedia.org/wiki/Tommy_Edman](https://en.wikipedia.org/wiki/Tommy_Edman)   
 
 ## 死亡_in_2024   
 
@@ -73,19 +59,26 @@ The following notable deaths occurred in 2024. Names are reported under the date
 
 阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
 
-## 单向   
-One Direction, often shortened to 1D, are an English-Irish pop boy band formed in London in 2010. The group was composed of Niall Horan, Harry Styles, Louis Tomlinson, Zayn Malik, and Liam Payne. They became one of the best-selling boy groups of all time before going on an indefinite hiatus in 2016.   
+## 布雷娜_斯图尔特   
+Breanna Mackenzie Stewart, nicknamed "Stewie", is an American professional basketball player for the New York Liberty of the Women's National Basketball Association (WNBA). She is one of the most accomplished players in basketball history.   
 
-One Direction（通常缩写为1D）是一支英格兰爱尔兰流行男孩乐队，于2010年在伦敦成立。该乐队由尼尔·霍兰、哈里·斯泰尔斯、路易斯·汤姆林森、扎恩·马利克和利亚姆·佩恩组成。他们成为有史以来最畅销的男孩组合之一，直到2016年无限期中断。   
+布雷安娜·麦肯齐·斯图尔特（Breanna Mackenzie Stewart）绰号“斯图威”，是美国女子国家篮球协会（WNBA）纽约自由队的职业篮球运动员。她是篮球史上最有成就的球员之一。   
 
-阅读延伸[31772741]: [https://en.wikipedia.org/wiki/One_Direction](https://en.wikipedia.org/wiki/One_Direction)   
+阅读延伸[32433243]: [https://en.wikipedia.org/wiki/Breanna_Stewart](https://en.wikipedia.org/wiki/Breanna_Stewart)   
 
-## 叶海亚_辛瓦尔   
-Yahya Ibrahim Hassan Sinwar was a Palestinian militant and politician who served as the de facto leader of Hamas. He was the chairman of the Hamas Political Bureau from August 2024 and the Hamas leader in the Gaza Strip from February 2017 until his death, succeeding Ismail Haniyeh in both roles.   
+## 微笑_2   
+Smile 2 is a 2024 American psychological supernatural horror film written and directed by Parker Finn. A sequel to Smile (2022), the film stars Naomi Scott as a pop star who begins to experience a series of increasingly disturbing events as she is about to go on tour. It also features Rosemarie DeWitt, Lukas Gage, Miles Gutierrez-Riley, Peter Jacobson, Raúl Castillo, Dylan Gelula, and Ray Nicholson, as well as Kyle Gallner reprising his role from the first film.   
 
-叶海亚·易卜拉欣·哈桑·辛瓦尔是一名巴勒斯坦激进分子和政治家，曾担任哈马斯事实上的领导人。他从2024年8月起担任哈马斯政治局主席，从2017年2月起担任加沙地带哈马斯领导人直至去世，接替伊斯梅尔·哈尼亚担任这两个职位。   
+《微笑2》是一部2024年美国心理超自然恐怖电影，由帕克·芬恩编剧和导演。这部电影是《微笑》（2022年）的续集，由娜奥米·斯科特主演，饰演一位流行歌星，她在即将巡演时开始经历一系列日益令人不安的事件。影片中还包括罗斯玛丽·德威特、卢卡斯·盖奇、迈尔斯·古铁雷斯-莱利、彼得·雅各布森、劳尔·卡斯蒂略、迪伦·杰卢拉和雷·尼科尔森，以及凯尔·加尔纳在第一部电影中重演他的角色。   
 
-阅读延伸[53195047]: [https://en.wikipedia.org/wiki/Yahya_Sinwar](https://en.wikipedia.org/wiki/Yahya_Sinwar)   
+阅读延伸[74885356]: [https://en.wikipedia.org/wiki/Smile_2](https://en.wikipedia.org/wiki/Smile_2)   
+
+## 2024_摩尔多瓦_欧洲_联盟_会员资格_公投   
+A nationwide referendum was held in Moldova on 20 October 2024 on whether the country should amend the Constitution of Moldova to include the Moldovan citizens' wish for European Union membership, in order to prevent future governments from shifting the country away from its pro-European trajectory. The election occured on the same day as the 2024 Moldovan presidential election.   
+
+2024年10月20日，摩尔多瓦举行了全国公投，讨论该国是否应该修改摩尔多瓦宪法，将摩尔多瓦公民加入欧盟的愿望纳入其中，以防止未来的政府让该国偏离亲欧轨迹。此次选举与2024年摩尔多瓦总统选举同一天举行。   
+
+阅读延伸[76446020]: [https://en.wikipedia.org/wiki/2024_Moldovan_European_Union_membership_referendum](https://en.wikipedia.org/wiki/2024_Moldovan_European_Union_membership_referendum)   
 
 ## 卡马拉_哈里斯   
 Kamala Devi Harris is an American politician and attorney who is the 49th and current vice president of the United States since 2021 under President Joe Biden. She is the first female vice president, making her the highest-ranking female official in U.S. history, as well as the first African American and first Asian American vice president. A member of the Democratic Party, she served as a U.S. senator from California from 2017 to 2021, and earlier as the attorney general of California. Harris is the Democratic Party's nominee in the 2024 U.S. presidential election.   
@@ -94,52 +87,59 @@ Kamala Devi Harris is an American politician and attorney who is the 49th and cu
 
 阅读延伸[3120522]: [https://en.wikipedia.org/wiki/Kamala_Harris](https://en.wikipedia.org/wiki/Kamala_Harris)   
 
-## 谢丽尔_（歌手）   
-Cheryl Ann Tweedy is an English singer and television personality. She rose to fame as a member of Girls Aloud, a pop girl group created through ITV's reality competition show Popstars: The Rivals in 2002. Named the United Kingdom's best-selling girl group of the 21st century in 2012, Girls Aloud amassed a string of 20 consecutive UK top ten singles, two UK number one albums, five consecutive platinum-selling studio albums, and five Brit Award nominations, winning Best Single for "The Promise" in 2009. The group went on an indefinite hiatus in 2013, before reuniting for a tour in 2024.   
+## 拉塞尔_威尔逊   
+Russell Carrington Wilson is an American professional football quarterback for the Pittsburgh Steelers of the National Football League (NFL). He previously played 10 seasons for the Seattle Seahawks and two seasons for the Denver Broncos. With the Seahawks, Wilson was named to the Pro Bowl nine times and helped Seattle win their first Super Bowl championship in Super Bowl XLVIII. He is regarded as one of the greatest dual-threat quarterbacks of all time.   
 
-谢丽尔·安·特威迪（Cheryl Ann Tweedy）是一位英国歌手和电视名人。她作为Girls Aloud的成员而声名鹊起，这是一个由ITV真人秀节目《Popstar：The Rivals》创建的流行女子团体。Girls Aloud于2012年被评为英国21世纪最畅销女子组合，连续发行了20首英国十大单曲、两张英国排名第一的专辑、五张连续白金销量录音室专辑以及五项全英音乐奖提名，并于2009年凭借《The Promise》荣获最佳单曲奖。该乐队于2013年无限期中断，然后于2024年重聚巡演。   
+拉塞尔·卡林顿·威尔逊是美国国家橄榄球联盟（NFL）匹兹堡钢人队的美国职业橄榄球四分卫。他此前曾为西雅图海鹰队效力10个赛季，为丹佛野马队效力两个赛季。随着海鹰队，威尔逊九次入选职业碗，并帮助西雅图在超级碗XLVIII中赢得了他们的第一个超级碗冠军。他被认为是有史以来最伟大的双重威胁四分卫之一。   
 
-阅读延伸[8979822]: [https://en.wikipedia.org/wiki/Cheryl_(singer)](https://en.wikipedia.org/wiki/Cheryl_(singer))   
+阅读延伸[21143591]: [https://en.wikipedia.org/wiki/Russell_Wilson](https://en.wikipedia.org/wiki/Russell_Wilson)   
 
-## 吉安卡洛_斯坦顿   
-Giancarlo Cruz Michael Stanton, formerly known as Mike Stanton, is an American professional baseball designated hitter and outfielder for the New York Yankees of Major League Baseball (MLB). He has previously played in MLB for the Florida/Miami Marlins. Stanton stands 6 feet 6 inches (1.98 m) tall and weighs 245 pounds (111 kg). He bats and throws right-handed. Stanton is the Marlins' all-time home run leader and the only active player in Major League Baseball with over 400 home runs.   
+## 劳伦斯_Bishnoi   
+Lawrence Bishnoi is an Indian gangster. He has two dozen criminal cases against him including ones for murder and extortion. He has denied these allegations. His gang is affiliated with over 700 shooters.   
 
-吉安卡洛·克鲁兹·迈克尔·斯坦顿（Giancarlo Cruz Michael Stanton），原名迈克·斯坦顿（Mike Stanton），是美国职业棒球大联盟（MLB）纽约洋基队的指定击球手和外野手。他此前曾在美国职业棒球大联盟效力于佛罗里达/迈阿密马林鱼队。斯坦顿身高6英尺6英寸（1.98米），体重245磅（111公斤）。他用右手击球和投掷。斯坦顿是马林鱼队历史上全垒打的领头羊，也是美国职业棒球大联盟中唯一一位打出超过400支全垒打的现役球员。   
+劳伦斯·比什诺伊是一名印度黑帮。他有二十起针对他的刑事案件，其中包括谋杀和敲诈勒索。他否认了这些指控。他的团伙与700多名枪手有联系。   
 
-阅读延伸[21694604]: [https://en.wikipedia.org/wiki/Giancarlo_Stanton](https://en.wikipedia.org/wiki/Giancarlo_Stanton)   
+阅读延伸[70916099]: [https://en.wikipedia.org/wiki/Lawrence_Bishnoi](https://en.wikipedia.org/wiki/Lawrence_Bishnoi)   
 
-## 沙里尼_帕西   
-Shalini Passi is a Delhi-based art and design collector, art, design, and fashion patron, philanthropist, art and design advisor, and artist. She is a member of the Khoj Advisory Board since 2012 and continues to serve as patron of the Kochi-Muziris Biennale.   
+## 2024年_联合_州_总统_选举   
+The 2024 United States presidential election will be the 60th quadrennial presidential election, set to be held on Tuesday, November 5, 2024. Voters in each state and the District of Columbia will choose electors to the Electoral College, who will then elect a president and vice president for a term of four years.   
 
-Shalini Passi是一位常驻德里的艺术和设计收藏家、艺术、设计和时尚赞助人、慈善家、艺术和设计顾问和艺术家。自2012年以来，她一直担任Khoj咨询委员会成员，并继续担任Kochi-Mujis双年展的赞助人。   
+2024年美国总统选举将是第60次四年一度的总统选举，定于2024年11月5日星期二举行。每个州和哥伦比亚特区的选民将选择选举人团选举人，然后选举人团选举总统和副总统，任期四年。   
 
-阅读延伸[57616281]: [https://en.wikipedia.org/wiki/Shalini_Passi](https://en.wikipedia.org/wiki/Shalini_Passi)   
+阅读延伸[59568546]: [https://en.wikipedia.org/wiki/2024_United_States_presidential_election](https://en.wikipedia.org/wiki/2024_United_States_presidential_election)   
 
-## 弗朗西斯·纳甘努   
-Francis Zavier Ngannou is a Cameroonian and French professional mixed martial artist and professional boxer who is currently signed to the Professional Fighters League (PFL), where he is the inaugural PFL Super Fights Heavyweight Champion. He previously competed in the heavyweight division in the Ultimate Fighting Championship (UFC) from 2015 to 2022, where he was the reigning UFC Heavyweight Champion at the time of his departure from the promotion. Known for his punching power, Ngannou was widely viewed as the most destructive pure puncher in the UFC's heavyweight division; he ended seven of his fourteen UFC fights by knockout before the two-minute mark in the first round.   
+## 企鹅（电视剧）   
+The Penguin is an American crime drama television miniseries created by Lauren LeFranc for HBO. Based on the DC Comics character Penguin, it is a spin-off from the film The Batman (2022) that explores the Penguin's rise to power in Gotham City's criminal underworld. LeFranc serves as the showrunner of the series, which is produced by DC Studios in association with Warner Bros. Television.   
 
-弗朗西斯·扎维尔·恩甘努（Francis Zavier Ngannou）是喀麦隆和法国的职业综合武术家和职业拳击手，目前签约加入职业拳击联盟（PFL），是该联盟首届PFL超级拳击重量级冠军。他此前曾于2015年至2022年参加过终极格斗锦标赛（UFC）的重量级比赛，在退出晋级时，他是UFC重量级冠军。恩甘努以其击球能力而闻名，被广泛认为是UFC重量级联赛中最具破坏性的纯粹拳击手;他在UFC的十四场比赛中，在第一轮比赛进行到两分钟之前，他以淘汰赛的方式结束了七场。   
+《企鹅》是劳伦·勒弗兰克为HBO制作的一部美国犯罪剧电视迷你剧。该剧以DC漫画人物企鹅为背景，是电影《蝙蝠侠》（2022年）的衍生作品，探讨了企鹅在哥谭市犯罪地下世界中掌权的过程。勒弗兰克担任该剧的制片人，该剧由DC Studios与华纳兄弟电视台联合制作。   
 
-阅读延伸[50114216]: [https://en.wikipedia.org/wiki/Francis_Ngannou](https://en.wikipedia.org/wiki/Francis_Ngannou)   
+阅读延伸[68724660]: [https://en.wikipedia.org/wiki/The_Penguin_(TV_series)](https://en.wikipedia.org/wiki/The_Penguin_(TV_series))   
 
-## 阿诺德_帕尔默   
-Arnold Daniel Palmer was an American professional golfer who is widely regarded as one of the greatest and most charismatic players in the sport's history. Since embarking on a professional career in 1955, he won numerous events on both the PGA Tour and the circuit now known as PGA Tour Champions. Nicknamed "The King", Palmer was one of golf's most popular stars and seen as a trailblazer, the first superstar of the sport's television age, which began in the 1950s.   
+## 世界系列赛冠军名单   
+The World Series is the annual championship series of Major League Baseball (MLB) and concludes the MLB postseason. First played in 1903, the World Series championship is a best-of-seven playoff and is a contest between the champions of baseball's National League (NL) and American League (AL). Often referred to as the "Fall Classic", the modern World Series has been played every year since 1903 with two exceptions: in 1904, when the NL champion New York Giants declined to play the AL champion Boston Americans; and in 1994, when the series was canceled due to the players' strike. The best-of-seven style has been the format of all World Series except in 1903, 1919, 1920, 1921, when the winner was determined through a best-of-nine playoff. Although the large majority of contests have been played entirely during the month of October, a small number of Series have also had games played during September and November. The Series-winning team is awarded the Commissioner's Trophy. Players, coaches and others associated with the team are generally given World Series rings to commemorate their victory; however, they have received other items such as pocket watches and medallions in the past. The winning team is traditionally invited to the White House to meet the President of the United States.   
 
-阿诺德·丹尼尔·帕尔默是一位美国职业高尔夫球手，被广泛认为是这项运动历史上最伟大、最有魅力的球员之一。自1955年开始职业生涯以来，他在PGA巡回赛和现在被称为PGA巡回赛冠军的赛道上赢得了多个项目的冠军。帕尔默绰号“国王”，是高尔夫界最受欢迎的明星之一，被视为开拓者，也是20世纪50年代开始的这项运动电视时代的第一位超级巨星。   
+世界系列赛是美国职业棒球大联盟(MLB)的年度冠军系列赛，结束了MLB的季后赛。世界系列赛于1903年首次举行，是七局四胜制的季后赛，是棒球国家联盟(NL)和美国联盟(AL)冠军之间的比赛。自1903年以来，现代世界系列赛每年都会举行，但有两个例外：1904年，国联冠军纽约巨人队拒绝与美联冠军波士顿美国队交手；1994年，由于球员罢工，系列赛被取消。除了1903,1919,1920,1921年的世界系列赛，七局四胜制一直是所有世界系列赛的形式，当时通过九局四胜的季后赛决定获胜者。虽然大多数比赛都是在10月份进行的，但也有一小部分系列赛在9月和11月进行了比赛。获得系列赛冠军的球队被授予专员奖杯。球员、教练和其他与球队有关联的人通常会得到世界大赛戒指，以纪念他们的胜利；然而，他们过去也会收到其他物品，如怀表和奖章。获胜的球队传统上会被邀请到白宫会见美国总统。   
 
-阅读延伸[81694]: [https://en.wikipedia.org/wiki/Arnold_Palmer](https://en.wikipedia.org/wiki/Arnold_Palmer)   
+阅读延伸[7599168]: [https://en.wikipedia.org/wiki/List_of_World_Series_champions](https://en.wikipedia.org/wiki/List_of_World_Series_champions)   
 
-## 可怕的_3   
-Terrifier 3 is a 2024 American Christmas supernatural slasher film written and directed by Damien Leone, and starring David Howard Thornton, Lauren LaVera, Elliott Fullam, and Samantha Scaffidi. Taking place on Christmas, the story follows Sienna Shaw as she attempts to rebuild her life while Art the Clown is in pursuit of her alongside his new accomplice, Victoria Heyes. It is the sequel to Terrifier 2 (2022), and is the third installment in the Terrifier franchise.   
+## 单向   
+One Direction, often shortened to 1D, are an English-Irish pop boy band formed in London in 2010. The group was composed of Niall Horan, Harry Styles, Louis Tomlinson, Zayn Malik, and Liam Payne. They became one of the best-selling boy groups of all time before going on an indefinite hiatus in 2016.   
 
-《恐怖分子3》是一部2024年美国圣诞超自然恐怖电影，由达米恩·莱昂编剧和导演，大卫·霍华德·桑顿、劳伦·拉维拉、埃利奥特·富勒姆和萨曼莎·斯卡菲迪主演。故事发生在圣诞节，讲述了西耶娜·肖试图重建自己的生活，而小丑阿特则与他的新同伙维多利亚·海斯一起追捕她。这是《恐怖分子2》（2022年）的续集，也是《恐怖分子》系列的第三部。   
+One Direction（通常缩写为1D）是一支英格兰爱尔兰流行男孩乐队，于2010年在伦敦成立。该乐队由尼尔·霍兰、哈里·斯泰尔斯、路易斯·汤姆林森、扎恩·马利克和利亚姆·佩恩组成。他们成为有史以来最畅销的男孩组合之一，直到2016年无限期中断。   
 
-阅读延伸[72500053]: [https://en.wikipedia.org/wiki/Terrifier_3](https://en.wikipedia.org/wiki/Terrifier_3)   
+阅读延伸[31772741]: [https://en.wikipedia.org/wiki/One_Direction](https://en.wikipedia.org/wiki/One_Direction)   
 
-## _实质   
-The Substance is a 2024 satirical body horror film co-produced, written and directed by Coralie Fargeat. The film stars Demi Moore, Margaret Qualley and Dennis Quaid. An international co-production between the United Kingdom and France, its plot follows a fading celebrity (Moore) who decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself (Qualley), unknowingly giving her horrifying side effects.   
+## 埃隆_马斯克   
+Elon Reeve Musk is a businessman and investor known for his key roles in the space company SpaceX and the automotive company Tesla, Inc. Other involvements include ownership of X Corp., the company that operates the social media platform X, and his role in the founding of the Boring Company, xAI, Neuralink, and OpenAI. He is one of the wealthiest individuals in the world; as of August 2024 Forbes estimates his net worth to be US$247 billion.   
 
-《物质》是一部2024年的讽刺身体恐怖电影，由Coralie Fargeat联合制作、编剧和导演。这部电影由黛米·摩尔、玛格丽特·夸利和丹尼斯·奎德主演。这是英国和法国之间的国际联合制作，其情节讲述了一位日渐衰落的名人（摩尔饰）决定使用一种黑市药物，这是一种细胞复制物质，可以暂时创造出一个更年轻、更好的自己（夸利饰），在不知不觉中给了她可怕的副作用。   
+埃隆·里夫·马斯克（Elon Reeve Musk）是一位商人和投资者，因在航天公司SpaceX和汽车公司特斯拉公司（Tesla，Inc.）中发挥关键作用而闻名。其他参与包括X Corp.的所有权，运营社交媒体平台X的公司，以及他在Boring Company、xAI、Neuralink和OpenAI的创立中所扮演的角色。他是世界上最富有的人之一;截至2024年8月，福布斯估计他的净资产为2470亿美元。   
 
-阅读延伸[70519613]: [https://en.wikipedia.org/wiki/The_Substance](https://en.wikipedia.org/wiki/The_Substance)   
+阅读延伸[909036]: [https://en.wikipedia.org/wiki/Elon_Musk](https://en.wikipedia.org/wiki/Elon_Musk)   
+
+## 大谷翔平   
+Shohei Ohtani  is a Japanese professional baseball pitcher and designated hitter for the Los Angeles Dodgers of Major League Baseball (MLB). Nicknamed "Shotime", he has previously played in MLB for the Los Angeles Angels and the Hokkaido Nippon-Ham Fighters of Nippon Professional Baseball (NPB). Because of his elite contributions as a hitter and as a pitcher, a rarity as a two-way player, Ohtani's 2021–2024 seasons are considered among the greatest in baseball history, with some comparing them favorably to the early career of Babe Ruth.   
+
+大谷翔平是日本职业棒球投手，也是美国职业棒球大联盟（MLB）洛杉矶道奇队的指定击球手。他绰号“Shottime”，此前曾在美国职业棒球大联盟效力于洛杉矶天使队和日本职业棒球（NPB）的北海道日火腿斗士队。由于大谷作为击球手和投手的精英贡献，作为双向球员是罕见的，因此他的2021-2024赛季被认为是棒球历史上最伟大的赛季之一，一些人将其与贝比·露丝的早期职业生涯进行了比较。   
+
+阅读延伸[37426141]: [https://en.wikipedia.org/wiki/Shohei_Ohtani](https://en.wikipedia.org/wiki/Shohei_Ohtani)   
 
