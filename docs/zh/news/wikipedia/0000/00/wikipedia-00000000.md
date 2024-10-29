@@ -1,10 +1,24 @@
 # 最新资讯  
-## Wiki   
-A wiki is a form of hypertext publication on the internet which is collaboratively edited and managed by its audience directly through a web browser. A typical wiki contains multiple pages that can either be edited by the public or limited to use within an organization for maintaining its internal knowledge base.   
+## 2024_Ballon_d ' Or   
+The 2024 Ballon d'Or was the 68th annual ceremony of the Ballon d'Or. It was presented by France Football that recognised the best footballers in the world in the 2023–24 season. It is the third time in the history of the award, it has been given based on the results of the season instead of the calendar year. This is the period from 1 August 2023 to 31 July 2024. The nominees were announced on 4 September 2024 and the ceremony took take place on 28 October 2024. Two new accolades are set to be awarded: Men's Coach of the Year and Women's Coach of the Year, recognising the contribution of coaches to success on the pitch. UEFA co-organized the Ballon d'Or gala for the first time, while France Football retained the voting system and the Ballon d'Or name.   
 
-维基是互联网上的一种超文本发布形式，由受众直接通过网络浏览器协作编辑和管理。典型的维基包含多个页面，可以由公众编辑，也可以仅限于在组织内使用以维护其内部知识库。   
+2024年金球奖是金球奖第68届年度颁奖典礼。该奖项由法国足球协会主办，表彰了2023-24赛季世界上最好的足球运动员。这是该奖项历史上第三次根据赛季而不是日历年的结果颁发。这是2023年8月1日至2024年7月31日期间。提名人于2024年9月4日公布，颁奖典礼于2024年10月28日举行。两项新的荣誉将被授予：年度最佳男子教练和年度最佳女子教练，以表彰教练对球场上成功的贡献。欧足联首次联合举办金球奖晚会，而法国足球保留了投票系统和金球奖名称。   
 
-阅读延伸[32851]: [https://en.wikipedia.org/wiki/Wiki](https://en.wikipedia.org/wiki/Wiki)   
+阅读延伸[76223357]: [https://en.wikipedia.org/wiki/2024_Ballon_d'Or](https://en.wikipedia.org/wiki/2024_Ballon_d'Or)   
+
+## 托尼_欣奇克利夫   
+Tony Hinchcliffe is an American comedian who hosts the live comedy podcast Kill Tony, which is a showcase of professional and amateur comedians who take turns doing one-minute sets. Hinchcliffe is known primarily for his roast comedy, having been on the writing staff of the Comedy Central Roast series, and he appeared at the All Def Digital Roast of Snoop Dogg in 2016 and The Roast of Tom Brady in 2024. His one-hour stand-up special One Shot premiered on Netflix in 2016. Hinchcliffe is signed with United Talent Agency.   
+
+托尼·欣奇克利夫（Tony Hinchcliffe）是一位美国喜剧演员，主持现场喜剧播客《杀死托尼》（Kill Tony），该节目展示了专业和业余喜剧演员轮流表演一分钟节目。欣奇克利夫主要以其烘焙喜剧而闻名，曾担任喜剧中心烤肉系列的编剧，并于2016年出现在Snoop Dogg的All Def Digital Roast和2024年的The Roast of Tom Brady。他的一小时单口喜剧特别节目《One Shot》于2016年在Netflix首播。欣奇克利夫与United Talent Agency签约。   
+
+阅读延伸[50006062]: [https://en.wikipedia.org/wiki/Tony_Hinchcliffe](https://en.wikipedia.org/wiki/Tony_Hinchcliffe)   
+
+## 色科皮亚   
+Chromakopia is the seventh studio album by American rapper and producer Tyler, the Creator, released on October 28, 2024, through Columbia Records. A follow-up to his sixth album Call Me If You Get Lost (2021), Chromakopia was written, produced, and arranged by Tyler, the Creator himself. Childish Gambino, Daniel Caesar, Doechii, GloRilla, Lil Wayne, Schoolboy Q, Sexyy Red, and Teezo Touchdown make uncredited guest appearances. The album received widespread acclaim from critics, who praised Tyler's lyricism, cohesiveness, and production, and noted its messy and confusing nature as a positive.   
+
+Chromakopia是美国说唱歌手兼制作人Tyler，the Creator的第七张录音室专辑，于2024年10月28日由哥伦比亚唱片公司发行。Chromakopia是他的第六张专辑《Call Me If You Get Lost》（2021）的后续专辑，由创作者泰勒本人创作、制作和编曲。Childish Gambino、Daniel Caesar、Doechii、GloRilla、Lil Wayne、Schoolboy Q、Sexyy Red和Teezo Touchdown均客串客串。这张专辑受到了评论家的广泛好评，他们赞扬了泰勒的抒情性、凝聚力和制作，并指出其混乱和令人困惑的本质是积极的。   
+
+阅读延伸[78133394]: [https://en.wikipedia.org/wiki/Chromakopia](https://en.wikipedia.org/wiki/Chromakopia)   
 
 ## 罗德尼_阿尔卡拉   
 Rodney James Alcala was an American serial killer and sex offender who was sentenced to death in California for five murders committed between 1977 and 1979. He also pleaded guilty and received a sentence of 25 years to life for two further murders committed in New York and was also indicted for a murder in Wyoming, although charges were dropped due to a technicality. While he has been conclusively linked to eight murders, Alcala's true number of victims remains unknown and could be as high as 130.   
@@ -13,6 +27,27 @@ Rodney James Alcala was an American serial killer and sex offender who was sente
 
 阅读延伸[26528657]: [https://en.wikipedia.org/wiki/Rodney_Alcala](https://en.wikipedia.org/wiki/Rodney_Alcala)   
 
+## Ballon_d ' Or   
+The Ballon d'Or is an annual football award presented by French magazine France Football since 1956 to honour the player deemed to have performed the best over the previous season.   
+
+金球奖是法国杂志《法国足球》自1956年以来颁发的年度足球奖，旨在表彰被认为在上赛季表现最佳的球员。   
+
+阅读延伸[398110]: [https://en.wikipedia.org/wiki/Ballon_d'Or](https://en.wikipedia.org/wiki/Ballon_d'Or)   
+
+## 鲁本_阿莫林   
+Rúben Filipe Marques Amorim is a Portuguese professional football manager and former player who is the manager of Primeira Liga club Sporting CP.   
+
+鲁本·菲利佩·马克斯·阿莫林（Rúben Filipe Marques Amorim）是一位葡萄牙职业足球主教练，曾担任西甲俱乐部Sporting CP的主教练。   
+
+阅读延伸[12138301]: [https://en.wikipedia.org/wiki/R%C3%BAben_Amorim](https://en.wikipedia.org/wiki/R%C3%BAben_Amorim)   
+
+## Rodri_（足球运动员，_CLAR_1996）   
+Rodrigo Hernández Cascante, known as Rodri or Rodrigo, is a Spanish professional footballer who plays as a defensive midfielder for Premier League club Manchester City and the Spain national team. Known for his passing, playmaking and physical attributes, he is widely regarded as one of the best players in the world.   
+
+罗德里戈·埃尔南德斯·卡斯坎特，又名罗德里戈或罗德里戈，是一名西班牙职业足球运动员，在英超俱乐部曼城和西班牙国家队担任防守中场球员。他以其传球、控球和身体素质而闻名，被广泛认为是世界上最好的球员之一。   
+
+阅读延伸[48849865]: [https://en.wikipedia.org/wiki/Rodri_(footballer%2C_born_1996)](https://en.wikipedia.org/wiki/Rodri_(footballer%2C_born_1996))   
+
 ## 毒液：_The_Last_Dance   
 Venom: The Last Dance is a 2024 American superhero film featuring the Marvel Comics character Venom. A sequel to Venom: Let There Be Carnage (2021), the fifth film in Sony's Spider-Man Universe (SSU), and the third and final installment of the Venom trilogy, it was written and directed by Kelly Marcel. Tom Hardy stars as Eddie Brock and Venom alongside Chiwetel Ejiofor, Juno Temple, Rhys Ifans, Peggy Lu, Alanna Ubach, and Stephen Graham. Its plot follows Brock and Venom are on the run from both of their worlds.   
 
@@ -20,42 +55,26 @@ Venom: The Last Dance is a 2024 American superhero film featuring the Marvel Com
 
 阅读延伸[63848180]: [https://en.wikipedia.org/wiki/Venom%3A_The_Last_Dance](https://en.wikipedia.org/wiki/Venom%3A_The_Last_Dance)   
 
-## 大谷翔平   
-Shohei Ohtani  is a Japanese professional baseball pitcher and designated hitter for the Los Angeles Dodgers of Major League Baseball (MLB). Nicknamed "Shotime", he has previously played in MLB for the Los Angeles Angels and the Hokkaido Nippon-Ham Fighters of Nippon Professional Baseball (NPB). Because of his elite contributions as a hitter and as a pitcher, a rarity as a two-way player, Ohtani's 2021–2024 seasons are considered among the greatest in baseball history, with some comparing them favorably to the early career of Babe Ruth.   
+## 利亚姆·佩恩   
+Liam James Payne was an English singer who rose to fame as a member of the boy band One Direction. Payne made his debut as a singer in 2008 when he auditioned for the British television series The X Factor. After being eliminated in the competition, he auditioned again in 2010 and was put into a group with four other boys to form One Direction, which went on to become one of the best-selling boy bands of all time. Payne worked with other producers under the monikers "Big Payno" and "Payno", creating remixes for songs by his group and Cheryl.   
 
-大谷翔平是日本职业棒球投手，也是美国职业棒球大联盟（MLB）洛杉矶道奇队的指定击球手。他绰号“Shottime”，此前曾在美国职业棒球大联盟效力于洛杉矶天使队和日本职业棒球（NPB）的北海道日火腿斗士队。由于大谷作为击球手和投手的精英贡献，作为双向球员是罕见的，因此他的2021-2024赛季被认为是棒球历史上最伟大的赛季之一，一些人将其与贝比·露丝的早期职业生涯进行了比较。   
+利亚姆·詹姆斯·佩恩（Liam James Payne）是一位英国歌手，作为男孩乐队One Direction的成员而声名鹊起。佩恩于2008年首次以歌手身份亮相，当时他参加了英国电视剧《X Factor》的试镜。在比赛中被淘汰后，他于2010年再次试镜，并与其他四名男孩组成了One Direction乐队，该乐队后来成为有史以来最畅销的男孩乐队之一。佩恩与其他制作人合作，绰号“Big Payno”和“Payno”，为他的乐队和谢丽尔的歌曲创作混音版。   
 
-阅读延伸[37426141]: [https://en.wikipedia.org/wiki/Shohei_Ohtani](https://en.wikipedia.org/wiki/Shohei_Ohtani)   
+阅读延伸[40605906]: [https://en.wikipedia.org/wiki/Liam_Payne](https://en.wikipedia.org/wiki/Liam_Payne)   
 
-## 莱尔和埃里克·梅嫩德斯   
-Joseph Lyle Menéndez and Erik Galen Menéndez are American brothers who were convicted in 1996 of the murders of their parents, José and Mary Louise "Kitty" Menéndez.   
+## 2024年_联合_州_总统_选举   
+The 2024 United States presidential election will be the 60th quadrennial presidential election, set to be held on Tuesday, November 5, 2024. Voters in each state and the District of Columbia will choose electors to the Electoral College, who will then elect a president and vice president for a term of four years.   
 
-约瑟夫·莱尔·梅嫩德斯（Joseph Lyle Menéndez）和埃里克·盖伦·梅嫩德斯（Erik Galen Menéndez）是美国兄弟，他们于1996年因谋杀父母何塞·路易丝·梅嫩德斯（José）和玛丽·路易丝·“基蒂”·梅嫩德斯（Mary Louise ' Kitty ' Menéndez）而被定罪。   
+2024年美国总统选举将是第60次四年一度的总统选举，定于2024年11月5日星期二举行。每个州和哥伦比亚特区的选民将选择选举人团选举人，然后选举人团选举总统和副总统，任期四年。   
 
-阅读延伸[663704]: [https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez](https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez)   
+阅读延伸[59568546]: [https://en.wikipedia.org/wiki/2024_United_States_presidential_election](https://en.wikipedia.org/wiki/2024_United_States_presidential_election)   
 
-## 最佳女性   
-Woman of the Hour is a 2024 American true crime thriller film directed by Anna Kendrick in her directorial debut and written by Ian MacAllister McDonald. It is based on the life of serial killer Rodney Alcala, who in 1978 appeared on the television show The Dating Game in the midst of his murder spree. The film revolves around the events of the game show, and stars Kendrick as contestant Cheryl Bradshaw.   
+## 吕德_范_尼斯特鲁伊   
+Rutgerus Johannes Martinus van Nistelrooij, commonly known as Ruud van Nistelrooy, is a Dutch professional football coach and former player who is currently the interim manager at Manchester United. Widely regarded as one of the best strikers of his generation, Van Nistelrooy has been the top scorer in three separate UEFA Champions League seasons, and is the sixth-highest goalscorer in the competition's history with 56 goals. He has also been the top scorer in three different European domestic leagues. In 2004, he was listed in the FIFA 100 of the world's greatest living players.   
 
-《时刻女性》是一部2024年美国真实犯罪惊悚电影，由安娜·肯德里克执导，伊恩·麦卡利斯特·麦克唐纳编剧。该剧改编自连环杀手罗德尼·阿尔卡拉（Rodney Alcala）的生活，他于1978年在疯狂谋杀期间出现在电视节目《约会游戏》中。这部电影围绕游戏节目的事件展开，肯德里克饰演参赛者谢丽尔·布拉德肖。   
+鲁特拉斯·约翰内斯·马丁努斯·范尼斯特鲁伊（Rutgerus Johannes Martinus van Nistelrouaj），俗称鲁德·范尼斯特鲁伊（Ruud van Nistelrouy），是一位荷兰职业足球教练和前球员，目前担任曼联临时主教练。范尼被广泛认为是这一代人中最好的前锋之一，他在三个不同的欧洲冠军联赛赛季中一直是最佳射手，也是该赛事历史上射手榜第六高的射手，打进56个进球。他也是三个不同欧洲国内联赛的最佳射手。2004年，他入选FIFA 100世界最伟大在世球员。   
 
-阅读延伸[72668163]: [https://en.wikipedia.org/wiki/Woman_of_the_Hour](https://en.wikipedia.org/wiki/Woman_of_the_Hour)   
-
-## 弗雷迪_弗里曼   
-Frederick Charles Freeman is a Canadian and American professional baseball first baseman for the Los Angeles Dodgers of Major League Baseball (MLB). Previously, Freeman played for the Atlanta Braves for 12 seasons, making his MLB debut with the team in 2010. In his final season with Atlanta, Freeman won the 2021 World Series over the Houston Astros.   
-
-弗雷德里克·查尔斯·弗里曼是美国职业棒球大联盟（MLB）洛杉矶道奇队的加拿大和美国职业棒球一垒手。此前，弗里曼为亚特兰大勇士队效力了12个赛季，并于2010年随球队首次亮相MLB。在亚特兰大的最后一个赛季，弗里曼击败休斯顿太空人队赢得了2021年世界大赛冠军。   
-
-阅读延伸[23676613]: [https://en.wikipedia.org/wiki/Freddie_Freeman](https://en.wikipedia.org/wiki/Freddie_Freeman)   
-
-## 不要_移动_（2024_电影）   
-Don't Move is a 2024 American thriller film starring Kelsey Asbille, Finn Wittrock, Moray Treadwell,
-and Daniel Francis. It was directed by Adam Schindler and Brian Netto, and written by TJ Cimfel and David White. Netflix released the film on October 25, 2024.   
-
-《一动不动》是一部2024年的美国惊悚片，由凯尔西·阿斯比尔、芬恩·维特洛克、马里·特德韦尔、
-和丹尼尔·弗朗西斯。该片由亚当·辛德勒和布莱恩·内托执导，TJ Cimfel和大卫·怀特编剧。Netflix于2024年10月25日上映了这部电影。   
-
-阅读延伸[73825725]: [https://en.wikipedia.org/wiki/Don't_Move_(2024_film)](https://en.wikipedia.org/wiki/Don't_Move_(2024_film))   
+阅读延伸[371475]: [https://en.wikipedia.org/wiki/Ruud_van_Nistelrooy](https://en.wikipedia.org/wiki/Ruud_van_Nistelrooy)   
 
 ## 死亡_in_2024   
 
@@ -75,33 +94,19 @@ Elon Reeve Musk is a businessman and investor known for his key roles in the spa
 
 阅读延伸[909036]: [https://en.wikipedia.org/wiki/Elon_Musk](https://en.wikipedia.org/wiki/Elon_Musk)   
 
-## 伊利亚_托普里亚   
-Ilia Topuria is a Georgian and Spanish professional mixed martial artist. He currently competes in the Featherweight division of the Ultimate Fighting Championship (UFC), where he is the current UFC Featherweight Champion and both the first Georgian and Spanish fighter to win a UFC championship. As of July 30, 2024, he is #4 in the UFC men's pound-for-pound rankings.   
+## 1939_Nazi_rally_at_Madison_Square_Garden   
+On February 20, 1939, a Nazi rally took place at Madison Square Garden, organized by the German American Bund. More than 20,000 people attended, and Fritz Julius Kuhn was a featured speaker. The Bund billed the event, which took place two days before George Washington's Birthday, as a pro-"Americanism" rally; the stage at the event featured a huge portrait of George Washington with swastikas on each side. Approximately 100,000 anti-Nazi counter-protesters gathered outside, attempting to break through lines of police officers guarding the rally on three occasions. The Bund rapidly declined in the aftermath of the rally, with Kuhn being imprisoned for embezzlement by the end of the year.   
 
-Ilia Topuria是一位格鲁吉亚和西班牙的职业综合武术家。他目前参加终极格斗锦标赛（UFC）羽量级比赛，是现任UFC羽量级冠军，也是第一位赢得UFC冠军的格鲁吉亚和西班牙拳手。截至2024年7月30日，他在UFC男子磅比磅排名中排名第四。   
+1939年2月20日，由德裔美国人外滩组织的纳粹集会在麦迪逊广场花园举行。超过20，000人出席，弗里茨·朱利叶斯·库恩（Fritz Julius Kuhn）是特邀演讲者。外滩将这场发生在乔治·华盛顿生日前两天的活动宣传为一场支持“美国主义”的集会;活动的舞台上有一幅乔治·华盛顿的巨幅肖像，两侧各有纳粹标志。大约10万名反纳粹反抗议者聚集在外面，三次试图突破守卫集会的警察队伍。集会结束后，外滩迅速下跌，库恩因贪污罪于年底入狱。   
 
-阅读延伸[66838633]: [https://en.wikipedia.org/wiki/Ilia_Topuria](https://en.wikipedia.org/wiki/Ilia_Topuria)   
+阅读延伸[60024818]: [https://en.wikipedia.org/wiki/1939_Nazi_rally_at_Madison_Square_Garden](https://en.wikipedia.org/wiki/1939_Nazi_rally_at_Madison_Square_Garden)   
 
-## 2024年_联合_州_总统_选举   
-The 2024 United States presidential election will be the 60th quadrennial presidential election, set to be held on Tuesday, November 5, 2024. Voters in each state and the District of Columbia will choose electors to the Electoral College, who will then elect a president and vice president for a term of four years.   
+## 莱尔和埃里克·梅嫩德斯   
+Joseph Lyle Menéndez and Erik Galen Menéndez are American brothers who were convicted in 1996 of the murders of their parents, José and Mary Louise "Kitty" Menéndez.   
 
-2024年美国总统选举将是第60次四年一度的总统选举，定于2024年11月5日星期二举行。每个州和哥伦比亚特区的选民将选择选举人团选举人，然后选举人团选举总统和副总统，任期四年。   
+约瑟夫·莱尔·梅嫩德斯（Joseph Lyle Menéndez）和埃里克·盖伦·梅嫩德斯（Erik Galen Menéndez）是美国兄弟，他们于1996年因谋杀父母何塞·路易丝·梅嫩德斯（José）和玛丽·路易丝·“基蒂”·梅嫩德斯（Mary Louise ' Kitty ' Menéndez）而被定罪。   
 
-阅读延伸[59568546]: [https://en.wikipedia.org/wiki/2024_United_States_presidential_election](https://en.wikipedia.org/wiki/2024_United_States_presidential_election)   
-
-## 2024年_日本人_将军_选举   
-The 50th general election of the House of Representatives was held in Japan on 27 October 2024 due to the early dissolution of the House of Representatives by Prime Minister Shigeru Ishiba. Voting took place in all constituencies including proportional blocks, to elect Members of Diet to seats in the House of Representatives, the lower house of the National Diet of Japan.   
-
-由于首相石破茂提前解散众议院，日本第50届众议院大选于2024年10月27日举行。投票在包括比例选区在内的所有选区进行，以选举国会议员获得日本国会下议院众议院的席位。   
-
-阅读延伸[69217223]: [https://en.wikipedia.org/wiki/2024_Japanese_general_election](https://en.wikipedia.org/wiki/2024_Japanese_general_election)   
-
-## 陷阱_（2024年_电影）   
-Trap is a 2024 American psychological thriller film written, directed, and produced by M. Night Shyamalan. Starring Josh Hartnett, Ariel Donoghue, Saleka Night Shyamalan, Hayley Mills, and Alison Pill, it follows a serial killer evading a police blockade while attending a concert with his daughter. The film premiered in New York City on July 24, 2024, and was theatrically released in the United States by Warner Bros. Pictures on August 2, 2024. It received mixed reviews from critics and has grossed $72.3 million worldwide.   
-
-《陷阱》是一部2024年美国心理惊悚电影，由M.编剧、导演和制作。夜沙马兰。该剧由乔什·哈内特、阿里尔·多诺霍、萨雷卡·奈特·沙马兰、海莉·米尔斯和艾莉森·皮尔主演，讲述了一名连环杀手在与女儿一起参加音乐会时躲避警方封锁的故事。该片于2024年7月24日在纽约首映，并于2024年8月2日由华纳兄弟影业在美国影院上映。它受到了评论家的褒贬不一的评价，全球总收入达7230万美元。   
-
-阅读延伸[71946032]: [https://en.wikipedia.org/wiki/Trap_(2024_film)](https://en.wikipedia.org/wiki/Trap_(2024_film))   
+阅读延伸[663704]: [https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez](https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez)   
 
 ## 卡马拉_哈里斯   
 Kamala Devi Harris is an American politician and attorney who is the 49th and current vice president of the United States since 2021 under President Joe Biden. She is the first female vice president, making her the highest-ranking female official in U.S. history, as well as the first African American and first Asian American vice president. A member of the Democratic Party, she served as a U.S. senator from California from 2017 to 2021, and earlier as the attorney general of California. Harris is the Democratic Party's nominee in the 2024 U.S. presidential election.   
@@ -110,26 +115,28 @@ Kamala Devi Harris is an American politician and attorney who is the 49th and cu
 
 阅读延伸[3120522]: [https://en.wikipedia.org/wiki/Kamala_Harris](https://en.wikipedia.org/wiki/Kamala_Harris)   
 
-## 2025_AFC_U-17_Asian_Cup_资格赛   
-The 2025 AFC U-17 Asian Cup qualification was an international men's under-17 football competition which was held to decide the participating teams of the 2025 AFC U-17 Asian Cup.   
+## 最佳女性   
+Woman of the Hour is a 2024 American true crime thriller film directed by Anna Kendrick in her directorial debut and written by Ian MacAllister McDonald. It is based on the life of serial killer Rodney Alcala, who in 1978 appeared on the television show The Dating Game in the midst of his murder spree. The film revolves around the events of the game show, and stars Kendrick as contestant Cheryl Bradshaw.   
 
-2025年AFC U-17亚洲杯预选赛是一项国际男子17岁以下足球比赛，旨在决定2025年AFC U-17亚洲杯参赛球队。   
+《时刻女性》是一部2024年美国真实犯罪惊悚电影，由安娜·肯德里克执导，伊恩·麦卡利斯特·麦克唐纳编剧。该剧改编自连环杀手罗德尼·阿尔卡拉（Rodney Alcala）的生活，他于1978年在疯狂谋杀期间出现在电视节目《约会游戏》中。这部电影围绕游戏节目的事件展开，肯德里克饰演参赛者谢丽尔·布拉德肖。   
 
-阅读延伸[77107274]: [https://en.wikipedia.org/wiki/2025_AFC_U-17_Asian_Cup_qualification](https://en.wikipedia.org/wiki/2025_AFC_U-17_Asian_Cup_qualification)   
+阅读延伸[72668163]: [https://en.wikipedia.org/wiki/Woman_of_the_Hour](https://en.wikipedia.org/wiki/Woman_of_the_Hour)   
 
-## 法西斯主义   
-Fascism is a far-right, authoritarian, and ultranationalist political ideology and movement, characterized by a dictatorial leader, centralized autocracy, militarism, forcible suppression of opposition, belief in a natural social hierarchy, subordination of individual interests for the perceived good of the nation or race, and strong regimentation of society and the economy. Opposed to anarchism, democracy, pluralism, egalitarianism, liberalism, socialism, and Marxism, fascism is placed on the far right-wing within the traditional left–right spectrum.   
+## 不要_移动_（2024_电影）   
+Don't Move is a 2024 American thriller film starring Kelsey Asbille, Finn Wittrock, Moray Treadwell,
+and Daniel Francis. It was directed by Adam Schindler and Brian Netto, and written by TJ Cimfel and David White. Netflix released the film on October 25, 2024.   
 
-法西斯主义是一种极右、独裁和极端民族主义的政治意识形态和运动，其特征是独裁领导人、中央集权专制、军国主义、强行镇压反对派、相信自然的社会等级制度、为了国家或种族的利益而服从个人利益，以及对社会和经济的严格管制。法西斯主义与无政府主义、民主、多元化、平等主义、自由主义、社会主义和马克思主义相对立，被置于传统左翼光谱中的极右翼。   
+《一动不动》是一部2024年的美国惊悚片，由凯尔西·阿斯比尔、芬恩·维特洛克、马里·特德韦尔、
+和丹尼尔·弗朗西斯。该片由亚当·辛德勒和布莱恩·内托执导，TJ Cimfel和大卫·怀特编剧。Netflix于2024年10月25日上映了这部电影。   
 
-阅读延伸[11054]: [https://en.wikipedia.org/wiki/Fascism](https://en.wikipedia.org/wiki/Fascism)   
+阅读延伸[73825725]: [https://en.wikipedia.org/wiki/Don't_Move_(2024_film)](https://en.wikipedia.org/wiki/Don't_Move_(2024_film))   
 
-## 十二宫杀手   
-The Zodiac Killer is the pseudonym of an unidentified serial killer who operated in Northern California in the late 1960s. The Zodiac murdered five known victims in the San Francisco Bay Area between December 1968 and October 1969, operating in rural, urban, and suburban settings. He targeted three young couples and a lone male cab driver. The case has been described as "arguably the most famous unsolved murder case in American history," and has become both a fixture of popular culture and a focus for efforts by amateur detectives.   
+## 埃里克_十_哈格   
+Erik ten Hag is a Dutch professional football manager and former player who most recently managed Premier League club Manchester United.   
 
-十二宫杀手是一名身份不明的连环杀手的化名，他于20世纪60年代末在北加州活动。1968年12月至1969年10月期间，十二宫杀手在旧金山湾区谋杀了五名已知受害者，活动地点在农村、城市和郊区。他的目标是三对年轻夫妇和一名孤独的男性出租车司机。该案被描述为“可以说是美国历史上最著名的未侦破谋杀案”，并已成为流行文化的固定内容，也是业余侦探工作的焦点。   
+埃里克·滕·哈格（Erik ten Hag）是一位荷兰职业足球经理，也是前球员，最近执教英超俱乐部曼联。   
 
-阅读延伸[255195]: [https://en.wikipedia.org/wiki/Zodiac_Killer](https://en.wikipedia.org/wiki/Zodiac_Killer)   
+阅读延伸[39145799]: [https://en.wikipedia.org/wiki/Erik_ten_Hag](https://en.wikipedia.org/wiki/Erik_ten_Hag)   
 
 ## 唐纳德_特朗普   
 Donald John Trump is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021.   
@@ -137,11 +144,4 @@ Donald John Trump is an American politician, media personality, and businessman 
 唐纳德·约翰·特朗普是一位美国政治家、媒体人物和商人，曾于2017年至2021年担任美国第45任总统。   
 
 阅读延伸[4848272]: [https://en.wikipedia.org/wiki/Donald_Trump](https://en.wikipedia.org/wiki/Donald_Trump)   
-
-## 卡姆扎特_奇马耶夫   
-Khamzat Khizarovich Chimaev is a Russian professional mixed martial artist and freestyle wrestler who competes in the Middleweight division of the Ultimate Fighting Championship (UFC). In freestyle wrestling, Chimaev is a three-time Swedish national champion. As of 22 October 2024, he is #13 in the UFC middleweight rankings.   
-
-Khamzat Khizarovich Chimaev是一位俄罗斯职业综合武术家和自由式摔跤手，参加终极格斗锦标赛（UFC）中量级比赛。在自由式摔跤方面，奇马耶夫是三届瑞典全国冠军。截至2024年10月22日，他在UFC中量级排名中排名第13。   
-
-阅读延伸[64648112]: [https://en.wikipedia.org/wiki/Khamzat_Chimaev](https://en.wikipedia.org/wiki/Khamzat_Chimaev)   
 
