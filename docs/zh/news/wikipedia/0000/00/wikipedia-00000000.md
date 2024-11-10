@@ -1,17 +1,17 @@
 # 最新资讯  
-## 苏西_怀尔斯   
-Susan Summerall Wiles is an American political consultant who served as co-chair of Donald Trump's 2024 presidential campaign. On November 7, 2024, Wiles was chosen by President-elect Trump to serve as the 32nd White House chief of staff in the second Trump administration. She will be the first woman to hold the position.   
-
-苏珊·萨默拉尔·怀尔斯（Susan Summerall Wiles）是一位美国政治顾问，曾担任唐纳德·特朗普2024年总统竞选联合主席。2024年11月7日，怀尔斯被当选总统特朗普选为特朗普第二届政府第32任白宫幕僚长。她将成为第一位担任该职位的女性。   
-
-阅读延伸[71526527]: [https://en.wikipedia.org/wiki/Susie_Wiles](https://en.wikipedia.org/wiki/Susie_Wiles)   
-
 ## 2024年_联合_州_总统_选举   
 The 2024 United States presidential election will be the 60th quadrennial presidential election, set to be held on Tuesday, November 5, 2024. Voters in each state and the District of Columbia will choose electors to the Electoral College, who will then elect a president and vice president for a term of four years.   
 
 2024年美国总统选举将是第60次四年一度的总统选举，定于2024年11月5日星期二举行。每个州和哥伦比亚特区的选民将选择选举人团选举人，然后选举人团选举总统和副总统，任期四年。   
 
 阅读延伸[59568546]: [https://en.wikipedia.org/wiki/2024_United_States_presidential_election](https://en.wikipedia.org/wiki/2024_United_States_presidential_election)   
+
+## 托尼_托德   
+Anthony Tiran "Tony" Todd was an American actor. He was best known for playing the title character in the Candyman film series (1992–2021) and William Bludworth in the Final Destination franchise (2000–2025). For the former, he was nominated at the Critics' Choice and Fangoria Chainsaw Awards.   
+
+安东尼·蒂兰·“托尼”·托德是一位美国演员。他因在《糖果人》系列电影（1992-2021年）中扮演主角和在《最终目的地》系列电影（2000-2025年）中扮演威廉·布拉德沃斯而闻名。凭借前者，他获得了评论家选择奖和方格利亚电锯奖的提名。   
+
+阅读延伸[1094334]: [https://en.wikipedia.org/wiki/Tony_Todd](https://en.wikipedia.org/wiki/Tony_Todd)   
 
 ## 2020年_联合_州_总统_选举   
 The 2020 United States presidential election was the 59th quadrennial presidential election, held on Tuesday, November 3, 2020. The Democratic ticket of former vice president Joe Biden and the junior U.S. senator from California Kamala Harris defeated the incumbent Republican president, Donald Trump, and vice president, Mike Pence. The election took place against the backdrop of the global COVID-19 pandemic and related recession. The election saw the highest voter turnout by percentage since 1900, with each of the two main tickets receiving more than 74 million votes, surpassing Barack Obama's record of 69.5 million votes from 2008. Biden received more than 81 million votes, the most votes ever cast for a candidate in a U.S. presidential election.   
@@ -36,19 +36,26 @@ Donald John Trump is an American politician, media personality, and businessman 
 
 阅读延伸[62576166]: [https://en.wikipedia.org/wiki/4B_movement](https://en.wikipedia.org/wiki/4B_movement)   
 
+## 苏西_怀尔斯   
+Susan Summerall Wiles is an American political consultant who served as co-chair of Donald Trump's 2024 presidential campaign. On November 7, 2024, Wiles was chosen by President-elect Trump to serve as the 32nd White House chief of staff in the second Trump administration. She will be the first woman to hold the position.   
+
+苏珊·萨默拉尔·怀尔斯（Susan Summerall Wiles）是一位美国政治顾问，曾担任唐纳德·特朗普2024年总统竞选联合主席。2024年11月7日，怀尔斯被当选总统特朗普选为特朗普第二届政府第32任白宫幕僚长。她将成为第一位担任该职位的女性。   
+
+阅读延伸[71526527]: [https://en.wikipedia.org/wiki/Susie_Wiles](https://en.wikipedia.org/wiki/Susie_Wiles)   
+
+## 埃隆_马斯克   
+Elon Reeve Musk is a businessman and investor known for his key roles in the space company SpaceX and the automotive company Tesla, Inc. Other involvements include ownership of X Corp., the company that operates the social media platform X, and his role in the founding of the Boring Company, xAI, Neuralink, and OpenAI. He is one of the wealthiest individuals in the world; as of August 2024 Forbes estimates his net worth to be US$247 billion.   
+
+埃隆·里夫·马斯克（Elon Reeve Musk）是一位商人和投资者，因在航天公司SpaceX和汽车公司特斯拉公司（Tesla，Inc.）中发挥关键作用而闻名。其他参与包括X Corp.的所有权，运营社交媒体平台X的公司，以及他在Boring Company、xAI、Neuralink和OpenAI的创立中所扮演的角色。他是世界上最富有的人之一;截至2024年8月，福布斯估计他的净资产为2470亿美元。   
+
+阅读延伸[909036]: [https://en.wikipedia.org/wiki/Elon_Musk](https://en.wikipedia.org/wiki/Elon_Musk)   
+
 ## 2016年_联合_州_总统_选举   
 The 2016 United States presidential election was the 58th quadrennial presidential election, held on Tuesday, November 8, 2016. The Republican ticket of businessman Donald Trump and Indiana governor Mike Pence defeated the Democratic ticket of former secretary of state and First Lady of the United States Hillary Clinton and Virginia junior senator Tim Kaine, in what was considered one of the biggest political upsets in American history. It was the fifth and most recent presidential election in which the winning candidate lost the popular vote. It was also the sixth and most recent presidential election in U.S. history in which both major party candidates were registered in the same home state; the others have been in 1860, 1904, 1920, 1940, and 1944.   
 
 2016年美国总统选举是第58次四年一度的总统选举，于2016年11月8日星期二举行。商人唐纳德·特朗普和印第安纳州州长迈克·彭斯的共和党候选人击败了美国前国务卿兼第一夫人希拉里·克林顿和弗吉尼亚州初级参议员蒂姆·凯恩的民主党候选人，这被认为是美国历史上最大的政治动荡之一。这是第五次也是最近的一次总统选举，获胜的候选人失去了普选。这也是美国历史上第六次也是最近的一次总统选举，两个主要政党候选人都在同一个家乡登记;其他选举分别发生在1860年、1904年、1920年、1940年和1944年。   
 
 阅读延伸[21377251]: [https://en.wikipedia.org/wiki/2016_United_States_presidential_election](https://en.wikipedia.org/wiki/2016_United_States_presidential_election)   
-
-## 帕特_Summerall   
-George Allen "Pat" Summerall was an American professional football player and television sportscaster who worked for CBS, Fox, and ESPN. In addition to football, he announced major golf and tennis events. Summerall announced 16 Super Bowls on network television, 26 Masters Tournaments, and 21 US Opens. He contributed to 10 Super Bowl broadcasts on CBS Radio as a pregame host or analyst.   
-
-乔治·艾伦·“帕特”·萨默拉尔是一位美国职业足球运动员和电视体育播音员，曾在哥伦比亚广播公司、福克斯和ESPN工作。除了足球之外，他还宣布了重大高尔夫和网球赛事。萨默拉尔在网络电视上宣布了16场超级碗赛、26场大师赛和21场美国公开赛。他作为赛前主持人或分析师为哥伦比亚广播公司广播电台的10场超级碗广播做出了贡献。   
-
-阅读延伸[459842]: [https://en.wikipedia.org/wiki/Pat_Summerall](https://en.wikipedia.org/wiki/Pat_Summerall)   
 
 ## J._ D._万斯   
 James David Vance is an American politician, lawyer, author, and US Marine veteran who has been serving as the junior United States senator from Ohio since 2023. A member of the Republican Party, he is the party's nominee for vice president in the 2024 election.   
@@ -64,19 +71,12 @@ The 2025 Presidential Transition Project, also known as Project 2025, is an init
 
 阅读延伸[74699486]: [https://en.wikipedia.org/wiki/Project_2025](https://en.wikipedia.org/wiki/Project_2025)   
 
-## 白宫幕僚长   
-The White House chief of staff is the head of the Executive Office of the President of the United States, a cabinet position in the federal government of the United States.   
+## Bhool_Bhulaiaa_3   
+Bhool Bhulaiyaa 3 is a 2024 Indian Hindi-language comedy horror film directed by Anees Bazmee, written by Aakash Kaushik, and produced by T-Series Films and Cine1 Studios. It serves as the third installment of the eponymous franchise after Bhool Bhulaiyaa (2007) and Bhool Bhulaiyaa 2 (2022). It stars Kartik Aaryan, Vidya Balan, Madhuri Dixit and Triptii Dimri, and is set in Kolkata, West Bengal.   
 
-白宫办公厅主任是美国总统行政办公室主任，该办公室是美国联邦政府的内阁职位。   
+Bhool Bhulaiyaa 3是一部2024年印度印地语喜剧恐怖电影，由Anees Bazmee执导，Aakash Kaushik编剧，T-Series Films和Cine 1 Studios制作。它是继《Bhool Bhulaiyaa》（2007）和《Bhool Bhulaiyaa 2》（2022）之后同名系列的第三部。该剧由Kartik Aaryan、Vidya Balan、Madhuri Diquel和Triptii Dimri主演，故事背景位于西孟加拉邦加尔各答。   
 
-阅读延伸[212934]: [https://en.wikipedia.org/wiki/White_House_Chief_of_Staff](https://en.wikipedia.org/wiki/White_House_Chief_of_Staff)   
-
-## 埃隆_马斯克   
-Elon Reeve Musk is a businessman and investor known for his key roles in the space company SpaceX and the automotive company Tesla, Inc. Other involvements include ownership of X Corp., the company that operates the social media platform X, and his role in the founding of the Boring Company, xAI, Neuralink, and OpenAI. He is one of the wealthiest individuals in the world; as of August 2024 Forbes estimates his net worth to be US$247 billion.   
-
-埃隆·里夫·马斯克（Elon Reeve Musk）是一位商人和投资者，因在航天公司SpaceX和汽车公司特斯拉公司（Tesla，Inc.）中发挥关键作用而闻名。其他参与包括X Corp.的所有权，运营社交媒体平台X的公司，以及他在Boring Company、xAI、Neuralink和OpenAI的创立中所扮演的角色。他是世界上最富有的人之一;截至2024年8月，福布斯估计他的净资产为2470亿美元。   
-
-阅读延伸[909036]: [https://en.wikipedia.org/wiki/Elon_Musk](https://en.wikipedia.org/wiki/Elon_Musk)   
+阅读延伸[77262420]: [https://en.wikipedia.org/wiki/Bhool_Bhulaiyaa_3](https://en.wikipedia.org/wiki/Bhool_Bhulaiyaa_3)   
 
 ## 卡马拉_哈里斯   
 Kamala Devi Harris is an American politician and attorney who is the 49th and current vice president of the United States since 2021 under President Joe Biden. She is the first female vice president, making her the highest-ranking female official in U.S. history, as well as the first African American and first Asian American vice president. A member of the Democratic Party, she served as a U.S. senator from California from 2017 to 2021, and earlier as the attorney general of California. Harris is the Democratic Party's nominee in the 2024 U.S. presidential election.   
@@ -84,6 +84,24 @@ Kamala Devi Harris is an American politician and attorney who is the 49th and cu
 卡马拉·德维·哈里斯（Kamala Devi Harris）是一位美国政治家和律师，自2021年乔·拜登总统领导下担任美国第49位也是现任副总统。她是第一位女副总统，使她成为美国历史上级别最高的女官员，也是第一位非裔美国人和第一位亚裔美国人副总统。作为民主党成员，她曾于2017年至2021年担任加州美国参议员，并在此之前担任加州总检察长。哈里斯是2024年美国总统选举民主党提名人。   
 
 阅读延伸[3120522]: [https://en.wikipedia.org/wiki/Kamala_Harris](https://en.wikipedia.org/wiki/Kamala_Harris)   
+
+## 死亡_in_2024   
+
+
+The following notable deaths occurred in 2024. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and reference.   
+
+
+
+以下值得注意的死亡事件发生在2024年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
+
+阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
+
+## 辛汉姆_再次   
+Singham Again is an upcoming Indian Hindi-language action film directed by Rohit Shetty, who also co-produced it under Rohit Shetty Picturez, alongside Reliance Entertainment, Jio Studios and Devgn Films. The film stars Ajay Devgn in the title role, alongside Kareena Kapoor Khan, Ranveer Singh, Akshay Kumar, Deepika Padukone, Tiger Shroff, Arjun Kapoor and Jackie Shroff. It is the fifth installment of Shetty's Cop Universe and a direct sequel to Singham Returns (2014).   
+
+《又一次星厄姆》是一部即将上映的印度印地语动作片，由罗希特·谢蒂执导，他还与罗希特·谢蒂·皮克图雷斯（Rohit Shetty Picturez）、信实娱乐（Reliance Entertainment）、Jio Studios和Devgn Films共同制作。这部电影由Ajay Devgn主演，与Kareena Kapoor Khan、Ranveer Singh、Akshay Kumar、Deepika Padukone、Tiger Shroff、Arjun Kapoor和Jackie Shroff一起主演。这是《谢蒂的警察宇宙》的第五部，也是《辛汉姆归来》（Singham Returns）（2014）的直接续集。   
+
+阅读延伸[75680669]: [https://en.wikipedia.org/wiki/Singham_Again](https://en.wikipedia.org/wiki/Singham_Again)   
 
 ## 2012年_联合_州_总统_选举   
 The 2012 United States presidential election was the 57th quadrennial presidential election, held on Tuesday, November 6, 2012. Incumbent Democratic President Barack Obama and his running mate, incumbent Vice President Joe Biden, were elected to a second term. They defeated the Republican ticket of former Governor of Massachusetts Mitt Romney and U.S. Representative Paul Ryan of Wisconsin.   
@@ -106,42 +124,24 @@ The 2008 United States presidential election was the 56th quadrennial presidenti
 
 阅读延伸[406859]: [https://en.wikipedia.org/wiki/2008_United_States_presidential_election](https://en.wikipedia.org/wiki/2008_United_States_presidential_election)   
 
-## 死亡_in_2024   
+## 异端_（电影）   
+Heretic is a 2024 American psychological horror film written and directed by Scott Beck and Bryan Woods. It stars Hugh Grant, Sophie Thatcher, and Chloe East, and follows two Mormon missionaries who attempt to convert a reclusive Englishman, only to realise he is more dangerous than he seems.   
 
+《异端》是一部2024年美国心理恐怖电影，由斯科特·贝克和布莱恩·伍兹编剧和导演。该片由休·格兰特、索菲·撒切尔和克洛伊·伊斯特主演，讲述了两名摩门教传教士试图皈依一位隐居的英国人，却意识到他比看起来更危险的故事。   
 
-The following notable deaths occurred in 2024. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and reference.   
+阅读延伸[74003786]: [https://en.wikipedia.org/wiki/Heretic_(film)](https://en.wikipedia.org/wiki/Heretic_(film))   
 
+## 阿玛兰_（2024年_电影）   
+Amaran is a 2024 Tamil-language biographical action war film directed by Rajkumar Periasamy and produced by Raaj Kamal Films International, together with Sony Pictures Films India the most. The film stars Sivakarthikeyan as a Major Mukund Varadarajan, alongside Sai Pallavi, Bhuvan Arora, Rahul Bose, Lallu, Shreekumar, Shyam Mohan, Ajaey Naga Raaman, Mir Salman, Gaurav Venkatesh, Vikas Bangar, Tanveer Alam, Rohan Surya Kanuma Reddy, Umair Ibn Lateef, Abhinav Raj, John Kaipallil, Sugamya Sankar, Navya Sujji, Geetha Kailasam, Paul T. Baby, Shyamaprasad Rajagopal, Shyrush Zutshi and Roman Shawl. It is an adaptation of the book series India's Most Fearless: True Stories of Modern Military Heroes by Shiv Aroor and Rahul Singh, which contains a segment based on Mukund.   
 
+《阿玛兰》是一部2024年泰米尔语传记动作战争电影，由Rajkumar Periasamy执导，Raaj Kamal Films International制片，索尼影业印度影业制片公司最多。这部电影由Sivakarthikeyan饰演Mukund Varadarajan少校，与Sai Pallavi、Bhuvan Arora、Rahul Bose、Lallu、Shreekumar、Shyam Mohan、Ajaey Naga Raaman、Mir Salman、Gaurav Venketesh、Vikas Bangar、Tanveer Alam、Rohan Surya Kanuma Reddy、Umair Ibn Lateef、Abhinav Raj、John Kaipallil、Sugamya Sankar、Navya Sujji、Geetha Kailasam、Paul T. Baby、Shyamaprasad Rajagopal、Shyrush Zutshi和Roman Shawl。该书改编自希夫·阿罗尔（Shiv Aroor）和拉胡尔·辛格（Rahul Singh）的系列图书《印度最无畏：现代军事英雄的真实故事》，其中包含一个以穆昆德为背景的片段。   
 
-以下值得注意的死亡事件发生在2024年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
+阅读延伸[74337500]: [https://en.wikipedia.org/wiki/Amaran_(2024_film)](https://en.wikipedia.org/wiki/Amaran_(2024_film))   
 
-阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
+## 毒液：_The_Last_Dance   
+Venom: The Last Dance is a 2024 American superhero film featuring the Marvel Comics character Venom. A sequel to Venom: Let There Be Carnage (2021), the fifth film in Sony's Spider-Man Universe (SSU), and the third and final installment of the Venom trilogy, it was written and directed by Kelly Marcel. Tom Hardy stars as Eddie Brock and Venom alongside Chiwetel Ejiofor, Juno Temple, Rhys Ifans, Peggy Lu, Alanna Ubach, and Stephen Graham. Its plot follows Brock and Venom are on the run from both of their worlds.   
 
-## Bhool_Bhulaiaa_3   
-Bhool Bhulaiyaa 3 is a 2024 Indian Hindi-language comedy horror film directed by Anees Bazmee, written by Aakash Kaushik, and produced by T-Series Films and Cine1 Studios. It serves as the third installment of the eponymous franchise after Bhool Bhulaiyaa (2007) and Bhool Bhulaiyaa 2 (2022). It stars Kartik Aaryan, Vidya Balan, Madhuri Dixit and Triptii Dimri, and is set in Kolkata, West Bengal.   
+毒液：最后的舞蹈是一部2024年的美国超级英雄电影，由漫威漫画人物毒液主演。《毒液》的续集：《Let There Be Carnage》（2021）是索尼蜘蛛侠宇宙（SSU）的第五部电影，也是《毒液三部曲》的第三部也是最后一部，由凯利·马塞尔编剧和导演。汤姆·哈迪（Tom Hardy）与Chiwetel Ejiofor、Juno Temple、Rhys Ifans、Peggy Lu、Alanna Ubach和Stephen Graham一起饰演Eddie Brock和Venom。故事情节如下：布洛克和毒液正在逃离他们的两个世界。   
 
-Bhool Bhulaiyaa 3是一部2024年印度印地语喜剧恐怖电影，由Anees Bazmee执导，Aakash Kaushik编剧，T-Series Films和Cine 1 Studios制作。它是继《Bhool Bhulaiyaa》（2007）和《Bhool Bhulaiyaa 2》（2022）之后同名系列的第三部。该剧由Kartik Aaryan、Vidya Balan、Madhuri Diquel和Triptii Dimri主演，故事背景位于西孟加拉邦加尔各答。   
-
-阅读延伸[77262420]: [https://en.wikipedia.org/wiki/Bhool_Bhulaiyaa_3](https://en.wikipedia.org/wiki/Bhool_Bhulaiyaa_3)   
-
-## 辛汉姆_再次   
-Singham Again is an upcoming Indian Hindi-language action film directed by Rohit Shetty, who also co-produced it under Rohit Shetty Picturez, alongside Reliance Entertainment, Jio Studios and Devgn Films. The film stars Ajay Devgn in the title role, alongside Kareena Kapoor Khan, Ranveer Singh, Akshay Kumar, Deepika Padukone, Tiger Shroff, Arjun Kapoor and Jackie Shroff. It is the fifth installment of Shetty's Cop Universe and a direct sequel to Singham Returns (2014).   
-
-《又一次星厄姆》是一部即将上映的印度印地语动作片，由罗希特·谢蒂执导，他还与罗希特·谢蒂·皮克图雷斯（Rohit Shetty Picturez）、信实娱乐（Reliance Entertainment）、Jio Studios和Devgn Films共同制作。这部电影由Ajay Devgn主演，与Kareena Kapoor Khan、Ranveer Singh、Akshay Kumar、Deepika Padukone、Tiger Shroff、Arjun Kapoor和Jackie Shroff一起主演。这是《谢蒂的警察宇宙》的第五部，也是《辛汉姆归来》（Singham Returns）（2014）的直接续集。   
-
-阅读延伸[75680669]: [https://en.wikipedia.org/wiki/Singham_Again](https://en.wikipedia.org/wiki/Singham_Again)   
-
-## 罗伯特_F._小肯尼迪   
-Robert Francis Kennedy Jr., also known by his initials RFK Jr., is an American politician, environmental lawyer, anti-vaccine activist, and conspiracy theorist. He is the chairman and founder of Children's Health Defense, an anti-vaccine advocacy group that is a leading proponent of COVID-19 vaccine misinformation, and an independent candidate in the 2024 United States presidential election. A member of the Kennedy family, he is a son of the U.S. attorney general and senator Robert F. Kennedy, and a nephew of the U.S. president John F. Kennedy and the senator Ted Kennedy.   
-
-小罗伯特·弗朗西斯·肯尼迪，他的名字缩写为RFK Jr.，是一位美国政治家、环境律师、反疫苗活动家和阴谋论者。他是儿童健康保护组织的主席和创始人，该组织是一个反疫苗倡导组织，是COVID-19疫苗错误信息的主要支持者，也是2024年美国总统选举的独立候选人。他是肯尼迪家族的一员，是美国司法部长兼参议员罗伯特·F·F的儿子。肯尼迪，也是美国总统约翰·F的侄子。肯尼迪和参议员特德·肯尼迪。   
-
-阅读延伸[522298]: [https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.](https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.)   
-
-## 乌莎_万斯   
-Usha Chilukuri Vance is an American lawyer.   
-
-乌莎·奇卢库里·万斯（Usha Chilukuri Vance）是一名美国律师。   
-
-阅读延伸[77361269]: [https://en.wikipedia.org/wiki/Usha_Vance](https://en.wikipedia.org/wiki/Usha_Vance)   
+阅读延伸[63848180]: [https://en.wikipedia.org/wiki/Venom%3A_The_Last_Dance](https://en.wikipedia.org/wiki/Venom%3A_The_Last_Dance)   
 
