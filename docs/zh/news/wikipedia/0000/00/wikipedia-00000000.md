@@ -1,24 +1,10 @@
 # 最新资讯  
-## 皮特_赫格塞斯   
-Peter Brian Hegseth is an American television presenter, author, and Army National Guard officer who is to be the nominee for United States Secretary of Defense in Donald Trump's second cabinet. A political commentator for Fox News since 2014 and co-host of Fox & Friends Weekend from 2017 to 2024, he was previously the executive director of Vets for Freedom and Concerned Veterans for America.   
-
-彼得·布莱恩·赫格塞斯（Peter Brian Hegseth）是一位美国电视节目主持人、作家和陆军国民警卫队军官，他将成为唐纳德·特朗普第二届内阁中美国国防部长的提名人。他自2014年起担任福克斯新闻的政治评论员，并于2017年至2024年担任福克斯与朋友周末的联合主持人，此前曾担任Vets for Freedom和Concerned Veterans for America执行董事。   
-
-阅读延伸[34076202]: [https://en.wikipedia.org/wiki/Pete_Hegseth](https://en.wikipedia.org/wiki/Pete_Hegseth)   
-
 ## 马特_盖茨   
 Matthew Louis Gaetz II is an American lawyer and politician who served as the U.S. representative for Florida's 1st congressional district from 2017 until his resignation in 2024. The district includes all of Escambia, Okaloosa, and Santa Rosa counties, and portions of Walton County. A member of the Republican Party, he is widely regarded as a staunch proponent of far-right politics as well as an ally of president-elect Donald Trump.   
 
 马修·路易斯·盖茨二世（Matthew Louis Gaetz II）是一名美国律师和政治家，从2017年起担任佛罗里达州第一国会选区的美国代表，直至2024年辞职。该地区包括埃斯坎比亚县、奥卡卢萨县和圣罗莎县的所有地区，以及沃尔顿县的部分地区。作为共和党成员，他被广泛认为是极右翼政治的坚定支持者，也是当选总统唐纳德·特朗普的盟友。   
 
 阅读延伸[38902978]: [https://en.wikipedia.org/wiki/Matt_Gaetz](https://en.wikipedia.org/wiki/Matt_Gaetz)   
-
-## 维韦克_拉马斯瓦米   
-Vivek Ganapathy Ramaswamy is an American entrepreneur. He founded Roivant Sciences, a pharmaceutical company, in 2014. In February 2023, Ramaswamy declared his candidacy for the Republican Party nomination in the 2024 United States presidential election. He suspended his campaign in January 2024, after finishing fourth in the Iowa caucuses and endorsed Trump. On November 12, 2024, President-elect Donald Trump announced that Ramaswamy and businessman Elon Musk had been tasked to lead the newly proposed Department of Government Efficiency.   
-
-维韦克·加纳帕西·拉马斯瓦米是一位美国企业家。他于2014年创立了制药公司Roivant Sciences。2023年2月，拉马斯瓦米宣布竞选2024年美国总统选举共和党提名。在爱荷华州党团会议中获得第四名并支持特朗普后，他于2024年1月暂停了竞选活动。2024年11月12日，当选总统唐纳德·特朗普宣布拉马斯瓦米和商人埃隆·马斯克被任命为领导新提议的政府效率部。   
-
-阅读延伸[52286158]: [https://en.wikipedia.org/wiki/Vivek_Ramaswamy](https://en.wikipedia.org/wiki/Vivek_Ramaswamy)   
 
 ## 图尔西_加巴德   
 Tulsi Gabbard is an American politician, United States Army Reserve officer, and conservative political commentator who was the U.S. representative for Hawaii's 2nd congressional district from 2013 to 2021. Gabbard was the first Samoan-American to become a voting member of Congress. She was a candidate for the Democratic nomination in the 2020 United States presidential election, before announcing in October 2022 that she had left the Democratic Party to become an independent.   
@@ -27,82 +13,26 @@ Tulsi Gabbard is an American politician, United States Army Reserve officer, and
 
 阅读延伸[26328774]: [https://en.wikipedia.org/wiki/Tulsi_Gabbard](https://en.wikipedia.org/wiki/Tulsi_Gabbard)   
 
-## 埃隆_马斯克   
-Elon Reeve Musk is a businessman and investor known for his key roles in the space company SpaceX and the automotive company Tesla, Inc. Other involvements include ownership of X Corp., the company that operates the social media platform X, and his role in the founding of the Boring Company, xAI, Neuralink, and OpenAI. He is one of the wealthiest individuals in the world; as of August 2024 Forbes estimates his net worth to be US$247 billion.   
+## 特洛伊战争（电影）   
+Trojan War is a 1997 American teen comedy film directed by George Huang and starring Will Friedle, Jennifer Love Hewitt, and Marley Shelton. The film was a critical and box office failure. Produced for $15 million, it made only $309 in ticket sales because it was played at two movie theaters in the United States and was pulled after only a week.   
 
-埃隆·里夫·马斯克（Elon Reeve Musk）是一位商人和投资者，因在航天公司SpaceX和汽车公司特斯拉公司（Tesla，Inc.）中发挥关键作用而闻名。其他参与包括X Corp.的所有权，运营社交媒体平台X的公司，以及他在Boring Company、xAI、Neuralink和OpenAI的创立中所扮演的角色。他是世界上最富有的人之一;截至2024年8月，福布斯估计他的净资产为2470亿美元。   
+特洛伊战争是一部1997年的美国青少年喜剧电影，由乔治·黄执导，威尔·弗里德、詹妮弗·洛夫·休伊特和马利·谢尔顿主演。这部电影在评论界和票房上都失败了。该片的制作成本为1500万美元，但票房收入仅为309美元，因为该片在美国两家电影院上映，仅一周后就被撤下。   
 
-阅读延伸[909036]: [https://en.wikipedia.org/wiki/Elon_Musk](https://en.wikipedia.org/wiki/Elon_Musk)   
+阅读延伸[2753408]: [https://en.wikipedia.org/wiki/Trojan_War_(film)](https://en.wikipedia.org/wiki/Trojan_War_(film))   
 
-## 约翰·图恩   
-John Randolph Thune is an American politician serving as the senior United States senator from South Dakota, a seat he has held since 2005. A member of the Republican Party, he will become the Senate majority leader and Senate Republican leader in January 2025. Thune is in his fourth Senate term and is the Senate minority whip, a post he has held since 2021, and is the is the dean of South Dakota's congressional delegation. He served 3 terms as the U.S. representative for South Dakota's at-large congressional district from 1997 to 2003.   
+## 皮特_赫格塞斯   
+Peter Brian Hegseth is an American television presenter, author, and Army National Guard officer who is to be the nominee for United States Secretary of Defense in Donald Trump's second cabinet. A political commentator for Fox News since 2014 and co-host of Fox & Friends Weekend from 2017 to 2024, he was previously the executive director of Vets for Freedom and Concerned Veterans for America.   
 
-约翰·伦道夫·图恩（John Randolph Thune）是一位美国政治家，担任来自南达科他州的美国高级参议员，他自2005年以来一直担任该席位。作为共和党成员，他将于2025年1月成为参议院多数党领袖和参议院共和党领袖。图恩已进入第四个参议院任期，是参议院少数党鞭，他自2021年以来一直担任这一职务，也是南达科他州国会代表团团长。1997年至2003年，他曾三届担任南达科他州无党派国会选区的美国代表。   
+彼得·布莱恩·赫格塞斯（Peter Brian Hegseth）是一位美国电视节目主持人、作家和陆军国民警卫队军官，他将成为唐纳德·特朗普第二届内阁中美国国防部长的提名人。他自2014年起担任福克斯新闻的政治评论员，并于2017年至2024年担任福克斯与朋友周末的联合主持人，此前曾担任Vets for Freedom和Concerned Veterans for America执行董事。   
 
-阅读延伸[1003249]: [https://en.wikipedia.org/wiki/John_Thune](https://en.wikipedia.org/wiki/John_Thune)   
+阅读延伸[34076202]: [https://en.wikipedia.org/wiki/Pete_Hegseth](https://en.wikipedia.org/wiki/Pete_Hegseth)   
 
-## 蒂莫西_韦斯特   
-Timothy Lancaster West, CBE was an English actor and presenter. He appeared frequently on stage and television, including stints in EastEnders as Stan Carter, and Not Going Out, as the original Geoffrey Adams. He was married to the actress Prunella Scales. From 2014 to 2019, they travelled together on UK and overseas canals in the Channel 4 series Great Canal Journeys.   
+## 坎古瓦   
+Kanguva is a 2024 Indian Tamil-language epic fantasy action film directed by Siva and produced by Studio Green, together with UV Creations. The film stars Suriya in dual roles, alongside Bobby Deol, Disha Patani, Natarajan Subramaniam, K. S. Ravikumar, Yogi Babu, Redin Kingsley, Kovai Sarala, Mansoor Ali Khan, Ravi Raghavendra and Karunas. In the film, a fierce tribal warrior's connection with a small kid from the year 1070 is mysteriously connected to a bounty hunter and a small kid from 2024.   
 
-蒂莫西·兰开斯特·韦斯特（Timothy Lancaster West），CBE是一位英国演员和主持人。他经常出现在舞台和电视上，包括在《伦敦东区》中饰演斯坦·卡特，以及在《不出去》中饰演原版杰弗里·亚当斯。他与女演员普鲁内拉·斯卡利斯（Prunella Scales）结婚。2014年至2019年，他们在第四频道系列节目《大运河漂流》中一起在英国和海外运河上航行。   
+《Kanguva》是一部2024年印度泰米尔语史诗奇幻动作电影，由Siva执导，Studio Green与紫外线Creations联合制作。这部电影由苏里亚主演，鲍比·迪尔、迪莎·帕塔尼、纳塔拉扬·苏布拉马尼亚姆、K. S.拉维库马尔、约吉·巴布、雷丁·金斯利、科瓦伊·萨拉拉拉、曼苏尔·阿里·汗、拉维·拉格文德拉和卡鲁纳斯。在影片中，一名凶猛的部落战士与一名1070年的小孩的联系神秘地与一名赏金猎人和一名2024年的小孩联系在一起。   
 
-阅读延伸[157721]: [https://en.wikipedia.org/wiki/Timothy_West](https://en.wikipedia.org/wiki/Timothy_West)   
-
-## 2024年_联合_州_总统_选举   
-The 2024 United States presidential election will be the 60th quadrennial presidential election, set to be held on Tuesday, November 5, 2024. Voters in each state and the District of Columbia will choose electors to the Electoral College, who will then elect a president and vice president for a term of four years.   
-
-2024年美国总统选举将是第60次四年一度的总统选举，定于2024年11月5日星期二举行。每个州和哥伦比亚特区的选民将选择选举人团选举人，然后选举人团选举总统和副总统，任期四年。   
-
-阅读延伸[59568546]: [https://en.wikipedia.org/wiki/2024_United_States_presidential_election](https://en.wikipedia.org/wiki/2024_United_States_presidential_election)   
-
-## 宋_Jae-rim   
-Song Jae-rim was a South Korean actor and model. He began his career as a runway model for the Seoul collections of Juun. J, Herin Homme, and Ha Sang Beg. He also appeared in the magazines Bazaar Korea, Vogue Girl Korea, Dazed Korea, Nylon Korea, GQ Korea, Arena Homme + Korea, Esquire Korea, and Marie Claire Korea.   
-
-Song Jae-rim是韩国演员和模特。他的职业生涯始于Juun首尔系列的T台模特。J、Herin Homme和Ha Sang Beg。他还出现在杂志《Bazaar Korea》、《Vogue Girl Korea》、《Dazed Korea》、《Nylon Korea》、《GQ Korea》、《Arena Homme + Korea》、《Esquire Korea》和《Marie Claire Korea》中。   
-
-阅读延伸[40483404]: [https://en.wikipedia.org/wiki/Song_Jae-rim](https://en.wikipedia.org/wiki/Song_Jae-rim)   
-
-## 唐纳德_特朗普   
-Donald John Trump is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021.   
-
-唐纳德·约翰·特朗普是一位美国政治家、媒体人物和商人，曾于2017年至2021年担任美国第45任总统。   
-
-阅读延伸[4848272]: [https://en.wikipedia.org/wiki/Donald_Trump](https://en.wikipedia.org/wiki/Donald_Trump)   
-
-## 克里斯蒂_诺姆   
-Kristi Lynn Noem is an American politician who has served since 2019 as the 33rd governor of South Dakota. A member of the Republican Party, she was the U.S. representative for South Dakota's at-large congressional district from 2011 to 2019, and a member of the South Dakota House of Representatives for the 6th district from 2007 to 2011.   
-
-克里斯蒂·林恩·诺姆（Kristi Lynn Noem）是一位美国政治家，自2019年以来一直担任南达科他州第33任州长。作为共和党成员，她于2011年至2019年担任南达科他州无党派国会选区的美国代表，并于2007年至2011年担任南达科他州第六选区众议院议员。   
-
-阅读延伸[27663933]: [https://en.wikipedia.org/wiki/Kristi_Noem](https://en.wikipedia.org/wiki/Kristi_Noem)   
-
-## 美国国防部长   
-The United States secretary of defense (SecDef) is the head of the United States Department of Defense, the executive department of the U.S. Armed Forces, and is a high-ranking member of the federal cabinet. The secretary of defense's position of command and authority over the military is second only to that of the president of the United States, who is the commander-in-chief. This position corresponds to what is generally known as a defense minister in many other countries. The secretary of defense is appointed by the president with the advice and consent of the Senate, and is by custom a member of the Cabinet and by law a member of the National Security Council.   
-
-美国国防部长（SecDef）是美国国防部（美国武装部队执行部门）的负责人，也是联邦内阁的高级成员。国防部长对军队的指挥地位和权力仅次于美国总统（总司令）。这一职位相当于许多其他国家通常所说的国防部长。国防部长由总统在参议院的建议和同意下任命，根据惯例，国防部长是内阁成员，根据法律，国防部长是国家安全委员会成员。   
-
-阅读延伸[43998]: [https://en.wikipedia.org/wiki/United_States_Secretary_of_Defense](https://en.wikipedia.org/wiki/United_States_Secretary_of_Defense)   
-
-## 约翰_拉特克利夫_（美国_政治家）   
-John Lee Ratcliffe is an American politician and attorney who served as the Director of National Intelligence from 2020 to 2021. He previously served as the U.S. representative for Texas's 4th district from 2015 to 2020. During his time in Congress, Ratcliffe was regarded as one of the most conservative members. Ratcliffe also served as Mayor of Heath, Texas, from 2004 to 2012 and acting United States Attorney for the Eastern District of Texas from May 2007 to April 2008.   
-
-约翰·李·拉特克利夫（John Lee Ratcliffe）是一位美国政治家和律师，曾于2020年至2021年担任国家情报总监。他此前曾于2015年至2020年担任德克萨斯州第四选区的美国代表。在国会任职期间，拉特克利夫被认为是最保守的议员之一。拉特克利夫还于2004年至2012年担任德克萨斯州希思市长，并于2007年5月至2008年4月担任德克萨斯州东区代理美国检察官。   
-
-阅读延伸[42699041]: [https://en.wikipedia.org/wiki/John_Ratcliffe_(American_politician)](https://en.wikipedia.org/wiki/John_Ratcliffe_(American_politician))   
-
-## 劳埃德_奥斯汀   
-Lloyd James Austin III is a retired United States Army four-star general who has served as the 28th and current United States Secretary of Defense since January 22, 2021.   
-
-劳埃德·詹姆斯·奥斯汀三世是美国陆军退役四星将军，自2021年1月22日起担任美国第28任、现任国防部长。   
-
-阅读延伸[2347492]: [https://en.wikipedia.org/wiki/Lloyd_Austin](https://en.wikipedia.org/wiki/Lloyd_Austin)   
-
-## 梅子_鳞片   
-Prunella Margaret Rumney West Scales is an English retired actor. She portrayed Sybil Fawlty, the bossy wife of Basil Fawlty, in the BBC comedy Fawlty Towers, Queen Elizabeth II in A Question of Attribution by Alan Bennett and appeared in the documentary series Great Canal Journeys (2014–2021), travelling on narrowboats with her late husband, fellow actor Timothy West.   
-
-普鲁内拉·玛格丽特·拉姆尼·韦斯特斯卡利斯是一位英国退休演员。她在BBC喜剧《福尔蒂塔》中饰演巴兹尔·福尔蒂的专横妻子西比尔·福尔蒂，艾伦·贝内特的《归因问题》中饰演伊丽莎白二世女王，并出现在纪录片系列《大运河漂流》（2014-2021年）中，与已故丈夫、演员蒂莫西·韦斯特一起乘坐窄船旅行。   
-
-阅读延伸[157655]: [https://en.wikipedia.org/wiki/Prunella_Scales](https://en.wikipedia.org/wiki/Prunella_Scales)   
+阅读延伸[73562871]: [https://en.wikipedia.org/wiki/Kanguva](https://en.wikipedia.org/wiki/Kanguva)   
 
 ## 杰克_保罗_vs._迈克_泰森   
 Jake Paul vs. Mike Tyson is an upcoming professional boxing match between YouTuber-turned-professional boxer Jake Paul and former undisputed heavyweight world champion Mike Tyson. The bout is scheduled for November 15, 2024, at the AT&T Stadium in Arlington, Texas. The event will be streamed globally on Netflix.   
@@ -111,26 +41,68 @@ Jake Paul vs. Mike Tyson is an upcoming professional boxing match between YouTub
 
 阅读延伸[76285553]: [https://en.wikipedia.org/wiki/Jake_Paul_vs._Mike_Tyson](https://en.wikipedia.org/wiki/Jake_Paul_vs._Mike_Tyson)   
 
-## 政府效率部   
-The Department of Government Efficiency (DOGE) is a planned United States advisory commission announced by Donald Trump, the current president-elect of the United States, in preparation for his second term as U.S. president. It will be led by Elon Musk and Vivek Ramaswamy. Despite its name, it is not an official government department, as they require Congressional approval.   
+## 埃隆_马斯克   
+Elon Reeve Musk is a businessman and investor known for his key roles in the space company SpaceX and the automotive company Tesla, Inc. Other involvements include ownership of X Corp., the company that operates the social media platform X, and his role in the founding of the Boring Company, xAI, Neuralink, and OpenAI. He is one of the wealthiest individuals in the world; as of August 2024 Forbes estimates his net worth to be US$247 billion.   
 
-政府效率部（DOGE）是美国现任当选总统唐纳德·特朗普宣布成立的一个计划中的美国咨询委员会，为他的第二个美国总统任期做准备。它将由埃隆·马斯克和维韦克·拉马斯瓦米领导。尽管它的名字，但它并不是一个官方政府部门，因为它们需要国会的批准。   
+埃隆·里夫·马斯克（Elon Reeve Musk）是一位商人和投资者，因在航天公司SpaceX和汽车公司特斯拉公司（Tesla，Inc.）中发挥关键作用而闻名。其他参与包括X Corp.的所有权，运营社交媒体平台X的公司，以及他在Boring Company、xAI、Neuralink和OpenAI的创立中所扮演的角色。他是世界上最富有的人之一;截至2024年8月，福布斯估计他的净资产为2470亿美元。   
 
-阅读延伸[78318398]: [https://en.wikipedia.org/wiki/Department_of_Government_Efficiency](https://en.wikipedia.org/wiki/Department_of_Government_Efficiency)   
+阅读延伸[909036]: [https://en.wikipedia.org/wiki/Elon_Musk](https://en.wikipedia.org/wiki/Elon_Musk)   
 
-## 2020年_联合_州_总统_选举   
-The 2020 United States presidential election was the 59th quadrennial presidential election, held on Tuesday, November 3, 2020. The Democratic ticket of former vice president Joe Biden and the junior U.S. senator from California Kamala Harris defeated the incumbent Republican president, Donald Trump, and vice president, Mike Pence. The election took place against the backdrop of the global COVID-19 pandemic and related recession. The election saw the highest voter turnout by percentage since 1900, with each of the two main tickets receiving more than 74 million votes, surpassing Barack Obama's record of 69.5 million votes from 2008. Biden received more than 81 million votes, the most votes ever cast for a candidate in a U.S. presidential election.   
+## 2024年_联合_州_总统_选举   
+The 2024 United States presidential election will be the 60th quadrennial presidential election, set to be held on Tuesday, November 5, 2024. Voters in each state and the District of Columbia will choose electors to the Electoral College, who will then elect a president and vice president for a term of four years.   
 
-2020年美国总统选举是第59次四年一度的总统选举，于2020年11月3日星期二举行。前副总统乔·拜登和来自加利福尼亚州的美国初级参议员卡马拉·哈里斯的民主党候选人击败了现任共和党总统唐纳德·特朗普和副总统迈克·彭斯。这次选举是在全球COVID-19大流行和相关经济衰退的背景下举行的。这次选举的选民投票率创下了1900年以来最高的一次，两张主要选票均获得超过7400万张选票，超过了巴拉克·奥巴马（Barack Obama）2008年创下的6950万张选票的纪录。拜登获得了超过8100万张选票，这是美国总统选举中候选人获得的最多选票。   
+2024年美国总统选举将是第60次四年一度的总统选举，定于2024年11月5日星期二举行。每个州和哥伦比亚特区的选民将选择选举人团选举人，然后选举人团选举总统和副总统，任期四年。   
 
-阅读延伸[48410011]: [https://en.wikipedia.org/wiki/2020_United_States_presidential_election](https://en.wikipedia.org/wiki/2020_United_States_presidential_election)   
+阅读延伸[59568546]: [https://en.wikipedia.org/wiki/2024_United_States_presidential_election](https://en.wikipedia.org/wiki/2024_United_States_presidential_election)   
 
-## 马可_卢比奥   
-Marco Antonio Rubio is an American politician and lawyer serving as the senior United States senator from Florida, a seat he has held since 2011. A member of the Republican Party, he served as Speaker of the Florida House of Representatives from 2006 to 2008. Rubio unsuccessfully sought the Republican nomination for President of the United States in 2016, but won presidential primaries in Minnesota, the District of Columbia, and Puerto Rico.   
+## 维韦克_拉马斯瓦米   
+Vivek Ganapathy Ramaswamy is an American entrepreneur. He founded Roivant Sciences, a pharmaceutical company, in 2014. In February 2023, Ramaswamy declared his candidacy for the Republican Party nomination in the 2024 United States presidential election. He suspended his campaign in January 2024, after finishing fourth in the Iowa caucuses and endorsed Trump. On November 12, 2024, President-elect Donald Trump announced that Ramaswamy and businessman Elon Musk had been tasked to lead the newly proposed Department of Government Efficiency.   
 
-马可·安东尼奥·卢比奥（Marco Antonio Rubio）是一位美国政治家和律师，担任佛罗里达州的美国高级参议员，他自2011年以来一直担任该席位。作为共和党成员，他于2006年至2008年担任佛罗里达州众议院议长。卢比奥于2016年寻求美国总统共和党提名，但未能成功，但赢得了明尼苏达州、哥伦比亚特区和波多黎各的总统初选。   
+维韦克·加纳帕西·拉马斯瓦米是一位美国企业家。他于2014年创立了制药公司Roivant Sciences。2023年2月，拉马斯瓦米宣布竞选2024年美国总统选举共和党提名。在爱荷华州党团会议中获得第四名并支持特朗普后，他于2024年1月暂停了竞选活动。2024年11月12日，当选总统唐纳德·特朗普宣布拉马斯瓦米和商人埃隆·马斯克被任命为领导新提议的政府效率部。   
 
-阅读延伸[5502549]: [https://en.wikipedia.org/wiki/Marco_Rubio](https://en.wikipedia.org/wiki/Marco_Rubio)   
+阅读延伸[52286158]: [https://en.wikipedia.org/wiki/Vivek_Ramaswamy](https://en.wikipedia.org/wiki/Vivek_Ramaswamy)   
+
+## 迈克_泰森   
+Michael Gerard Tyson is an American professional boxer who competed from 1985 to 2005, and is scheduled to compete once again in 2024. Nicknamed "Iron Mike" and "Kid Dynamite" in his early career, and later known as "the Baddest Man on the Planet", Tyson is regarded as one of the greatest heavyweight boxers of all time. He reigned as the undisputed world heavyweight champion from 1987 to 1990. Tyson won his first 19 professional fights by knockout, 12 of them in the first round. Claiming his first belt at 20 years, 4 months, and 22 days old, Tyson holds the record as the youngest boxer ever to win a heavyweight title. He was the first heavyweight boxer to simultaneously hold the WBA, WBC and IBF titles, as well as the only heavyweight to unify them in succession. The following year, Tyson became the lineal champion when he knocked out Michael Spinks in 91 seconds of the first round. In 1990, Tyson was knocked out by underdog Buster Douglas in one of the biggest upsets in boxing history.   
+
+迈克尔·杰拉德·泰森是一名美国职业拳击手，曾在1985年至2005年参赛，并计划在2024年再次参赛。泰森在职业生涯早期被戏称为“铁麦克”和“基德火药”，后来被称为“地球上最坏的人”，他被认为是有史以来最伟大的重量级拳击手之一。从1987年到1990年，他一直是无可争议的世界重量级冠军。泰森通过淘汰赛赢得了他的前19场职业比赛，其中12场是在第一轮。泰森在20岁零4个月零22天的时候获得了他的第一条腰带，保持着作为有史以来赢得重量级冠军的最年轻拳击手的记录。他是第一位同时获得WBA、WBC和IBF冠军的重量级拳击手，也是唯一一位连续将这三个冠军头衔统一起来的重量级拳击手。第二年，泰森在第一轮比赛中以91秒的成绩击倒了迈克尔·斯平克斯，成为直系冠军。1990年，泰森被失败者巴斯特·道格拉斯击倒，这是拳击史上最大的颠覆之一。   
+
+阅读延伸[39027]: [https://en.wikipedia.org/wiki/Mike_Tyson](https://en.wikipedia.org/wiki/Mike_Tyson)   
+
+## 唐纳德_特朗普   
+Donald John Trump is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021.   
+
+唐纳德·约翰·特朗普是一位美国政治家、媒体人物和商人，曾于2017年至2021年担任美国第45任总统。   
+
+阅读延伸[4848272]: [https://en.wikipedia.org/wiki/Donald_Trump](https://en.wikipedia.org/wiki/Donald_Trump)   
+
+## 罗伯特_F._小肯尼迪   
+Robert Francis Kennedy Jr., also known by his initials RFK Jr., is an American politician, environmental lawyer, anti-vaccine activist, and conspiracy theorist. He is the chairman and founder of Children's Health Defense, an anti-vaccine advocacy group that is a leading proponent of COVID-19 vaccine misinformation, and an independent candidate in the 2024 United States presidential election. A member of the Kennedy family, he is a son of the U.S. attorney general and senator Robert F. Kennedy, and a nephew of the U.S. president John F. Kennedy and the senator Ted Kennedy.   
+
+小罗伯特·弗朗西斯·肯尼迪，他的名字缩写为RFK Jr.，是一位美国政治家、环境律师、反疫苗活动家和阴谋论者。他是儿童健康保护组织的主席和创始人，该组织是一个反疫苗倡导组织，是COVID-19疫苗错误信息的主要支持者，也是2024年美国总统选举的独立候选人。他是肯尼迪家族的一员，是美国司法部长兼参议员罗伯特·F·F的儿子。肯尼迪，也是美国总统约翰·F的侄子。肯尼迪和参议员特德·肯尼迪。   
+
+阅读延伸[522298]: [https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.](https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.)   
+
+## 杰克_保罗   
+Jake Joseph Paul is an American professional boxer, actor and YouTuber. He began his career posting videos on Vine in September 2013 and had amassed 5.3 million followers and 2 billion views before the app discontinued. As an actor, he played Dirk Mann on the Disney Channel series Bizaardvark (2016–2018). Paul launched his YouTube channel in May 2014, and has ranked on the Forbes list as one of the highest paid YouTube creators in 2017, 2018, 2021, and 2023. He also ranked on the 2022 Forbes list of the world's highest paid athletes.   
+
+杰克·约瑟夫·保罗（Jake Joseph Paul）是一名美国职业拳击手、演员和YouTube用户。他于2013年9月开始在Vine上发布视频的职业生涯，在该应用程序停止使用之前，他积累了530万粉丝和20亿观看次数。作为一名演员，他在迪士尼频道的剧集《Bizaardvark》（2016-2018）中扮演德克·曼。Paul于2014年5月推出了他的YouTube频道，并于2017年、2018年、2021年和2023年登上福布斯排行榜，成为收入最高的YouTube创作者之一。他还跻身2022年福布斯全球收入最高运动员排行榜。   
+
+阅读延伸[51021695]: [https://en.wikipedia.org/wiki/Jake_Paul](https://en.wikipedia.org/wiki/Jake_Paul)   
+
+## 角斗士_II   
+Gladiator II is a 2024 epic historical action film directed and co-produced by Ridley Scott. It was produced by Scott Free Productions, Red Wagon Entertainment and Parkes+MacDonald Image Nation, and distributed by Paramount Pictures. Serving as a sequel to Gladiator (2000), the film was written by David Scarpa from a story he wrote with Peter Craig. It stars Paul Mescal, Pedro Pascal, Joseph Quinn, Fred Hechinger, Lior Raz, Derek Jacobi, Connie Nielsen, and Denzel Washington. Jacobi and Nielsen reprise their roles from the first film, with Mescal replacing Spencer Treat Clark. Mescal portrays Lucius, the son of Maximus and Lucilla, who becomes a gladiator after his home is invaded by the Roman army led by General Marcus Acacius. Lucius seeks revenge against Acacius and fights as a gladiator for Macrinus, a former slave who plans to overthrow the emperors Geta and Caracalla.   
+
+《角斗士II》是一部2024年史诗历史动作片，由雷德利·斯科特执导和联合制作。该片由Scott Free Productions、Red Wagon Entertainment和Parkes+MacDonald Image Nation制作，并由派拉蒙影业发行。这部电影是《角斗士》（2000年）的续集，由大卫·斯卡帕根据他与彼得·克雷格共同创作的故事写成。该剧由保罗·梅斯卡尔、佩德罗·帕斯卡、约瑟夫·奎因、弗雷德·赫钦格、利奥·拉兹、德里克·雅各比、康妮·尼尔森和丹泽尔·华盛顿主演。雅各比和尼尔森重新扮演了他们在第一部电影中的角色，梅斯卡尔取代了斯宾塞·特雷特·克拉克。梅斯卡尔饰演马克西穆斯和卢西拉的儿子卢修斯，在家乡被马库斯·阿喀修斯将军领导的罗马军队入侵后成为一名角斗士。卢修斯寻求对阿喀修斯的报复，并作为角斗士为马克林努斯而战，马克林努斯是一名前奴隶，计划推翻皇帝格塔和卡拉卡拉。   
+
+阅读延伸[72682130]: [https://en.wikipedia.org/wiki/Gladiator_II](https://en.wikipedia.org/wiki/Gladiator_II)   
+
+## Bluesky   
+Bluesky is a decentralized microblogging social networking service primarily operated by Bluesky Social, PBC. It was created as a proof of concept for the AT Protocol, a communication protocol for decentralized social networking. The platform is analogous to Twitter, where users can share short text posts, images, and videos, as well as like, repost, and reply to posts.   
+
+Bluesky是一家去中心化的微博社交网络服务，主要由Bluesky Social、TBC运营。它的创建是为了AT协议（一种用于去中心化社交网络的通信协议）的概念验证。该平台类似于Twitter，用户可以分享短文本帖子、图像和视频，以及点赞、转发和回复帖子。   
+
+阅读延伸[68656182]: [https://en.wikipedia.org/wiki/Bluesky](https://en.wikipedia.org/wiki/Bluesky)   
 
 ## 死亡_in_2024   
 
@@ -142,4 +114,32 @@ The following notable deaths occurred in 2024. Names are reported under the date
 以下值得注意的死亡事件发生在2024年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
 
 阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
+
+## 国家情报总监   
+The director of national intelligence (DNI) is a senior cabinet-level United States government official, required by the Intelligence Reform and Terrorism Prevention Act of 2004 to serve as executive head of the United States Intelligence Community (IC) and to direct and oversee the National Intelligence Program (NIP). All IC agencies report directly to the DNI.   
+
+国家情报总监（DNI）是美国高级内阁级政府官员，根据2004年《情报改革和恐怖主义预防法案》的要求，他担任美国情报界（IC）的行政负责人，并指导和监督国家情报计划（NIP）。所有IC机构直接向DNI报告。   
+
+阅读延伸[456082]: [https://en.wikipedia.org/wiki/Director_of_National_Intelligence](https://en.wikipedia.org/wiki/Director_of_National_Intelligence)   
+
+## 约翰·图恩   
+John Randolph Thune is an American politician serving as the senior United States senator from South Dakota, a seat he has held since 2005. A member of the Republican Party, he will become the Senate majority leader and Senate Republican leader in January 2025. Thune is in his fourth Senate term and is the Senate minority whip, a post he has held since 2021, and is the is the dean of South Dakota's congressional delegation. He served 3 terms as the U.S. representative for South Dakota's at-large congressional district from 1997 to 2003.   
+
+约翰·伦道夫·图恩（John Randolph Thune）是一位美国政治家，担任来自南达科他州的美国高级参议员，他自2005年以来一直担任该席位。作为共和党成员，他将于2025年1月成为参议院多数党领袖和参议院共和党领袖。图恩已进入第四个参议院任期，是参议院少数党鞭，他自2021年以来一直担任这一职务，也是南达科他州国会代表团团长。1997年至2003年，他曾三届担任南达科他州无党派国会选区的美国代表。   
+
+阅读延伸[1003249]: [https://en.wikipedia.org/wiki/John_Thune](https://en.wikipedia.org/wiki/John_Thune)   
+
+## 2020年_联合_州_总统_选举   
+The 2020 United States presidential election was the 59th quadrennial presidential election, held on Tuesday, November 3, 2020. The Democratic ticket of former vice president Joe Biden and the junior U.S. senator from California Kamala Harris defeated the incumbent Republican president, Donald Trump, and vice president, Mike Pence. The election took place against the backdrop of the global COVID-19 pandemic and related recession. The election saw the highest voter turnout by percentage since 1900, with each of the two main tickets receiving more than 74 million votes, surpassing Barack Obama's record of 69.5 million votes from 2008. Biden received more than 81 million votes, the most votes ever cast for a candidate in a U.S. presidential election.   
+
+2020年美国总统选举是第59次四年一度的总统选举，于2020年11月3日星期二举行。前副总统乔·拜登和来自加利福尼亚州的美国初级参议员卡马拉·哈里斯的民主党候选人击败了现任共和党总统唐纳德·特朗普和副总统迈克·彭斯。这次选举是在全球COVID-19大流行和相关经济衰退的背景下举行的。这次选举的选民投票率创下了1900年以来最高的一次，两张主要选票均获得超过7400万张选票，超过了巴拉克·奥巴马（Barack Obama）2008年创下的6950万张选票的纪录。拜登获得了超过8100万张选票，这是美国总统选举中候选人获得的最多选票。   
+
+阅读延伸[48410011]: [https://en.wikipedia.org/wiki/2020_United_States_presidential_election](https://en.wikipedia.org/wiki/2020_United_States_presidential_election)   
+
+## 悬雍垂   
+The uvula, also known as the palatine uvula or staphyle, is a conic projection from the back edge of the middle of the soft palate, composed of connective tissue containing a number of racemose glands, and some muscular fibers. It also contains many serous glands, which produce thin saliva. It is only found in humans.   
+
+悬铃木，也称为上颚悬铃木或茎叶，是软颚中部后边缘的圆锥形突出物，由含有许多总状腺体和一些肌肉纤维的结缔组织组成。它还含有许多粘液腺，可以产生稀薄的唾液。它仅存在于人类中。   
+
+阅读延伸[168738]: [https://en.wikipedia.org/wiki/Uvula](https://en.wikipedia.org/wiki/Uvula)   
 
