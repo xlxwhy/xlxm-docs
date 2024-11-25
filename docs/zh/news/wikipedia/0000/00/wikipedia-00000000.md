@@ -6,26 +6,12 @@ Wicked是一部2024年美国史诗音乐奇幻电影，由Jon M执导。《楚�
 
 阅读延伸[60455274]: [https://en.wikipedia.org/wiki/Wicked_(2024_film)](https://en.wikipedia.org/wiki/Wicked_(2024_film))   
 
-## 斯科特_贝森特   
-Scott K. H. Bessent is an American hedge fund manager. He was a partner at Soros Fund Management and the founder of Key Square Group, a global macro investment firm.   
-
-斯科特·K H.贝森特是一位美国对冲基金经理。他是索罗斯基金管理公司的合伙人，也是全球宏观投资公司Key Square Group的创始人。   
-
-阅读延伸[38532044]: [https://en.wikipedia.org/wiki/Scott_Bessent](https://en.wikipedia.org/wiki/Scott_Bessent)   
-
 ## 邪恶_（音乐剧）   
 Wicked is a musical with music and lyrics by Stephen Schwartz and a book by Winnie Holzman. It is a loose adaptation of the 1995 Gregory Maguire novel Wicked: The Life and Times of the Wicked Witch of the West, which in turn is based on L. Frank Baum's 1900 novel The Wonderful Wizard of Oz and its 1939 film adaptation. The musical is told from the perspective of two witches, Elphaba and Galinda, before and after Dorothy's arrival in Oz. The story explores the complex friendship between Elphaba and Galinda. Their relationship is tested by their contrasting personalities, conflicting viewpoints, shared love interest, reactions to the corrupt rule of the Wonderful Wizard, and ultimately, Elphaba's tragic fall.   
 
 《Wicked》是一部由斯蒂芬·施瓦茨创作的音乐剧和歌词，温妮·霍尔兹曼创作的一本书。它是根据格雷戈里·马奎尔1995年小说《邪恶：西方邪恶女巫的生活和时代》改编的，该书又改编自L。弗兰克·鲍姆1900年的小说《绿野仙踪》及其1939年的电影改编。这部音乐剧从多萝西抵达奥兹国之前和之后两位女巫埃尔法巴和加琳达的角度讲述。故事探讨了埃尔法巴和盖琳达之间复杂的友谊。他们的关系受到了他们鲜明的性格、相互矛盾的观点、共同的爱情兴趣、对神奇巫师腐败统治的反应，以及最终埃尔法巴的悲惨堕落的考验。   
 
 阅读延伸[1678965]: [https://en.wikipedia.org/wiki/Wicked_(musical)](https://en.wikipedia.org/wiki/Wicked_(musical))   
-
-## 2024年_马哈拉施特拉邦_立法机关_议会_选举   
-A General assembly election is scheduled to be held in Maharashtra on 20 November 2024 to elect the 288 members of the 15th Maharashtra Legislative Assembly, the counting and the results will be declared on 23 November 2024.   
-
-定于2024年11月20日在马哈拉施特拉邦举行大会选举，选出马哈拉施特拉邦第15届立法会议的288名议员，计票和结果将于2024年11月23日公布。   
-
-阅读延伸[67260267]: [https://en.wikipedia.org/wiki/2024_Maharashtra_Legislative_Assembly_election](https://en.wikipedia.org/wiki/2024_Maharashtra_Legislative_Assembly_election)   
 
 ## 角斗士_II   
 Gladiator II is a 2024 epic historical action film directed and co-produced by Ridley Scott. It was produced by Scott Free Productions, Red Wagon Entertainment and Parkes+MacDonald Image Nation, and distributed by Paramount Pictures. Serving as a sequel to Gladiator (2000), the film was written by David Scarpa from a story he wrote with Peter Craig. It stars Paul Mescal, Pedro Pascal, Joseph Quinn, Fred Hechinger, Lior Raz, Derek Jacobi, Connie Nielsen, and Denzel Washington. Jacobi and Nielsen reprise their roles from the first film, with Mescal replacing Spencer Treat Clark. Mescal portrays Lucius, the son of Maximus and Lucilla, who becomes a gladiator after his home is invaded by the Roman army led by General Marcus Acacius. Lucius seeks revenge against Acacius and fights as a gladiator for Macrinus, a former slave who plans to overthrow the emperors Geta and Caracalla.   
@@ -34,12 +20,12 @@ Gladiator II is a 2024 epic historical action film directed and co-produced by R
 
 阅读延伸[72682130]: [https://en.wikipedia.org/wiki/Gladiator_II](https://en.wikipedia.org/wiki/Gladiator_II)   
 
-## GNX_（专辑）   
-GNX is the sixth studio album by American rapper Kendrick Lamar. It was released as a surprise album through PGLang and Interscope Records on November 22, 2024. Titled after the Buick Regal model, and a follow-up to Mr. Morale & the Big Steppers (2022), GNX is Lamar's first album after his departure from Top Dawg Entertainment and Aftermath Entertainment.   
+## 查克_羊毛厂   
+Charles Herbert Woolery was an American game show host, talk show host, actor, and musician. He had long-running tenures hosting several game shows. Woolery was the original host of the original daytime Wheel of Fortune (1975–1981), the original incarnation of Love Connection (1983–1994), Scrabble, Greed on Fox from 1999 to 2000, and Lingo on Game Show Network from 2002 to 2007. Woolery's musical career includes several advertising jingles, a top-40 pop hit with the psychedelic pop duo The Avant-Garde, and a number of country music releases.   
 
-GNX是美国说唱歌手Kendrick Lamar的第六张录音室专辑。该专辑于2024年11月22日通过PGLang和Interscope Records发行。GNX以别克帝王车型命名，是《Morale & the Big Steppers》（2022）的后续专辑，是拉马尔离开Top Dawg Entertainment和Aftermath Entertainment后的第一张专辑。   
+查尔斯·赫伯特·伍利（Charles Herbert Woolery）是一位美国游戏节目主持人、脱口秀主持人、演员和音乐家。他长期担任多个游戏节目的主持人。Woolery是最初的日间节目《财富之轮》（1975-1981年）的最初主持人，是Love Connection（1983-1994年）、Scrabble、Greed（1999年至2000年）的最初化身Fox，以及2002年至2007年Game Show Network的Lingo的最初化身。Woolery的音乐生涯包括几首广告歌曲、与迷幻流行二人组The Avant-Garde一起跻身前40名的流行歌曲，以及许多乡村音乐的发行。   
 
-阅读延伸[78373166]: [https://en.wikipedia.org/wiki/GNX_(album)](https://en.wikipedia.org/wiki/GNX_(album))   
+阅读延伸[418113]: [https://en.wikipedia.org/wiki/Chuck_Woolery](https://en.wikipedia.org/wiki/Chuck_Woolery)   
 
 ## 辛西娅_埃里沃   
 Cynthia Onyedinmanasu Chinasaokwu Erivo is a British actress and singer. She gained recognition for starring in the Broadway revival of The Color Purple from 2015 to 2017. The role earned her numerous accolades, including the 2016 Tony Award for Best Actress in a Musical and the Grammy Award for Best Musical Theater Album. Erivo ventured into films in 2018, playing roles in the heist film Widows and the thriller Bad Times at the El Royale.   
@@ -48,19 +34,19 @@ Cynthia Onyedinmanasu Chinasaokwu Erivo is a British actress and singer. She gai
 
 阅读延伸[48453494]: [https://en.wikipedia.org/wiki/Cynthia_Erivo](https://en.wikipedia.org/wiki/Cynthia_Erivo)   
 
-## 帕姆·邦迪   
-Pamela Jo Bondi is an American attorney, lobbyist, and politician who served as the 37th Florida attorney general from 2011 to 2019. A member of the Republican Party, she was the first woman elected to the office.   
+## Full_Gear_（2024）   
+The 2024 Full Gear was a professional wrestling pay-per-view (PPV) event produced by All Elite Wrestling (AEW). It was the sixth annual Full Gear and took place on November 23, 2024, at the Prudential Center in Newark, New Jersey, marking the second Full Gear held at the venue, after 2022.   
 
-帕梅拉·乔·邦迪（Pamela Jo Bondi）是一名美国律师、说客和政治家，曾于2011年至2019年担任佛罗里达州第37任总检察长。作为共和党成员，她是第一位当选该职位的女性。   
+2024年Full Gear是由All Elite Wrestling（AEW）制作的一项按次付费（PPV）职业摔跤赛事。这是第六届年度Full Gear活动，于2024年11月23日在新泽西州纽瓦克的保德信中心举行，这是继2022年之后在该场馆举办的第二届Full Gear活动。   
 
-阅读延伸[4550623]: [https://en.wikipedia.org/wiki/Pam_Bondi](https://en.wikipedia.org/wiki/Pam_Bondi)   
+阅读延伸[76556012]: [https://en.wikipedia.org/wiki/Full_Gear_(2024)](https://en.wikipedia.org/wiki/Full_Gear_(2024))   
 
-## 2024_MAMA_奖项   
-The 2024 MAMA Awards is an ongoing awards ceremony held on November 21 at the Dolby Theatre in Los Angeles, California and on November 22 and 23 at the Kyocera Dome, Osaka, Japan. The event is organized by CJ ENM through Mnet. This will be the first time the United States will host the ceremony and the first time it will be happening outside East and Southeast Asia.   
+## 阿丽亚娜_格兰德   
+Ariana Grande-Butera is an American singer, songwriter, and actress. Regarded as a pop icon and an influential figure in popular music, she is known for her four-octave vocal range which extends into the whistle register. Grande is among the top 10 of Billboard's Greatest Pop Stars of the 21st Century and the top 50 of Rolling Stone's Greatest Singers of All Time list, both the highest for any artist emerging since the 2010s.   
 
-2024年MAMA Awards颁奖典礼将于11月21日在加利福尼亚州洛杉矶杜比剧院举行，并于11月22日至23日在日本大坂京瓷圆顶剧院举行。该活动由CJ ENM通过Mnet组织。这将是美国首次主办该仪式，也是首次在东亚和东南亚以外地区举行。   
+Ariana Grande-Butera是一位美国歌手、词曲作者和演员。她被誉为流行偶像和流行音乐中有影响力的人物，以延伸到哨子区的四八度音域而闻名。格兰德是《公告牌》评选的21世纪最伟大流行歌星前10名之一，也是《滚石》评选的有史以来最伟大歌手名单前50名之一，两者都是自2010年代以来新兴艺术家中最高的。   
 
-阅读延伸[77479701]: [https://en.wikipedia.org/wiki/2024_MAMA_Awards](https://en.wikipedia.org/wiki/2024_MAMA_Awards)   
+阅读延伸[25276055]: [https://en.wikipedia.org/wiki/Ariana_Grande](https://en.wikipedia.org/wiki/Ariana_Grande)   
 
 ## 角斗士_（2000年_电影）   
 Gladiator is a 2000 historical epic film directed by Ridley Scott and written by David Franzoni, John Logan, and William Nicholson from a story by Franzoni. It stars Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed, Derek Jacobi, Djimon Hounsou, and Richard Harris. Crowe portrays the Roman general Maximus Decimus Meridius, who is betrayed when Commodus, the ambitious son of Emperor Marcus Aurelius, murders his father and seizes the throne. Reduced to slavery, Maximus becomes a gladiator and rises through the ranks of the arena, determined to avenge the murders of his family and the emperor.   
@@ -68,6 +54,13 @@ Gladiator is a 2000 historical epic film directed by Ridley Scott and written by
 《角斗士》是一部2000年的历史史诗电影，由雷德利·斯科特执导，大卫·弗兰佐尼、约翰·洛根和威廉·尼科尔森根据弗兰佐尼的故事编剧。该剧由拉塞尔·克劳、华金·菲尼克斯、康妮·尼尔森、奥利弗·里德、德里克·雅各比、吉蒙·豪苏和理查德·哈里斯主演。克劳饰演罗马将军马克西姆斯·德西米斯·梅里迪乌斯，当皇帝马库斯·奥勒留的雄心勃勃的儿子康莫德斯谋杀了他的父亲并夺取王位时，梅里迪乌斯被背叛。马克西穆斯沦为奴隶，成为一名角斗士，并在竞技场中不断晋升，决心为谋杀他的家人和皇帝报仇。   
 
 阅读延伸[3616797]: [https://en.wikipedia.org/wiki/Gladiator_(2000_film)](https://en.wikipedia.org/wiki/Gladiator_(2000_film))   
+
+## 2024年_马哈拉施特拉邦_立法机关_议会_选举   
+A General assembly election is scheduled to be held in Maharashtra on 20 November 2024 to elect the 288 members of the 15th Maharashtra Legislative Assembly, the counting and the results will be declared on 23 November 2024.   
+
+定于2024年11月20日在马哈拉施特拉邦举行大会选举，选出马哈拉施特拉邦第15届立法会议的288名议员，计票和结果将于2024年11月23日公布。   
+
+阅读延伸[67260267]: [https://en.wikipedia.org/wiki/2024_Maharashtra_Legislative_Assembly_election](https://en.wikipedia.org/wiki/2024_Maharashtra_Legislative_Assembly_election)   
 
 ## 《双城之战》感_（电视剧）   
 Arcane is an adult animated steampunk action-adventure television series created by Christian Linke and Alex Yee. It was produced by the French animation studio Fortiche under the supervision of Riot Games, and distributed by Netflix. Set in Riot's League of Legends universe, it primarily focuses on sisters Vi and Jinx. The series was announced at the League of Legends tenth anniversary celebration in 2019, and its first season was released between November 6 and 20, 2021. The second and final season was released between November 9 and 23, 2024.   
@@ -83,27 +76,6 @@ The 2024 United States presidential election will be the 60th quadrennial presid
 
 阅读延伸[59568546]: [https://en.wikipedia.org/wiki/2024_United_States_presidential_election](https://en.wikipedia.org/wiki/2024_United_States_presidential_election)   
 
-## 阿丽亚娜_格兰德   
-Ariana Grande-Butera is an American singer, songwriter, and actress. Regarded as a pop icon and an influential figure in popular music, she is known for her four-octave vocal range which extends into the whistle register. Grande is among the top 10 of Billboard's Greatest Pop Stars of the 21st Century and the top 50 of Rolling Stone's Greatest Singers of All Time list, both the highest for any artist emerging since the 2010s.   
-
-Ariana Grande-Butera是一位美国歌手、词曲作者和演员。她被誉为流行偶像和流行音乐中有影响力的人物，以延伸到哨子区的四八度音域而闻名。格兰德是《公告牌》评选的21世纪最伟大流行歌星前10名之一，也是《滚石》评选的有史以来最伟大歌手名单前50名之一，两者都是自2010年代以来新兴艺术家中最高的。   
-
-阅读延伸[25276055]: [https://en.wikipedia.org/wiki/Ariana_Grande](https://en.wikipedia.org/wiki/Ariana_Grande)   
-
-## 莱肯莱利谋杀案   
-On February 22, 2024, Laken Riley, a 22-year-old Augusta University nursing student, was murdered while she was jogging at the University of Georgia in Athens, Georgia. Her body was found in Oconee Forest Park near Lake Herrick; her death was caused by blunt force trauma and asphyxiation.   
-
-2024年2月22日，22岁的奥古斯塔大学护理专业学生拉肯·莱利（Laken Riley）在佐治亚州雅典的佐治亚大学慢跑时被谋杀。她的尸体在赫里克湖附近的奥科尼森林公园被发现;她的死亡是由钝器外伤和窒息造成的。   
-
-阅读延伸[76227828]: [https://en.wikipedia.org/wiki/Murder_of_Laken_Riley](https://en.wikipedia.org/wiki/Murder_of_Laken_Riley)   
-
-## 康纳_麦格雷戈   
-Conor Anthony McGregor is an Irish professional mixed martial artist, professional boxer, businessman and actor. He is a former Ultimate Fighting Championship (UFC) Featherweight and Lightweight Champion, becoming the first UFC fighter to hold UFC championships in two weight classes simultaneously. He is also a former simultaneous Cage Warriors (CW) Featherweight and Lightweight Champion.   
-
-康纳·安东尼·麦格雷戈（Conor Anthony McGregor）是一位爱尔兰职业综合武术家、职业拳击手、商人和演员。他是前终极格斗锦标赛（UFC）羽量级和轻量级冠军，成为第一位同时举办两个量级UFC冠军的UFC拳手。他也是前笼勇士（CW）羽量级和轻量级冠军。   
-
-阅读延伸[38738224]: [https://en.wikipedia.org/wiki/Conor_McGregor](https://en.wikipedia.org/wiki/Conor_McGregor)   
-
 ## 死亡_in_2024   
 
 
@@ -115,31 +87,59 @@ The following notable deaths occurred in 2024. Names are reported under the date
 
 阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
 
-## 2019年_马哈拉施特拉邦_立法机关_议会_选举   
-The 2019 Maharashtra Legislative Assembly election was held on 21 October 2019 to elect all 288 members of the state's Legislative Assembly. After a 61.4% turnout in the election, the ruling National Democratic Alliance (NDA) of the Bharatiya Janata Party (BJP) and Shiv Sena (SHS) won a majority. Following differences over the government formation, the alliance was dissolved, precipitating a political crisis.   
+## GNX_（专辑）   
+GNX is the sixth studio album by American rapper Kendrick Lamar. It was released as a surprise album through PGLang and Interscope Records on November 22, 2024. Titled after the Buick Regal model, and a follow-up to Mr. Morale & the Big Steppers (2022), GNX is Lamar's first album after his departure from Top Dawg Entertainment and Aftermath Entertainment.   
 
-2019年马哈拉施特拉邦立法议会选举于2019年10月21日举行，选举出该邦立法议会全部288名议员。选举投票率达到61.4%后，印度人民党（BJP）和希夫塞纳（SHS）领导的执政党全国民主联盟（NDA）赢得了多数席位。由于政府组建存在分歧，该联盟被解散，引发了一场政治危机。   
+GNX是美国说唱歌手Kendrick Lamar的第六张录音室专辑。该专辑于2024年11月22日通过PGLang和Interscope Records发行。GNX以别克帝王车型命名，是《Morale & the Big Steppers》（2022）的后续专辑，是拉马尔离开Top Dawg Entertainment和Aftermath Entertainment后的第一张专辑。   
 
-阅读延伸[57959202]: [https://en.wikipedia.org/wiki/2019_Maharashtra_Legislative_Assembly_election](https://en.wikipedia.org/wiki/2019_Maharashtra_Legislative_Assembly_election)   
+阅读延伸[78373166]: [https://en.wikipedia.org/wiki/GNX_(album)](https://en.wikipedia.org/wiki/GNX_(album))   
 
-## 珍妮特_内谢瓦特   
-Janette Nesheiwat is an American physician who is the nominee for United States surgeon general. Nesheiwat has served as an assistant medical director of CityMD and is currently a medical contributor on Fox News.   
+## 奥地利伊丽莎白皇后   
+Elisabeth, nicknamed Sisi or Sissi, was Empress of Austria and Queen of Hungary from her marriage to Emperor Franz Joseph I on 24 April 1854 until her assassination in 1898.   
 
-珍妮特·内谢瓦特（Janette Nesheiwat）是一位美国医生，也是美国卫生局局长的提名人。Nesheiwat曾担任CityMD的助理医疗总监，目前是福克斯新闻的医疗撰稿人。   
+伊丽莎白，绰号塞西或塞西，从1854年4月24日与弗朗茨·约瑟夫一世皇帝结婚到1898年遇刺，一直担任奥地利皇后和匈牙利王后。   
 
-阅读延伸[78426635]: [https://en.wikipedia.org/wiki/Janette_Nesheiwat](https://en.wikipedia.org/wiki/Janette_Nesheiwat)   
+阅读延伸[153029]: [https://en.wikipedia.org/wiki/Empress_Elisabeth_of_Austria](https://en.wikipedia.org/wiki/Empress_Elisabeth_of_Austria)   
 
-## 马哈拉施特拉邦_立法_议会   
-The Maharashtra Legislative Assembly is the lower house of the bicameral legislature of Maharashtra state in western India. It consists of 288 members directly elected from single-seat constituencies. The Assembly meets at Vidhan Bhavan in Mumbai, though the winter session is held in Nagpur. Along with the Maharashtra Legislative Council, it comprises the legislature of Maharashtra. The presiding officer of the Assembly is the Speaker. Members of the Assembly are directly elected by the people of Maharashtra through elections held every five years, unless the Assembly is dissolved earlier. The current Assembly was elected in October 2019.   
+## Yashasvi_Jaiswal   
+Yashasvi Bhupendra Kumar Jaiswal is an Indian international cricketer who plays for the Indian cricket team. He made his international debut in the first Test against the West Indies in July 2023, scoring a century in his first innings in Test cricket. He plays for Mumbai in domestic cricket and Rajasthan Royals in the Indian Premier League.   
 
-马哈拉施特拉邦立法议会是印度西部马哈拉施特拉邦两院制立法机构的下议院。它由288名从单席位选区直接选举产生的议员组成。大会在孟买的Vidhan Bhavan举行，但冬季会议在那格浦尔举行。它与马哈拉施特拉邦立法委员会一起组成马哈拉施特拉邦的立法机构。议会的主持人是议长。议会成员由马哈拉施特拉邦人民通过每五年举行一次的选举直接选举产生，除非议会提前解散。本届议会于2019年10月选举产生。   
+Yashasvi Bhupendra Kumar Jaiswal是一位印度国际板球运动员，为印度板球队效力。2023年7月，他在对阵西印度群岛的第一场测试赛中首次亮相国际比赛，在板球测试赛的第一局就打进了一个世纪。他代表孟买参加国内板球比赛，并代表拉贾斯坦邦皇家队参加印度超级联赛。   
 
-阅读延伸[42137037]: [https://en.wikipedia.org/wiki/Maharashtra_Legislative_Assembly](https://en.wikipedia.org/wiki/Maharashtra_Legislative_Assembly)   
+阅读延伸[58834688]: [https://en.wikipedia.org/wiki/Yashasvi_Jaiswal](https://en.wikipedia.org/wiki/Yashasvi_Jaiswal)   
 
-## 肯德里克_拉马尔   
-Kendrick Lamar Duckworth is an American rapper and songwriter. Regarded as one of the most influential hip hop artists of his generation, and one of the greatest rappers of all time, he is known for his technical artistry and complex songwriting. He was awarded the 2018 Pulitzer Prize for Music, becoming the first musician outside of the classical and jazz genres to be honored.   
+## 维拉_科利   
+Virat Kohli is an Indian international cricketer who plays Test and ODI cricket for the Indian national team. A former captain in all formats of the game, Kohli retired from the T20I format following India's win at the 2024 T20 World Cup. He's a right-handed batsman and an occasional unorthodox right arm quick bowler. Kohli holds the highest IPL run-scorer record, ranks second in T20I, third in ODI, and stands the fourth-highest in international cricket. Regarded as one of the greatest batsman of all time, he also holds the record for scoring the most centuries in ODI cricket and is second in the list of most international centuries scored in international cricket.   
 
-肯德里克·拉马尔·达克沃斯（Kendrick Lamar Duckworth）是一位美国说唱歌手和词曲作者。他被誉为这一代人中最有影响力的嘻哈艺术家之一，也是有史以来最伟大的说唱歌手之一，以其技术艺术性和复杂的歌曲创作而闻名。他被授予2018年普利策音乐奖，成为第一位获得古典和爵士乐流派以外的音乐家。   
+Virat Kohli是一名印度国际板球运动员，为印度国家队踢Test和ODI板球比赛。科利曾担任所有比赛形式的队长，在印度赢得2024年T20世界杯后，科利从T20 I形式退役。他是一名右手击球手，偶尔也是一名非正统的右臂快速投球手。科利保持着IPL跑动得分手最高纪录，在T20 I中排名第二，在ODI中排名第三，在国际板球中排名第四。他被誉为有史以来最伟大的击球手之一，同时还保持着ODI板球中进球数最多的纪录，并且在国际板球中进球数最多的国际百年名单中排名第二。   
 
-阅读延伸[29909823]: [https://en.wikipedia.org/wiki/Kendrick_Lamar](https://en.wikipedia.org/wiki/Kendrick_Lamar)   
+阅读延伸[16017429]: [https://en.wikipedia.org/wiki/Virat_Kohli](https://en.wikipedia.org/wiki/Virat_Kohli)   
+
+## 列表_of_国际_板球_世纪_by_Virat_Kohli   
+Virat Kohli is an Indian cricketer and a former captain of the India national cricket team. A right-handed top-order batsman, he has made 81 centuries in international cricket—thirty in Test cricket, fifty in One Day Internationals (ODIs) and one in Twenty20 Internationals (T20Is) as of November 2024.   
+
+维拉特·科利（Virat Kohli）是一名印度板球运动员，也是印度国家板球队前队长。作为一名右手顶级击球手，他在国际板球比赛中已经打出了81个世纪的成绩--截至2024年11月，测试板球比赛中打出了30个世纪的成绩，单日国际赛（ODI）中打出了50个世纪的成绩，Twenty 20 Internals（T20 Is）中打出了1个世纪的成绩。   
+
+阅读延伸[41780702]: [https://en.wikipedia.org/wiki/List_of_international_cricket_centuries_by_Virat_Kohli](https://en.wikipedia.org/wiki/List_of_international_cricket_centuries_by_Virat_Kohli)   
+
+## 双胞胎电影   
+Twin films are films with the same or similar plots produced and released at the same time by two different film studios. The phenomenon can result from two or more production companies investing in similar scripts at the same time, resulting in a race to distribute the films to audiences. Some attribute twin films to industrial espionage, the movement of staff between studios, or that the same screenplays are sent to several film studios before being accepted. Another possible explanation is if the films deal with topical issues, such as volcanic eruptions, reality television, terrorist attacks, or significant anniversaries, resulting in multiple discovery of the concept.   
+
+双胞胎电影是由两家不同的电影制片厂同时制作和发行的情节相同或相似的电影。这种现象可能是由于两个或更多制作公司同时投资类似的剧本，导致向观众发行电影的竞赛。一些人将双胞胎电影归因于工业间谍、工作室之间的工作人员流动，或者相同的剧本在被接受之前被发送给几个电影工作室。另一种可能的解释是，这些电影是否涉及热门问题，例如火山喷发、真人秀电视、恐怖袭击或重大周年纪念日，从而导致该概念的多次发现。   
+
+阅读延伸[32180866]: [https://en.wikipedia.org/wiki/Twin_films](https://en.wikipedia.org/wiki/Twin_films)   
+
+## 保拉_拉德克利夫   
+Paula Jane Radcliffe MBE is a British former long-distance runner. She is a three-time winner of the London Marathon, three-time New York Marathon champion, the 2002 Chicago Marathon winner and the 2005 World Champion in the Marathon from Helsinki. She was previously the fastest female marathoner of all time, and held the Women's World Marathon Record with a time of 2:15:25 for 16 years from 2003 to 2019 when it was broken by Brigid Kosgei.   
+
+Paula Jane Radcliffe MBE是一位英国前长跑运动员。她是三届伦敦马拉松冠军、三届纽约马拉松冠军、2002年芝加哥马拉松冠军和2005年赫尔辛基马拉松世界冠军。她此前是有史以来最快的女马拉松运动员，并在2003年至2019年的16年间以2：15：25的成绩保持着女子世界马拉松纪录，但被布里吉德·科斯盖打破。   
+
+阅读延伸[228240]: [https://en.wikipedia.org/wiki/Paula_Radcliffe](https://en.wikipedia.org/wiki/Paula_Radcliffe)   
+
+## 邪恶_（马奎尔_小说）   
+Wicked: The Life and Times of the Wicked Witch of the West is an American novel published in 1995, written by Gregory Maguire with illustrations by Douglas Smith. It is the first in The Wicked Years series, and was followed by Son of a Witch, A Lion Among Men, and Out of Oz.   
+
+邪恶的：《西方邪恶女巫的生活和时代》是一部出版于1995年的美国小说，由格雷戈里·马奎尔撰写，道格拉斯·史密斯插图。这是《邪恶的岁月》系列中的第一部，紧随其后的是《女巫之子》、《人类中的狮子》和《走出奥兹国》。   
+
+阅读延伸[1240426]: [https://en.wikipedia.org/wiki/Wicked_(Maguire_novel)](https://en.wikipedia.org/wiki/Wicked_(Maguire_novel))   
 
