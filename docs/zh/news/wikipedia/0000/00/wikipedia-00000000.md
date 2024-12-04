@@ -1,4 +1,25 @@
 # 最新资讯  
+## 戒严法   
+Martial law is the replacement of civilian government by military rule and the suspension of civilian legal processes for military powers. Martial law can continue for a specified amount of time, or indefinitely, and standard civil liberties may be suspended for as long as martial law continues. Most often, martial law is declared in times of war and/or emergencies such as civil unrest and natural disasters. Alternatively, martial law may be declared in instances of military coups d'état.   
+
+戒严令是用军事统治取代文官政府，并暂停军事权力的文官法律程序。戒严令可以持续一定时间或无限期，只要戒严令持续，标准公民自由就可能被暂停。通常，戒严是在战争和/或内乱和自然灾害等紧急情况下宣布的。或者，在发生军事政变时也可以宣布戒严。   
+
+阅读延伸[50477]: [https://en.wikipedia.org/wiki/Martial_law](https://en.wikipedia.org/wiki/Martial_law)   
+
+## 尹淑英   
+Yoon Suk Yeol is a South Korean politician and attorney who has been the 13th president of South Korea since 2022. A member of the People Power Party, he served from 2019 to 2021 as the prosecutor general of South Korea under his presidential predecessor, Moon Jae-in.   
+
+尹锡烈是一位韩国政治家和律师，自2022年以来一直担任韩国第13任总统。他是人民力量党成员，于2019年至2021年担任总统前任文在寅领导下的韩国总检察长。   
+
+阅读延伸[62877952]: [https://en.wikipedia.org/wiki/Yoon_Suk_Yeol](https://en.wikipedia.org/wiki/Yoon_Suk_Yeol)   
+
+## 2024_韩国_军事_法律   
+On 3 December 2024, at approximately 10:27 p.m. Korea Standard Time (KST), South Korean president Yoon Suk Yeol declared martial law during an address broadcast live on YTN television. In his declaration, he accused the Democratic Party, which has a majority in the National Assembly, of sympathizing with North Korea and conducting "anti-state activities", further labelling them a criminal organization working with communists to destroy the country. The order included the prohibition of any political activities, including of the National Assembly, and a suspension of the freedom of the press.   
+
+2024年12月3日，韩国标准时间（KST）晚上10点27分左右，韩国总统尹锡耀在YTN电视台现场直播的讲话中宣布戒严。他在声明中指责在国会占多数的民主党同情朝鲜并进行“反国家活动”，进一步将其定性为与共产党合作摧毁国家的犯罪组织。该命令包括禁止任何政治活动，包括国民议会的活动，并暂停新闻自由。   
+
+阅读延伸[78508419]: [https://en.wikipedia.org/wiki/2024_South_Korean_martial_law](https://en.wikipedia.org/wiki/2024_South_Korean_martial_law)   
+
 ## 卡什_帕特尔   
 Kashyap Pramod Vinod "Kash" Patel is an American attorney and former government official. He served as a U.S. National Security Council official, senior advisor to the acting Director of National Intelligence, and chief of staff to the acting United States secretary of defense during the Trump presidency. A member of the Republican Party, Patel previously worked as a senior aide to congressman Devin Nunes when he chaired the House Intelligence Committee. He was previously a federal public defender, a federal prosecutor working on national security cases, and a legal liaison to the United States Armed Forces.   
 
@@ -6,19 +27,12 @@ Kashyap Pramod Vinod“Kash”Patel是一名美国律师和前政府官员。特
 
 阅读延伸[62202727]: [https://en.wikipedia.org/wiki/Kash_Patel](https://en.wikipedia.org/wiki/Kash_Patel)   
 
-## 亨特_拜登   
-Robert Hunter Biden is an American attorney and businessman. He is the second son of U.S. President Joe Biden and his first wife, Neilia Hunter Biden. Biden was a founding board member of BHR Partners, a Chinese investment company, in 2013, and later served on the board of Burisma Holdings, one of the largest private natural gas producers in Ukraine, from 2014 until his term expired in April 2019. He has worked as a lobbyist and legal representative for lobbying firms, a hedge fund principal, and a venture capital and private equity fund investor.   
+## 杰米斯_温斯顿   
+Jameis Lanaed Winston is an American professional football quarterback for the Cleveland Browns of the National Football League (NFL). He played college football for the Florida State Seminoles, becoming the youngest player to win the Heisman Trophy and leading his team to victory in the 2014 BCS National Championship Game during his freshman year. Declaring for the NFL after his sophomore season, Winston was selected first overall by the Tampa Bay Buccaneers in the 2015 NFL draft.   
 
-罗伯特·亨特·拜登是一名美国律师和商人。他是美国总统乔·拜登和他的第一任妻子内莉亚·亨特·拜登的次子。拜登于2013年成为中国投资公司BHR Partners的创始董事会成员，后来从2014年起担任乌克兰最大的私营天然气生产商之一Burisma Holdings的董事会成员，直至任期于2019年4月到期。他曾担任游说公司的游说者和法律代表、对冲基金负责人以及风险投资和私募股权基金投资者。   
+贾米斯·拉尼德·温斯顿（Jameis Lanaed Winston）是美国国家橄榄球联盟（NFL）克利夫兰布朗队的美国职业橄榄球四分卫。他曾为佛罗里达州立塞米诺尔队踢大学橄榄球，成为赢得海斯曼杯最年轻的球员，并在大一时带领球队在2014年CSC全国锦标赛中获胜。温斯顿在大二赛季结束后宣布加入NFL，并在2015年NFL选秀中被坦帕湾海盗队选中。   
 
-阅读延伸[19026387]: [https://en.wikipedia.org/wiki/Hunter_Biden](https://en.wikipedia.org/wiki/Hunter_Biden)   
-
-## 海莉_斯坦菲尔德   
-Hailee Steinfeld is an American actress and singer. She had her breakthrough with the western film True Grit (2010), which earned her various accolades, including nominations for an Academy Award and a BAFTA Award.   
-
-海莉·斯坦菲尔德（Hailee Steinfeld）是一位美国女演员兼歌手。她凭借西部电影《大地惊魂》（True Grit，2010）取得了突破，该片为她赢得了各种荣誉，包括奥斯卡奖和英国电影和电视艺术学院奖的提名。   
-
-阅读延伸[26260043]: [https://en.wikipedia.org/wiki/Hailee_Steinfeld](https://en.wikipedia.org/wiki/Hailee_Steinfeld)   
+阅读延伸[36099568]: [https://en.wikipedia.org/wiki/Jameis_Winston](https://en.wikipedia.org/wiki/Jameis_Winston)   
 
 ## 邪恶_（2024年_电影）   
 Wicked is a 2024 American epic musical fantasy film directed by Jon M. Chu from a screenplay by Winnie Holzman and Dana Fox. It is the first of a two-part film adaptation of the stage musical of the same name by Stephen Schwartz and Holzman, which in turn was loosely based on the 1995 novel of the same name by Gregory Maguire. The film stars Cynthia Erivo and Ariana Grande, with Jonathan Bailey, Ethan Slater, Bowen Yang, Marissa Bode, Peter Dinklage, Michelle Yeoh, and Jeff Goldblum in supporting roles.   
@@ -27,26 +41,12 @@ Wicked是一部2024年美国史诗音乐奇幻电影，由Jon M执导。《楚�
 
 阅读延伸[60455274]: [https://en.wikipedia.org/wiki/Wicked_(2024_film)](https://en.wikipedia.org/wiki/Wicked_(2024_film))   
 
-## 邪恶_（音乐剧）   
-Wicked is a musical with music and lyrics by Stephen Schwartz and a book by Winnie Holzman. It is a loose adaptation of the 1995 Gregory Maguire novel Wicked: The Life and Times of the Wicked Witch of the West, which in turn is based on L. Frank Baum's 1900 novel The Wonderful Wizard of Oz and its 1939 film adaptation. The musical is told from the perspective of two witches, Elphaba and Galinda, before and after Dorothy's arrival in Oz. The story explores the complex friendship between Elphaba and Galinda. Their relationship is tested by their contrasting personalities, conflicting viewpoints, shared love interest, reactions to the corrupt rule of the Wonderful Wizard, and ultimately, Elphaba's tragic fall.   
+## 人民_权力_政党_（韩国_韩国）   
+The People Power Party, formerly known as the United Future Party, is a conservative and right-wing political party in South Korea. It controls the South Korean presidency and is the second-largest party in the National Assembly. The PPP, along with its historic rival, the Democratic Party, make up the two largest political parties in South Korea.   
 
-《Wicked》是一部由斯蒂芬·施瓦茨创作的音乐剧和歌词，温妮·霍尔兹曼创作的一本书。它是根据格雷戈里·马奎尔1995年小说《邪恶：西方邪恶女巫的生活和时代》改编的，该书又改编自L。弗兰克·鲍姆1900年的小说《绿野仙踪》及其1939年的电影改编。这部音乐剧从多萝西抵达奥兹国之前和之后两位女巫埃尔法巴和加琳达的角度讲述。故事探讨了埃尔法巴和盖琳达之间复杂的友谊。他们的关系受到了他们鲜明的性格、相互矛盾的观点、共同的爱情兴趣、对神奇巫师腐败统治的反应，以及最终埃尔法巴的悲惨堕落的考验。   
+人民力量党，原名统一未来党，是韩国保守派右翼政党。该党控制着韩国总统，是国会第二大党。人民党及其历史竞争对手民主党组成了韩国最大的两个政党。   
 
-阅读延伸[1678965]: [https://en.wikipedia.org/wiki/Wicked_(musical)](https://en.wikipedia.org/wiki/Wicked_(musical))   
-
-## 莫阿纳_2   
-Moana 2 is a 2024 American animated musical adventure film produced by Walt Disney Animation Studios for Walt Disney Pictures. It is the sequel to Moana (2016) and the second installment in the Moana franchise. The film is directed by David Derrick Jr., Jason Hand, and Dana Ledoux Miller and produced by Christina Chen and Yvett Merino, from a screenplay by Jared Bush and Miller. The film stars Auliʻi Cravalho, Dwayne Johnson, Temuera Morrison, Nicole Scherzinger, Rachel House, and Alan Tudyk, all reprising their roles from the first film, with Khaleesi Lambert-Tsuda, Rose Matafeo, David Fane, Hualālai Chung, Awhimai Fraser, and Gerald Ramsey joining the cast.   
-
-《莫安娜2》是一部2024年美国动画音乐冒险电影，由华特迪士尼动画工作室为华特迪士尼影业制作。这是《莫阿娜》（2016）的续集，也是《莫阿娜》系列的第二部。这部电影由小大卫·德里克执导，杰森·汉德（Jason Hand）和达纳·勒杜·米勒（Dana Ledoux Miller），由克里斯蒂娜·陈（Christina Chen）和伊维特·梅里诺（Yvett Merino）制作，编剧为贾里德·布什（Jared Bush）和米勒（Miller）。这部电影由Auli Journi Cravalho、Dwayne Johnson、Temuera Morrison、Nicole Scherzinger、Rachel House和Alan Tudyk主演，他们都重新扮演了第一部电影中的角色，卡丽熙·兰伯特-津田、罗丝·马塔菲奥、大卫·费恩、瓦拉莱·钟、阿怀迈·弗雷泽和杰拉尔德·拉姆齐也加入了演员阵容。   
-
-阅读延伸[65419058]: [https://en.wikipedia.org/wiki/Moana_2](https://en.wikipedia.org/wiki/Moana_2)   
-
-## 乔什_艾伦   
-Joshua Patrick Allen is an American professional football quarterback for the Buffalo Bills of the National Football League (NFL). He played college football for the Wyoming Cowboys and was selected seventh overall by the Bills in the 2018 NFL draft.   
-
-约书亚·帕特里克·艾伦是美国国家橄榄球联盟（NFL）布法罗比尔队的美国职业橄榄球四分卫。他曾为怀俄明州牛仔队踢大学橄榄球，并在2018年NFL选秀中被比尔队选为第七名。   
-
-阅读延伸[52484630]: [https://en.wikipedia.org/wiki/Josh_Allen](https://en.wikipedia.org/wiki/Josh_Allen)   
+阅读延伸[63143730]: [https://en.wikipedia.org/wiki/People_Power_Party_(South_Korea)](https://en.wikipedia.org/wiki/People_Power_Party_(South_Korea))   
 
 ## 死亡_in_2024   
 
@@ -59,19 +59,40 @@ The following notable deaths occurred in 2024. Names are reported under the date
 
 阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
 
-## 角斗士_II   
-Gladiator II is a 2024 epic historical action film directed and co-produced by Ridley Scott. It was produced by Scott Free Productions, Red Wagon Entertainment and Parkes+MacDonald Image Nation, and distributed by Paramount Pictures. Serving as a sequel to Gladiator (2000), the film was written by David Scarpa from a story he wrote with Peter Craig. It stars Paul Mescal, Pedro Pascal, Joseph Quinn, Fred Hechinger, Lior Raz, Derek Jacobi, Connie Nielsen, and Denzel Washington. Jacobi and Nielsen reprise their roles from the first film, with Mescal replacing Spencer Treat Clark. Mescal portrays Lucius, the son of Maximus and Lucilla, who becomes a gladiator after his home is invaded by the Roman army led by General Marcus Acacius. Lucius seeks revenge against Acacius and fights as a gladiator for Macrinus, a former slave who plans to overthrow the emperors Geta and Caracalla.   
+## 亨特_拜登   
+Robert Hunter Biden is an American attorney and businessman. He is the second son of U.S. President Joe Biden and his first wife, Neilia Hunter Biden. Biden was a founding board member of BHR Partners, a Chinese investment company, in 2013, and later served on the board of Burisma Holdings, one of the largest private natural gas producers in Ukraine, from 2014 until his term expired in April 2019. He has worked as a lobbyist and legal representative for lobbying firms, a hedge fund principal, and a venture capital and private equity fund investor.   
 
-《角斗士II》是一部2024年史诗历史动作片，由雷德利·斯科特执导和联合制作。该片由Scott Free Productions、Red Wagon Entertainment和Parkes+MacDonald Image Nation制作，并由派拉蒙影业发行。这部电影是《角斗士》（2000年）的续集，由大卫·斯卡帕根据他与彼得·克雷格共同创作的故事写成。该剧由保罗·梅斯卡尔、佩德罗·帕斯卡、约瑟夫·奎因、弗雷德·赫钦格、利奥·拉兹、德里克·雅各比、康妮·尼尔森和丹泽尔·华盛顿主演。雅各比和尼尔森重新扮演了他们在第一部电影中的角色，梅斯卡尔取代了斯宾塞·特雷特·克拉克。梅斯卡尔饰演马克西穆斯和卢西拉的儿子卢修斯，在家乡被马库斯·阿喀修斯将军领导的罗马军队入侵后成为一名角斗士。卢修斯寻求对阿喀修斯的报复，并作为角斗士为马克林努斯而战，马克林努斯是一名前奴隶，计划推翻皇帝格塔和卡拉卡拉。   
+罗伯特·亨特·拜登是一名美国律师和商人。他是美国总统乔·拜登和他的第一任妻子内莉亚·亨特·拜登的次子。拜登于2013年成为中国投资公司BHR Partners的创始董事会成员，后来从2014年起担任乌克兰最大的私营天然气生产商之一Burisma Holdings的董事会成员，直至任期于2019年4月到期。他曾担任游说公司的游说者和法律代表、对冲基金负责人以及风险投资和私募股权基金投资者。   
 
-阅读延伸[72682130]: [https://en.wikipedia.org/wiki/Gladiator_II](https://en.wikipedia.org/wiki/Gladiator_II)   
+阅读延伸[19026387]: [https://en.wikipedia.org/wiki/Hunter_Biden](https://en.wikipedia.org/wiki/Hunter_Biden)   
 
-## 名单_人员_授予_行政_宽大处理_by_Donald_Trump   
-In his role as president of the United States, Donald Trump granted executive clemency to 237 individuals charged or convicted of federal criminal offenses, using his clemency power under Article II, Section 2 of the Constitution. Ordinarily, all requests for executive clemency for federal offenses are directed to the Office of the Pardon Attorney (OPA) in the U.S. Department of Justice for review; however, Trump frequently bypassed the OPA, and the majority of his executive clemency grants were made to well-connected convicts who did not file a petition with the OPA or meet the OPA's requirements. Overall, Trump granted less clemency than many of the modern presidents.   
+## 博_尼克斯   
+Bo Chapman Nix is an American professional football quarterback for the Denver Broncos of the National Football League (NFL). He played his first three seasons of college football for the Auburn Tigers, winning SEC Freshman of the Year in 2019. During his last two seasons, he was a member of the Oregon Ducks and led the FBS in touchdowns in 2023. He was selected by the Broncos in the first round of the 2024 NFL draft.   
 
-唐纳德·特朗普在担任美国总统期间，利用宪法第二条第2款赋予的宽大处理权，对237名被指控或被判犯有联邦刑事犯罪的人给予了行政宽大处理。通常，所有针对联邦罪行的行政宽大处理请求都会提交给美国司法部赦免检察官办公室（OPA）审查;然而，特朗普经常绕过OPA，他的大部分行政宽大处理拨款都发放给那些没有向OPA提交请愿书或满足OPA要求的人脉广泛的罪犯。总体而言，特朗普给予的宽大处理比许多现代总统要少。   
+博·查普曼·尼克斯是美国国家橄榄球联盟（NFL）丹佛野马队的美国职业橄榄球四分卫。他为奥本老虎队踢了大学橄榄球的前三个赛季，并于2019年赢得了SEC年度最佳新生。在过去的两个赛季里，他是俄勒冈鸭队的一员，并在2023年带领FSB达阵。他在2024年NFL选秀第一轮中被野马队选中。   
 
-阅读延伸[55032002]: [https://en.wikipedia.org/wiki/List_of_people_granted_executive_clemency_by_Donald_Trump](https://en.wikipedia.org/wiki/List_of_people_granted_executive_clemency_by_Donald_Trump)   
+阅读延伸[60806927]: [https://en.wikipedia.org/wiki/Bo_Nix](https://en.wikipedia.org/wiki/Bo_Nix)   
+
+## 邪恶_（音乐剧）   
+Wicked is a musical with music and lyrics by Stephen Schwartz and a book by Winnie Holzman. It is a loose adaptation of the 1995 Gregory Maguire novel Wicked: The Life and Times of the Wicked Witch of the West, which in turn is based on L. Frank Baum's 1900 novel The Wonderful Wizard of Oz and its 1939 film adaptation. The musical is told from the perspective of two witches, Elphaba and Galinda, before and after Dorothy's arrival in Oz. The story explores the complex friendship between Elphaba and Galinda. Their relationship is tested by their contrasting personalities, conflicting viewpoints, shared love interest, reactions to the corrupt rule of the Wonderful Wizard, and ultimately, Elphaba's tragic fall.   
+
+《Wicked》是一部由斯蒂芬·施瓦茨创作的音乐剧和歌词，温妮·霍尔兹曼创作的一本书。它是根据格雷戈里·马奎尔1995年小说《邪恶：西方邪恶女巫的生活和时代》改编的，该书又改编自L。弗兰克·鲍姆1900年的小说《绿野仙踪》及其1939年的电影改编。这部音乐剧从多萝西抵达奥兹国之前和之后两位女巫埃尔法巴和加琳达的角度讲述。故事探讨了埃尔法巴和盖琳达之间复杂的友谊。他们的关系受到了他们鲜明的性格、相互矛盾的观点、共同的爱情兴趣、对神奇巫师腐败统治的反应，以及最终埃尔法巴的悲惨堕落的考验。   
+
+阅读延伸[1678965]: [https://en.wikipedia.org/wiki/Wicked_(musical)](https://en.wikipedia.org/wiki/Wicked_(musical))   
+
+## 韩国   
+South Korea, officially the Republic of Korea (ROK), is a country in East Asia. It constitutes the southern half of the Korean Peninsula and borders North Korea along the Korean Demilitarized Zone; though it also claims the land border with China and Russia. The country's western border is formed by the Yellow Sea, while its eastern border is defined by the Sea of Japan. South Korea claims to be the sole legitimate government of the entire peninsula and adjacent islands. It has a population of 51.96 million, of which half live in the Seoul Capital Area, the ninth most populous metropolitan area in the world. Other major cities include Busan, Daegu, and Incheon.   
+
+韩国，正式名称大韩民国（ROK），是东亚国家。它构成了朝鲜半岛的南半部分，沿着朝鲜非军事区与朝鲜接壤;尽管它也声称与中国和俄罗斯拥有陆地边界。该国的西部边境由黄海构成，东部边境由日本海界定。韩国声称是整个半岛及邻近岛屿的唯一合法政府。人口5196万，其中一半居住在世界第九人口最多的大都市区首尔首都区。其他主要城市包括釜山、大邱和仁川。   
+
+阅读延伸[27019]: [https://en.wikipedia.org/wiki/South_Korea](https://en.wikipedia.org/wiki/South_Korea)   
+
+## 莫阿纳_2   
+Moana 2 is a 2024 American animated musical adventure film produced by Walt Disney Animation Studios for Walt Disney Pictures. It is the sequel to Moana (2016) and the second installment in the Moana franchise. The film is directed by David Derrick Jr., Jason Hand, and Dana Ledoux Miller and produced by Christina Chen and Yvett Merino, from a screenplay by Jared Bush and Miller. The film stars Auliʻi Cravalho, Dwayne Johnson, Temuera Morrison, Nicole Scherzinger, Rachel House, and Alan Tudyk, all reprising their roles from the first film, with Khaleesi Lambert-Tsuda, Rose Matafeo, David Fane, Hualālai Chung, Awhimai Fraser, and Gerald Ramsey joining the cast.   
+
+《莫安娜2》是一部2024年美国动画音乐冒险电影，由华特迪士尼动画工作室为华特迪士尼影业制作。这是《莫阿娜》（2016）的续集，也是《莫阿娜》系列的第二部。这部电影由小大卫·德里克执导，杰森·汉德（Jason Hand）和达纳·勒杜·米勒（Dana Ledoux Miller），由克里斯蒂娜·陈（Christina Chen）和伊维特·梅里诺（Yvett Merino）制作，编剧为贾里德·布什（Jared Bush）和米勒（Miller）。这部电影由Auli Journi Cravalho、Dwayne Johnson、Temuera Morrison、Nicole Scherzinger、Rachel House和Alan Tudyk主演，他们都重新扮演了第一部电影中的角色，卡丽熙·兰伯特-津田、罗丝·马塔菲奥、大卫·费恩、瓦拉莱·钟、阿怀迈·弗雷泽和杰拉尔德·拉姆齐也加入了演员阵容。   
+
+阅读延伸[65419058]: [https://en.wikipedia.org/wiki/Moana_2](https://en.wikipedia.org/wiki/Moana_2)   
 
 ## 幸运_巴斯哈尔   
 Lucky Baskhar is a 2024 Indian Telugu-language period crime drama film written and directed by Venky Atluri. The film is produced by S. Naga Vamsi and Sai Soujanya under Sithara Entertainments, Fortune Four Cinema and Srikara Studios. It stars Dulquer Salmaan in the titular role, alongside Meenakshi Chaudhary. Set in the 1980s, the film follows the titular banker's mysterious riches.   
@@ -80,56 +101,28 @@ Lucky Baskhar is a 2024 Indian Telugu-language period crime drama film written a
 
 阅读延伸[76595549]: [https://en.wikipedia.org/wiki/Lucky_Baskhar](https://en.wikipedia.org/wiki/Lucky_Baskhar)   
 
-## 美国总统赦免或赦免的人名单   
-This is a partial list of people pardoned or granted clemency by the president of the United States. The plenary power to grant a pardon or a reprieve is granted to the president by Article II, Section 2, Clause 1 of the Constitution; the only limits mentioned in the Constitution are that pardons are limited to federal offenses, and that they cannot affect an impeachment process: "The president shall ... have power to grant reprieves and pardons for offenses against the United States, except in cases of impeachment".   
+## 星球大战：_骨架_船员   
+Star Wars: Skeleton Crew is an American science fiction adventure television series created by Jon Watts and Christopher Ford for the streaming service Disney+. It is part of the Star Wars franchise, taking place in the same time frame as the The Mandalorian series and its interconnected spin-offs after the events of the film Return of the Jedi (1983). Skeleton Crew tells a coming-of-age story about four children who make a discovery on their home planet, get lost in the galaxy, and go on an adventure to get back home.   
 
-这是美国总统赦免或赦免的部分人员名单。宪法第二条第2款第1款赋予总统赦免或缓刑的全部权力;宪法中提到的唯一限制是赦免仅限于联邦罪行，并且不能影响弹劾程序：“总统应.有权对针对美国的罪行给予缓刑和赦免，弹劾案件除外”。   
+星球大战：骷髅船员是一部美国科幻冒险电视剧，由乔恩·沃茨和克里斯托弗·福特为流媒体服务Disney+制作。它是《星球大战》系列的一部分，与《曼达洛人》系列及其在电影《绝地归来》（1983年）事件之后相互关联的衍生剧发生在同一时间段。《骷髅船员》讲述了一个成长故事，讲述了四个孩子在家乡星球上发现了一个新发现，在银河系中迷失了方向，然后冒险回家。   
 
-阅读延伸[2467744]: [https://en.wikipedia.org/wiki/List_of_people_pardoned_or_granted_clemency_by_the_president_of_the_United_States](https://en.wikipedia.org/wiki/List_of_people_pardoned_or_granted_clemency_by_the_president_of_the_United_States)   
+阅读延伸[70806010]: [https://en.wikipedia.org/wiki/Star_Wars%3A_Skeleton_Crew](https://en.wikipedia.org/wiki/Star_Wars%3A_Skeleton_Crew)   
 
-## 辛西娅_埃里沃   
-Cynthia Onyedinmanasu Chinasaokwu Erivo is a British actress and singer. She gained recognition for starring in the Broadway revival of The Color Purple from 2015 to 2017. The role earned her numerous accolades, including the 2016 Tony Award for Best Actress in a Musical and the Grammy Award for Best Musical Theater Album. Erivo ventured into films in 2018, playing roles in the heist film Widows and the thriller Bad Times at the El Royale.   
+## 角斗士_II   
+Gladiator II is a 2024 epic historical action film directed and co-produced by Ridley Scott. It was produced by Scott Free Productions, Red Wagon Entertainment and Parkes+MacDonald Image Nation, and distributed by Paramount Pictures. Serving as a sequel to Gladiator (2000), the film was written by David Scarpa from a story he wrote with Peter Craig. It stars Paul Mescal, Pedro Pascal, Joseph Quinn, Fred Hechinger, Lior Raz, Derek Jacobi, Connie Nielsen, and Denzel Washington. Jacobi and Nielsen reprise their roles from the first film, with Mescal replacing Spencer Treat Clark. Mescal portrays Lucius, the son of Maximus and Lucilla, who becomes a gladiator after his home is invaded by the Roman army led by General Marcus Acacius. Lucius seeks revenge against Acacius and fights as a gladiator for Macrinus, a former slave who plans to overthrow the emperors Geta and Caracalla.   
 
-辛西娅·奥涅丁马纳苏·奇纳萨库·埃里沃（Cynthia Onyedinmanasu Chinasaokwu Erivo）是一位英国女演员兼歌手。她因在2015年至2017年主演百老汇复兴版《紫色》而获得认可。这个角色为她赢得了众多荣誉，包括2016年托尼奖音乐剧最佳女主角和格莱美奖最佳音乐剧专辑。埃里沃于2018年涉足电影，在抢劫电影《寡妇》和惊悚片《皇家银行的坏时光》中扮演角色。   
+《角斗士II》是一部2024年史诗历史动作片，由雷德利·斯科特执导和联合制作。该片由Scott Free Productions、Red Wagon Entertainment和Parkes+MacDonald Image Nation制作，并由派拉蒙影业发行。这部电影是《角斗士》（2000年）的续集，由大卫·斯卡帕根据他与彼得·克雷格共同创作的故事写成。该剧由保罗·梅斯卡尔、佩德罗·帕斯卡、约瑟夫·奎因、弗雷德·赫钦格、利奥·拉兹、德里克·雅各比、康妮·尼尔森和丹泽尔·华盛顿主演。雅各比和尼尔森重新扮演了他们在第一部电影中的角色，梅斯卡尔取代了斯宾塞·特雷特·克拉克。梅斯卡尔饰演马克西穆斯和卢西拉的儿子卢修斯，在家乡被马库斯·阿喀修斯将军领导的罗马军队入侵后成为一名角斗士。卢修斯寻求对阿喀修斯的报复，并作为角斗士为马克林努斯而战，马克林努斯是一名前奴隶，计划推翻皇帝格塔和卡拉卡拉。   
 
-阅读延伸[48453494]: [https://en.wikipedia.org/wiki/Cynthia_Erivo](https://en.wikipedia.org/wiki/Cynthia_Erivo)   
+阅读延伸[72682130]: [https://en.wikipedia.org/wiki/Gladiator_II](https://en.wikipedia.org/wiki/Gladiator_II)   
 
-## 阿丽亚娜_格兰德   
-Ariana Grande-Butera is an American singer, songwriter, and actress. Regarded as a pop icon and an influential figure in popular music, she is known for her four-octave vocal range which extends into the whistle register. Grande is among the top 10 of Billboard's Greatest Pop Stars of the 21st Century and the top 50 of Rolling Stone's Greatest Singers of All Time list, both the highest for any artist emerging since the 2010s.   
+## 黑道家族角色列表   
 
-Ariana Grande-Butera是一位美国歌手、词曲作者和演员。她被誉为流行偶像和流行音乐中有影响力的人物，以延伸到哨子区的四八度音域而闻名。格兰德是《公告牌》评选的21世纪最伟大流行歌星前10名之一，也是《滚石》评选的有史以来最伟大歌手名单前50名之一，两者都是自2010年代以来新兴艺术家中最高的。   
+This is a list of fictional characters from the HBO series The Sopranos, and its prequel film The Many Saints of Newark.   
 
-阅读延伸[25276055]: [https://en.wikipedia.org/wiki/Ariana_Grande](https://en.wikipedia.org/wiki/Ariana_Grande)   
 
-## 叙利亚内战   
-The Syrian civil war is an ongoing multi-sided conflict in Syria involving various state-sponsored and non-state actors.
-In March 2011, popular discontent with the rule of Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring protests in the region. After months of crackdown by the government's security apparatus, various armed rebel groups such as the Free Syrian Army began forming across the country, marking the beginning of the Syrian insurgency. By mid-2012, the crisis had escalated into a full-blown civil war.   
+这是HBO剧集《黑道家族》及其前传电影《纽瓦克的众多圣徒》中的虚构人物列表。   
 
-叙利亚内战是叙利亚一场持续的多方冲突，涉及各种国家支持和非国家行为者。
-2011年3月，民众对巴沙尔·阿萨德统治的不满引发了叙利亚各地的大规模抗议和亲民主集会，这是该地区更广泛的阿拉伯之春抗议活动的一部分。经过政府安全机构数月的镇压，叙利亚自由军等各种武装叛乱组织开始在全国各地组建，标志着叙利亚叛乱的开始。到2012年中期，危机已升级为全面内战。   
-
-阅读延伸[30741795]: [https://en.wikipedia.org/wiki/Syrian_civil_war](https://en.wikipedia.org/wiki/Syrian_civil_war)   
-
-## 西北_叙利亚_进攻_（2024）   
-On 27 November 2024, a coalition of Syrian opposition groups called the Military Operations Command led by Hay'at Tahrir al-Sham (HTS) launched an offensive against the pro-government Syrian Arab Army (SAA) forces in Aleppo, Idlib, and Hama Governorates in Syria.   
-
-2024年11月27日，由海亚特·解放军（Hay ' at Tahrir al-Sham）领导的叙利亚反对派组织联盟，向阿勒颇、伊德利卜和哈马省的亲政府叙利亚阿拉伯军（SBA）部队发起进攻。   
-
-阅读延伸[78460726]: [https://en.wikipedia.org/wiki/Northwestern_Syria_offensive_(2024)](https://en.wikipedia.org/wiki/Northwestern_Syria_offensive_(2024))   
-
-## 2024年_爱尔兰_将军_选举   
-The 2024 Irish general election to elect the 34th Dáil took place on Friday, 29 November 2024, following the dissolution of the 33rd Dáil on 8 November by President Michael D. Higgins at the request of Taoiseach Simon Harris. Polls were open from 7 a.m. to 10 p.m. It will elect 174 Teachtaí Dála (TDs) across 43 constituencies of between 3 and 5 seats to Dáil Éireann, the lower house of the Oireachtas, Ireland's legislature. Under the Electoral (Amendment) Act 2023, the number of TDs was increased from 160, with an increase in the number of constituencies from 39 to 43. The 34th Dáil will be the largest Dáil in the history of the state. The main issues in the campaign were the cost of living, housing affordability and availability, immigration and asylum management, and economic stability amid external trade uncertainties, reflecting voter concerns despite the country's strong overall financial health.   
-
-继总统迈克尔·D于11月8日解散第33届议会后，2024年爱尔兰大选于2024年11月29日星期五举行，选出第34届议会。希金斯应西蒙·哈里斯总理的要求。投票开放时间为上午7点至晚上10点。投票将在43个选区选出174名Teachtaí Dála（TD），该选区为爱尔兰立法机构Oireachtas的下议院Dáil Éireann。根据2023年《选举（修正案）法》，TD数量从160个增加，选区数量从39个增加到43个。第34届议会将是该州历史上最大的议会。竞选活动中的主要问题是生活成本、住房负担能力和可用性、移民和庇护管理以及外部贸易不确定性中的经济稳定，这反映了选民的担忧，尽管该国的整体财政状况良好。   
-
-阅读延伸[63266554]: [https://en.wikipedia.org/wiki/2024_Irish_general_election](https://en.wikipedia.org/wiki/2024_Irish_general_election)   
-
-## 大卫·梅耶尔·德·罗斯柴尔德   
-David Mayer de Rothschild is a British adventurer, environmentalist, film producer, and heir to the Rothschild fortune.   
-
-大卫·梅尔·德·罗斯柴尔德（David Mayer de Rothschild）是一位英国冒险家、环保主义者、电影制片人，也是罗斯柴尔德家族财富的继承人。   
-
-阅读延伸[5209279]: [https://en.wikipedia.org/wiki/David_Mayer_de_Rothschild](https://en.wikipedia.org/wiki/David_Mayer_de_Rothschild)   
+阅读延伸[515807]: [https://en.wikipedia.org/wiki/List_of_The_Sopranos_characters](https://en.wikipedia.org/wiki/List_of_The_Sopranos_characters)   
 
 ## 2024年_联合_州_总统_选举   
 The 2024 United States presidential election will be the 60th quadrennial presidential election, set to be held on Tuesday, November 5, 2024. Voters in each state and the District of Columbia will choose electors to the Electoral College, who will then elect a president and vice president for a term of four years.   
@@ -138,10 +131,17 @@ The 2024 United States presidential election will be the 60th quadrennial presid
 
 阅读延伸[59568546]: [https://en.wikipedia.org/wiki/2024_United_States_presidential_election](https://en.wikipedia.org/wiki/2024_United_States_presidential_election)   
 
-## 杀死琼贝尼拉姆齐   
-JonBenét Patricia Ramsey was an American child beauty queen who was killed at age six in her family's home at 755 15th Street in Boulder, Colorado, on the night of December 25, 1996. Her body was found in the house's basement about seven hours after she had been reported missing. She had sustained a broken skull, and a garrote was tied around her neck. The autopsy report stated that JonBenét's official cause of death was "asphyxia by strangulation associated with craniocerebral trauma". Her death was ruled a homicide. The case generated worldwide public and media interest, in part because her mother Patsy Ramsey, a former beauty queen, had entered JonBenét into a series of child beauty pageants.   
+## 民主党_（韩国，_2015）   
+The Democratic Party, formerly known as the New Politics Alliance for Democracy, is a centrist-liberal South Korean political party. The DPK and its rival, the People Power Party (PPP), form the two major political parties of South Korea.   
 
-JonBenét Patricia Ramsey是一位美国儿童美容皇后，1996年12月25日晚，她在科罗拉多州博尔德市第15街755号的家中被杀，年仅六岁。她被报告失踪大约七小时后，她的尸体在房子的地下室被发现。她的头骨骨折，脖子上绑着绞索。尸检报告称，琼贝尼的官方死因是“与脑部创伤相关的勒脖子窒息”。她的死亡被裁定为他杀。此案引起了全球公众和媒体的兴趣，部分原因是她的母亲帕齐·拉姆齐（Patsy Ramsey）、前选美皇后让琼贝尼参加了一系列儿童选美比赛。   
+民主党前身为新政治民主联盟，是韩国一个中间派自由主义政党。民主党及其竞争对手人民力量党（PPP）组成了韩国的两大政党。   
 
-阅读延伸[168926]: [https://en.wikipedia.org/wiki/Killing_of_JonBen%C3%A9t_Ramsey](https://en.wikipedia.org/wiki/Killing_of_JonBen%C3%A9t_Ramsey)   
+阅读延伸[42316753]: [https://en.wikipedia.org/wiki/Democratic_Party_(South_Korea%2C_2015)](https://en.wikipedia.org/wiki/Democratic_Party_(South_Korea%2C_2015))   
+
+## 西北_叙利亚_进攻_（2024）   
+On 27 November 2024, a coalition of Syrian opposition groups called the Military Operations Command led by Hay'at Tahrir al-Sham (HTS) launched an offensive against the pro-government Syrian Arab Army (SAA) forces in Aleppo, Idlib, and Hama Governorates in Syria.   
+
+2024年11月27日，由海亚特·解放军（Hay ' at Tahrir al-Sham）领导的叙利亚反对派组织联盟，向阿勒颇、伊德利卜和哈马省的亲政府叙利亚阿拉伯军（SBA）部队发起进攻。   
+
+阅读延伸[78460726]: [https://en.wikipedia.org/wiki/Northwestern_Syria_offensive_(2024)](https://en.wikipedia.org/wiki/Northwestern_Syria_offensive_(2024))   
 
