@@ -6,13 +6,6 @@ Pushpa 2: The Rule is a 2024 Indian Telugu-language action drama film directed b
 
 阅读延伸[72983433]: [https://en.wikipedia.org/wiki/Pushpa_2%3A_The_Rule](https://en.wikipedia.org/wiki/Pushpa_2%3A_The_Rule)   
 
-## 布莱恩_汤普森_（商人）   
-Brian Robert Thompson was an American businessman. He was the chief executive officer (CEO) of the insurance arm of UnitedHealth Group from April 2021 until his death in December 2024.   
-
-布莱恩·罗伯特·汤普森是一位美国商人。他从2021年4月起担任联合健康集团保险部门的首席执行官（CEO），直至2024年12月去世。   
-
-阅读延伸[78516260]: [https://en.wikipedia.org/wiki/Brian_Thompson_(businessman)](https://en.wikipedia.org/wiki/Brian_Thompson_(businessman))   
-
 ## 叙利亚内战   
 The Syrian civil war is an ongoing multi-sided conflict in Syria involving various state-sponsored and non-state actors.
 In March 2011, popular discontent with the rule of Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring protests in the region. After months of crackdown by the government's security apparatus, various armed rebel groups such as the Free Syrian Army began forming across the country, marking the beginning of the Syrian insurgency. By mid-2012, the crisis had escalated into a full-blown civil war.   
@@ -22,6 +15,27 @@ In March 2011, popular discontent with the rule of Bashar al-Assad triggered lar
 
 阅读延伸[30741795]: [https://en.wikipedia.org/wiki/Syrian_civil_war](https://en.wikipedia.org/wiki/Syrian_civil_war)   
 
+## 印度   
+India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area; the most populous country with effect from June 2023; and from the time of its independence in 1947, the world's most populous democracy. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west; China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand, Myanmar, and Indonesia.   
+
+印度，正式名称印度共和国，是南亚国家。按面积计算，它是第七大国家;从2023年6月起成为人口最多的国家;自1947年独立以来，它是世界上人口最多的民主国家。南临印度洋，西南临阿拉伯海，东南临孟加拉湾，西与巴基斯坦接壤;北与中国、尼泊尔和不丹接壤;东与孟加拉国和缅甸接壤。在印度洋上，印度位于斯里兰卡和马尔代夫附近;其安达曼和尼科巴群岛与泰国、缅甸和印度尼西亚有共同的海上边界。   
+
+阅读延伸[14533]: [https://en.wikipedia.org/wiki/India](https://en.wikipedia.org/wiki/India)   
+
+## 营养不良   
+Malnutrition occurs when an organism gets too few or too many nutrients, resulting in health problems. Specifically, it is a deficiency, excess, or imbalance of energy, protein and other nutrients which adversely affects the body's tissues and form.   
+
+当生物体获得的营养过少或过多时，就会发生营养不良，从而导致健康问题。具体来说，它是能量、蛋白质和其他营养物质的缺乏、过量或失衡，对身体的组织和形态产生不利影响。   
+
+阅读延伸[258979]: [https://en.wikipedia.org/wiki/Malnutrition](https://en.wikipedia.org/wiki/Malnutrition)   
+
+## 巴沙尔·阿萨德   
+Bashar al-Assad is a Syrian politician who was the 19th and final president of Syria from 2000 until 2024. He is also the commander-in-chief of the Syrian Armed Forces and the secretary-general of the Central Command of the Arab Socialist Ba'ath Party. He is a son of Hafez al-Assad, who was the 18th president of Syria from 1971 until his death in 2000. Assad was overthrown in 2024 after a rebel offensive toppled his government.   
+
+巴沙尔·阿萨德是一位叙利亚政治家，2000年至2024年担任叙利亚第19任也是最后一任总统。他还是叙利亚武装部队总司令和阿拉伯社会复兴党中央司令部秘书长。他是哈菲兹·阿萨德的儿子，阿萨德从1971年起担任叙利亚第18任总统，直至2000年去世。2024年，叛军进攻推翻了阿萨德政府，阿萨德被推翻。   
+
+阅读延伸[364813]: [https://en.wikipedia.org/wiki/Bashar_al-Assad](https://en.wikipedia.org/wiki/Bashar_al-Assad)   
+
 ## 杀死布莱恩·汤普森   
 On December 4, 2024, Brian Thompson, CEO of UnitedHealthcare, was shot and killed outside an entrance to the New York Hilton Midtown in Manhattan, New York City. He was in town to attend an annual investors meeting for UnitedHealth Group, the parent company of UnitedHealthcare. Authorities believe the attack was not random and are investigating it as an assassination. The shooting occurred early in the morning and the suspect, described as a white man, fled the scene and as of December 6 has not been apprehended.   
 
@@ -29,12 +43,33 @@ On December 4, 2024, Brian Thompson, CEO of UnitedHealthcare, was shot and kille
 
 阅读延伸[78525568]: [https://en.wikipedia.org/wiki/Killing_of_Brian_Thompson](https://en.wikipedia.org/wiki/Killing_of_Brian_Thompson)   
 
-## 西北_叙利亚_进攻_（2024）   
-On 27 November 2024, a coalition of Syrian opposition groups called the Military Operations Command led by Hay'at Tahrir al-Sham (HTS) launched an offensive against the pro-government Syrian Arab Army (SAA) forces in Aleppo, Idlib, and Hama Governorates in Syria.   
+## 布莱恩_汤普森_（商人）   
+Brian Robert Thompson was an American businessman. He was the chief executive officer (CEO) of the insurance arm of UnitedHealth Group from April 2021 until his death in December 2024.   
 
-2024年11月27日，由海亚特·解放军（Hay ' at Tahrir al-Sham）领导的叙利亚反对派组织联盟，向阿勒颇、伊德利卜和哈马省的亲政府叙利亚阿拉伯军（SBA）部队发起进攻。   
+布莱恩·罗伯特·汤普森是一位美国商人。他从2021年4月起担任联合健康集团保险部门的首席执行官（CEO），直至2024年12月去世。   
 
-阅读延伸[78460726]: [https://en.wikipedia.org/wiki/Northwestern_Syria_offensive_(2024)](https://en.wikipedia.org/wiki/Northwestern_Syria_offensive_(2024))   
+阅读延伸[78516260]: [https://en.wikipedia.org/wiki/Brian_Thompson_(businessman)](https://en.wikipedia.org/wiki/Brian_Thompson_(businessman))   
+
+## 邪恶_（2024年_电影）   
+Wicked is a 2024 American epic musical fantasy film directed by Jon M. Chu from a screenplay by Winnie Holzman and Dana Fox. It is the first of a two-part film adaptation of the stage musical of the same name by Stephen Schwartz and Holzman, which in turn was loosely based on the 1995 novel of the same name by Gregory Maguire. The film stars Cynthia Erivo and Ariana Grande, with Jonathan Bailey, Ethan Slater, Bowen Yang, Marissa Bode, Peter Dinklage, Michelle Yeoh, and Jeff Goldblum in supporting roles.   
+
+Wicked是一部2024年美国史诗音乐奇幻电影，由Jon M执导。《楚》出自温妮·霍尔兹曼和达纳·福克斯的剧本。这是根据斯蒂芬·施瓦茨和霍尔兹曼的同名舞台音乐剧改编的两部分电影中的第一部，该剧又大致根据格雷戈里·马奎尔1995年的同名小说改编。这部电影由辛西娅·艾里沃和阿丽亚娜·格兰德主演，乔纳森·贝利、伊森·斯莱特、杨博文、玛丽莎·博德、彼得·丁拉基、杨紫琼和杰夫·戈德布卢姆担任配角。   
+
+阅读延伸[60455274]: [https://en.wikipedia.org/wiki/Wicked_(2024_film)](https://en.wikipedia.org/wiki/Wicked_(2024_film))   
+
+## 莎拉_哈德兰   
+Sarah Catherine E Hadland is an English actress. She is best known for her role as Stevie Sutton in the BBC One BAFTA-nominated comedy television series Miranda (2009–2015) and Trish in The Job Lot (2013–2015).   
+
+莎拉·凯瑟琳·E·哈德兰是一位英国女演员。她最出名的作品是在BBC One BAFTA提名的喜剧电视连续剧《米兰达》（Miranda，2009-2015）中饰演史蒂夫·萨顿（Stevie Sutton）和在《工作地点》（2013-2015）中饰演特里什。   
+
+阅读延伸[14200805]: [https://en.wikipedia.org/wiki/Sarah_Hadland](https://en.wikipedia.org/wiki/Sarah_Hadland)   
+
+## 黑鸽   
+Black Doves is a British spy thriller television series created by Joe Barton. The series, starring Keira Knightley, Ben Whishaw and Sarah Lancashire, is developed by Sister and Noisy Bear for Netflix. Ahead of its premiere on 5 December 2024, it was renewed for a second season.   
+
+《黑鸽子》是乔·巴顿创作的英国间谍惊悚电视剧。该剧由凯拉·奈特莉（Keira Knightley）、本·威肖（Ben Whishaw）和莎拉·兰开夏（Sarah Lancashire）主演，由姐姐和吵闹熊（Noisy Bear）为Netflix制作。在2024年12月5日首播之前，该剧续订了第二季。   
+
+阅读延伸[73652657]: [https://en.wikipedia.org/wiki/Black_Doves](https://en.wikipedia.org/wiki/Black_Doves)   
 
 ## 死亡_in_2024   
 
@@ -47,19 +82,19 @@ The following notable deaths occurred in 2024. Names are reported under the date
 
 阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
 
-## 联合健康_集团   
-UnitedHealth Group Incorporated is an American multinational health insurance and services company based in Minnetonka, Minnesota. Selling insurance products under UnitedHealthcare, and health care services under the Optum brand, it is the world's ninth-largest company by revenue and the largest health care company by revenue.   
+## 蒂莫西_查勒梅   
+Timothée Hal Chalamet is an American and French actor. He has received various accolades, including nominations for an Academy Award, three Golden Globe Awards, and three BAFTA Film Awards.   
 
-United Health Group Incorporated是一家总部位于明尼苏达州明尼通卡的美国跨国健康保险和服务公司。该公司以UnitedHealthcare销售保险产品，并以Optum品牌销售医疗保健服务，是全球收入第九大公司，也是收入最大的医疗保健公司。   
+蒂莫西·哈尔·查勒梅是一位美国和法国演员。他获得了各种荣誉，包括奥斯卡金像奖、三项金球奖和三项英国电影学院奖提名。   
 
-阅读延伸[1845551]: [https://en.wikipedia.org/wiki/UnitedHealth_Group](https://en.wikipedia.org/wiki/UnitedHealth_Group)   
+阅读延伸[46494361]: [https://en.wikipedia.org/wiki/Timoth%C3%A9e_Chalamet](https://en.wikipedia.org/wiki/Timoth%C3%A9e_Chalamet)   
 
-## 邪恶_（2024年_电影）   
-Wicked is a 2024 American epic musical fantasy film directed by Jon M. Chu from a screenplay by Winnie Holzman and Dana Fox. It is the first of a two-part film adaptation of the stage musical of the same name by Stephen Schwartz and Holzman, which in turn was loosely based on the 1995 novel of the same name by Gregory Maguire. The film stars Cynthia Erivo and Ariana Grande, with Jonathan Bailey, Ethan Slater, Bowen Yang, Marissa Bode, Peter Dinklage, Michelle Yeoh, and Jeff Goldblum in supporting roles.   
+## 迪克_范_戴克   
+Richard Wayne Van Dyke is an American actor, entertainer and comedian. His work spans screen and stage, and his awards include six Emmy Awards, a Grammy Award, a Golden Globe Award, and a Tony Award. He was inducted into the Television Hall of Fame in 1995 and the Hollywood Walk of Fame in 1993, and has been honored with the Screen Actors Guild Life Achievement Award in 2013, the Kennedy Center Honors in 2020, and was recognized as a Disney Legend in 1998.   
 
-Wicked是一部2024年美国史诗音乐奇幻电影，由Jon M执导。《楚》出自温妮·霍尔兹曼和达纳·福克斯的剧本。这是根据斯蒂芬·施瓦茨和霍尔兹曼的同名舞台音乐剧改编的两部分电影中的第一部，该剧又大致根据格雷戈里·马奎尔1995年的同名小说改编。这部电影由辛西娅·艾里沃和阿丽亚娜·格兰德主演，乔纳森·贝利、伊森·斯莱特、杨博文、玛丽莎·博德、彼得·丁拉基、杨紫琼和杰夫·戈德布卢姆担任配角。   
+理查德·韦恩·范戴克是一位美国演员、艺人和喜剧演员。他的作品跨越银幕和舞台，获得的奖项包括六项艾美奖、格莱美奖、金球奖和托尼奖。他于1995年入选电视名人堂，于1993年入选好莱坞星光大道，并于2013年荣获美国演员工会终身成就奖，于2020年荣获肯尼迪中心荣誉奖，并于1998年被评为迪士尼传奇人物。   
 
-阅读延伸[60455274]: [https://en.wikipedia.org/wiki/Wicked_(2024_film)](https://en.wikipedia.org/wiki/Wicked_(2024_film))   
+阅读延伸[462384]: [https://en.wikipedia.org/wiki/Dick_Van_Dyke](https://en.wikipedia.org/wiki/Dick_Van_Dyke)   
 
 ## 票房最高的印度电影列表   
 This ranking lists the highest-grossing Indian films produced by Indian cinema, based on conservative global box office estimates as reported by organisations classified as green by Wikipedia. The figures are not adjusted for inflation. However, there is no official tracking of figures and sources publishing data are frequently pressured to increase their estimates.   
@@ -68,57 +103,6 @@ This ranking lists the highest-grossing Indian films produced by Indian cinema, 
 
 阅读延伸[37650258]: [https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films)   
 
-## 2025年国际足联_俱乐部_世界杯   
-The 2025 FIFA Club World Cup is the planned 21st edition of the FIFA Club World Cup, an international club soccer competition organized by FIFA. The tournament is scheduled to be played in the United States from June 15 to July 13, 2025. It is planned to be the first under an expanded format with 32 teams, including the winners of the four previous continental championships.   
-
-2025年FIFA俱乐部世界杯是FIFA俱乐部世界杯计划举办的第21届FIFA俱乐部世界杯，是国际足联组织的国际俱乐部足球比赛。该赛事定于2025年6月15日至7月13日在美国举行。这计划是第一个扩大赛制的比赛，有32支球队参加，其中包括前四届大陆锦标赛的获胜者。   
-
-阅读延伸[72507744]: [https://en.wikipedia.org/wiki/2025_FIFA_Club_World_Cup](https://en.wikipedia.org/wiki/2025_FIFA_Club_World_Cup)   
-
-## 理工学院大屠杀   
-The École Polytechnique massacre, also known as the Montreal massacre, was an antifeminist mass shooting that occurred on December 6, 1989, at the École Polytechnique de Montréal in Montreal, Quebec, Canada. Fourteen women were murdered; another ten women and four men were injured.
-The perpetrator was 25-year-old Marc Lépine, armed with a legally obtained semi-automatic rifle and a hunting knife. He began his rampage at a mechanical engineering class at the École Polytechnique, where he separated the male and female students, ordering the men to leave. He shot all nine women in the room, killing six. For nearly 20 minutes the shooter moved through corridors on multiple floors of the building, the cafeteria, and another classroom, targeting women. He wounded more students and killed eight more women before fatally shooting himself. In total, he killed 14 women; he wounded 10 more women and four men.   
-
-理工学院大屠杀，也称为蒙特利尔大屠杀，是1989年12月6日发生在加拿大魁北克蒙特利尔蒙特利尔理工学院的反女权主义大规模枪击事件。十四名妇女被谋杀;另有十名妇女和四名男子受伤。
-肇事者是25岁的马克·莱平（Marc Lépine），携带合法获得的半自动步枪和猎刀。他在理工学院的机械工程课上开始了他的暴行，他将男女学生分开，命令男学生离开。他枪杀了房间里的所有九名妇女，造成六人死亡。在近20分钟的时间里，枪手穿过大楼多个楼层、自助餐厅和另一间教室的走廊，目标是女性。他打伤了更多学生，杀死了八名妇女，然后开枪自杀。他总共杀死了14名妇女;打伤了10名妇女和4名男子。   
-
-阅读延伸[58376]: [https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_massacre](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_massacre)   
-
-## 杀死_乔丹_尼利   
-On May 1, 2023, Jordan Neely, a 30-year-old homeless man, died after a 24-year-old Marine veteran named Daniel Penny put him in a chokehold. Neely boarded a New York City Subway train at the Second Avenue station just before it departed and reportedly began screaming that he was hungry and needed a job, saying that he was not afraid of going to prison and was ready to die, and threatening people. Freelance journalist Juan Alberto Vázquez, who witnessed the incident, said that Neely removed his jacket and threw it violently to the floor, resulting in other passengers moving away from him. Vázquez said that he did not see Neely assault anyone. Other witnesses reported fearing death from Neely's actions, including him throwing trash at other passengers and approaching people. Penny then approached Neely from behind and put him in a chokehold.   
-
-2023年5月1日，30岁的无家可归者乔丹·尼利（Jordan Neely）被一名名叫丹尼尔·彭尼（Daniel Penny）的24岁海军陆战队老兵掐住脖子后死亡。据报道，尼利在第二大道车站登上了一列纽约市地铁列车，并开始尖叫说自己饿了，需要一份工作，说他不害怕进监狱，准备好去死，并威胁人们。目睹了这一事件的自由记者胡安·阿尔贝托·巴斯克斯（Juan Alberto Vázquez）表示，尼利脱掉夹克并将其猛烈地扔到地板上，导致其他乘客远离他。巴斯克斯说，他没有看到尼利袭击任何人。其他目击者报告称，他担心尼利的行为会导致死亡，包括向其他乘客扔垃圾和接近人们。然后佩妮从后面走近尼利，掐住了他的脖子。   
-
-阅读延伸[73718411]: [https://en.wikipedia.org/wiki/Killing_of_Jordan_Neely](https://en.wikipedia.org/wiki/Killing_of_Jordan_Neely)   
-
-## 印第安纳琼斯和大圆环   
-Indiana Jones and the Great Circle is a 2024 adventure-action game developed by MachineGames and published by Bethesda Softworks. It is based on the Indiana Jones franchise and will feature an original narrative that draws from the film series. Set between the events of Raiders of the Lost Ark (1981) and Indiana Jones and the Last Crusade (1989), the story follows archaeologist Indiana Jones in 1937 as he attempts to thwart various groups who are seeking to harness a power connected to the Great Circle, which refers to mysterious sites around the world that form a perfect circle when connected together on a map. The game spans numerous real-world locales such as Peru, Connecticut, Vatican City, Thailand, Egypt, Shanghai and the Himalayas.   
-
-《印第安纳琼斯与大圆》是一款由MachineGames开发、Bethesda Softworks发行的2024年冒险动作游戏。它以《印第安纳琼斯》系列电影为基础，并将采用借鉴电影系列的原创叙事。故事发生在《夺宝奇兵》（1981年）和《印第安纳琼斯与最后的十字军东征》（1989年）之间，讲述了考古学家印第安纳琼斯在1937年试图挫败各种团体，他们试图利用与大圆相连的力量，大圆指的是世界各地的神秘地点，当它们在地图上连接在一起时，它们形成了一个完美的圆圈。该游戏跨越许多现实世界的地点，例如秘鲁、康涅狄格州、梵蒂冈城、泰国、埃及、上海和喜马拉雅山。   
-
-阅读延伸[66364908]: [https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Great_Circle](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Great_Circle)   
-
-## 黑鸽   
-Black Doves is a British spy thriller television series created by Joe Barton. The series, starring Keira Knightley, Ben Whishaw and Sarah Lancashire, is developed by Sister and Noisy Bear for Netflix. Ahead of its premiere on 5 December 2024, it was renewed for a second season.   
-
-《黑鸽子》是乔·巴顿创作的英国间谍惊悚电视剧。该剧由凯拉·奈特莉（Keira Knightley）、本·威肖（Ben Whishaw）和莎拉·兰开夏（Sarah Lancashire）主演，由姐姐和吵闹熊（Noisy Bear）为Netflix制作。在2024年12月5日首播之前，该剧续订了第二季。   
-
-阅读延伸[73652657]: [https://en.wikipedia.org/wiki/Black_Doves](https://en.wikipedia.org/wiki/Black_Doves)   
-
-## 丹_坎贝尔   
-Daniel Allen Campbell is an American professional football coach and former tight end who is the head coach for the Detroit Lions of the National Football League (NFL). He previously played in the NFL for 11 seasons. Campbell played college football for the Texas A&M Aggies and was selected by the New York Giants in the third round of the 1999 NFL draft. He was also a member of the Dallas Cowboys, New Orleans Saints, and Lions, winning Super Bowl XLIV with the Saints.   
-
-丹尼尔·艾伦·坎贝尔（Daniel Allen Campbell）是一位美国职业足球教练，曾担任过美国国家橄榄球联盟（NFL）底特律雄狮队的主教练。他此前在NFL效力了11个赛季。坎贝尔曾为德克萨斯农工大学橄榄球队踢大学橄榄球，并在1999年NFL选秀第三轮中被纽约巨人队选中。他还是达拉斯牛仔队、新奥尔良圣徒队和雄狮队的成员，与圣徒队一起赢得了超级碗XLIV。   
-
-阅读延伸[3703499]: [https://en.wikipedia.org/wiki/Dan_Campbell](https://en.wikipedia.org/wiki/Dan_Campbell)   
-
-## 布莱恩_汤普森_（消除歧义）   
-Brian Thompson is an American actor.   
-
-布莱恩·汤普森是一位美国演员。   
-
-阅读延伸[1926007]: [https://en.wikipedia.org/wiki/Brian_Thompson_(disambiguation)](https://en.wikipedia.org/wiki/Brian_Thompson_(disambiguation))   
-
 ## 邪恶_（音乐剧）   
 Wicked is a musical with music and lyrics by Stephen Schwartz and a book by Winnie Holzman. It is a loose adaptation of the 1995 Gregory Maguire novel Wicked: The Life and Times of the Wicked Witch of the West, which in turn is based on L. Frank Baum's 1900 novel The Wonderful Wizard of Oz and its 1939 film adaptation. The musical is told from the perspective of two witches, Elphaba and Galinda, before and after Dorothy's arrival in Oz. The story explores the complex friendship between Elphaba and Galinda. Their relationship is tested by their contrasting personalities, conflicting viewpoints, shared love interest, reactions to the corrupt rule of the Wonderful Wizard, and ultimately, Elphaba's tragic fall.   
 
@@ -126,19 +110,26 @@ Wicked is a musical with music and lyrics by Stephen Schwartz and a book by Winn
 
 阅读延伸[1678965]: [https://en.wikipedia.org/wiki/Wicked_(musical)](https://en.wikipedia.org/wiki/Wicked_(musical))   
 
-## 普什帕：_The_Rise   
-Pushpa: The Rise is a 2021 Indian Telugu-language action drama film written and directed by Sukumar, and produced by Mythri Movie Makers and Muttamsetty Media. The film stars Allu Arjun as Pushpa Raj, a coolie who rises in a syndicate that smuggles red sandalwood, a rare wood that grows only in the Seshachalam Hills of Andhra Pradesh. It also stars Fahadh Faasil alongside Rashmika Mandanna, Jagadeesh Prathap Bandari, Dhananjaya, Sunil, and Ajay Ghosh.   
+## 莫阿纳_2   
+Moana 2 is a 2024 American animated musical adventure film produced by Walt Disney Animation Studios for Walt Disney Pictures. It is the sequel to Moana (2016) and the second installment in the Moana franchise. The film is directed by David Derrick Jr., Jason Hand, and Dana Ledoux Miller and produced by Christina Chen and Yvett Merino, from a screenplay by Jared Bush and Miller. The film stars Auliʻi Cravalho, Dwayne Johnson, Temuera Morrison, Nicole Scherzinger, Rachel House, and Alan Tudyk, all reprising their roles from the first film, with Khaleesi Lambert-Tsuda, Rose Matafeo, David Fane, Hualālai Chung, Awhimai Fraser, and Gerald Ramsey joining the cast.   
 
-普什帕：《崛起》是一部2021年印度泰卢固语动作片，由Sukumar编剧和导演，Mythri Movie Makers和Muttamsetty Media制作。这部电影由阿鲁·阿尔琼（Allu Arjun）主演，饰演普什帕·拉杰（Pushpa Raj），一名在走私檀香木的集团中崛起的小工，檀香木是一种稀有木材，只生长在安得拉邦的谢沙查拉姆山。法赫德·法西尔（Fahadh Faasil）与拉什米卡·曼达纳（Rashmika Mandanna）、贾加迪什·普拉萨普·班达里（Jagadeesh Prathap Bandari）、达南贾亚（Dhanjaya）、苏尼尔（Sunil）和阿贾伊·戈什（Ajay Ghosh）一起主演。   
+《莫安娜2》是一部2024年美国动画音乐冒险电影，由华特迪士尼动画工作室为华特迪士尼影业制作。这是《莫阿娜》（2016）的续集，也是《莫阿娜》系列的第二部。这部电影由小大卫·德里克执导，杰森·汉德（Jason Hand）和达纳·勒杜·米勒（Dana Ledoux Miller），由克里斯蒂娜·陈（Christina Chen）和伊维特·梅里诺（Yvett Merino）制作，编剧为贾里德·布什（Jared Bush）和米勒（Miller）。这部电影由Auli Journi Cravalho、Dwayne Johnson、Temuera Morrison、Nicole Scherzinger、Rachel House和Alan Tudyk主演，他们都重新扮演了第一部电影中的角色，卡丽熙·兰伯特-津田、罗丝·马塔菲奥、大卫·费恩、瓦拉莱·钟、阿怀迈·弗雷泽和杰拉尔德·拉姆齐也加入了演员阵容。   
 
-阅读延伸[62191338]: [https://en.wikipedia.org/wiki/Pushpa%3A_The_Rise](https://en.wikipedia.org/wiki/Pushpa%3A_The_Rise)   
+阅读延伸[65419058]: [https://en.wikipedia.org/wiki/Moana_2](https://en.wikipedia.org/wiki/Moana_2)   
 
-## 维诺德_坎布利   
-Vinod Kambli is an Indian former international cricketer, who played for India as a left-handed middle order batsman, as well as for Mumbai and Boland, South Africa. Kambli became the first cricketer to score a century in a One-day International on his birthday. He was a part of the squad which finished as runners-up at the 2000 ICC Champions Trophy.   
+## 叙利亚   
+Syria, officially the Syrian Arab Republic, is a country in West Asia located in the Eastern Mediterranean and the Levant. It is bounded by the Mediterranean Sea to the west, Turkey to the north, Iraq to the east and southeast, Jordan to the south, and Israel and Lebanon to the southwest. It is a republic comprising 14 governorates. Damascus is Syria's capital and largest city. With a population of 25 million across an area of 185,180 square kilometres (71,500 sq mi), it is the 57th most populous and 87th largest country.   
 
-维诺德·坎布利（Vinod Kambli）是一位印度前国际板球运动员，曾为印度以及南非孟买和博兰效力，担任左手中层击球手。坎布利生日那天成为第一位在单日国际比赛中获得一个世纪的板球运动员。他是2000年国际刑事法院冠军杯亚军球队的一员。   
+叙利亚，正式名称阿拉伯叙利亚共和国，是一个西亚国家，位于东地中海和黎凡特。西临地中海，北临土耳其，东临伊拉克，南临约旦，西南与以色列和黎巴嫩接壤。它是一个由14个省组成的共和国。大马士革是叙利亚首都和最大城市。该国人口2500万，面积185，180平方公里（71，500平方英里），是世界上人口第57位、面积第87位的国家。   
 
-阅读延伸[564046]: [https://en.wikipedia.org/wiki/Vinod_Kambli](https://en.wikipedia.org/wiki/Vinod_Kambli)   
+阅读延伸[7515849]: [https://en.wikipedia.org/wiki/Syria](https://en.wikipedia.org/wiki/Syria)   
+
+## 角斗士_II   
+Gladiator II is a 2024 epic historical action film directed and co-produced by Ridley Scott. It was produced by Scott Free Productions, Red Wagon Entertainment and Parkes+MacDonald Image Nation, and distributed by Paramount Pictures. Serving as a sequel to Gladiator (2000), the film was written by David Scarpa from a story he wrote with Peter Craig. It stars Paul Mescal, Pedro Pascal, Joseph Quinn, Fred Hechinger, Lior Raz, Derek Jacobi, Connie Nielsen, and Denzel Washington. Jacobi and Nielsen reprise their roles from the first film, with Mescal replacing Spencer Treat Clark. Mescal portrays Lucius, the son of Maximus and Lucilla, who becomes a gladiator after his home is invaded by the Roman army led by General Marcus Acacius. Lucius seeks revenge against Acacius and fights as a gladiator for Macrinus, a former slave who plans to overthrow the emperors Geta and Caracalla.   
+
+《角斗士II》是一部2024年史诗历史动作片，由雷德利·斯科特执导和联合制作。该片由Scott Free Productions、Red Wagon Entertainment和Parkes+MacDonald Image Nation制作，并由派拉蒙影业发行。这部电影是《角斗士》（2000年）的续集，由大卫·斯卡帕根据他与彼得·克雷格共同创作的故事写成。该剧由保罗·梅斯卡尔、佩德罗·帕斯卡、约瑟夫·奎因、弗雷德·赫钦格、利奥·拉兹、德里克·雅各比、康妮·尼尔森和丹泽尔·华盛顿主演。雅各比和尼尔森重新扮演了他们在第一部电影中的角色，梅斯卡尔取代了斯宾塞·特雷特·克拉克。梅斯卡尔饰演马克西穆斯和卢西拉的儿子卢修斯，在家乡被马库斯·阿喀修斯将军领导的罗马军队入侵后成为一名角斗士。卢修斯寻求对阿喀修斯的报复，并作为角斗士为马克林努斯而战，马克林努斯是一名前奴隶，计划推翻皇帝格塔和卡拉卡拉。   
+
+阅读延伸[72682130]: [https://en.wikipedia.org/wiki/Gladiator_II](https://en.wikipedia.org/wiki/Gladiator_II)   
 
 ## 穆昆德_瓦拉达拉詹   
 Major Mukund Varadarajan AC was an Indian Army officer and a recipient of the Ashoka Chakra. Mukund, a commissioned officer in the Indian Army's Rajput Regiment, was posthumously awarded the Ashok Chakra for his actions during a counterterrorism operation while on deputation to the 44th Rashtriya Rifles battalion in Jammu and Kashmir. His biopic in Tamil, Amaran had released on October 31, 2024, coinciding with Diwali.   
@@ -146,4 +137,11 @@ Major Mukund Varadarajan AC was an Indian Army officer and a recipient of the As
 Mukund Varadarajan AC少校是一名印度陆军军官，也是Ashoka脉轮的接受者。穆孔德是印度陆军拉杰普特团的一名军官，他因在代表查谟和克什米尔第44拉什特里亚步枪营参加反恐行动时的行为而被追授阿肖克脉轮勋章。他用泰米尔语写成的传记片Amaran于2024年10月31日上映，恰逢排灯节。   
 
 阅读延伸[43576772]: [https://en.wikipedia.org/wiki/Mukund_Varadarajan](https://en.wikipedia.org/wiki/Mukund_Varadarajan)   
+
+## 凯拉_奈特利   
+Keira Christina Knightley OBE is an English actress. Known for her work in independent films and blockbusters, particularly period dramas, she has received numerous accolades, including nominations for two Academy Awards, two BAFTAs, three Golden Globes, and a Laurence Olivier Award. In 2018, she was appointed an OBE at Buckingham Palace for services to drama and charity.   
+
+凯拉·克里斯蒂娜·奈特莉OBE是一位英国女演员。她因在独立电影和大片（尤其是古装剧）中的工作而闻名，获得了众多荣誉，包括两项奥斯卡金像奖、两项英国电影和电视艺术学院奖、三项金球奖和劳伦斯·奥利维尔奖的提名。2018年，她因为戏剧和慈善事业提供服务而被白金汉宫任命为OBE。   
+
+阅读延伸[249897]: [https://en.wikipedia.org/wiki/Keira_Knightley](https://en.wikipedia.org/wiki/Keira_Knightley)   
 
