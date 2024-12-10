@@ -6,6 +6,13 @@ Bashar al-Assad is a Syrian politician who was the 19th and final president of S
 
 阅读延伸[364813]: [https://en.wikipedia.org/wiki/Bashar_al-Assad](https://en.wikipedia.org/wiki/Bashar_al-Assad)   
 
+## Pushpa_2：__规则   
+Pushpa 2: The Rule is a 2024 Indian Telugu-language action drama film directed by Sukumar and produced by Mythri Movie Makers, in association with Sukumar Writings. The film stars Allu Arjun in the titular role, alongside Rashmika Mandanna, Fahadh Faasil, Jagapathi Babu, Dhananjaya, Rao Ramesh, Sunil and Anasuya Bharadwaj. It is the second instalment in the Pushpa film series and the sequel to the 2021 film Pushpa: The Rise.   
+
+普什帕2：《规则》是一部2024年印度泰卢固语动作片，由Sukumar执导，Mythri Movie Makers与Sukumar Injings联合制作。这部电影由阿鲁·阿尔琼（Allu Arjun）主演，还有拉什米卡·曼达纳（Rashmika Mandanna）、法赫德·法西尔（Fahadh Faasil）、贾加帕蒂·巴布（Jagapathi Babu）、达南贾亚（Dhananjaya）、拉奥·拉梅什（Rao Ramesh）、苏尼尔（Sunil）和阿纳苏亚·巴拉德瓦吉（Anasuya Bharadwaj）主演。这是普什帕电影系列的第二部，也是2021年电影《普什帕：崛起》的续集。   
+
+阅读延伸[72983433]: [https://en.wikipedia.org/wiki/Pushpa_2%3A_The_Rule](https://en.wikipedia.org/wiki/Pushpa_2%3A_The_Rule)   
+
 ## 叙利亚   
 Syria, officially the Syrian Arab Republic, is a country in West Asia located in the Eastern Mediterranean and the Levant. It is bounded by the Mediterranean Sea to the west, Turkey to the north, Iraq to the east and southeast, Jordan to the south, and Israel and Lebanon to the southwest. It is a republic comprising 14 governorates. Damascus is Syria's capital and largest city. With a population of 25 million across an area of 185,180 square kilometres (71,500 sq mi), it is the 57th most populous and 87th largest country.   
 
@@ -22,19 +29,26 @@ In March 2011, popular discontent with the rule of Bashar al-Assad triggered lar
 
 阅读延伸[30741795]: [https://en.wikipedia.org/wiki/Syrian_civil_war](https://en.wikipedia.org/wiki/Syrian_civil_war)   
 
-## Pushpa_2：__规则   
-Pushpa 2: The Rule is a 2024 Indian Telugu-language action drama film directed by Sukumar and produced by Mythri Movie Makers, in association with Sukumar Writings. The film stars Allu Arjun in the titular role, alongside Rashmika Mandanna, Fahadh Faasil, Jagapathi Babu, Dhananjaya, Rao Ramesh, Sunil and Anasuya Bharadwaj. It is the second instalment in the Pushpa film series and the sequel to the 2021 film Pushpa: The Rise.   
-
-普什帕2：《规则》是一部2024年印度泰卢固语动作片，由Sukumar执导，Mythri Movie Makers与Sukumar Injings联合制作。这部电影由阿鲁·阿尔琼（Allu Arjun）主演，还有拉什米卡·曼达纳（Rashmika Mandanna）、法赫德·法西尔（Fahadh Faasil）、贾加帕蒂·巴布（Jagapathi Babu）、达南贾亚（Dhananjaya）、拉奥·拉梅什（Rao Ramesh）、苏尼尔（Sunil）和阿纳苏亚·巴拉德瓦吉（Anasuya Bharadwaj）主演。这是普什帕电影系列的第二部，也是2021年电影《普什帕：崛起》的续集。   
-
-阅读延伸[72983433]: [https://en.wikipedia.org/wiki/Pushpa_2%3A_The_Rule](https://en.wikipedia.org/wiki/Pushpa_2%3A_The_Rule)   
-
 ## 阿斯玛·阿萨德   
 Asma Fawaz al-Assad is the former first lady of Syria as the wife of Bashar al-Assad from 2000 to 2024. Born and raised in London to Syrian parents, she became First Lady when she married al-Assad, then President of Syria, on 13 December 2000.   
 
 阿斯玛·法瓦兹·阿萨德（Asma Fawaz al-Assad）是叙利亚前第一夫人，于2000年至2024年担任巴沙尔·阿萨德（Bashar al-Assad）的妻子。她在伦敦出生和长大，父母是叙利亚人，2000年12月13日与时任叙利亚总统阿萨德结婚，成为第一夫人。   
 
 阅读延伸[6049070]: [https://en.wikipedia.org/wiki/Asma_al-Assad](https://en.wikipedia.org/wiki/Asma_al-Assad)   
+
+## 胡安·索托   
+Juan José Soto Pacheco is a Dominican professional baseball outfielder for the New York Yankees of Major League Baseball (MLB). He has previously played in MLB for the Washington Nationals and San Diego Padres. Soto signed with the Nationals as an international free agent in 2015. He made his MLB debut in 2018 and was the runner-up for the NL Rookie of the Year Award. In 2019, he played a key part in the Nationals' first World Series championship, earning him the Babe Ruth Award. In 2020, he won the National League batting title with a .351 average. Soto has won the Silver Slugger Award four times and is a four-time All-Star.   
+
+胡安·何塞·索托·帕切科（Juan José Soto Pacheco）是美国职业棒球大联盟（MLB）纽约洋基队的多米尼加职业棒球外野手。他此前曾在美国职业棒球大联盟效力于华盛顿国民队和圣地亚哥教士队。索托于2015年以国际自由球员身份与国民队签约。他于2018年首次亮相美国职业棒球大联盟（MLB），并获得国联年度新秀奖亚军。2019年，他在国民队首届世界大赛冠军中发挥了关键作用，为他赢得了贝比·露丝奖。2020年，他以0.351的平均击球率赢得了全国联赛击球冠军。索托曾四次获得银棒奖，四次入选全明星。   
+
+阅读延伸[51867270]: [https://en.wikipedia.org/wiki/Juan_Soto](https://en.wikipedia.org/wiki/Juan_Soto)   
+
+## 杀死_乔丹_尼利   
+On May 1, 2023, Jordan Neely, a 30-year-old homeless man, died after a 24-year-old Marine veteran named Daniel Penny put him in a chokehold. Neely boarded a New York City Subway train at the Second Avenue station just before it departed and reportedly began screaming that he was hungry and needed a job, saying that he was not afraid of going to prison and was ready to die, and threatening people. Freelance journalist Juan Alberto Vázquez, who witnessed the incident, said that Neely removed his jacket and threw it violently to the floor, resulting in other passengers moving away from him. Vázquez said that he did not see Neely assault anyone. Other witnesses reported fearing death from Neely's actions, including him throwing trash at other passengers and approaching people. Penny then approached Neely from behind and put him in a chokehold.   
+
+2023年5月1日，30岁的无家可归者乔丹·尼利（Jordan Neely）被一名名叫丹尼尔·彭尼（Daniel Penny）的24岁海军陆战队老兵掐住脖子后死亡。据报道，尼利在第二大道车站登上了一列纽约市地铁列车，并开始尖叫说自己饿了，需要一份工作，说他不害怕进监狱，准备好去死，并威胁人们。目睹了这一事件的自由记者胡安·阿尔贝托·巴斯克斯（Juan Alberto Vázquez）表示，尼利脱掉夹克并将其猛烈地扔到地板上，导致其他乘客远离他。巴斯克斯说，他没有看到尼利袭击任何人。其他目击者报告称，他担心尼利的行为会导致死亡，包括向其他乘客扔垃圾和接近人们。然后佩妮从后面走近尼利，掐住了他的脖子。   
+
+阅读延伸[73718411]: [https://en.wikipedia.org/wiki/Killing_of_Jordan_Neely](https://en.wikipedia.org/wiki/Killing_of_Jordan_Neely)   
 
 ## 哈菲兹·阿萨德   
 Hafez al-Assad was a Syrian politician and military officer who served as the 18th president of Syria from 1971 until his death in 2000. He had previously served as prime minister of Syria from 1970 to 1971 as well as regional secretary of the regional command of the Syrian regional branch of the Arab Socialist Ba'ath Party and secretary general of the National Command of the Ba'ath Party from 1970 to 2000. Hafez al-Assad was a key participant in the 1963 Syrian coup d'état, which brought the Syrian regional branch of the Arab Socialist Ba'ath Party to power in the country, a power that lasted until the fall of the regime in 2024, then led by his son Bashar.   
@@ -43,12 +57,26 @@ Hafez al-Assad was a Syrian politician and military officer who served as the 18
 
 阅读延伸[70843]: [https://en.wikipedia.org/wiki/Hafez_al-Assad](https://en.wikipedia.org/wiki/Hafez_al-Assad)   
 
-## 西北_叙利亚_进攻_（2024）   
-On 27 November 2024, a coalition of Syrian opposition groups called the Military Operations Command led by Hay'at Tahrir al-Sham (HTS) launched an offensive against the pro-government Syrian Arab Army (SAA) forces in Aleppo, Idlib, and Hama Governorates in Syria.   
+## 阿萨德政权垮台   
+On 8 December 2024, the Syrian Arab Republic under Bashar al-Assad collapsed amid major offensives by the Syrian opposition led by Hayat Tahrir al-Sham, as part of the Syrian civil war that began in 2011. The fall of Damascus marked the end of the Assad family regime, which had ruled Syria as a totalitarian hereditary dictatorship since Hafez al-Assad assumed the presidency in 1971 as a result of the Corrective Revolution.   
 
-2024年11月27日，由海亚特·解放军（Hay ' at Tahrir al-Sham）领导的叙利亚反对派组织联盟，向阿勒颇、伊德利卜和哈马省的亲政府叙利亚阿拉伯军（SBA）部队发起进攻。   
+2024年12月8日，作为2011年开始的叙利亚内战的一部分，巴沙尔·阿萨德领导下的阿拉伯叙利亚共和国在哈亚特·解放军领导下的叙利亚反对派的重大攻势中崩溃。大马士革的陷落标志着阿萨德家族政权的终结，自哈菲兹·阿萨德1971年因纠正革命而就任总统以来，阿萨德家族政权一直以极权主义世袭独裁统治叙利亚。   
 
-阅读延伸[78460726]: [https://en.wikipedia.org/wiki/Northwestern_Syria_offensive_(2024)](https://en.wikipedia.org/wiki/Northwestern_Syria_offensive_(2024))   
+阅读延伸[78548066]: [https://en.wikipedia.org/wiki/Fall_of_the_Assad_regime](https://en.wikipedia.org/wiki/Fall_of_the_Assad_regime)   
+
+## 杀死布莱恩·汤普森   
+On December 4, 2024, Brian Thompson, CEO of UnitedHealthcare, was shot and killed outside an entrance to the New York Hilton Midtown in Manhattan, New York City. He was in town to attend an annual investors meeting for UnitedHealth Group, the parent company of UnitedHealthcare. Authorities believe the attack was not random and are investigating it as an assassination. The shooting occurred early in the morning and the suspect, described as a white man, fled the scene and as of December 6 has not been apprehended.   
+
+2024年12月4日，United Healthcare首席执行官布莱恩·汤普森（Brian Thompson）在纽约市曼哈顿纽约希尔顿中城酒店入口外被枪杀。他来城里是为了参加United Healthcare母公司United Health Group的年度投资者会议。当局认为这次袭击并非随机事件，正在将其作为暗杀事件进行调查。枪击事件发生在凌晨，嫌疑人被描述为一名白人，他逃离了现场，截至12月6日尚未被捕。   
+
+阅读延伸[78525568]: [https://en.wikipedia.org/wiki/Killing_of_Brian_Thompson](https://en.wikipedia.org/wiki/Killing_of_Brian_Thompson)   
+
+## 票房最高的印度电影列表   
+This ranking lists the highest-grossing Indian films produced by Indian cinema, based on conservative global box office estimates as reported by organisations classified as green by Wikipedia. The figures are not adjusted for inflation. However, there is no official tracking of figures and sources publishing data are frequently pressured to increase their estimates.   
+
+该排名列出了印度电影院制作的票房最高的印度电影，该排名基于维基百科列为绿色组织的保守全球票房估计。这些数字没有根据通货膨胀进行调整。然而，没有官方跟踪数据，发布数据的来源经常被迫提高估计数。   
+
+阅读延伸[37650258]: [https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films)   
 
 ## 阿布·穆罕默德·朱拉尼   
 Ahmed Hussein al-Shar'a, better known by his nom de guerre Abu Mohammad al-Julani, is a Syrian militant leader who has served as the second emir of Tahrir al-Sham since 2017. Born in Saudi Arabia to Syrian exiles, his family returned to Syria in the late 1980s. Before cutting ties with Al-Qaeda in 2016, Julani had served as the emir of the now-defunct Al-Nusra Front, the former Syrian branch of Al-Qaeda.   
@@ -57,40 +85,37 @@ Ahmed Hussein al-Shar'a, better known by his nom de guerre Abu Mohammad al-Julan
 
 阅读延伸[44007699]: [https://en.wikipedia.org/wiki/Abu_Mohammad_al-Julani](https://en.wikipedia.org/wiki/Abu_Mohammad_al-Julani)   
 
-## UFC_310   
-UFC 310: Pantoja vs. Asakura was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on December 7, 2024, at the T-Mobile Arena in Paradise, Nevada, part of the Las Vegas Valley, United States.   
+## 布莱恩_汤普森_（商人）   
+Brian Robert Thompson was an American businessman. He was the chief executive officer (CEO) of the insurance arm of UnitedHealth Group from April 2021 until his death in December 2024.   
 
-UFC 310：Pantoja vs. Asakura是由终极格斗锦标赛制作的一项综合武术赛事，于2024年12月7日在美国拉斯维加斯谷内华达州天堂的T-Mobile竞技场举行。   
+布莱恩·罗伯特·汤普森是一位美国商人。他从2021年4月起担任联合健康集团保险部门的首席执行官（CEO），直至2024年12月去世。   
 
-阅读延伸[77591045]: [https://en.wikipedia.org/wiki/UFC_310](https://en.wikipedia.org/wiki/UFC_310)   
+阅读延伸[78516260]: [https://en.wikipedia.org/wiki/Brian_Thompson_(businessman)](https://en.wikipedia.org/wiki/Brian_Thompson_(businessman))   
 
-## 解放军   
-Hayʼat Tahrir al-Sham, commonly referred to as Tahrir al-Sham, is a Sunni Islamist political and paramilitary organisation involved in the Syrian civil war. It was formed on 28 January 2017 as a merger between several armed factions, Jaysh al-Ahrar, Jabhat Fateh al-Sham (JFS), Ansar al-Din Front, Jaysh al-Sunna, Liwa al-Haqq, and the Nour al-Din al-Zenki Movement. The unification process was held under the initiative of Abu Jaber Shaykh, an Islamist militant commander who had been the second emir of Ahrar al-Sham.   
+## 2024_以色列_入侵_of_叙利亚   
+On 8 December 2024, amid and following the decisive battle of Damascus and subsequent fall of the Assad regime, Israeli armored units advanced into the United Nations Disengagement Observer Force (UNDOF) buffer zone in between Syria and the Israeli-occupied Golan Heights, targeting the central countryside of the Quneitra Governorate with artillery fire. The operation marked the first time in 50 years that Israeli forces were stationed in the area, following ceasefire agreements on 31 May 1974 in the aftermath of the Yom Kippur War.   
 
-Hay at Tahrir al-Sham，通常被称为Tahrir al-Sham，是一个参与叙利亚内战的逊尼派伊斯兰政治和准军事组织。它于2017年1月28日成立，是几个武装派别Jaysh al-Ahrar、Jabhat Fateh al-Sham（JFS）、Ansar al-Din Front、Jaysh al-Sunna、Liwa al-Haqq和Nour al-Din al-Zenki Movement的合并。统一进程是在伊斯兰激进分子指挥官阿布·贾比尔·谢赫（Abu Jaber Shaykh）的倡议下进行的，阿布·贾比尔·谢赫（Abu Jaber Shaykh）曾是Ahrar al-Sham的第二任埃米尔。   
+2024年12月8日，在大马士革决定性战役和随后阿萨德政权垮台期间和之后，以色列装甲部队挺进叙利亚和以色列占领的戈兰高地之间的联合国脱离接触观察员部队（观察员部队）缓冲区，炮击库奈特拉省中部乡村。此次行动标志着继赎罪日战争后1974年5月31日达成停火协议后，以色列军队50年来首次驻扎该地区。   
 
-阅读延伸[53015755]: [https://en.wikipedia.org/wiki/Tahrir_al-Sham](https://en.wikipedia.org/wiki/Tahrir_al-Sham)   
+阅读延伸[78549398]: [https://en.wikipedia.org/wiki/2024_Israeli_invasion_of_Syria](https://en.wikipedia.org/wiki/2024_Israeli_invasion_of_Syria)   
 
-## 营养不良   
-Malnutrition occurs when an organism gets too few or too many nutrients, resulting in health problems. Specifically, it is a deficiency, excess, or imbalance of energy, protein and other nutrients which adversely affects the body's tissues and form.   
+## Jay-Z   
+Shawn Corey Carter, known professionally as Jay-Z, is an American rapper, businessman, and record executive. Rooted in East Coast hip-hop, he was named the greatest rapper of all time by Billboard and Vibe in 2023, and topped Forbes list of "The 50 Top Rappers Of All Time" in 2024. Known for his complex lyrical ability—which often uses double entendres and word play—and braggadocio, his music is built upon a rags to riches narrative. He served as president and chief executive officer of Def Jam Recordings from 2004 to 2007, and founded the entertainment company Roc Nation the following year.   
 
-当生物体获得的营养过少或过多时，就会发生营养不良，从而导致健康问题。具体来说，它是能量、蛋白质和其他营养物质的缺乏、过量或失衡，对身体的组织和形态产生不利影响。   
+肖恩·科里·卡特（Shawn Corey Carter），专业名称Jay-Z，是一位美国说唱歌手、商人和唱片公司高管。他植根于东海岸嘻哈音乐，于2023年被Billboard和Vibe评为有史以来最伟大的说唱歌手，并于2024年登上福布斯“有史以来50名说唱歌手”排行榜榜首。他的音乐以其复杂的抒情能力（经常使用双关语和文字游戏）和吹牛而闻名，他的音乐建立在白手起家的叙事之上。2004年至2007年，他担任Def Jam Recordings的总裁兼首席执行官，并于次年创立了娱乐公司Roc Nation。   
 
-阅读延伸[258979]: [https://en.wikipedia.org/wiki/Malnutrition](https://en.wikipedia.org/wiki/Malnutrition)   
+阅读延伸[162870]: [https://en.wikipedia.org/wiki/Jay-Z](https://en.wikipedia.org/wiki/Jay-Z)   
 
-## 阿萨德政权垮台   
-On 8 December 2024, the Syrian Arab Republic under Bashar al-Assad collapsed amid major offensives by the Syrian opposition led by Hayat Tahrir al-Sham, as part of the Syrian civil war that began in 2011. The fall of Damascus marked the end of the Assad family regime, which had ruled Syria as a totalitarian hereditary dictatorship since Hafez al-Assad assumed the presidency in 1971 as a result of the Corrective Revolution.   
+## 死亡_in_2024   
 
-2024年12月8日，作为2011年开始的叙利亚内战的一部分，巴沙尔·阿萨德领导下的阿拉伯叙利亚共和国在哈亚特·解放军领导下的叙利亚反对派的重大攻势中崩溃。大马士革的陷落标志着阿萨德家族政权的终结，自哈菲兹·阿萨德1971年因纠正革命而就任总统以来，阿萨德家族政权一直以极权主义世袭独裁统治叙利亚。   
 
-阅读延伸[78548066]: [https://en.wikipedia.org/wiki/Fall_of_the_Assad_regime](https://en.wikipedia.org/wiki/Fall_of_the_Assad_regime)   
+The following notable deaths occurred in 2024. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and reference.   
 
-## 穆罕默德·加齐·贾拉利   
-Mohammad Ghazi al-Jalali is a Syrian politician and civil engineer who has been leading the Syrian caretaker government since 8 December 2024, after the president of Syria, Bashar al-Assad, was overthrown. He previously held the position of minister of communications and information technology in the second government of Wael Nader al-Halqi from 27 August 2014 to 3 July 2016.   
 
-穆罕默德·加齐·贾拉利（Mohammad Ghazi al-Jalali）是一名叙利亚政治家和土木工程师，自2024年12月8日叙利亚总统巴沙尔·阿萨德（Bashar al-Assad）被推翻后，他一直领导叙利亚看守政府。他曾于2014年8月27日至2016年7月3日在Wael Nader al-Halqi第二届政府中担任通信和信息技术部长。   
 
-阅读延伸[77989532]: [https://en.wikipedia.org/wiki/Mohammad_Ghazi_al-Jalali](https://en.wikipedia.org/wiki/Mohammad_Ghazi_al-Jalali)   
+以下值得注意的死亡事件发生在2024年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
+
+阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
 
 ## 黑鸽   
 Black Doves is a British spy thriller television series created by Joe Barton. The series, starring Keira Knightley, Ben Whishaw and Sarah Lancashire, is developed by Sister and Noisy Bear for Netflix. Ahead of its premiere on 5 December 2024, it was renewed for a second season.   
@@ -99,40 +124,12 @@ Black Doves is a British spy thriller television series created by Joe Barton. T
 
 阅读延伸[73652657]: [https://en.wikipedia.org/wiki/Black_Doves](https://en.wikipedia.org/wiki/Black_Doves)   
 
-## 叙利亚_反对派   
-The Syrian opposition is an umbrella term for the groups that opposed the Assad family's rule in Syria. In later 2012, during the Syrian civil war, political groups operating from abroad formed the Syrian National Coalition. In turn, the Coalition formed the Syrian Interim Government which operated first as a government-in-exile and, from 2016, in certain Turkish-occupied zones of Syria. From 2017, the Islamist group Tahrir al-Sham, unaffiliated to the Syrian National Coalition, formed the Syrian Salvation Government in the areas it controlled. Other groups that challenged Bashar al-Assad's rule during the civil war include the Autonomous Administration of North and East Syria, the Southern Front, the Revolutionary Commando Army and the jihadist organization known as the Islamic State.   
+## 解放军   
+Hayʼat Tahrir al-Sham, commonly referred to as Tahrir al-Sham, is a Sunni Islamist political and paramilitary organisation involved in the Syrian civil war. It was formed on 28 January 2017 as a merger between several armed factions, Jaysh al-Ahrar, Jabhat Fateh al-Sham (JFS), Ansar al-Din Front, Jaysh al-Sunna, Liwa al-Haqq, and the Nour al-Din al-Zenki Movement. The unification process was held under the initiative of Abu Jaber Shaykh, an Islamist militant commander who had been the second emir of Ahrar al-Sham.   
 
-叙利亚反对派是反对阿萨德家族在叙利亚统治的团体的总称。2012年底，叙利亚内战期间，海外政治团体成立了叙利亚全国联盟。反过来，联盟组建了叙利亚临时政府，该政府最初以流亡政府的身份运作，并从2016年起在叙利亚的某些土耳其占领地区运作。从2017年起，与叙利亚全国联盟无关的伊斯兰组织解放阵线在其控制的地区组建了叙利亚救世政府。内战期间挑战巴沙尔·阿萨德统治的其他团体包括叙利亚北部和东部自治政府、南部阵线、革命突击队和被称为伊斯兰国的圣战组织。   
+Hay at Tahrir al-Sham，通常被称为Tahrir al-Sham，是一个参与叙利亚内战的逊尼派伊斯兰政治和准军事组织。它于2017年1月28日成立，是几个武装派别Jaysh al-Ahrar、Jabhat Fateh al-Sham（JFS）、Ansar al-Din Front、Jaysh al-Sunna、Liwa al-Haqq和Nour al-Din al-Zenki Movement的合并。统一进程是在伊斯兰激进分子指挥官阿布·贾比尔·谢赫（Abu Jaber Shaykh）的倡议下进行的，阿布·贾比尔·谢赫（Abu Jaber Shaykh）曾是Ahrar al-Sham的第二任埃米尔。   
 
-阅读延伸[33975261]: [https://en.wikipedia.org/wiki/Syrian_opposition](https://en.wikipedia.org/wiki/Syrian_opposition)   
-
-## 大马士革陷落   
-On 7 December 2024, the Syrian opposition group known as the Southern Operations Room led forces that entered the Rif Dimashq region from the south, and those forces then came within 20 kilometres (12 mi) of the capital Damascus. The Syrian Arab Army withdrew from multiple points in the outskirts. Concurrently with the advance towards Damascus, opposition militia Tahrir al-Sham and the Turkish-backed Syrian National Army in the north launched an offensive into Homs, while the Revolutionary Commando Army advanced into the capital from the southeast. By 8 December, rebel forces entered the city's Barzeh neighborhood. According to official state reports in Russian mass media, President Bashar al-Assad left Damascus by air to Moscow, where he has been granted asylum, sealing the fall of his regime.   
-
-2024年12月7日，叙利亚反对派组织“南部行动室”率领部队从南部进入大马士革农村省地区，随后抵达首都大马士革20公里（12英里）范围内。阿拉伯叙利亚军队从郊区多个地点撤军。在向大马士革推进的同时，反对派民兵解放军和北部土耳其支持的叙利亚国民军向霍姆斯发起进攻，而革命突击队则从东南部挺进首都。12月8日，叛军进入该市的Barzeh社区。据俄罗斯大众媒体的官方国家报道，巴沙尔·阿萨德总统乘飞机离开大马士革前往莫斯科，并在那里获得庇护，从而结束了他的政权的垮台。   
-
-阅读延伸[78543770]: [https://en.wikipedia.org/wiki/Fall_of_Damascus](https://en.wikipedia.org/wiki/Fall_of_Damascus)   
-
-## 阿拉维派   
-The Alawites, also known as Nusayrites, are an Arab ethnoreligious group that live primarily in the Levant and follow Alawism, a religious sect that splintered from early Shia Islam as a ghulat branch during the ninth century. Alawites venerate Ali ibn Abi Talib, the "first Imam" in the Twelver school, as the physical manifestation of God. The group was founded by Ibn Nusayr during the 9th century. Ibn Nusayr was a disciple of the tenth Twelver Imam, Ali al-Hadi and of the eleventh Twelver Imam, Hasan al-Askari. For this reason, Alawites are also called Nusayris.   
-
-阿拉维派（Alawites），也被称为Nusayrites，是一个主要生活在黎凡特的阿拉伯民族宗教团体，追随阿拉维派（Alawism），这是一个宗教派别，在九世纪从早期什叶派伊斯兰教分裂出来，作为古拉特分支。阿拉维派崇拜勒弗派的“第一位伊玛目”阿里·伊本·阿比·伊布，认为他是上帝的身体化身。该组织由伊本·努赛尔（Ibn Nusayr）于9世纪创立。伊本·努赛尔是第十任伊玛目阿里·哈迪和第十一任伊玛目哈桑·阿斯卡里的弟子。因此，阿拉维派也被称为努萨里斯。   
-
-阅读延伸[436616]: [https://en.wikipedia.org/wiki/Alawites](https://en.wikipedia.org/wiki/Alawites)   
-
-## 叙利亚国旗   
-As a result of the Syrian Civil War, two flags have been used to represent Syria since 2011, used by different factions in the war. The Syrian Arab Republic led by Bashar al-Assad of the Ba'ath Party used the red-white-black tricolour originally used by the United Arab Republic, while Syrian opposition factions such as the Syrian National Coalition use the green-white-black tricolour known as the “Independence flag”, first used by the First Syrian Republic. Opposition forces took control of the capital, Damascus on 8 December 2024, prompting President Assad to resign and leave the country. Subsequently the "Independence flag" began to be flown within the country and at Syrian embassies abroad.   
-
-由于叙利亚内战，自2011年以来，两面旗帜被用来代表叙利亚，供战争中的不同派别使用。复兴社会党巴沙尔·阿萨德领导的阿拉伯叙利亚共和国使用阿拉伯联合共和国最初使用的红白黑三色，而叙利亚全国联盟等叙利亚反对派则使用被称为“独立旗帜”的绿白黑三色，最先由叙利亚第一共和国使用。反对派武装于2024年12月8日控制了首都大马士革，促使阿萨德总统辞职并离开该国。随后，“独立旗帜”开始在该国境内和叙利亚驻外大使馆飘扬。   
-
-阅读延伸[459326]: [https://en.wikipedia.org/wiki/Flag_of_Syria](https://en.wikipedia.org/wiki/Flag_of_Syria)   
-
-## 哈菲兹·巴沙尔·阿萨德   
-Hafez Bashar al-Assad is the eldest son of former Syrian president Bashar al-Assad and his wife Asma al-Assad.   
-
-哈菲兹·巴沙尔·阿萨德是叙利亚前总统巴沙尔·阿萨德及其妻子阿斯玛·阿萨德的长子。   
-
-阅读延伸[73704800]: [https://en.wikipedia.org/wiki/Hafez_Bashar_al-Assad](https://en.wikipedia.org/wiki/Hafez_Bashar_al-Assad)   
+阅读延伸[53015755]: [https://en.wikipedia.org/wiki/Tahrir_al-Sham](https://en.wikipedia.org/wiki/Tahrir_al-Sham)   
 
 ## 邪恶_（2024年_电影）   
 Wicked is a 2024 American epic musical fantasy film directed by Jon M. Chu from a screenplay by Winnie Holzman and Dana Fox. It is the first of a two-part film adaptation of the stage musical of the same name by Stephen Schwartz and Holzman, which in turn was loosely based on the 1995 novel of the same name by Gregory Maguire. The film stars Cynthia Erivo and Ariana Grande, with Jonathan Bailey, Ethan Slater, Bowen Yang, Marissa Bode, Peter Dinklage, Michelle Yeoh, and Jeff Goldblum in supporting roles.   
@@ -140,4 +137,11 @@ Wicked is a 2024 American epic musical fantasy film directed by Jon M. Chu from 
 Wicked是一部2024年美国史诗音乐奇幻电影，由Jon M执导。《楚》出自温妮·霍尔兹曼和达纳·福克斯的剧本。这是根据斯蒂芬·施瓦茨和霍尔兹曼的同名舞台音乐剧改编的两部分电影中的第一部，该剧又大致根据格雷戈里·马奎尔1995年的同名小说改编。这部电影由辛西娅·艾里沃和阿丽亚娜·格兰德主演，乔纳森·贝利、伊森·斯莱特、杨博文、玛丽莎·博德、彼得·丁拉基、杨紫琼和杰夫·戈德布卢姆担任配角。   
 
 阅读延伸[60455274]: [https://en.wikipedia.org/wiki/Wicked_(2024_film)](https://en.wikipedia.org/wiki/Wicked_(2024_film))   
+
+## 叙利亚国旗   
+As a result of the Syrian Civil War, two flags have been used to represent Syria since 2011, used by different factions in the war. The Syrian Arab Republic led by Bashar al-Assad of the Ba'ath Party used the red-white-black tricolour originally used by the United Arab Republic, while Syrian opposition factions such as the Syrian National Coalition use the green-white-black tricolour known as the “Independence flag”, first used by the First Syrian Republic. Opposition forces took control of the capital, Damascus on 8 December 2024, prompting President Assad to resign and leave the country. Subsequently the "Independence flag" began to be flown within the country and at Syrian embassies abroad.   
+
+由于叙利亚内战，自2011年以来，两面旗帜被用来代表叙利亚，供战争中的不同派别使用。复兴社会党巴沙尔·阿萨德领导的阿拉伯叙利亚共和国使用阿拉伯联合共和国最初使用的红白黑三色，而叙利亚全国联盟等叙利亚反对派则使用被称为“独立旗帜”的绿白黑三色，最先由叙利亚第一共和国使用。反对派武装于2024年12月8日控制了首都大马士革，促使阿萨德总统辞职并离开该国。随后，“独立旗帜”开始在该国境内和叙利亚驻外大使馆飘扬。   
+
+阅读延伸[459326]: [https://en.wikipedia.org/wiki/Flag_of_Syria](https://en.wikipedia.org/wiki/Flag_of_Syria)   
 
