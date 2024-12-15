@@ -1,11 +1,4 @@
 # 最新资讯  
-## 古凯什_多马拉朱   
-Gukesh Dommaraju, also known as Gukesh D, is an Indian chess grandmaster and the reigning World Chess Champion. He is the youngest undisputed World Chess Champion in the history of the game. A chess prodigy, Gukesh is the youngest player to have surpassed a FIDE rating of 2750, doing so at the age of 17, and previously the third-youngest to have surpassed 2700 at the age of 16. He earned his grandmaster title at the age of 12 and remains the third-youngest grandmaster in the history of chess.   
-
-古凯什·多姆马拉朱（Gukesh Dommaraju），又名古凯什·D（Gukesh D），是印度国际象棋大师，也是卫冕世界国际象棋冠军。他是国际象棋历史上最年轻的无可争议的世界冠军。古凯什是国际象棋神童，他在17岁时就超过了FIDE评分2750的最年轻选手，也是此前第三年轻的在16岁时就超过了2700的选手。他在12岁时获得了特级大师称号，至今仍是国际象棋史上第三年轻的特级大师。   
-
-阅读延伸[59333658]: [https://en.wikipedia.org/wiki/Gukesh_Dommaraju](https://en.wikipedia.org/wiki/Gukesh_Dommaraju)   
-
 ## Pushpa_2：__规则   
 Pushpa 2: The Rule is a 2024 Indian Telugu-language action drama film directed by Sukumar and produced by Mythri Movie Makers, in association with Sukumar Writings. The film stars Allu Arjun in the titular role, alongside Rashmika Mandanna, Fahadh Faasil, Jagapathi Babu, Dhananjaya, Rao Ramesh, Sunil and Anasuya Bharadwaj. It is the second instalment in the Pushpa film series and the sequel to the 2021 film Pushpa: The Rise.   
 
@@ -20,26 +13,19 @@ Kraven the Hunter is a 2024 American superhero film featuring the Marvel Comics 
 
 阅读延伸[58055757]: [https://en.wikipedia.org/wiki/Kraven_the_Hunter_(film)](https://en.wikipedia.org/wiki/Kraven_the_Hunter_(film))   
 
-## 本尼_布兰科   
-Benjamin Joseph Levin, known professionally as Benny Blanco, is an American record producer, songwriter, record executive and author. He is the recipient of the 2013 Hal David Starlight Award from the Songwriters Hall of Fame. He also won the BMI Songwriter of the Year Award five non-consecutive times, and won the 2017 iHeartRadio Producer of the Year Award.   
+## 古凯什_多马拉朱   
+Gukesh Dommaraju, also known as Gukesh D, is an Indian chess grandmaster and the reigning World Chess Champion. He is the youngest undisputed World Chess Champion in the history of the game. A chess prodigy, Gukesh is the youngest player to have surpassed a FIDE rating of 2750, doing so at the age of 17, and previously the third-youngest to have surpassed 2700 at the age of 16. He earned his grandmaster title at the age of 12 and remains the third-youngest grandmaster in the history of chess.   
 
-本杰明·约瑟夫·莱文（Benjamin Joseph Levin），专业名称本尼·布兰科（Benny Blanco），是一位美国唱片制作人、词曲作者、唱片主管和作家。他是歌曲作家名人堂2013年哈尔·大卫星光奖的获得者。他还非连续五次荣获BMI年度歌曲创作奖，并荣获2017年iHeartRadio年度制作人奖。   
+古凯什·多姆马拉朱（Gukesh Dommaraju），又名古凯什·D（Gukesh D），是印度国际象棋大师，也是卫冕世界国际象棋冠军。他是国际象棋历史上最年轻的无可争议的世界冠军。古凯什是国际象棋神童，他在17岁时就超过了FIDE评分2750的最年轻选手，也是此前第三年轻的在16岁时就超过了2700的选手。他在12岁时获得了特级大师称号，至今仍是国际象棋史上第三年轻的特级大师。   
 
-阅读延伸[20034513]: [https://en.wikipedia.org/wiki/Benny_Blanco](https://en.wikipedia.org/wiki/Benny_Blanco)   
+阅读延伸[59333658]: [https://en.wikipedia.org/wiki/Gukesh_Dommaraju](https://en.wikipedia.org/wiki/Gukesh_Dommaraju)   
 
-## The_游戏_奖项_2024   
-The Game Awards 2024 was an award show to honor the best video games of 2024. It was the eleventh show hosted by Geoff Keighley, creator and producer of the Game Awards, and held with a live audience at the Peacock Theater in Los Angeles on December 12, 2024, and live streamed across online platforms globally. It featured musical performances from d4vd, Royal & the Serpent, Snoop Dogg, and Twenty One Pilots, and presentations from celebrity guests including Harrison Ford, Hideo Kojima, and Aaron Paul.   
+## 随身   
+Carry-On is a 2024 American action thriller film directed by Jaume Collet-Serra and written by T.J. Fixman. The film stars Taron Egerton, Sofia Carson, Danielle Deadwyler and Jason Bateman. Its plot follows a young TSA officer who's blackmailed into letting a nerve agent onboard a flight during Christmas Eve.   
 
-2024年游戏奖是一场旨在表彰2024年最佳视频游戏的颁奖典礼。这是游戏奖的创作者兼制作人杰夫·基思利（Geoff Keighley）主持的第十一场演出，于2024年12月12日在洛杉矶孔雀剧院现场观众举行，并在全球在线平台上进行了直播。它包括d4 VD、Royal & the Serpent、Snoop Dogg和Twenty One Pilots的音乐表演，以及哈里森·福特、小岛秀夫和亚伦·保罗等名人嘉宾的演讲。   
+Carry-On是一部2024年的美国动作惊悚电影，由Jaume Collet-Serra执导，TJ Fixman编剧。这部电影由塔隆·埃格顿、索菲亚·卡森、丹妮尔·德怀勒和杰森·贝特曼主演。故事情节讲述了一名年轻的运输安全管理局官员在圣诞节前夕被勒索让神经毒剂登上航班的故事。   
 
-阅读延伸[78265110]: [https://en.wikipedia.org/wiki/The_Game_Awards_2024](https://en.wikipedia.org/wiki/The_Game_Awards_2024)   
-
-## De ' Vondre_坎贝尔   
-De'Vondre Campbell is an American professional football linebacker for the San Francisco 49ers of the National Football League (NFL). He played college football at Hutchinson Community College before transferring to Minnesota and was selected by the Atlanta Falcons in the fourth round of the 2016 NFL draft. Campbell has also played for the Arizona Cardinals and the Green Bay Packers.   
-
-De ' Vondre Campbell是美国国家橄榄球联盟（NFL）旧金山49人队的美国职业橄榄球线卫。在转会到明尼苏达州之前，他曾在哈钦森社区学院踢大学橄榄球，并在2016年NFL选秀第四轮中被亚特兰大猎鹰队选中。坎贝尔还曾效力于亚利桑那红雀队和绿湾包装工队。   
-
-阅读延伸[50374978]: [https://en.wikipedia.org/wiki/De'Vondre_Campbell](https://en.wikipedia.org/wiki/De'Vondre_Campbell)   
+阅读延伸[72045264]: [https://en.wikipedia.org/wiki/Carry-On](https://en.wikipedia.org/wiki/Carry-On)   
 
 ## 票房最高的印度电影列表   
 This ranking lists the highest-grossing Indian films produced by Indian cinema, based on conservative global box office estimates as reported by organisations classified as green by Wikipedia. The figures are not adjusted for inflation. However, there is no official tracking of figures and sources publishing data are frequently pressured to increase their estimates.   
@@ -48,26 +34,33 @@ This ranking lists the highest-grossing Indian films produced by Indian cinema, 
 
 阅读延伸[37650258]: [https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films)   
 
-## 世界_国际象棋_锦标赛_2024   
-The World Chess Championship 2024, officially known as the World Chess Championship 2024 presented by Google, was a chess match between the reigning world champion Ding Liren and the challenger Gukesh Dommaraju to determine the World Chess Champion. The match took place between 25 November and 12 December 2024 in Singapore. It was played to a best of 14 games, with tiebreaks if required. The match was won by Gukesh 7½–6½ after 14 games, the youngest to win a Chess World Championship.   
+## Red_One_（电影）   
+Red One is a 2024 American Christmas fantasy action adventure comedy film directed by Jake Kasdan and written by Chris Morgan, from an original story by Hiram Garcia. It stars Dwayne Johnson, Chris Evans, Lucy Liu, J. K. Simmons, Kiernan Shipka, Bonnie Hunt, Nick Kroll, Kristofer Hivju, and Wesley Kimmel. In the film, Callum Drift (Johnson), the head of North Pole security, teams up with the hacker Jack O'Malley (Evans) to locate a kidnapped Santa Claus (Simmons) on Christmas Eve.   
 
-2024年世界国际象棋锦标赛，正式名称为谷歌主办的2024年世界国际象棋锦标赛，是卫冕世界冠军丁立人与挑战者古凯什·多马拉朱之间的一场国际象棋比赛，决出世界国际象棋冠军。比赛于2024年11月25日至12月12日在新加坡举行。这场比赛以14场比赛两胜制进行，如果需要，还可以抢七。这场比赛由古克什在14场比赛后以7½-6 ½获胜，是最年轻的赢得国际象棋世界锦标赛的球员。   
+Red One是一部2024年美国圣诞奇幻动作冒险喜剧电影，由杰克·卡斯丹执导，克里斯·摩根编剧，改编自海勒姆·加西亚的原创故事。由道恩·约翰逊、克里斯·埃文斯、露西·刘、JK主演西蒙斯、基尔南·希普卡、邦妮·亨特、尼克·克罗尔、克里斯托弗·哈夫朱和韦斯利·金梅尔。在影片中，北极安全负责人卡勒姆·德赖夫特（约翰逊饰）与黑客杰克·奥马利（埃文斯饰）合作，在平安夜找到了一名被绑架的圣诞老人（西蒙斯饰）。   
 
-阅读延伸[73686349]: [https://en.wikipedia.org/wiki/World_Chess_Championship_2024](https://en.wikipedia.org/wiki/World_Chess_Championship_2024)   
+阅读延伸[68070769]: [https://en.wikipedia.org/wiki/Red_One_(film)](https://en.wikipedia.org/wiki/Red_One_(film))   
 
-## Astro_Bot   
-Astro Bot is a 2024 platform video game developed by Team Asobi and published by Sony Interactive Entertainment for the PlayStation 5. It is a sequel to Astro's Playroom (2020) and the first game to have been developed by Team Asobi since its separation from Japan Studio. The game was released in celebration of PlayStation's 30th anniversary and received universal acclaim from critics, having sold 1.5 million units by November 2024. It won several awards at the Game Awards 2024, including Game of the Year.   
+## 莎拉_哈德兰   
+Sarah Catherine E Hadland is an English actress. She is best known for her role as Stevie Sutton in the BBC One BAFTA-nominated comedy television series Miranda (2009–2015) and Trish in The Job Lot (2013–2015).   
 
-Astro Bot是一款由Asobi Team开发、索尼互动娱乐公司在PlayStation 5上发行的2024年平台视频游戏。这是《Astro ' s Playroom》（2020）的续集，也是Asobi Team自与日本工作室分离以来开发的第一款游戏。该游戏是为了庆祝PlayStation成立30周年而发布的，并受到评论家的普遍好评，截至2024年11月已售出150万套。它在2024年游戏奖中荣获多项奖项，包括年度游戏奖。   
+莎拉·凯瑟琳·E·哈德兰是一位英国女演员。她最出名的作品是在BBC One BAFTA提名的喜剧电视连续剧《米兰达》（Miranda，2009-2015）中饰演史蒂夫·萨顿（Stevie Sutton）和在《工作地点》（2013-2015）中饰演特里什。   
 
-阅读延伸[77070226]: [https://en.wikipedia.org/wiki/Astro_Bot](https://en.wikipedia.org/wiki/Astro_Bot)   
+阅读延伸[14200805]: [https://en.wikipedia.org/wiki/Sarah_Hadland](https://en.wikipedia.org/wiki/Sarah_Hadland)   
 
-## 巴沙尔·阿萨德   
-Bashar al-Assad is a Syrian politician who was the 19th and final president of Syria from 2000 until 2024. He is also the commander-in-chief of the Syrian Armed Forces and the secretary-general of the Central Command of the Arab Socialist Ba'ath Party. He is a son of Hafez al-Assad, who was the 18th president of Syria from 1971 until his death in 2000. Assad was overthrown in 2024 after a rebel offensive toppled his government.   
+## 乔治_迈克尔   
+George Michael was an English singer-songwriter and record producer. Regarded as a pop culture icon, he is one of the best-selling musicians of all time, with his sales estimated at between 100 million to 125 million records worldwide. Michael was known as a creative force in songwriting, vocal performance, and visual presentation. He achieved 10 number-one songs on the US Billboard Hot 100 and 13 number-one songs on the UK singles chart. Michael won numerous music awards, including two Grammy Awards, three Brit Awards, twelve Billboard Music Awards, and four MTV Video Music Awards. He was listed among Billboard's the "Greatest Hot 100 Artists of All Time" and Rolling Stone's the "200 Greatest Singers of All Time". The Radio Academy named him the most played artist on British radio during the period 1984–2004. Michael was inducted into the Rock and Roll Hall of Fame in 2023.   
 
-巴沙尔·阿萨德是一位叙利亚政治家，2000年至2024年担任叙利亚第19任也是最后一任总统。他还是叙利亚武装部队总司令和阿拉伯社会复兴党中央司令部秘书长。他是哈菲兹·阿萨德的儿子，阿萨德从1971年起担任叙利亚第18任总统，直至2000年去世。2024年，叛军进攻推翻了阿萨德政府，阿萨德被推翻。   
+乔治·迈克尔是一位英国创作型歌手和唱片制作人。他被誉为流行文化偶像，是有史以来最畅销的音乐家之一，全球唱片销量估计在1亿至1.25亿张之间。迈克尔被誉为歌曲创作、声乐表演和视觉呈现方面的创造力。他在美国Billboard Hot 100排行榜上获得了10首冠军歌曲，在英国单曲排行榜上获得了13首冠军歌曲。迈克尔荣获多项音乐奖项，包括两项格莱美奖、三项全英音乐奖、十二项公告牌音乐奖和四项MTV音乐录影带奖。他被《公告牌》评选为“有史以来最伟大的100位热门艺术家”和《滚石》评选为“有史以来200位最伟大的歌手”。无线电学院将他评为1984年至2004年间英国广播电台上演奏次数最多的艺术家。迈克尔于2023年入选摇滚名人堂。   
 
-阅读延伸[364813]: [https://en.wikipedia.org/wiki/Bashar_al-Assad](https://en.wikipedia.org/wiki/Bashar_al-Assad)   
+阅读延伸[45985]: [https://en.wikipedia.org/wiki/George_Michael](https://en.wikipedia.org/wiki/George_Michael)   
+
+## 克里斯_麦考斯兰   
+Christopher John McCausland is an English comedian and actor. He is known to television audiences for his role as Rudi in the CBeebies show Me Too!. He regularly appears at comedy venues around the UK, including The Comedy Store. McCausland is blind due to retinitis pigmentosa.   
+
+克里斯托弗·约翰·麦考斯兰是一位英国喜剧演员和演员。他因在CBeebies节目《Me Too！》中饰演鲁迪而受到电视观众的喜爱。他经常出现在英国各地的喜剧场所，包括喜剧商店。麦考斯兰因视网膜色素变性失明。   
+
+阅读延伸[7858934]: [https://en.wikipedia.org/wiki/Chris_McCausland](https://en.wikipedia.org/wiki/Chris_McCausland)   
 
 ## 死亡_in_2024   
 
@@ -80,33 +73,33 @@ The following notable deaths occurred in 2024. Names are reported under the date
 
 阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
 
-## 叙利亚   
-Syria, officially the Syrian Arab Republic, is a country in West Asia located in the Eastern Mediterranean and the Levant. It is bounded by the Mediterranean Sea to the west, Turkey to the north, Iraq to the east and southeast, Jordan to the south, and Israel and Lebanon to the southwest. It is a republic comprising 14 governorates. Damascus is Syria's capital and largest city. With a population of 25 million across an area of 185,180 square kilometres (71,500 sq mi), it is the 57th most populous and 87th largest country.   
+## 陆军-海军_游戏   
+The Army–Navy Game is an American college football rivalry game between the Army Black Knights of the United States Military Academy (USMA) at West Point, New York, and the Navy Midshipmen of the United States Naval Academy (USNA) at Annapolis, Maryland. The Black Knights, or Cadets, and Midshipmen each represent their service's oldest officer commissioning sources. As such, the game has come to embody the spirit of the interservice rivalry of the United States Armed Forces. The game marks the end of the college football regular season and the third and final game of the season's Commander-in-Chief's Trophy series, which also includes the Air Force Falcons of the United States Air Force Academy (USAFA) near Colorado Springs, Colorado.   
 
-叙利亚，正式名称阿拉伯叙利亚共和国，是一个西亚国家，位于东地中海和黎凡特。西临地中海，北临土耳其，东临伊拉克，南临约旦，西南与以色列和黎巴嫩接壤。它是一个由14个省组成的共和国。大马士革是叙利亚首都和最大城市。该国人口2500万，面积185，180平方公里（71，500平方英里），是世界上人口第57位、面积第87位的国家。   
+陆军-海军比赛是一场美国大学橄榄球比赛，由纽约西点军校美国陆军黑骑士队和马里兰州安纳波利斯美国海军学院（USNA）海军见习生队进行。黑骑士（或学员）和海军见习生都代表了他们部队中最古老的军官委托来源。因此，这款游戏已经体现了美国武装部队军种竞争的精神。这场比赛标志着大学橄榄球常规赛的结束，也是本赛季总司令奖杯系列赛的第三场也是最后一场比赛，其中还包括科罗拉多州科罗拉多斯普林斯附近的美国空军学院（USAFA）的空军猎鹰队。   
 
-阅读延伸[7515849]: [https://en.wikipedia.org/wiki/Syria](https://en.wikipedia.org/wiki/Syria)   
+阅读延伸[604299]: [https://en.wikipedia.org/wiki/Army%E2%80%93Navy_Game](https://en.wikipedia.org/wiki/Army%E2%80%93Navy_Game)   
 
-## 剥削_电影   
-A sexploitation film is a class of independently produced, low-budget feature film that is generally associated with the 1960s and early 1970s, and that serves largely as a vehicle for the exhibition of non-explicit sexual situations and gratuitous nudity. The genre is a subgenre of exploitation films. The term "sexploitation" has been used since the 1940s.   
+## 巴沙尔·阿萨德   
+Bashar al-Assad is a Syrian politician who was the 19th and final president of Syria from 2000 until 2024. He is also the commander-in-chief of the Syrian Armed Forces and the secretary-general of the Central Command of the Arab Socialist Ba'ath Party. He is a son of Hafez al-Assad, who was the 18th president of Syria from 1971 until his death in 2000. Assad was overthrown in 2024 after a rebel offensive toppled his government.   
 
-性剥削电影是一类独立制作的低成本故事片，通常与20世纪60年代和70年代初有关，主要是展示不露骨的性场景和无端裸体的工具。该类型是剥削电影的一个亚类型。“性剥削”一词自20世纪40年代以来一直使用。   
+巴沙尔·阿萨德是一位叙利亚政治家，2000年至2024年担任叙利亚第19任也是最后一任总统。他还是叙利亚武装部队总司令和阿拉伯社会复兴党中央司令部秘书长。他是哈菲兹·阿萨德的儿子，阿萨德从1971年起担任叙利亚第18任总统，直至2000年去世。2024年，叛军进攻推翻了阿萨德政府，阿萨德被推翻。   
 
-阅读延伸[1972173]: [https://en.wikipedia.org/wiki/Sexploitation_film](https://en.wikipedia.org/wiki/Sexploitation_film)   
+阅读延伸[364813]: [https://en.wikipedia.org/wiki/Bashar_al-Assad](https://en.wikipedia.org/wiki/Bashar_al-Assad)   
 
-## Red_One_（电影）   
-Red One is a 2024 American Christmas fantasy action adventure comedy film directed by Jake Kasdan and written by Chris Morgan, from an original story by Hiram Garcia. It stars Dwayne Johnson, Chris Evans, Lucy Liu, J. K. Simmons, Kiernan Shipka, Bonnie Hunt, Nick Kroll, Kristofer Hivju, and Wesley Kimmel. In the film, Callum Drift (Johnson), the head of North Pole security, teams up with the hacker Jack O'Malley (Evans) to locate a kidnapped Santa Claus (Simmons) on Christmas Eve.   
+## 本尼_布兰科   
+Benjamin Joseph Levin, known professionally as Benny Blanco, is an American record producer, songwriter, record executive and author. He is the recipient of the 2013 Hal David Starlight Award from the Songwriters Hall of Fame. He also won the BMI Songwriter of the Year Award five non-consecutive times, and won the 2017 iHeartRadio Producer of the Year Award.   
 
-Red One是一部2024年美国圣诞奇幻动作冒险喜剧电影，由杰克·卡斯丹执导，克里斯·摩根编剧，改编自海勒姆·加西亚的原创故事。由道恩·约翰逊、克里斯·埃文斯、露西·刘、JK主演西蒙斯、基尔南·希普卡、邦妮·亨特、尼克·克罗尔、克里斯托弗·哈夫朱和韦斯利·金梅尔。在影片中，北极安全负责人卡勒姆·德赖夫特（约翰逊饰）与黑客杰克·奥马利（埃文斯饰）合作，在平安夜找到了一名被绑架的圣诞老人（西蒙斯饰）。   
+本杰明·约瑟夫·莱文（Benjamin Joseph Levin），专业名称本尼·布兰科（Benny Blanco），是一位美国唱片制作人、词曲作者、唱片主管和作家。他是歌曲作家名人堂2013年哈尔·大卫星光奖的获得者。他还非连续五次荣获BMI年度歌曲创作奖，并荣获2017年iHeartRadio年度制作人奖。   
 
-阅读延伸[68070769]: [https://en.wikipedia.org/wiki/Red_One_(film)](https://en.wikipedia.org/wiki/Red_One_(film))   
+阅读延伸[20034513]: [https://en.wikipedia.org/wiki/Benny_Blanco](https://en.wikipedia.org/wiki/Benny_Blanco)   
 
-## 年度人物   
-Person of the Year is an annual issue of the American news magazine and website Time featuring a person, group, idea, or object that "for better or for worse ... has done the most to influence the events of the year". The editors select the featured subject in a "secretive ... process." The Time website or a partner organization also runs an annual online reader's poll that has no effect on the selection, although no poll was held in 2023 or 2024.   
+## 安德鲁_里奇利   
+Andrew John Ridgeley is an English musician, best known for his work in the 1980s in the musical duo Wham! consisting of Ridgeley and George Michael. Associated with the MTV-driven Second British Invasion of the US, they were one of the most successful pop acts during the 1980s, selling more than 30 million certified records worldwide from 1982 to 1986. Their singles "Wake Me Up Before You Go-Go", "Everything She Wants", and "Careless Whisper" all topped the US Billboard Hot 100. In 2019, Penguin Random House published Ridgeley's memoir Wham! George & Me.   
 
-年度人物是美国新闻杂志和网站《时代》的年度一期，重点介绍“无论好坏……”的个人、团体、想法或物体。对今年事件的影响最大”。编辑们在“秘密.”中选择了主题过程“《时代》网站或合作组织还进行了年度在线读者民意调查，该民意调查对评选没有影响，尽管2023年或2024年没有进行民意调查。   
+安德鲁·约翰·里奇利（Andrew John Ridgeley）是一位英国音乐家，以20世纪80年代在音乐二人组Wham！由里奇利和乔治迈克尔组成。他们与MTV推动的第二次英国入侵美国有关，是20世纪80年代最成功的流行音乐表演之一，从1982年到1986年在全球售出了超过3000万张认证唱片。他们的单曲《Wake Me Up Before You Go-Go》、《Everything She Wants》和《Careless Whisper》均荣登美国公告牌百强榜首。2019年，企鹅兰登书屋出版了里吉利的回忆录《Wham！乔治和我。   
 
-阅读延伸[206805]: [https://en.wikipedia.org/wiki/Time_Person_of_the_Year](https://en.wikipedia.org/wiki/Time_Person_of_the_Year)   
+阅读延伸[879557]: [https://en.wikipedia.org/wiki/Andrew_Ridgeley](https://en.wikipedia.org/wiki/Andrew_Ridgeley)   
 
 ## 亚伦_泰勒-约翰逊   
 Aaron Perry Taylor-Johnson is an English actor. He is known for his portrayal of the title character in Kick-Ass (2010) and its 2013 sequel, as well as the Marvel Cinematic Universe character Pietro Maximoff in Avengers: Age of Ultron (2015).   
@@ -115,26 +108,33 @@ Aaron Perry Taylor-Johnson is an English actor. He is known for his portrayal of
 
 阅读延伸[11402229]: [https://en.wikipedia.org/wiki/Aaron_Taylor-Johnson](https://en.wikipedia.org/wiki/Aaron_Taylor-Johnson)   
 
-## Crystal_Mangum   
-Crystal Gail Mangum is an American former stripper from Durham, North Carolina, United States, who has been incarcerated for murder since 2013. In 2006, she came to attention in national news reports for having made false allegations of rape against lacrosse players in the Duke lacrosse case. Mangum's work in the sex industry as a black woman while the young men she accused were white generated extensive media interest and academic debate about race, class, gender, and the politicization of the justice system.   
+## 叙利亚   
+Syria, officially the Syrian Arab Republic, is a country in West Asia located in the Eastern Mediterranean and the Levant. It is bounded by the Mediterranean Sea to the west, Turkey to the north, Iraq to the east and southeast, Jordan to the south, and Israel and Lebanon to the southwest. It is a republic comprising 14 governorates. Damascus is Syria's capital and largest city. With a population of 25 million across an area of 185,180 square kilometres (71,500 sq mi), it is the 57th most populous and 87th largest country.   
 
-克里斯托·盖尔·曼古姆（Crystal Gail Mangum）是一名来自美国北卡罗来纳州达勒姆的美国前脱衣舞娘，自2013年以来一直因谋杀罪被监禁。2006年，她因在杜克长曲棍球案中对长曲棍球运动员提出强奸的虚假指控而受到全国新闻报道的关注。曼古姆作为一名黑人女性在性行业的工作，而她指控的年轻男性是白人，引起了媒体的广泛兴趣和关于种族、阶级、性别和司法系统政治化的学术辩论。   
+叙利亚，正式名称阿拉伯叙利亚共和国，是一个西亚国家，位于东地中海和黎凡特。西临地中海，北临土耳其，东临伊拉克，南临约旦，西南与以色列和黎巴嫩接壤。它是一个由14个省组成的共和国。大马士革是叙利亚首都和最大城市。该国人口2500万，面积185，180平方公里（71，500平方英里），是世界上人口第57位、面积第87位的国家。   
 
-阅读延伸[11505487]: [https://en.wikipedia.org/wiki/Crystal_Mangum](https://en.wikipedia.org/wiki/Crystal_Mangum)   
+阅读延伸[7515849]: [https://en.wikipedia.org/wiki/Syria](https://en.wikipedia.org/wiki/Syria)   
 
-## 2026_FIFA_World_Cup_资格赛_（欧足联）   
-The European section of the 2026 FIFA World Cup qualification competition will act as qualifiers for the 2026 FIFA World Cup, to be held in Canada, Mexico and the United States, for national teams that are members of the Union of European Football Associations (UEFA). A total of 16 slots in the final tournament are available for UEFA teams.   
+## 塔莎_古里   
+Natasha Amber Ghouri is a British model, author and television personality from Thirsk, England. Born deaf, she became a commercial dancer and fashion model, appearing in the music video for "More Than Words" by Sleepwalkers featuring MNEK and a cast of Hard of Hearing dancers, and initially attracted attention for modelling earrings for ASOS. Her appearances on the eighth series of Love Island, on which she and Andrew Le Page finished joint-fourth, brought her numerous ambassadorial roles, and she later launched a podcast, Superpowers with Tasha, and released a book, Hits Different. In January and February 2024, she spent a week as the Dictionary Corner guest on Countdown, and later that month, the BBC reported that she had gone viral on TikTok after uploading a Get Ready With Me video to TikTok using her deaf accent. She was a contestant and runner-up on Series 22 of Strictly Come Dancing, on which she was partnered with Aljaž Škorjanec.   
 
-2026年FIFA世界杯预选赛的欧洲部分将作为2026年FIFA世界杯的预选赛，该世界杯将在加拿大、墨西哥和美国举行，参赛者为欧洲足球协会联盟（UEFA）成员国国家队。欧足联球队共有16个决赛名额。   
+娜塔莎·安布尔·古里（Natasha Amber Ghouri）是一位来自英国瑟斯克的英国模特、作家和电视名人。她生来聋哑，成为一名商业舞者和时尚模特，出现在Sleepwalkers的《More Than Words》音乐录影带中，由MNEK和一群听力不佳舞者主演，最初因为ASOS设计耳环而引起关注。她出现在《爱情岛》第八季中，她和安德鲁·勒佩奇并列第四，为她带来了许多大使角色，后来她推出了播客《与塔莎的超能力》，并出版了一本书《Hits Different》。2024年1月和2月，她在《倒计时》节目中担任词典角嘉宾一周，当月晚些时候，BBC报道称，她用聋哑口音将《准备好与我一起》视频上传到TikTok后，在TikTok上疯传。她是《舞动奇迹》第22季的参赛者和亚军，她与Aljašjankorec搭档。   
 
-阅读延伸[60000301]: [https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_qualification_(UEFA)](https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_qualification_(UEFA))   
+阅读延伸[75947350]: [https://en.wikipedia.org/wiki/Tasha_Ghouri](https://en.wikipedia.org/wiki/Tasha_Ghouri)   
 
-## 比尔_贝利希克   
-William Stephen Belichick is an American football coach who is the head football coach at the University of North Carolina at Chapel Hill. Widely regarded as one of the greatest head coaches of all time, he holds numerous coaching records, including the record of most Super Bowl wins (six) as a head coach, all with the New England Patriots, along with two more during his time as the defensive coordinator of the New York Giants, for a record eight combined total Super Bowl victories as coach and coordinator. A renowned American football historian, Belichick is often referred to as a "student of the game" with a deep knowledge of the intricacies of each player position. During his tenure with the Patriots, Belichick was a central figure as the head coach and de facto general manager during the franchise's dynasty from 2001 to 2019.   
+## 邪恶_（2024年_电影）   
+Wicked is a 2024 American epic musical fantasy film directed by Jon M. Chu from a screenplay by Winnie Holzman and Dana Fox. It is the first of a two-part film adaptation of the stage musical of the same name by Stephen Schwartz and Holzman, which in turn was loosely based on the 1995 novel of the same name by Gregory Maguire. The film stars Cynthia Erivo and Ariana Grande, with Jonathan Bailey, Ethan Slater, Bowen Yang, Marissa Bode, Peter Dinklage, Michelle Yeoh, and Jeff Goldblum in supporting roles.   
 
-威廉·斯蒂芬·贝利奇克（William Stephen Belichick）是一名美式足球教练，也是北卡罗来纳大学教堂山分校的足球主教练。他被广泛认为是有史以来最伟大的主教练之一，拥有众多的执教记录，包括作为主教练在超级碗中获胜最多的记录（六场），所有记录都是在新英格兰爱国者队，以及在他担任纽约巨人队防守协调员期间另外两次，作为教练和协调员，他在超级碗中总共赢得了八场胜利。贝利奇克是一位著名的美国足球历史学家，他经常被称为“足球的学生”，对每个球员位置的复杂性有着深刻的了解。贝利奇克在爱国者队任职期间，是2001年至2019年球队王朝期间担任主教练和事实上的总经理的核心人物。   
+Wicked是一部2024年美国史诗音乐奇幻电影，由Jon M执导。《楚》出自温妮·霍尔兹曼和达纳·福克斯的剧本。这是根据斯蒂芬·施瓦茨和霍尔兹曼的同名舞台音乐剧改编的两部分电影中的第一部，该剧又大致根据格雷戈里·马奎尔1995年的同名小说改编。这部电影由辛西娅·艾里沃和阿丽亚娜·格兰德主演，乔纳森·贝利、伊森·斯莱特、杨博文、玛丽莎·博德、彼得·丁拉基、杨紫琼和杰夫·戈德布卢姆担任配角。   
 
-阅读延伸[648835]: [https://en.wikipedia.org/wiki/Bill_Belichick](https://en.wikipedia.org/wiki/Bill_Belichick)   
+阅读延伸[60455274]: [https://en.wikipedia.org/wiki/Wicked_(2024_film)](https://en.wikipedia.org/wiki/Wicked_(2024_film))   
+
+## 流通货币列表   
+There are 180 currencies recognized as legal tender in United Nations (UN) member states, UN General Assembly non-member observer states, partially recognized or unrecognized states, and their dependencies. However, excluding the pegged currencies, there are only 130 currencies that are independent or pegged to a currency basket. Dependencies and unrecognized states are listed here only if another currency is used on their territory that is different from the one of the state that administers them or has jurisdiction over them.   
+
+联合国（UN）成员国、联合国大会非成员观察员国、部分承认或未承认的国家及其属地有180种货币被公认为法定货币。然而，不包括挂钩货币，只有130种货币独立或与货币篮子挂钩。只有当属地和未被承认的国家在其领土上使用与管理它们或对其拥有管辖权的国家不同的另一种货币时，才会在此处列出。   
+
+阅读延伸[1315426]: [https://en.wikipedia.org/wiki/List_of_circulating_currencies](https://en.wikipedia.org/wiki/List_of_circulating_currencies)   
 
 ## 迪克_范_戴克   
 Richard Wayne Van Dyke is an American actor, entertainer and comedian. His work spans screen and stage, and his awards include six Emmy Awards, a Grammy Award, a Golden Globe Award, and a Tony Award. He was inducted into the Television Hall of Fame in 1995 and the Hollywood Walk of Fame in 1993, and has been honored with the Screen Actors Guild Life Achievement Award in 2013, the Kennedy Center Honors in 2020, and was recognized as a Disney Legend in 1998.   
