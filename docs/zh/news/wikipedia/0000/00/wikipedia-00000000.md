@@ -6,13 +6,6 @@ Pushpa 2: The Rule is a 2024 Indian Telugu-language action drama film directed b
 
 阅读延伸[72983433]: [https://en.wikipedia.org/wiki/Pushpa_2%3A_The_Rule](https://en.wikipedia.org/wiki/Pushpa_2%3A_The_Rule)   
 
-## 扎基尔_侯赛因_（音乐家）   
-Ustad Zakir Hussain was an Indian tabla player, composer, percussionist, music producer and film actor. He was the eldest son of tabla player Alla Rakha, and is widely considered as one of the greatest tabla players of all time.   
-
-乌斯塔德·扎克尔·侯赛因（Ustad Zakir Hussain）是一位印度塔布拉演奏家、作曲家、演奏家、音乐制作人和电影演员。他是塔布拉演奏家阿拉·拉卡（Alla Rakha）的长子，被广泛认为是有史以来最伟大的塔布拉演奏家之一。   
-
-阅读延伸[290259]: [https://en.wikipedia.org/wiki/Zakir_Hussain_(musician)](https://en.wikipedia.org/wiki/Zakir_Hussain_(musician))   
-
 ## 票房最高的印度电影列表   
 This ranking lists the highest-grossing Indian films produced by Indian cinema, based on conservative global box office estimates as reported by organisations classified as green by Wikipedia. The figures are not adjusted for inflation. However, there is no official tracking of figures and sources publishing data are frequently pressured to increase their estimates.   
 
@@ -20,12 +13,30 @@ This ranking lists the highest-grossing Indian films produced by Indian cinema, 
 
 阅读延伸[37650258]: [https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films)   
 
-## 杜阿_利帕   
-Dua Lipa is a British and Albanian singer and songwriter. Her accolades include seven Brit Awards and three Grammy Awards. Time magazine included her in its list of the 100 most influential people in the world in 2024.   
+## 丰富_生活_基督教_学校_射击   
+On December 16, 2024, a school shooting occurred at the Abundant Life Christian School in Madison, Wisconsin, United States. Three people, including the perpetrator, identified as 15-year-old Natalie Rupnow, have been confirmed dead, with six reportedly injured. According to CNN, the shooting is at least the 83rd school shooting in the U.S. in 2024.   
 
-Dua Lipa是一位英国和阿尔巴尼亚歌手和词曲作者。她获得的荣誉包括七项全英音乐奖和三项格莱美奖。《时代》杂志将她列入2024年全球100位最具影响力人物名单。   
+2024年12月16日，美国威斯康星州麦迪逊市丰盛生命基督教学校发生校园枪击事件。包括肇事者在内的三人已被确认死亡，其中包括15岁的娜塔莉·鲁普诺（Natalie Rupnow），据报道有六人受伤。据美国有线电视新闻网报道，此次枪击事件至少是2024年美国发生的第83起校园枪击事件。   
 
-阅读延伸[49002318]: [https://en.wikipedia.org/wiki/Dua_Lipa](https://en.wikipedia.org/wiki/Dua_Lipa)   
+阅读延伸[78618153]: [https://en.wikipedia.org/wiki/Abundant_Life_Christian_School_shooting](https://en.wikipedia.org/wiki/Abundant_Life_Christian_School_shooting)   
+
+## 贾尼斯_蒂玛   
+Jānis Timma was a Latvian professional basketball player. At a height of 2.01 m, he played mainly at the small forward position.   
+
+雅尼斯·蒂玛（Jânis Timma）是拉脱维亚职业篮球运动员。2.01 m的高度，他主要打小前锋位置。   
+
+阅读延伸[39072314]: [https://en.wikipedia.org/wiki/J%C4%81nis_Timma](https://en.wikipedia.org/wiki/J%C4%81nis_Timma)   
+
+## 死亡_in_2024   
+
+
+The following notable deaths occurred in 2024. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and reference.   
+
+
+
+以下值得注意的死亡事件发生在2024年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
+
+阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
 
 ## 随身   
 Carry-On is a 2024 American action thriller film directed by Jaume Collet-Serra and written by T.J. Fixman. The film stars Taron Egerton, Sofia Carson, Danielle Deadwyler and Jason Bateman. Its plot follows a young TSA officer who's blackmailed into letting a nerve agent onboard a flight during Christmas Eve.   
@@ -41,37 +52,54 @@ Kraven the Hunter is a 2024 American superhero film featuring the Marvel Comics 
 
 阅读延伸[58055757]: [https://en.wikipedia.org/wiki/Kraven_the_Hunter_(film)](https://en.wikipedia.org/wiki/Kraven_the_Hunter_(film))   
 
-## 马约特   
-Mayotte, officially the Department of Mayotte, is an overseas department and region and single territorial collectivity of France. It is located in the northern part of the Mozambique Channel in the Indian Ocean off the coast of Southeastern Africa, between Northwestern Madagascar and Northeastern Mozambique. Mayotte consists of a main island, Grande-Terre, a smaller island, Petite-Terre, as well as several islets around these two.   
+## 扎基尔_侯赛因_（音乐家）   
+Ustad Zakir Hussain was an Indian tabla player, composer, percussionist, music producer and film actor. He was the eldest son of tabla player Alla Rakha, and is widely considered as one of the greatest tabla players of all time.   
 
-马约特岛，正式名称马约特省，是法国的一个海外省和地区以及单一领土集体。它位于印度洋莫桑比克海峡北部，远离东南非洲海岸，马达加斯加西北部和莫桑比克东北部之间。马约特岛由一个主岛Grande-Terre、一个较小的岛屿Petite-Terre以及这两个岛屿周围的几个小岛组成。   
+乌斯塔德·扎克尔·侯赛因（Ustad Zakir Hussain）是一位印度塔布拉演奏家、作曲家、演奏家、音乐制作人和电影演员。他是塔布拉演奏家阿拉·拉卡（Alla Rakha）的长子，被广泛认为是有史以来最伟大的塔布拉演奏家之一。   
 
-阅读延伸[19211]: [https://en.wikipedia.org/wiki/Mayotte](https://en.wikipedia.org/wiki/Mayotte)   
+阅读延伸[290259]: [https://en.wikipedia.org/wiki/Zakir_Hussain_(musician)](https://en.wikipedia.org/wiki/Zakir_Hussain_(musician))   
 
-## 死亡_in_2024   
+## 规则_34   
+Rule 34 is an Internet meme which claims that Internet pornography exists concerning every possible topic. The concept is commonly depicted as fan art of normally non-erotic subjects engaging in sexual activity. It can also include writings, animations, images, GIFs and any other form of media to which the internet provides opportunities for proliferation and redistribution.   
 
+规则34是一个互联网模因，声称互联网色情内容涉及每个可能的主题。这个概念通常被描述为通常非色情对象从事性活动的同人艺术。它还可以包括文字、动画、图像、GIF以及互联网为其提供传播和重新分配机会的任何其他形式的媒体。   
 
-The following notable deaths occurred in 2024. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and reference.   
+阅读延伸[34577223]: [https://en.wikipedia.org/wiki/Rule_34](https://en.wikipedia.org/wiki/Rule_34)   
 
+## 邪恶_（2024年_电影）   
+Wicked is a 2024 American epic musical fantasy film directed by Jon M. Chu from a screenplay by Winnie Holzman and Dana Fox. It is the first of a two-part film adaptation of the stage musical of the same name by Stephen Schwartz and Holzman, which in turn was loosely based on the 1995 novel of the same name by Gregory Maguire. The film stars Cynthia Erivo and Ariana Grande, with Jonathan Bailey, Ethan Slater, Bowen Yang, Marissa Bode, Peter Dinklage, Michelle Yeoh, and Jeff Goldblum in supporting roles.   
 
+Wicked是一部2024年美国史诗音乐奇幻电影，由Jon M执导。《楚》出自温妮·霍尔兹曼和达纳·福克斯的剧本。这是根据斯蒂芬·施瓦茨和霍尔兹曼的同名舞台音乐剧改编的两部分电影中的第一部，该剧又大致根据格雷戈里·马奎尔1995年的同名小说改编。这部电影由辛西娅·艾里沃和阿丽亚娜·格兰德主演，乔纳森·贝利、伊森·斯莱特、杨博文、玛丽莎·博德、彼得·丁拉基、杨紫琼和杰夫·戈德布卢姆担任配角。   
 
-以下值得注意的死亡事件发生在2024年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
+阅读延伸[60455274]: [https://en.wikipedia.org/wiki/Wicked_(2024_film)](https://en.wikipedia.org/wiki/Wicked_(2024_film))   
 
-阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
+## 秘密_级别   
+Secret Level is an American adult animated anthology series created by Tim Miller for Amazon Prime Video. It is produced by his Blur Studio with Amazon MGM Studios. Dave Wilson executive produces and serves as supervising director. It consists of 15 stories set in the worlds of different video games. The voice cast includes Arnold Schwarzenegger, Patrick Schwarzenegger, Kevin Hart, Laura Bailey, Heaven Hart, Keanu Reeves, Gabriel Luna, Ariana Greenblatt, Adewale Akinnuoye-Agbaje, Michael Beach, Emily Swallow, and Claudia Doumit.   
 
-## 黄石公园_（美国_电视_系列）   
-Yellowstone is an American neo-Western drama television series created by Taylor Sheridan and John Linson that premiered on June 20, 2018, on Paramount Network. The series stars Kevin Costner, Luke Grimes, Kelly Reilly, Wes Bentley, Cole Hauser, Kelsey Asbille, and Gil Birmingham. The series follows the conflicts along the shared borders of the Yellowstone Dutton Ranch, a large cattle ranch, the Broken Rock Indian reservation, Yellowstone National Park, and land developers. The fifth season will be its last and is set to be followed by a sequel series titled The Madison. The first part of the fifth and final season premiered on November 13, 2022, while the second part premiered on November 10, 2024.   
+Secret Level是蒂姆·米勒为Amazon Prime Video创作的美国成人动画选集系列。它由他的Blur Studio与Amazon MGM Studios共同制作。戴夫·威尔逊（Dave Wilson）高管制作并担任监督董事。它由15个故事组成，故事背景设定在不同的电子游戏世界中。配音演员包括阿诺德·施瓦辛格、帕特里克·施瓦辛格、凯文·哈特、劳拉·贝利、Heaven Hart、Keanu Reeves、Gabriel Luna、Ariana Greenblatt、Adewale Akinnuoye-Agbaje、Michael Beach、Emily Swallow和Claudia Doumit。   
 
-《黄石公园》是一部美国新西方电视剧，由泰勒·谢里丹和约翰·林森创作，于2018年6月20日在派拉蒙电视网首播。该剧由凯文·科斯特纳、卢克·格莱姆斯、凯利·赖利、韦斯·本特利、科尔·豪瑟、凯尔西·阿斯比尔和吉尔·伯明翰主演。该系列讲述了黄石达顿牧场、大型养牛场、断岩印第安人保留地、黄石国家公园和土地开发商共同边界沿线的冲突。第五季将是最后一季，接下来将推出名为《麦迪逊》的续集系列。第五季也是最后一季的第一部分于2022年11月13日首播，第二部分于2024年11月10日首播。   
+阅读延伸[77626434]: [https://en.wikipedia.org/wiki/Secret_Level](https://en.wikipedia.org/wiki/Secret_Level)   
 
-阅读延伸[54060698]: [https://en.wikipedia.org/wiki/Yellowstone_(American_TV_series)](https://en.wikipedia.org/wiki/Yellowstone_(American_TV_series))   
+## 小小镇   
+Little Big Town is an American country music vocal group from Homewood, Alabama. Founded in 1998, the group has had the same four members since its founding: Karen Fairchild, Kimberly Schlapman, Phillip Sweet, and Jimi Westbrook. Fairchild and Westbrook have been married to each other since 2006. Little Big Town's musical style relies heavily on four-part vocal harmonies, with all four members alternating as lead vocalists.   
 
-## 阿马德_迪亚洛   
-Amad Diallo, sometimes known mononymously as Amad, is an Ivorian professional footballer who plays as a winger or midfielder for Premier League club Manchester United and the Ivory Coast national team.   
+Little Big Town是一支来自阿拉巴马州霍姆伍德的美国乡村音乐声乐团体。该组织成立于1998年，自成立以来一直有四名成员：Karen Fairchild、Kimberly Schlapman、Phillip Sweet和Jimi Westbrook。Fairchild和Westbrook自2006年以来一直结婚。Little Big Town的音乐风格严重依赖于四部分声乐和声，所有四名成员轮流担任主唱。   
 
-阿马德·迪亚洛，有时被称为阿马德，是一名科特迪瓦职业足球运动员，在英超俱乐部曼联和科特迪瓦国家队担任边锋或中场球员。   
+阅读延伸[2737904]: [https://en.wikipedia.org/wiki/Little_Big_Town](https://en.wikipedia.org/wiki/Little_Big_Town)   
 
-阅读延伸[62176258]: [https://en.wikipedia.org/wiki/Amad_Diallo](https://en.wikipedia.org/wiki/Amad_Diallo)   
+## 克里斯蒂亚_弗里兰   
+Christina Alexandra Freeland is a Canadian politician who has served as the member of Parliament (MP) for University—Rosedale since 2015. She previously served as the tenth deputy prime minister of Canada from 2019 to 2024. A member of the Liberal Party, she was first elected to the House of Commons of Canada in a byelection in 2013. First appointed to Cabinet following the 2015 federal election, she has served in various posts including as the minister of finance from 2020 until her resignation from the 29th Canadian Ministry in 2024.   
+
+克里斯蒂娜·亚历山德拉·弗里兰（Christina Alexandra Freeland）是一位加拿大政治家，自2015年以来一直担任罗斯代尔大学议员（MP）。她此前曾于2019年至2024年担任加拿大第十任副总理。作为自由党成员，她在2013年的补选中首次当选加拿大下议院议员。她在2015年联邦选举后首次被任命为内阁成员，从2020年起担任财政部长，直到2024年辞去加拿大第29届部长职务。   
+
+阅读延伸[11446437]: [https://en.wikipedia.org/wiki/Chrystia_Freeland](https://en.wikipedia.org/wiki/Chrystia_Freeland)   
+
+## 奥维尔·佩克   
+Daniel Pitout, known professionally as Orville Peck, is a South African country musician based in the United States and Canada. He is well-known for wearing a mask and not showing his face publicly.   
+
+丹尼尔·皮图（Daniel Pitout），专业名称奥维尔·佩克（Orville Peck），是一位居住在美国和加拿大的南非乡村音乐家。他以戴口罩和不公开露面而闻名。   
+
+阅读延伸[61085375]: [https://en.wikipedia.org/wiki/Orville_Peck](https://en.wikipedia.org/wiki/Orville_Peck)   
 
 ## 古凯什_多马拉朱   
 Gukesh Dommaraju, also known as Gukesh D, is an Indian chess grandmaster and the reigning World Chess Champion. He is the youngest undisputed World Chess Champion in the history of the game. A chess prodigy, Gukesh is the youngest player to have surpassed a FIDE rating of 2750, doing so at the age of 17, and previously the third-youngest to have surpassed 2700 at the age of 16. He earned his grandmaster title at the age of 12 and remains the third-youngest grandmaster in the history of chess.   
@@ -87,59 +115,33 @@ Red One是一部2024年美国圣诞奇幻动作冒险喜剧电影，由杰克·�
 
 阅读延伸[68070769]: [https://en.wikipedia.org/wiki/Red_One_(film)](https://en.wikipedia.org/wiki/Red_One_(film))   
 
-## 邪恶_（2024年_电影）   
-Wicked is a 2024 American epic musical fantasy film directed by Jon M. Chu from a screenplay by Winnie Holzman and Dana Fox. It is the first of a two-part film adaptation of the stage musical of the same name by Stephen Schwartz and Holzman, which in turn was loosely based on the 1995 novel of the same name by Gregory Maguire. The film stars Cynthia Erivo and Ariana Grande, with Jonathan Bailey, Ethan Slater, Bowen Yang, Marissa Bode, Peter Dinklage, Michelle Yeoh, and Jeff Goldblum in supporting roles.   
+## 后续   
 
-Wicked是一部2024年美国史诗音乐奇幻电影，由Jon M执导。《楚》出自温妮·霍尔兹曼和达纳·福克斯的剧本。这是根据斯蒂芬·施瓦茨和霍尔兹曼的同名舞台音乐剧改编的两部分电影中的第一部，该剧又大致根据格雷戈里·马奎尔1995年的同名小说改编。这部电影由辛西娅·艾里沃和阿丽亚娜·格兰德主演，乔纳森·贝利、伊森·斯莱特、杨博文、玛丽莎·博德、彼得·丁拉基、杨紫琼和杰夫·戈德布卢姆担任配角。   
+In cricket, a team who batted second and scored significantly fewer runs than the team who batted first may be forced to follow-on: to take their second innings immediately after their first. The follow-on can be enforced by the team who batted first, and is intended to reduce the probability of a drawn result, by allowing the second team's second innings to be completed sooner and to avoid a team who were significantly better in their first innings from having to declare their second innings closed so they can attempt to win the match, giving the inferior team an undeserved advantage.   
 
-阅读延伸[60455274]: [https://en.wikipedia.org/wiki/Wicked_(2024_film)](https://en.wikipedia.org/wiki/Wicked_(2024_film))   
 
-## 吉尔_雅各布森   
-Jill Jacobson was an American actress of film, television and soap opera, best known for her television performances.   
+在板球比赛中，一支击球第二且得分明显少于击球第一的球队可能会被迫继续：在第一局之后立即打第二局。后续行动可以由先击球的球队强制执行，旨在通过让第二支球队的第二局更早完成来降低平局的可能性，并避免在第一局中表现明显更好的球队不得不宣布第二局结束，以便他们可以尝试赢得比赛，给较差的球队带来不应有的优势。   
 
-吉尔·雅各布森是一位美国电影、电视和肥皂剧女演员，以其电视表演而闻名。   
+阅读延伸[1061842]: [https://en.wikipedia.org/wiki/Follow-on](https://en.wikipedia.org/wiki/Follow-on)   
 
-阅读延伸[4356378]: [https://en.wikipedia.org/wiki/Jill_Jacobson](https://en.wikipedia.org/wiki/Jill_Jacobson)   
+## 黄石公园_（美国_电视_系列）   
+Yellowstone is an American neo-Western drama television series created by Taylor Sheridan and John Linson that premiered on June 20, 2018, on Paramount Network. The series stars Kevin Costner, Luke Grimes, Kelly Reilly, Wes Bentley, Cole Hauser, Kelsey Asbille, and Gil Birmingham. The series follows the conflicts along the shared borders of the Yellowstone Dutton Ranch, a large cattle ranch, the Broken Rock Indian reservation, Yellowstone National Park, and land developers. The fifth season will be its last and is set to be followed by a sequel series titled The Madison. The first part of the fifth and final season premiered on November 13, 2022, while the second part premiered on November 10, 2024.   
 
-## Serge_Monast   
-Serge Monast was a Quebecois conspiracy theorist. He is mostly known for his promotion of the Project Blue Beam conspiracy theory, which posits a plot to facilitate a totalitarian world government by destroying Abrahamic religions and replacing them with a New Age belief system using futuristic NASA technology and involving a faked alien invasion or fake extraterrestrial encounter meant to deceive nations into uniting under a world government.   
+《黄石公园》是一部美国新西方电视剧，由泰勒·谢里丹和约翰·林森创作，于2018年6月20日在派拉蒙电视网首播。该剧由凯文·科斯特纳、卢克·格莱姆斯、凯利·赖利、韦斯·本特利、科尔·豪瑟、凯尔西·阿斯比尔和吉尔·伯明翰主演。该系列讲述了黄石达顿牧场、大型养牛场、断岩印第安人保留地、黄石国家公园和土地开发商共同边界沿线的冲突。第五季将是最后一季，接下来将推出名为《麦迪逊》的续集系列。第五季也是最后一季的第一部分于2022年11月13日首播，第二部分于2024年11月10日首播。   
 
-塞尔日·莫纳斯特是魁北克阴谋论者。他最出名的是宣扬“蓝梁计划”阴谋论，该阴谋提出了一个阴谋，通过摧毁亚伯拉罕宗教，并用新时代信仰体系取代它们，利用未来派美国宇航局技术，并涉及假的外星人入侵或假的外星遭遇，旨在欺骗各国在世界政府的领导下团结起来。   
+阅读延伸[54060698]: [https://en.wikipedia.org/wiki/Yellowstone_(American_TV_series)](https://en.wikipedia.org/wiki/Yellowstone_(American_TV_series))   
 
-阅读延伸[28226618]: [https://en.wikipedia.org/wiki/Serge_Monast](https://en.wikipedia.org/wiki/Serge_Monast)   
+## 2025_PDC_World_飞镖_锦标赛   
+The 2025 PDC World Darts Championship is a professional darts event taking place at Alexandra Palace in London, England, from 15 December 2024 to 3 January 2025. It is the 32nd World Darts Championship to be organised by the Professional Darts Corporation.   
 
-## 巴沙尔·阿萨德   
-Bashar al-Assad is a Syrian politician who was the 19th and final president of Syria from 2000 until 2024. He is also the commander-in-chief of the Syrian Armed Forces and the secretary-general of the Central Command of the Arab Socialist Ba'ath Party. He is a son of Hafez al-Assad, who was the 18th president of Syria from 1971 until his death in 2000. Assad was overthrown in 2024 after a rebel offensive toppled his government.   
+2025年PDC世界飞镖锦标赛是一项职业飞镖赛事，将于2024年12月15日至2025年1月3日在英国伦敦亚历山德拉宫举行。这是第32届世界飞镖锦标赛，由职业飞镖公司主办。   
 
-巴沙尔·阿萨德是一位叙利亚政治家，2000年至2024年担任叙利亚第19任也是最后一任总统。他还是叙利亚武装部队总司令和阿拉伯社会复兴党中央司令部秘书长。他是哈菲兹·阿萨德的儿子，阿萨德从1971年起担任叙利亚第18任总统，直至2000年去世。2024年，叛军进攻推翻了阿萨德政府，阿萨德被推翻。   
+阅读延伸[77996634]: [https://en.wikipedia.org/wiki/2025_PDC_World_Darts_Championship](https://en.wikipedia.org/wiki/2025_PDC_World_Darts_Championship)   
 
-阅读延伸[364813]: [https://en.wikipedia.org/wiki/Bashar_al-Assad](https://en.wikipedia.org/wiki/Bashar_al-Assad)   
+## KMFDM   
+KMFDM is a multinational industrial rock band from Hamburg led by Sascha Konietzko, who founded the band in 1984 as a performance art project.   
 
-## 特拉维斯_亨特   
-Travis Hunter Jr. is an American football cornerback and wide receiver for the Colorado Buffaloes. He was the Heisman Trophy winner in 2024. Known for his two-way playing ability, Hunter was also the first player in college football history to win both the Chuck Bednarik and Fred Biletnikoff Awards. He previously played for the Jackson State Tigers, where he was the highest-ranked prospect to ever commit to a Football Championship Subdivision (FCS) school.   
+KMFM是一支来自汉堡的跨国工业摇滚乐队，由Sascha Konietzko领导，他于1984年创立了乐队，作为一个行为艺术项目。   
 
-小特拉维斯·亨特是一名美式橄榄球角卫和科罗拉多水牛队的外接球手。他是2024年海斯曼杯冠军。亨特以双向比赛能力而闻名，他也是大学橄榄球历史上第一位同时获得查克·贝德纳里克和弗雷德·比莱特尼科夫奖的球员。他此前曾效力于杰克逊州老虎队，是有史以来加入足球锦标赛细分（FCS）学校的排名最高的候选人。   
-
-阅读延伸[69571558]: [https://en.wikipedia.org/wiki/Travis_Hunter](https://en.wikipedia.org/wiki/Travis_Hunter)   
-
-## 黄石公园剧集列表   
-Yellowstone is an American neo-Western drama television series created by Taylor Sheridan and John Linson that premiered on June 20, 2018, on Paramount Network. The series stars Kevin Costner, Luke Grimes, Kelly Reilly, Wes Bentley, Cole Hauser, Kelsey Asbille, and Gil Birmingham. The series follows the conflicts along the shared borders of the Yellowstone Dutton Ranch, a large cattle ranch, the Broken Rock Indian reservation, Yellowstone National Park, and land developers.   
-
-《黄石公园》是一部美国新西方电视剧，由泰勒·谢里丹和约翰·林森创作，于2018年6月20日在派拉蒙电视网首播。该剧由凯文·科斯特纳、卢克·格莱姆斯、凯利·赖利、韦斯·本特利、科尔·豪瑟、凯尔西·阿斯比尔和吉尔·伯明翰主演。该系列讲述了黄石达顿牧场、大型养牛场、断岩印第安人保留地、黄石国家公园和土地开发商共同边界沿线的冲突。   
-
-阅读延伸[69833726]: [https://en.wikipedia.org/wiki/List_of_Yellowstone_episodes](https://en.wikipedia.org/wiki/List_of_Yellowstone_episodes)   
-
-## 塔隆_埃格顿   
-Taron Egerton is a Welsh actor. After graduating from the Royal Academy of Dramatic Art, he performed in stage plays. Egerton gained recognition for his starring role as a spy in the action comedy films Kingsman: The Secret Service (2014) and Kingsman: The Golden Circle (2017).   
-
-塔隆·埃格顿是威尔士演员。从皇家戏剧艺术学院毕业后，他参加了舞台剧表演。埃格顿因在动作喜剧电影《王牌特工：特勤局》（2014年）和《王牌特工：黄金圈》（2017年）中饰演间谍而获得认可。   
-
-阅读延伸[41748169]: [https://en.wikipedia.org/wiki/Taron_Egerton](https://en.wikipedia.org/wiki/Taron_Egerton)   
-
-## 音乐之声（电影）   
-The Sound of Music is a 1965 American musical drama film produced and directed by Robert Wise from a screenplay written by Ernest Lehman, and starring Julie Andrews and Christopher Plummer, with Richard Haydn, Peggy Wood, Charmian Carr, and Eleanor Parker. The film is an adaptation of the 1959 stage musical composed by Richard Rodgers, with lyrics by Oscar Hammerstein II and a book by Lindsay and Crouse. It is based on the 1949 memoir The Story of the Trapp Family Singers by Maria von Trapp and is set in Salzburg, Austria. It is a fictional retelling of her experiences as governess to seven children, her eventual marriage with their father Captain Georg von Trapp, and their escape during the Anschluss in 1938.   
-
-《音乐之声》是一部1965年的美国音乐剧电影，由罗伯特·怀斯制作和导演，改编自欧内斯特·雷曼的剧本，朱莉·安德鲁斯和克里斯托弗·普卢默主演，理查德·海顿、佩吉·伍德、查米安·卡尔和埃莉诺·帕克。这部电影改编自理查德·罗杰斯（Richard Rodgers）创作的1959年舞台音乐剧，歌词由奥斯卡·汉默斯坦二世（Oscar Hammerstein II）撰写，林赛和克劳斯（Crosuse）撰写。该剧改编自玛丽亚·冯·特拉普（Maria von Trapp）1949年的回忆录《特拉普家族歌手的故事》，背景设定在奥地利萨尔茨堡。这部小说虚构地重述了她作为七个孩子的家庭教师的经历、她最终与他们的父亲格奥尔格·冯·特拉普上尉的婚姻，以及他们在1938年合并期间的逃亡。   
-
-阅读延伸[4836239]: [https://en.wikipedia.org/wiki/The_Sound_of_Music_(film)](https://en.wikipedia.org/wiki/The_Sound_of_Music_(film))   
+阅读延伸[360734]: [https://en.wikipedia.org/wiki/KMFDM](https://en.wikipedia.org/wiki/KMFDM)   
 
