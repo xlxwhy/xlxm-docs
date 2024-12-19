@@ -13,20 +13,6 @@ This ranking lists the highest-grossing Indian films produced by Indian cinema, 
 
 阅读延伸[37650258]: [https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films)   
 
-## 丰富_生活_基督教_学校_射击   
-On December 16, 2024, a school shooting occurred at the Abundant Life Christian School in Madison, Wisconsin, United States. Three people, including the perpetrator, identified as 15-year-old Natalie Rupnow, have been confirmed dead, with six reportedly injured. According to CNN, the shooting is at least the 83rd school shooting in the U.S. in 2024.   
-
-2024年12月16日，美国威斯康星州麦迪逊市丰盛生命基督教学校发生校园枪击事件。包括肇事者在内的三人已被确认死亡，其中包括15岁的娜塔莉·鲁普诺（Natalie Rupnow），据报道有六人受伤。据美国有线电视新闻网报道，此次枪击事件至少是2024年美国发生的第83起校园枪击事件。   
-
-阅读延伸[78618153]: [https://en.wikipedia.org/wiki/Abundant_Life_Christian_School_shooting](https://en.wikipedia.org/wiki/Abundant_Life_Christian_School_shooting)   
-
-## 贾尼斯_蒂玛   
-Jānis Timma was a Latvian professional basketball player. At a height of 2.01 m, he played mainly at the small forward position.   
-
-雅尼斯·蒂玛（Jânis Timma）是拉脱维亚职业篮球运动员。2.01 m的高度，他主要打小前锋位置。   
-
-阅读延伸[39072314]: [https://en.wikipedia.org/wiki/J%C4%81nis_Timma](https://en.wikipedia.org/wiki/J%C4%81nis_Timma)   
-
 ## 死亡_in_2024   
 
 
@@ -37,6 +23,13 @@ The following notable deaths occurred in 2024. Names are reported under the date
 以下值得注意的死亡事件发生在2024年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
 
 阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
+
+## 拉维钱德兰_阿什温   
+Ravichandran Ashwin, known as Ravi Ashwin, is a former Indian international cricketer. He played as a right-arm off spin bowler and a handy lower order batsman. He is widely regarded as one of the greatest spinners of all time. He represented the national team and was a part of the team that won the 2011 ODI World Cup and the 2013 Champions Trophy, where in the 2013 final, he bowled the match-winning over. He plays for Tamil Nadu and South Zone in domestic cricket and for Chennai Super Kings in the Indian Premier League. On 18 December 2024, he announced retirement from all formats of international cricket.   
+
+拉维钱德兰·阿什温（Ravichandran Ashwin），又名拉维·阿什温（Ravi Ashwin），前印度国际板球运动员。他担任右臂旋转投球手和方便的低级击球手。他被广泛认为是有史以来最伟大的旋转者之一。他代表国家队，是赢得2011年ODI世界杯和2013年冠军杯的球队的一员，在2013年决赛中，他投出了制胜球。他效力于泰米尔纳德邦和南区的国内板球比赛，并效力于印度超级联赛的金奈超级国王队。2024年12月18日，他宣布退出所有形式的国际板球比赛。   
+
+阅读延伸[17243150]: [https://en.wikipedia.org/wiki/Ravichandran_Ashwin](https://en.wikipedia.org/wiki/Ravichandran_Ashwin)   
 
 ## 随身   
 Carry-On is a 2024 American action thriller film directed by Jaume Collet-Serra and written by T.J. Fixman. The film stars Taron Egerton, Sofia Carson, Danielle Deadwyler and Jason Bateman. Its plot follows a young TSA officer who's blackmailed into letting a nerve agent onboard a flight during Christmas Eve.   
@@ -52,12 +45,19 @@ Kraven the Hunter is a 2024 American superhero film featuring the Marvel Comics 
 
 阅读延伸[58055757]: [https://en.wikipedia.org/wiki/Kraven_the_Hunter_(film)](https://en.wikipedia.org/wiki/Kraven_the_Hunter_(film))   
 
-## 扎基尔_侯赛因_（音乐家）   
-Ustad Zakir Hussain was an Indian tabla player, composer, percussionist, music producer and film actor. He was the eldest son of tabla player Alla Rakha, and is widely considered as one of the greatest tabla players of all time.   
+## 秘密_级别   
+Secret Level is an American adult animated anthology series created by Tim Miller for Amazon Prime Video. It is produced by his Blur Studio with Amazon MGM Studios. Dave Wilson executive produces and serves as supervising director. It consists of 15 stories set in the worlds of different video games. The voice cast includes Arnold Schwarzenegger, Patrick Schwarzenegger, Kevin Hart, Laura Bailey, Heaven Hart, Keanu Reeves, Gabriel Luna, Ariana Greenblatt, Adewale Akinnuoye-Agbaje, Michael Beach, Emily Swallow, and Claudia Doumit.   
 
-乌斯塔德·扎克尔·侯赛因（Ustad Zakir Hussain）是一位印度塔布拉演奏家、作曲家、演奏家、音乐制作人和电影演员。他是塔布拉演奏家阿拉·拉卡（Alla Rakha）的长子，被广泛认为是有史以来最伟大的塔布拉演奏家之一。   
+Secret Level是蒂姆·米勒为Amazon Prime Video创作的美国成人动画选集系列。它由他的Blur Studio与Amazon MGM Studios共同制作。戴夫·威尔逊（Dave Wilson）高管制作并担任监督董事。它由15个故事组成，故事背景设定在不同的电子游戏世界中。配音演员包括阿诺德·施瓦辛格、帕特里克·施瓦辛格、凯文·哈特、劳拉·贝利、Heaven Hart、Keanu Reeves、Gabriel Luna、Ariana Greenblatt、Adewale Akinnuoye-Agbaje、Michael Beach、Emily Swallow和Claudia Doumit。   
 
-阅读延伸[290259]: [https://en.wikipedia.org/wiki/Zakir_Hussain_(musician)](https://en.wikipedia.org/wiki/Zakir_Hussain_(musician))   
+阅读延伸[77626434]: [https://en.wikipedia.org/wiki/Secret_Level](https://en.wikipedia.org/wiki/Secret_Level)   
+
+## Sonic_the_Hedgehog_3_（电影）   
+Sonic the Hedgehog 3 is an upcoming action adventure comedy film based on the video game series published by Sega, and the sequel to Sonic the Hedgehog 2 (2022). It is directed by Jeff Fowler and written by Pat Casey, Josh Miller, and John Whittington, based on a story by Casey and Miller. Jim Carrey, Ben Schwartz, James Marsden, Tika Sumpter, Idris Elba, Lee Majdoub, Natasha Rothwell, Adam Pally, Shemar Moore, and Colleen O'Shaughnessey reprise their roles, with Keanu Reeves, Krysten Ritter, Alyla Browne, and James Wolk joining the cast. In the film, Sonic, Tails, and Knuckles must ally with Dr. Robotnik to defeat a new enemy, Shadow the Hedgehog.   
+
+刺猬索尼克3是一部即将上映的动作冒险喜剧电影，改编自世嘉发行的电子游戏系列，也是《刺猬索尼克2》（2022年）的续集。该片由杰夫·福勒执导，帕特·凯西、乔什·米勒和约翰·惠廷顿编剧，改编自凯西和米勒的故事。金·凯瑞、本·施瓦茨、詹姆斯·马斯登、蒂卡·桑普特、伊德里斯·艾尔巴、李·马杰杜布、娜塔莎·罗斯韦尔、亚当·帕利、谢马尔·摩尔和科琳·奥肖尼西再次出演他们的角色，基努·里夫斯、克里斯汀·里特、阿莉拉·布朗和詹姆斯·沃尔克也加入了演员阵容。在电影中，索尼克、尾巴和指节必须与罗博特尼克博士结盟，以击败新敌人刺猬影子。   
+
+阅读延伸[70082895]: [https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3_(film)](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3_(film))   
 
 ## 规则_34   
 Rule 34 is an Internet meme which claims that Internet pornography exists concerning every possible topic. The concept is commonly depicted as fan art of normally non-erotic subjects engaging in sexual activity. It can also include writings, animations, images, GIFs and any other form of media to which the internet provides opportunities for proliferation and redistribution.   
@@ -73,40 +73,33 @@ Wicked是一部2024年美国史诗音乐奇幻电影，由Jon M执导。《楚�
 
 阅读延伸[60455274]: [https://en.wikipedia.org/wiki/Wicked_(2024_film)](https://en.wikipedia.org/wiki/Wicked_(2024_film))   
 
-## 秘密_级别   
-Secret Level is an American adult animated anthology series created by Tim Miller for Amazon Prime Video. It is produced by his Blur Studio with Amazon MGM Studios. Dave Wilson executive produces and serves as supervising director. It consists of 15 stories set in the worlds of different video games. The voice cast includes Arnold Schwarzenegger, Patrick Schwarzenegger, Kevin Hart, Laura Bailey, Heaven Hart, Keanu Reeves, Gabriel Luna, Ariana Greenblatt, Adewale Akinnuoye-Agbaje, Michael Beach, Emily Swallow, and Claudia Doumit.   
+## 阿诺拉   
+Anora is a 2024 American comedy-drama film written, directed, and edited by Sean Baker. It follows the beleaguered marriage between Anora, a young sex worker, and Vanya Zakharov, the son of a Russian oligarch. The supporting cast includes Yura Borisov, Karren Karagulian, Vache Tovmasyan, and Aleksei Serebryakov.   
 
-Secret Level是蒂姆·米勒为Amazon Prime Video创作的美国成人动画选集系列。它由他的Blur Studio与Amazon MGM Studios共同制作。戴夫·威尔逊（Dave Wilson）高管制作并担任监督董事。它由15个故事组成，故事背景设定在不同的电子游戏世界中。配音演员包括阿诺德·施瓦辛格、帕特里克·施瓦辛格、凯文·哈特、劳拉·贝利、Heaven Hart、Keanu Reeves、Gabriel Luna、Ariana Greenblatt、Adewale Akinnuoye-Agbaje、Michael Beach、Emily Swallow和Claudia Doumit。   
+《Anora》是一部2024年美国喜剧剧情电影，由肖恩·贝克编剧、导演和剪辑。故事发生在年轻性工作者阿诺拉和俄罗斯寡头之子万尼亚·扎哈罗夫之间陷入困境的婚姻之后。配角包括Yura Borisov、Karren Karagulian、Vache Tovmasyan和Aleksei Serebryakov。   
 
-阅读延伸[77626434]: [https://en.wikipedia.org/wiki/Secret_Level](https://en.wikipedia.org/wiki/Secret_Level)   
+阅读延伸[75146745]: [https://en.wikipedia.org/wiki/Anora](https://en.wikipedia.org/wiki/Anora)   
 
-## 小小镇   
-Little Big Town is an American country music vocal group from Homewood, Alabama. Founded in 1998, the group has had the same four members since its founding: Karen Fairchild, Kimberly Schlapman, Phillip Sweet, and Jimi Westbrook. Fairchild and Westbrook have been married to each other since 2006. Little Big Town's musical style relies heavily on four-part vocal harmonies, with all four members alternating as lead vocalists.   
+## 木法沙：_狮子_国王   
+Mufasa: The Lion King is a 2024 American musical drama film directed by Barry Jenkins from a screenplay written by Jeff Nathanson. Produced by Walt Disney Pictures, the film is photorealistically animated, and both a prequel and sequel to the 2019 remake of the 1994 film The Lion King. Donald Glover, Seth Rogen, Billy Eichner, John Kani, and Beyoncé Knowles-Carter reprise their roles from the remake; new cast members include Aaron Pierre, Kelvin Harrison Jr., Tiffany Boone, Mads Mikkelsen, Thandiwe Newton, Lennie James, Anika Noni Rose, and Blue Ivy Carter in her feature film debut.   
 
-Little Big Town是一支来自阿拉巴马州霍姆伍德的美国乡村音乐声乐团体。该组织成立于1998年，自成立以来一直有四名成员：Karen Fairchild、Kimberly Schlapman、Phillip Sweet和Jimi Westbrook。Fairchild和Westbrook自2006年以来一直结婚。Little Big Town的音乐风格严重依赖于四部分声乐和声，所有四名成员轮流担任主唱。   
+《木法沙：狮子王》是一部2024年美国音乐剧电影，由巴里·詹金斯执导，改编自杰夫·内桑森（Jeff Nathanson）编剧。这部电影由华特迪士尼影业制作，是真实感动画，既是1994年电影《狮子王》2019年翻拍的前传和续集。唐纳德·格洛弗、塞斯·罗根、比利·艾希纳、约翰·卡尼和碧昂丝·诺尔斯-卡特重新扮演翻拍版中的角色;新演员包括亚伦·皮埃尔、小凯尔文·哈里森、蒂芙尼·布恩（Tiffany Boone）、马兹·米克尔森（Mads Mikkelsen）、桑迪韦·牛顿（Thandiwe Newton）、伦尼·詹姆斯（Lennie James）、安妮卡·诺妮·罗斯（Anika Noni Rose）和布鲁·艾薇·卡特（Blue Ivy Carter）在她的故事片处女作中亮相。   
 
-阅读延伸[2737904]: [https://en.wikipedia.org/wiki/Little_Big_Town](https://en.wikipedia.org/wiki/Little_Big_Town)   
+阅读延伸[65452520]: [https://en.wikipedia.org/wiki/Mufasa%3A_The_Lion_King](https://en.wikipedia.org/wiki/Mufasa%3A_The_Lion_King)   
 
-## 克里斯蒂亚_弗里兰   
-Christina Alexandra Freeland is a Canadian politician who has served as the member of Parliament (MP) for University—Rosedale since 2015. She previously served as the tenth deputy prime minister of Canada from 2019 to 2024. A member of the Liberal Party, she was first elected to the House of Commons of Canada in a byelection in 2013. First appointed to Cabinet following the 2015 federal election, she has served in various posts including as the minister of finance from 2020 until her resignation from the 29th Canadian Ministry in 2024.   
+## 2024年_FIFA_洲际杯   
+The 2024 FIFA Intercontinental Cup was the inaugural edition of the FIFA Intercontinental Cup, an annual club association football tournament organised by FIFA. The tournament comprised the six teams that won the previous edition of the continental championships in each FIFA confederation, playing each other in a single-elimination bracket. It was held from 22 September to 18 December 2024. The first two games were played in the stadium of a team involved in each match, and the final three were played in Qatar as a neutral venue.   
 
-克里斯蒂娜·亚历山德拉·弗里兰（Christina Alexandra Freeland）是一位加拿大政治家，自2015年以来一直担任罗斯代尔大学议员（MP）。她此前曾于2019年至2024年担任加拿大第十任副总理。作为自由党成员，她在2013年的补选中首次当选加拿大下议院议员。她在2015年联邦选举后首次被任命为内阁成员，从2020年起担任财政部长，直到2024年辞去加拿大第29届部长职务。   
+2024年FIFA洲际杯是FIFA洲际杯的首届首届，FIFA洲际杯是由FIFA组织的年度俱乐部协会足球锦标赛。该锦标赛由在每个国际足联联盟中赢得上一届大陆锦标赛的六支球队组成，在单淘汰赛中相互竞争。会议于2024年9月22日至12月18日举行。前两场比赛在每场比赛参赛球队的体育场进行，最后三场比赛在卡塔尔作为中立场地进行。   
 
-阅读延伸[11446437]: [https://en.wikipedia.org/wiki/Chrystia_Freeland](https://en.wikipedia.org/wiki/Chrystia_Freeland)   
+阅读延伸[75587301]: [https://en.wikipedia.org/wiki/2024_FIFA_Intercontinental_Cup](https://en.wikipedia.org/wiki/2024_FIFA_Intercontinental_Cup)   
 
-## 奥维尔·佩克   
-Daniel Pitout, known professionally as Orville Peck, is a South African country musician based in the United States and Canada. He is well-known for wearing a mask and not showing his face publicly.   
+## 空手道_小子：_传奇   
+Karate Kid: Legends is an upcoming American martial arts drama film directed by Jonathan Entwistle and written by Rob Lieber. It is the sixth film in The Karate Kid franchise following The Karate Kid (2010), and stars Jackie Chan and Ralph Macchio, both reprising their roles from previous films, with Ben Wang as the main lead alongside Joshua Jackson, Sadie Stanley, and Ming-Na Wen. It is the first film in the series not to be produced by Jerry Weintraub, who died in 2015.   
 
-丹尼尔·皮图（Daniel Pitout），专业名称奥维尔·佩克（Orville Peck），是一位居住在美国和加拿大的南非乡村音乐家。他以戴口罩和不公开露面而闻名。   
+《空手道小子：传奇》是一部即将上映的美国武术剧情片，由乔纳森·恩特威斯尔执导，罗布·利伯编剧。这是继《空手道小子》（2010年）之后《空手道小子》系列的第六部电影，由成龙和拉尔夫·马奇奥主演，两人都重新扮演了之前电影中的角色，王本与约书亚·杰克逊、萨迪·斯坦利和温米娜一起担任主角。这是该系列中第一部不是由2015年去世的杰里·温特劳布制作的电影。   
 
-阅读延伸[61085375]: [https://en.wikipedia.org/wiki/Orville_Peck](https://en.wikipedia.org/wiki/Orville_Peck)   
-
-## 古凯什_多马拉朱   
-Gukesh Dommaraju, also known as Gukesh D, is an Indian chess grandmaster and the reigning World Chess Champion. He is the youngest undisputed World Chess Champion in the history of the game. A chess prodigy, Gukesh is the youngest player to have surpassed a FIDE rating of 2750, doing so at the age of 17, and previously the third-youngest to have surpassed 2700 at the age of 16. He earned his grandmaster title at the age of 12 and remains the third-youngest grandmaster in the history of chess.   
-
-古凯什·多姆马拉朱（Gukesh Dommaraju），又名古凯什·D（Gukesh D），是印度国际象棋大师，也是卫冕世界国际象棋冠军。他是国际象棋历史上最年轻的无可争议的世界冠军。古凯什是国际象棋神童，他在17岁时就超过了FIDE评分2750的最年轻选手，也是此前第三年轻的在16岁时就超过了2700的选手。他在12岁时获得了特级大师称号，至今仍是国际象棋史上第三年轻的特级大师。   
-
-阅读延伸[59333658]: [https://en.wikipedia.org/wiki/Gukesh_Dommaraju](https://en.wikipedia.org/wiki/Gukesh_Dommaraju)   
+阅读延伸[71774699]: [https://en.wikipedia.org/wiki/Karate_Kid%3A_Legends](https://en.wikipedia.org/wiki/Karate_Kid%3A_Legends)   
 
 ## Red_One_（电影）   
 Red One is a 2024 American Christmas fantasy action adventure comedy film directed by Jake Kasdan and written by Chris Morgan, from an original story by Hiram Garcia. It stars Dwayne Johnson, Chris Evans, Lucy Liu, J. K. Simmons, Kiernan Shipka, Bonnie Hunt, Nick Kroll, Kristofer Hivju, and Wesley Kimmel. In the film, Callum Drift (Johnson), the head of North Pole security, teams up with the hacker Jack O'Malley (Evans) to locate a kidnapped Santa Claus (Simmons) on Christmas Eve.   
@@ -115,33 +108,38 @@ Red One是一部2024年美国圣诞奇幻动作冒险喜剧电影，由杰克·�
 
 阅读延伸[68070769]: [https://en.wikipedia.org/wiki/Red_One_(film)](https://en.wikipedia.org/wiki/Red_One_(film))   
 
-## 后续   
+## 2024年_联合_州_总统_选举   
+The 2024 United States presidential election will be the 60th quadrennial presidential election, set to be held on Tuesday, November 5, 2024. Voters in each state and the District of Columbia will choose electors to the Electoral College, who will then elect a president and vice president for a term of four years.   
 
-In cricket, a team who batted second and scored significantly fewer runs than the team who batted first may be forced to follow-on: to take their second innings immediately after their first. The follow-on can be enforced by the team who batted first, and is intended to reduce the probability of a drawn result, by allowing the second team's second innings to be completed sooner and to avoid a team who were significantly better in their first innings from having to declare their second innings closed so they can attempt to win the match, giving the inferior team an undeserved advantage.   
+2024年美国总统选举将是第60次四年一度的总统选举，定于2024年11月5日星期二举行。每个州和哥伦比亚特区的选民将选择选举人团选举人，然后选举人团选举总统和副总统，任期四年。   
 
+阅读延伸[59568546]: [https://en.wikipedia.org/wiki/2024_United_States_presidential_election](https://en.wikipedia.org/wiki/2024_United_States_presidential_election)   
 
-在板球比赛中，一支击球第二且得分明显少于击球第一的球队可能会被迫继续：在第一局之后立即打第二局。后续行动可以由先击球的球队强制执行，旨在通过让第二支球队的第二局更早完成来降低平局的可能性，并避免在第一局中表现明显更好的球队不得不宣布第二局结束，以便他们可以尝试赢得比赛，给较差的球队带来不应有的优势。   
+## 古凯什_多马拉朱   
+Gukesh Dommaraju, also known as Gukesh D, is an Indian chess grandmaster and the reigning World Chess Champion. He is the youngest undisputed World Chess Champion in the history of the game. A chess prodigy, Gukesh is the youngest player to have surpassed a FIDE rating of 2750, doing so at the age of 17, and previously the third-youngest to have surpassed 2700 at the age of 16. He earned his grandmaster title at the age of 12 and remains the third-youngest grandmaster in the history of chess.   
 
-阅读延伸[1061842]: [https://en.wikipedia.org/wiki/Follow-on](https://en.wikipedia.org/wiki/Follow-on)   
+古凯什·多姆马拉朱（Gukesh Dommaraju），又名古凯什·D（Gukesh D），是印度国际象棋大师，也是卫冕世界国际象棋冠军。他是国际象棋历史上最年轻的无可争议的世界冠军。古凯什是国际象棋神童，他在17岁时就超过了FIDE评分2750的最年轻选手，也是此前第三年轻的在16岁时就超过了2700的选手。他在12岁时获得了特级大师称号，至今仍是国际象棋史上第三年轻的特级大师。   
 
-## 黄石公园_（美国_电视_系列）   
-Yellowstone is an American neo-Western drama television series created by Taylor Sheridan and John Linson that premiered on June 20, 2018, on Paramount Network. The series stars Kevin Costner, Luke Grimes, Kelly Reilly, Wes Bentley, Cole Hauser, Kelsey Asbille, and Gil Birmingham. The series follows the conflicts along the shared borders of the Yellowstone Dutton Ranch, a large cattle ranch, the Broken Rock Indian reservation, Yellowstone National Park, and land developers. The fifth season will be its last and is set to be followed by a sequel series titled The Madison. The first part of the fifth and final season premiered on November 13, 2022, while the second part premiered on November 10, 2024.   
+阅读延伸[59333658]: [https://en.wikipedia.org/wiki/Gukesh_Dommaraju](https://en.wikipedia.org/wiki/Gukesh_Dommaraju)   
 
-《黄石公园》是一部美国新西方电视剧，由泰勒·谢里丹和约翰·林森创作，于2018年6月20日在派拉蒙电视网首播。该剧由凯文·科斯特纳、卢克·格莱姆斯、凯利·赖利、韦斯·本特利、科尔·豪瑟、凯尔西·阿斯比尔和吉尔·伯明翰主演。该系列讲述了黄石达顿牧场、大型养牛场、断岩印第安人保留地、黄石国家公园和土地开发商共同边界沿线的冲突。第五季将是最后一季，接下来将推出名为《麦迪逊》的续集系列。第五季也是最后一季的第一部分于2022年11月13日首播，第二部分于2024年11月10日首播。   
+## 丰富_生活_基督教_学校_射击   
+On December 16, 2024, a school shooting occurred at the Abundant Life Christian School in Madison, Wisconsin, United States. Three people, including the perpetrator, identified as 15-year-old Natalie Rupnow, have been confirmed dead, with six reportedly injured. According to CNN, the shooting is at least the 83rd school shooting in the U.S. in 2024.   
 
-阅读延伸[54060698]: [https://en.wikipedia.org/wiki/Yellowstone_(American_TV_series)](https://en.wikipedia.org/wiki/Yellowstone_(American_TV_series))   
+2024年12月16日，美国威斯康星州麦迪逊市丰盛生命基督教学校发生校园枪击事件。包括肇事者在内的三人已被确认死亡，其中包括15岁的娜塔莉·鲁普诺（Natalie Rupnow），据报道有六人受伤。据美国有线电视新闻网报道，此次枪击事件至少是2024年美国发生的第83起校园枪击事件。   
 
-## 2025_PDC_World_飞镖_锦标赛   
-The 2025 PDC World Darts Championship is a professional darts event taking place at Alexandra Palace in London, England, from 15 December 2024 to 3 January 2025. It is the 32nd World Darts Championship to be organised by the Professional Darts Corporation.   
+阅读延伸[78618153]: [https://en.wikipedia.org/wiki/Abundant_Life_Christian_School_shooting](https://en.wikipedia.org/wiki/Abundant_Life_Christian_School_shooting)   
 
-2025年PDC世界飞镖锦标赛是一项职业飞镖赛事，将于2024年12月15日至2025年1月3日在英国伦敦亚历山德拉宫举行。这是第32届世界飞镖锦标赛，由职业飞镖公司主办。   
+## 埃隆_马斯克   
+Elon Reeve Musk is a businessman and investor known for his key roles in the space company SpaceX and the automotive company Tesla, Inc. Other involvements include ownership of X Corp., the company that operates the social media platform X, and his role in the founding of the Boring Company, xAI, Neuralink, and OpenAI. He is one of the wealthiest individuals in the world; as of August 2024 Forbes estimates his net worth to be US$247 billion.   
 
-阅读延伸[77996634]: [https://en.wikipedia.org/wiki/2025_PDC_World_Darts_Championship](https://en.wikipedia.org/wiki/2025_PDC_World_Darts_Championship)   
+埃隆·里夫·马斯克（Elon Reeve Musk）是一位商人和投资者，因在航天公司SpaceX和汽车公司特斯拉公司（Tesla，Inc.）中发挥关键作用而闻名。其他参与包括X Corp.的所有权，运营社交媒体平台X的公司，以及他在Boring Company、xAI、Neuralink和OpenAI的创立中所扮演的角色。他是世界上最富有的人之一;截至2024年8月，福布斯估计他的净资产为2470亿美元。   
 
-## KMFDM   
-KMFDM is a multinational industrial rock band from Hamburg led by Sascha Konietzko, who founded the band in 1984 as a performance art project.   
+阅读延伸[909036]: [https://en.wikipedia.org/wiki/Elon_Musk](https://en.wikipedia.org/wiki/Elon_Musk)   
 
-KMFM是一支来自汉堡的跨国工业摇滚乐队，由Sascha Konietzko领导，他于1984年创立了乐队，作为一个行为艺术项目。   
+## 超人_（2025年_电影）   
+Superman is an upcoming American superhero film based on DC Comics featuring the eponymous character. Produced by DC Studios and to be distributed by Warner Bros. Pictures, it will be the first film in the DC Universe (DCU) and a reboot of the Superman film series. The film is written and directed by James Gunn and stars David Corenswet as Clark Kent / Superman, alongside Rachel Brosnahan, Nicholas Hoult, Edi Gathegi, Anthony Carrigan, Nathan Fillion, Isabela Merced, Skyler Gisondo, Sara Sampaio, María Gabriela de Faría, Wendell Pierce, Alan Tudyk, Pruitt Taylor Vince, and Neva Howell. In the film, Superman's journey to reconcile his alien heritage with his human family is explored.   
 
-阅读延伸[360734]: [https://en.wikipedia.org/wiki/KMFDM](https://en.wikipedia.org/wiki/KMFDM)   
+超人是一部即将上映的美国超级英雄电影，改编自DC漫画，主角是同名角色。该片由DC Studios制作，华纳兄弟影业发行，将成为DC宇宙（DCU）的第一部电影，也是超人系列电影的重启。这部电影由詹姆斯·冈恩编剧和导演，大卫·科伦斯韦特饰演克拉克·肯特/超人，与雷切尔·布罗斯纳汉、尼古拉斯·霍尔特、埃迪·加特吉、安东尼·卡里根、内森·菲利安、伊莎贝尔·默塞德、斯凯勒·吉松多、萨拉·桑帕约、玛丽亚·加布里埃拉·德·法利亚、温德尔·皮尔斯、艾伦·图迪克、普鲁特·泰勒·文斯和涅瓦·豪厄尔一起。在电影中，探索了超人将其外星血统与人类家庭调和起来的旅程。   
+
+阅读延伸[57255388]: [https://en.wikipedia.org/wiki/Superman_(2025_film)](https://en.wikipedia.org/wiki/Superman_(2025_film))   
 
