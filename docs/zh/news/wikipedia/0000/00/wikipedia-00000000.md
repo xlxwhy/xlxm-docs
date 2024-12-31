@@ -13,12 +13,26 @@ The second season of the South Korean dystopian survival thriller horror televis
 
 阅读延伸[77582131]: [https://en.wikipedia.org/wiki/Squid_Game_season_2](https://en.wikipedia.org/wiki/Squid_Game_season_2)   
 
-## Jeju_Air_Flight_2216   
-Jeju Air Flight 2216 was a scheduled international passenger flight from Suvarnabhumi Airport near Bangkok, Thailand, to Muan International Airport in Muan County, South Korea. On 29 December 2024, the Boeing 737-800 operating the flight overran the runway at Muan while attempting a belly landing without its main landing gear deployed. The aircraft crashed into a barrier at the end of the runway and exploded, resulting in 179 of the 181 occupants dead. Two crew members aboard the plane survived with injuries.   
+## 琳达_拉文   
+Linda Lavin was an American actress and singer. Known for her roles on stage and screen, she received several awards including three Drama Desk Awards, two Golden Globe Awards, two Obie Awards, and a Tony Award as well as nominations for a Daytime Emmy Award and a Primetime Emmy Award. She was inducted into the American Theater Hall of Fame in 2010.   
 
-Jeju Air 2216航班是一架从泰国曼谷附近的素万那普机场飞往韩国穆安县穆安国际机场的定期国际客运航班。2024年12月29日，运营该航班的一架波音737-800在未部署主起落架的情况下试图腹部着陆时越过穆安跑道。飞机撞上跑道末端的屏障并爆炸，导致181名乘客中的179人死亡。机上两名机组人员受伤幸存。   
+琳达·拉文（Linda Lavin）是一位美国演员和歌手。她因在舞台和银幕上的角色而闻名，荣获多项奖项，包括三项戏剧奖、两项金球奖、两项奥比奖和托尼奖，以及日间艾美奖和黄金时段艾美奖的提名。2010年，她入选美国戏剧名人堂。   
 
-阅读延伸[78748114]: [https://en.wikipedia.org/wiki/Jeju_Air_Flight_2216](https://en.wikipedia.org/wiki/Jeju_Air_Flight_2216)   
+阅读延伸[846184]: [https://en.wikipedia.org/wiki/Linda_Lavin](https://en.wikipedia.org/wiki/Linda_Lavin)   
+
+## 艾米_卡特   
+Amy Lynn Carter is the only daughter and fourth child of the 39th U.S. president Jimmy Carter and his wife Rosalynn Carter. Carter first entered the public spotlight as a child when she lived in the White House during her father's presidency.   
+
+艾米·林恩·卡特（Amy Lynn Carter）是美国第39任总统吉米·卡特（Jimmy Carter）及其妻子罗莎琳·卡特（Rosalynn Carter）的独生女和第四个孩子。卡特在她父亲担任总统期间住在白宫时第一次进入公众视野。   
+
+阅读延伸[1500031]: [https://en.wikipedia.org/wiki/Amy_Carter](https://en.wikipedia.org/wiki/Amy_Carter)   
+
+## 罗莎琳_卡特   
+Eleanor Rosalynn Carter was an American writer, activist, and humanitarian who served as the first lady of the United States from 1977 to 1981, as the wife of president Jimmy Carter, the 39th president of the United States. Throughout her decades of public service she was a leading advocate for women's rights and mental health.   
+
+埃莉诺·罗莎琳·卡特（Eleanor Rosalynn Carter）是一位美国作家、活动家和人道主义者，她于1977年至1981年担任美国第一夫人，是美国第39任总统吉米·卡特（Jimmy Carter）总统的妻子。在她数十年的公共服务生涯中，她是妇女权利和心理健康的主要倡导者。   
+
+阅读延伸[241367]: [https://en.wikipedia.org/wiki/Rosalynn_Carter](https://en.wikipedia.org/wiki/Rosalynn_Carter)   
 
 ## 诺斯费拉图_（2024年_电影）   
 Nosferatu is a 2024 American gothic horror film written and directed by Robert Eggers. It is a remake of the 1922 silent film Nosferatu, which was an unauthorised adaptation of Bram Stoker's 1897 novel Dracula. The film features an ensemble cast including Bill Skarsgård, Nicholas Hoult, Lily-Rose Depp, Aaron Taylor-Johnson, Emma Corrin, Ralph Ineson, Simon McBurney, and Willem Dafoe, while also reuniting Eggers with the frequently collaborating cinematographer Jarin Blaschke.   
@@ -34,26 +48,12 @@ Squid Game is a South Korean dystopian survival thriller horror television serie
 
 阅读延伸[68455171]: [https://en.wikipedia.org/wiki/Squid_Game](https://en.wikipedia.org/wiki/Squid_Game)   
 
-## 奥利维亚_赫西   
-Olivia Hussey was a British actress. Her awards included a Golden Globe Award and a David di Donatello Award. The daughter of Argentine tango singer Osvaldo Ribó, Hussey was born in Buenos Aires but spent most of her early life in her mother's native England. She aspired to become an actress at a young age and studied drama for five years at Italia Conti Academy of Theatre Arts in London.   
+## Jeju_Air_Flight_2216   
+Jeju Air Flight 2216 was a scheduled international passenger flight from Suvarnabhumi Airport near Bangkok, Thailand, to Muan International Airport in Muan County, South Korea. On 29 December 2024, the Boeing 737-800 operating the flight overran the runway at Muan while attempting a belly landing without its main landing gear deployed. The aircraft crashed into a barrier at the end of the runway and exploded, resulting in 179 of the 181 occupants dead. Two crew members aboard the plane survived with injuries.   
 
-奥利维亚·赫西是一位英国女演员。她获得的奖项包括金球奖和大卫·迪·多纳泰洛奖。赫西是阿根廷探戈歌手奥斯瓦尔多·里博的女儿，出生于布宜诺斯艾利斯，但早年大部分时间都在母亲的祖国英格兰度过。她从小就立志成为一名演员，并在伦敦意大利康蒂戏剧艺术学院学习了五年戏剧。   
+Jeju Air 2216航班是一架从泰国曼谷附近的素万那普机场飞往韩国穆安县穆安国际机场的定期国际客运航班。2024年12月29日，运营该航班的一架波音737-800在未部署主起落架的情况下试图腹部着陆时越过穆安跑道。飞机撞上跑道末端的屏障并爆炸，导致181名乘客中的179人死亡。机上两名机组人员受伤幸存。   
 
-阅读延伸[227335]: [https://en.wikipedia.org/wiki/Olivia_Hussey](https://en.wikipedia.org/wiki/Olivia_Hussey)   
-
-## Pushpa_2：__规则   
-Pushpa 2: The Rule is a 2024 Indian Telugu-language action drama film directed by Sukumar and produced by Mythri Movie Makers, in association with Sukumar Writings. The film stars Allu Arjun in the titular role, alongside Rashmika Mandanna, Fahadh Faasil, Jagapathi Babu, Dhananjaya, Rao Ramesh, Sunil and Anasuya Bharadwaj. It is the second instalment in the Pushpa film series and the sequel to the 2021 film Pushpa: The Rise.   
-
-普什帕2：《规则》是一部2024年印度泰卢固语动作片，由Sukumar执导，Mythri Movie Makers与Sukumar Injings联合制作。这部电影由阿鲁·阿尔琼（Allu Arjun）主演，还有拉什米卡·曼达纳（Rashmika Mandanna）、法赫德·法西尔（Fahadh Faasil）、贾加帕蒂·巴布（Jagapathi Babu）、达南贾亚（Dhananjaya）、拉奥·拉梅什（Rao Ramesh）、苏尼尔（Sunil）和阿纳苏亚·巴拉德瓦吉（Anasuya Bharadwaj）主演。这是普什帕电影系列的第二部，也是2021年电影《普什帕：崛起》的续集。   
-
-阅读延伸[72983433]: [https://en.wikipedia.org/wiki/Pushpa_2%3A_The_Rule](https://en.wikipedia.org/wiki/Pushpa_2%3A_The_Rule)   
-
-## Jeju_Air   
-Jeju Air Co., Ltd. is the first and the largest South Korean low-cost airline. Named after Jeju Island, the airline is headquartered in Jeju City with its largest base at Jeju International Airport. It is also a founding member of the Value Alliance.   
-
-Jeju Air Co.，有限公司是韩国第一家也是最大的廉价航空公司。该航空公司以Jeju岛命名，总部位于Jeju市，最大的基地位于Jeju国际机场。它也是价值联盟的创始成员。   
-
-阅读延伸[2268764]: [https://en.wikipedia.org/wiki/Jeju_Air](https://en.wikipedia.org/wiki/Jeju_Air)   
+阅读延伸[78748114]: [https://en.wikipedia.org/wiki/Jeju_Air_Flight_2216](https://en.wikipedia.org/wiki/Jeju_Air_Flight_2216)   
 
 ## 2025_PDC_World_飞镖_锦标赛   
 The 2025 PDC World Darts Championship is a professional darts event taking place at Alexandra Palace in London, England, from 15 December 2024 to 3 January 2025. It is the 32nd World Darts Championship to be organised by the Professional Darts Corporation.   
@@ -62,19 +62,12 @@ The 2025 PDC World Darts Championship is a professional darts event taking place
 
 阅读延伸[77996634]: [https://en.wikipedia.org/wiki/2025_PDC_World_Darts_Championship](https://en.wikipedia.org/wiki/2025_PDC_World_Darts_Championship)   
 
-## 格雷格_冈贝尔   
-Greg Gumbel was an American television sportscaster. He was best known for his various assignments for CBS Sports. The older brother of news and sportscaster Bryant Gumbel, he became the first African-American announcer to call play-by-play of a major sports championship in the United States when he announced Super Bowl XXXV for the CBS network in 2001. Gumbel was most recently the studio host for CBS' men's college basketball coverage and was a play-by-play broadcaster for the NFL on CBS until 2023.   
+## Pushpa_2：__规则   
+Pushpa 2: The Rule is a 2024 Indian Telugu-language action drama film directed by Sukumar and produced by Mythri Movie Makers, in association with Sukumar Writings. The film stars Allu Arjun in the titular role, alongside Rashmika Mandanna, Fahadh Faasil, Jagapathi Babu, Dhananjaya, Rao Ramesh, Sunil and Anasuya Bharadwaj. It is the second instalment in the Pushpa film series and the sequel to the 2021 film Pushpa: The Rise.   
 
-格雷格·冈贝尔（Greg Gumbel）是一名美国电视体育播音员。他因在哥伦比亚广播公司体育部的各种任务而闻名。作为新闻和体育播音员布莱恩特·冈贝尔（Bryant Gumbel）的哥哥，他于2001年为哥伦比亚广播公司（CBS）网络宣布第35届超级碗比赛，成为第一位现场直播美国重大体育锦标赛的非裔美国播音员。冈贝尔最近是哥伦比亚广播公司男子大学篮球报道的演播室主持人，并在2023年之前一直是哥伦比亚广播公司NFL的逐场播音员。   
+普什帕2：《规则》是一部2024年印度泰卢固语动作片，由Sukumar执导，Mythri Movie Makers与Sukumar Injings联合制作。这部电影由阿鲁·阿尔琼（Allu Arjun）主演，还有拉什米卡·曼达纳（Rashmika Mandanna）、法赫德·法西尔（Fahadh Faasil）、贾加帕蒂·巴布（Jagapathi Babu）、达南贾亚（Dhananjaya）、拉奥·拉梅什（Rao Ramesh）、苏尼尔（Sunil）和阿纳苏亚·巴拉德瓦吉（Anasuya Bharadwaj）主演。这是普什帕电影系列的第二部，也是2021年电影《普什帕：崛起》的续集。   
 
-阅读延伸[1433534]: [https://en.wikipedia.org/wiki/Greg_Gumbel](https://en.wikipedia.org/wiki/Greg_Gumbel)   
-
-## 罗莎琳_卡特   
-Eleanor Rosalynn Carter was an American writer, activist, and humanitarian who served as the first lady of the United States from 1977 to 1981, as the wife of president Jimmy Carter, the 39th president of the United States. Throughout her decades of public service she was a leading advocate for women's rights and mental health.   
-
-埃莉诺·罗莎琳·卡特（Eleanor Rosalynn Carter）是一位美国作家、活动家和人道主义者，她于1977年至1981年担任美国第一夫人，是美国第39任总统吉米·卡特（Jimmy Carter）总统的妻子。在她数十年的公共服务生涯中，她是妇女权利和心理健康的主要倡导者。   
-
-阅读延伸[241367]: [https://en.wikipedia.org/wiki/Rosalynn_Carter](https://en.wikipedia.org/wiki/Rosalynn_Carter)   
+阅读延伸[72983433]: [https://en.wikipedia.org/wiki/Pushpa_2%3A_The_Rule](https://en.wikipedia.org/wiki/Pushpa_2%3A_The_Rule)   
 
 ## 死亡_in_2024   
 
@@ -87,40 +80,26 @@ The following notable deaths occurred in 2024. Names are reported under the date
 
 阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
 
-## 世界_结束_（2024）   
-The 2024 Worlds End was a professional wrestling pay-per-view (PPV) event produced by All Elite Wrestling (AEW). It was the second annual Worlds End and took place on December 28, 2024, at the Addition Financial Arena in Orlando, Florida. The event hosted the finals of the 2024 Continental Classic tournament.   
+## 杰克_卡特_（政治家）   
+John William Carter is an American businessman, politician and environmentalist. The eldest child of former U.S. President Jimmy Carter and First Lady Rosalynn Carter, he was the Democratic nominee in the 2006 United States Senate election in Nevada but lost to Republican incumbent John Ensign.   
 
-2024年世界末日是由All Elite Wrestling（AEW）制作的一项按次付费（PPV）职业摔跤赛事。这是第二届年度世界末日，于2024年12月28日在佛罗里达州奥兰多的Addition Financial Arena举行。该赛事举办了2024年大陆精英赛决赛。   
+约翰·威廉·卡特是一位美国商人、政治家和环保主义者。他是美国前总统吉米·卡特和第一夫人罗莎琳·卡特的长子，是2006年内华达州美国参议院选举的民主党提名人，但输给了共和党现任议员约翰·恩西格。   
 
-阅读延伸[76589084]: [https://en.wikipedia.org/wiki/Worlds_End_(2024)](https://en.wikipedia.org/wiki/Worlds_End_(2024))   
+阅读延伸[2841462]: [https://en.wikipedia.org/wiki/Jack_Carter_(politician)](https://en.wikipedia.org/wiki/Jack_Carter_(politician))   
 
-## 布莱恩特_冈贝尔   
-Bryant Charles Gumbel is an American television journalist and sportscaster, best known for his 15 years as co-host of NBC's Today. He is the younger brother of the sportscaster Greg Gumbel. From 1995 to 2023, he hosted HBO's acclaimed investigative series Real Sports with Bryant Gumbel, which has been rated as "flat out TV's best sports program" by the Los Angeles Times. It won a Peabody Award in 2012.   
+## 马可_（2024_电影）   
+Marco is a 2024 Indian Malayalam-language action thriller film written & directed by Haneef Adeni and produced by Shareef Muhammed. The film stars Unni Mukundan, alongside Jagadish, Siddique, Anson Paul, Yukti Thareja, Sreejith Ravi and Kabir Duhan Singh. It is a spin-off of 2019 film Mikhael. The music was composed by Ravi Basrur, while cinematography and editing were handled by Chandru Selvaraj and Shameer Muhammed.   
 
-布莱恩特·查尔斯·冈贝尔（Bryant Charles Gumbel）是一名美国电视记者和体育播音员，因担任NBC《今日》联合主持人15年而闻名。他是体育播音员格雷格·冈贝尔的弟弟。1995年至2023年，他与布莱恩特·冈贝尔（Bryant Gumbel）一起主持了HBO广受好评的调查系列节目《真实体育》，该节目被《洛杉矶时报》评为“电视上最佳体育节目”。它于2012年荣获皮博迪奖。   
+马可是一部2024年印度马来语动作惊悚电影，由哈尼夫·阿德尼编剧和导演，谢里夫·穆罕默德制作。这部电影由乌尼·穆昆丹（Unni Mukundan）以及贾加迪什（Jagadish）、西迪克（Siddique）、安森·保罗（Anson Paul）、尤克蒂·塔雷贾（Yukti Thareja）、斯里吉斯·拉维（Sreejith Ravi）和卡比尔·杜汉·辛格（Kabir Duhan Singh）主演。这是2019年电影《迈克尔》的衍生作品。音乐由Ravi Basrur创作，电影摄影和剪辑由Sirru Selvaraj和Shameer Muhammed负责。   
 
-阅读延伸[532872]: [https://en.wikipedia.org/wiki/Bryant_Gumbel](https://en.wikipedia.org/wiki/Bryant_Gumbel)   
+阅读延伸[77185206]: [https://en.wikipedia.org/wiki/Marco_(2024_film)](https://en.wikipedia.org/wiki/Marco_(2024_film))   
 
-## 赵_尤里   
-Jo Yu-ri is a South Korean singer and actress. She is known as a former member of the South Korean–Japanese girl group Iz*One. She first gained prominence after participating in Mnet's reality competition series Produce 48 in 2018, where she finished in third place and debuted with Iz*One on October 29, 2018.   
+## 罗纳德·里根   
+Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. His presidency is known as the Reagan era.   
 
-Jo Yu-ri是韩国歌手兼演员。她是韩国-日本女子组合Iz*One的前成员。她在2018年参加Mnet的真人秀节目《Produce 48》后首次崭露头角，获得第三名，并于2018年10月29日与Iz*One一起首次亮相。   
+罗纳德·威尔逊·里根是一位美国政治家和演员，于1981年至1989年担任美国第40任总统。作为共和党成员，他成为美国保守派运动的重要人物。他的总统任期被称为里根时代。   
 
-阅读延伸[68806767]: [https://en.wikipedia.org/wiki/Jo_Yu-ri](https://en.wikipedia.org/wiki/Jo_Yu-ri)   
-
-## 穆安_国际_机场   
-Muan International Airport is an international airport in Muan County, South Jeolla Province, South Korea. Construction of the airport began in 1997, and the airport opened on November 9, 2007. The airport serves the province of South Jeolla, especially the cities of Gwangju, Mokpo, and Naju. It replaced the nearby Mokpo Airport, and is expected to replace the nearby Gwangju Airport as well. In 2018, 543,247 passengers used the airport. The airport is managed by the Korea Airports Corporation.   
-
-毛安国际机场是韩国全罗南道毛安县的国际机场。机场于1997年开始建设，并于2007年11月9日开放。该机场为全罗南道提供服务，特别是光州、木浦和那州等城市。它取代了附近的木浦机场，预计也将取代附近的光州机场。2018年，有543，247名乘客使用该机场。该机场由韩国机场公司管理。   
-
-阅读延伸[10288668]: [https://en.wikipedia.org/wiki/Muan_International_Airport](https://en.wikipedia.org/wiki/Muan_International_Airport)   
-
-## 鲍勃_迪伦   
-Bob Dylan is an American singer-songwriter. Considered one of the greatest songwriters of all time, Dylan has been a major figure in popular culture over his 60-year career. With an estimated figure of more than 125 million records sold he is one of the best-selling musicians of all-time. A counter culture figure, he started his career as a folk singer before transitioning with blues and rock and roll. He is known for his lyrical innovations, technical experimentations and influence in the music industry.   
-
-鲍勃·迪伦是一位美国创作型歌手。迪伦被认为是有史以来最伟大的词曲作家之一，在其60年的职业生涯中一直是流行文化的重要人物。据估计，他的唱片销量超过1.25亿张，是有史以来最畅销的音乐家之一。作为一名反文化人物，他从民谣歌手开始了自己的职业生涯，然后转向蓝调和摇滚乐。他以抒情创新、技术实验和对音乐行业的影响力而闻名。   
-
-阅读延伸[4637590]: [https://en.wikipedia.org/wiki/Bob_Dylan](https://en.wikipedia.org/wiki/Bob_Dylan)   
+阅读延伸[25433]: [https://en.wikipedia.org/wiki/Ronald_Reagan](https://en.wikipedia.org/wiki/Ronald_Reagan)   
 
 ## Sonic_the_Hedgehog_3_（电影）   
 Sonic the Hedgehog 3 is an upcoming action adventure comedy film based on the video game series published by Sega, and the sequel to Sonic the Hedgehog 2 (2022). It is directed by Jeff Fowler and written by Pat Casey, Josh Miller, and John Whittington, based on a story by Casey and Miller. Jim Carrey, Ben Schwartz, James Marsden, Tika Sumpter, Idris Elba, Lee Majdoub, Natasha Rothwell, Adam Pally, Shemar Moore, and Colleen O'Shaughnessey reprise their roles, with Keanu Reeves, Krysten Ritter, Alyla Browne, and James Wolk joining the cast. In the film, Sonic, Tails, and Knuckles must ally with Dr. Robotnik to defeat a new enemy, Shadow the Hedgehog.   
@@ -129,12 +108,25 @@ Sonic the Hedgehog 3 is an upcoming action adventure comedy film based on the vi
 
 阅读延伸[70082895]: [https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3_(film)](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3_(film))   
 
-## Baby_John_（电影）   
-Baby John is a 2024 Indian Hindi-language action thriller film directed by Kalees that serves as a remake of Atlee's 2016 Tamil film Theri. The film stars Varun Dhawan in the titular role, alongside Keerthy Suresh, Wamiqa Gabbi, Zara Zyanna and Jackie Shroff. It is produced under Jio Studios, Cine1 Studios, Vipin Agnihotri Films and A for Apple Studios.   
+## 鲍勃_迪伦   
+Bob Dylan is an American singer-songwriter. Considered one of the greatest songwriters of all time, Dylan has been a major figure in popular culture over his 60-year career. With an estimated figure of more than 125 million records sold he is one of the best-selling musicians of all-time. A counter culture figure, he started his career as a folk singer before transitioning with blues and rock and roll. He is known for his lyrical innovations, technical experimentations and influence in the music industry.   
 
-《小约翰》是一部2024年印度印地语动作惊悚电影，由卡莱斯执导，是阿特利2016年泰米尔电影《泰里》的翻拍版。这部电影由瓦伦·达万（Varun Dhawan）主演，与基尔蒂·苏雷什（Keerthy Suresh）、瓦米卡·加比（Wamiqa Gabbi）、扎拉·齐亚娜（Zara Zyanna）和杰基·什罗夫（Jackie Shroff）一起饰演同名角色。该片由Jio Studios、Cine 1 Studios、Vipin Agnihotri Films和A for Apple Studios制作。   
+鲍勃·迪伦是一位美国创作型歌手。迪伦被认为是有史以来最伟大的词曲作家之一，在其60年的职业生涯中一直是流行文化的重要人物。据估计，他的唱片销量超过1.25亿张，是有史以来最畅销的音乐家之一。作为一名反文化人物，他从民谣歌手开始了自己的职业生涯，然后转向蓝调和摇滚乐。他以抒情创新、技术实验和对音乐行业的影响力而闻名。   
 
-阅读延伸[75777582]: [https://en.wikipedia.org/wiki/Baby_John_(film)](https://en.wikipedia.org/wiki/Baby_John_(film))   
+阅读延伸[4637590]: [https://en.wikipedia.org/wiki/Bob_Dylan](https://en.wikipedia.org/wiki/Bob_Dylan)   
+
+## 按年龄列出的美国总统名单   
+
+
+
+In this list of presidents of the United States by age, the first table charts the age of each president of the United States at the time of presidential inauguration, upon leaving office, and at the time of death. Where the president is still living, their lifespan and post-presidency timespan are calculated through December 31, 2024.   
+
+
+
+
+在这份按年龄列出的美国总统名单中，第一个表格列出了每位美国总统在总统就职时、离任时和去世时的年龄。总统仍居住的地方，他们的寿命和总统任期后的时间计算到2024年12月31日。   
+
+阅读延伸[11262088]: [https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States_by_age](https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States_by_age)   
 
 ## 木法沙：_狮子_国王   
 Mufasa: The Lion King is a 2024 American musical drama film directed by Barry Jenkins from a screenplay written by Jeff Nathanson. Produced by Walt Disney Pictures, the film is photorealistically animated, and both a prequel and sequel to the 2019 remake of the 1994 film The Lion King. Donald Glover, Seth Rogen, Billy Eichner, John Kani, and Beyoncé Knowles-Carter reprise their roles from the remake; new cast members include Aaron Pierre, Kelvin Harrison Jr., Tiffany Boone, Mads Mikkelsen, Thandiwe Newton, Lennie James, Anika Noni Rose, and Blue Ivy Carter in her feature film debut.   
@@ -142,4 +134,18 @@ Mufasa: The Lion King is a 2024 American musical drama film directed by Barry Je
 《木法沙：狮子王》是一部2024年美国音乐剧电影，由巴里·詹金斯执导，改编自杰夫·内桑森（Jeff Nathanson）编剧。这部电影由华特迪士尼影业制作，是真实感动画，既是1994年电影《狮子王》2019年翻拍的前传和续集。唐纳德·格洛弗、塞斯·罗根、比利·艾希纳、约翰·卡尼和碧昂丝·诺尔斯-卡特重新扮演翻拍版中的角色;新演员包括亚伦·皮埃尔、小凯尔文·哈里森、蒂芙尼·布恩（Tiffany Boone）、马兹·米克尔森（Mads Mikkelsen）、桑迪韦·牛顿（Thandiwe Newton）、伦尼·詹姆斯（Lennie James）、安妮卡·诺妮·罗斯（Anika Noni Rose）和布鲁·艾薇·卡特（Blue Ivy Carter）在她的故事片处女作中亮相。   
 
 阅读延伸[65452520]: [https://en.wikipedia.org/wiki/Mufasa%3A_The_Lion_King](https://en.wikipedia.org/wiki/Mufasa%3A_The_Lion_King)   
+
+## 美国总统名单   
+The president of the United States is the head of state and head of government of the United States, indirectly elected to a four-year term via the Electoral College. The officeholder leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces. Since the office was established in 1789, 45 men have served in 46 presidencies. The first president, George Washington, won a unanimous vote of the Electoral College. Grover Cleveland served two non-consecutive terms and is therefore counted as the 22nd and 24th president of the United States, giving rise to the discrepancy between the number of presidencies and the number of individuals who have served as president.   
+
+美国总统是美国的国家元首和政府首脑，通过选举团间接选举产生，任期四年。该官员领导联邦政府的行政部门，也是美国武装部队的总司令。自1789年该办公室成立以来，已有45名男性担任过46位总统。第一任总统乔治·华盛顿赢得了选举团的一致投票。格罗弗·克利夫兰（Grover Cleveland）连续任职两届，因此被算作美国第22任和第24任总统，导致总统人数与担任总统人数之间的差异。   
+
+阅读延伸[19908980]: [https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States](https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States)   
+
+## 票房最高的印度电影列表   
+This ranking lists the highest-grossing Indian films produced by Indian cinema, based on conservative global box office estimates as reported by organisations classified as green by Wikipedia. The figures are not adjusted for inflation. However, there is no official tracking of figures and sources publishing data are frequently pressured to increase their estimates.   
+
+该排名列出了印度电影院制作的票房最高的印度电影，该排名基于维基百科列为绿色组织的保守全球票房估计。这些数字没有根据通货膨胀进行调整。然而，没有官方跟踪数据，发布数据的来源经常被迫提高估计数。   
+
+阅读延伸[37650258]: [https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films)   
 
