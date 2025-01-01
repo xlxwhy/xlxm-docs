@@ -41,16 +41,14 @@ Sophie Michelle Ellis-Bextor是一位英国歌手和词曲作者。她于20世�
 
 阅读延伸[473752]: [https://en.wikipedia.org/wiki/Sophie_Ellis-Bextor](https://en.wikipedia.org/wiki/Sophie_Ellis-Bextor)   
 
-## 死亡_in_2024   
+## 按年列出的死亡人数   
+
+This is a list of lists of deaths of notable people, organised by year. New deaths articles are added to their respective month and then linked below.   
 
 
-The following notable deaths occurred in 2024. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and reference.   
+这是按年份组织的著名人物死亡名单。新的死亡文章将添加到各自的月份，然后链接到下面。   
 
-
-
-以下值得注意的死亡事件发生在2024年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
-
-阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
+阅读延伸[36258669]: [https://en.wikipedia.org/wiki/Lists_of_deaths_by_year](https://en.wikipedia.org/wiki/Lists_of_deaths_by_year)   
 
 ## 琳达_拉文   
 Linda Lavin was an American actress and singer. Known for her roles on stage and screen, she received several awards including three Drama Desk Awards, two Golden Globe Awards, two Obie Awards, and a Tony Award as well as nominations for a Daytime Emmy Award and a Primetime Emmy Award. She was inducted into the American Theater Hall of Fame in 2010.   
