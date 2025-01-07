@@ -1,17 +1,52 @@
 # 最新资讯  
-## 杰夫_巴埃纳   
-Jeffrey Baena was an American screenwriter and film director. He wrote and directed Life After Beth (2014), Joshy (2016), The Little Hours (2017), Horse Girl (2020), and Spin Me Round (2022), and co-wrote I Heart Huckabees (2004). He was known for his frequent collaborations with actresses Alison Brie, with whom he co-wrote Horse Girl and Spin Me Round, Molly Shannon, and his wife, Aubrey Plaza.   
+## 艾米莉亚_佩雷斯   
+Emilia Pérez is a 2024 Spanish-language French musical crime comedy film written and directed by Jacques Audiard. The French production is based on Audiard's opera libretto of the same name, which was in turn loosely adapted from Boris Razon's 2018 novel Écoute. The film stars Zoe Saldaña, Karla Sofía Gascón, Selena Gomez, Adriana Paz, Mark Ivanir, and Édgar Ramírez.   
 
-杰弗里·巴埃纳是一位美国编剧和电影导演。他编剧并执导了《贝丝之后的生活》（Life After Beth）（2014）、《乔希》（Joshy）（2016）、《小时光》（The Little Hours）（2017）、《马女孩》（2020）和《旋转我》（Spin Me Round）（2022），并与人合著了《我心哈克比》（I Heart Huckabees）（2004）。他因与女演员艾莉森·布里（Alison Brie）的频繁合作而闻名，他与她合写了《马女孩》和《旋转我》（Spin Me Round）、莫莉·香农（Molly Shannon）以及他的妻子奥布里·普拉塔（Aubrey Plaza）。   
+《艾米莉亚·佩雷斯》是一部2024年西班牙语法语音乐犯罪喜剧电影，由雅克·奥迪亚尔编剧和导演。这部法国作品改编自奥迪亚尔的同名歌剧剧本，该剧本又大致改编自鲍里斯·拉松2018年的小说《Écute》。这部电影由佐伊·萨尔达尼亚、卡拉·索菲亚·加斯孔、赛琳娜·戈麦斯、阿德里安娜·帕兹、马克·伊万尼尔和埃德加·拉米雷斯主演。   
 
-阅读延伸[51495916]: [https://en.wikipedia.org/wiki/Jeff_Baena](https://en.wikipedia.org/wiki/Jeff_Baena)   
+阅读延伸[75607941]: [https://en.wikipedia.org/wiki/Emilia_P%C3%A9rez](https://en.wikipedia.org/wiki/Emilia_P%C3%A9rez)   
 
-## 奥布里_广场   
-Aubrey Christina Plaza is an American actress, comedian, and producer. She began acting in local theater productions as a teenager and performed improv and sketch comedy at the Upright Citizens Brigade Theatre. After graduating from New York University Tisch School of the Arts, Plaza made her feature film debut in Mystery Team (2009) and gained wide recognition for her role as April Ludgate on the NBC political satire sitcom Parks and Recreation (2009–2015).   
+## 82 nd_Golden_Globe_奖项   
+The 82nd Golden Globe Awards was an annual awards ceremony for excellence in film and American television productions of 2024. The winners were revealed during a live telecast, aired on CBS on January 5, 2025, which was hosted by comedian Nikki Glaser which made her the first solo female host in Golden Globes history.   
 
-奥布里·克里斯蒂娜·普拉亚（Aubrey Christina Plaza）是一位美国女演员、喜剧演员和制片人。十几岁时，她开始在当地剧院演出，并在直立公民旅剧院表演即兴表演和小品喜剧。从纽约大学蒂施艺术学院毕业后，普拉亚在《神秘团队》（Mystery Team）中首次亮相故事片，并因在NBC政治讽刺情景喜剧《公园与娱乐》（Parks and Recreation）中饰演阿普丽尔·卢盖特（April Ludgate）而获得广泛认可。   
+第82届金球奖是2024年美国电影和电视优秀作品的年度颁奖典礼。获奖者是在2025年1月5日哥伦比亚广播公司（CBS）播出的现场直播中揭晓的，该直播由喜剧演员尼基·格拉泽（Nikki Glaser）主持，这使她成为金球奖历史上第一位单独女主持人。   
 
-阅读延伸[20213373]: [https://en.wikipedia.org/wiki/Aubrey_Plaza](https://en.wikipedia.org/wiki/Aubrey_Plaza)   
+阅读延伸[78501381]: [https://en.wikipedia.org/wiki/82nd_Golden_Globe_Awards](https://en.wikipedia.org/wiki/82nd_Golden_Globe_Awards)   
+
+## 人_偏肺病毒   
+Human metapneumovirus is a negative-sense single-stranded RNA virus of the family Pneumoviridae and is closely related to the Avian metapneumovirus (AMPV) subgroup C. It was isolated for the first time in 2001 in the Netherlands by using the RAP-PCR technique for identification of unknown viruses growing in cultured cells. As of 2016, it was the second most common cause of acute respiratory tract illness in otherwise-healthy children under the age of 5 in a large US outpatient clinic.   
+
+人偏肺病毒是肺莫病毒科的一种负意义单股RNA病毒，与禽偏肺病毒（AMPV）C亚群密切相关。它于2001年在荷兰首次分离，采用RAP-PCR技术来识别培养细胞中生长的未知病毒。截至2016年，它是美国大型门诊诊所5岁以下其他健康儿童急性呼吸道疾病的第二常见原因。   
+
+阅读延伸[477498]: [https://en.wikipedia.org/wiki/Human_metapneumovirus](https://en.wikipedia.org/wiki/Human_metapneumovirus)   
+
+## 野蛮主义者   
+The Brutalist is a 2024 epic period drama film directed and produced by Brady Corbet from a script he co-wrote with Mona Fastvold. An international co-production between the United States, United Kingdom, and Hungary, it stars Adrien Brody as László Tóth, a Hungarian-born Jewish architect who survives the Holocaust and emigrates to the United States, where he struggles to achieve the American Dream until a wealthy client changes his life. The cast also features Felicity Jones, Guy Pearce, Joe Alwyn, Raffey Cassidy, Stacy Martin, Emma Laird, Isaach de Bankolé, and Alessandro Nivola.   
+
+《残酷主义者》是一部2024年的史诗时代剧情电影，由布雷迪·科贝特执导和制作，剧本是他与莫娜·法斯沃尔德共同编写的。这是美国、英国和匈牙利之间的国际联合制作，由阿德里安·布罗迪（Adrien Brody）主演拉斯洛·托特（László Tóth），一位出生于匈牙利的犹太建筑师，在大屠杀中幸存下来，并移民到美国，在那里他努力实现美国梦，直到一位富有的客户改变了他的生活。演员阵容还包括Felicity Jones、Guy Pearce、Joe Alwyn、Raffey Cassidy、Stacy Martin、Emma Laird、Isaach de Bankolé和Alessandro Nivola。   
+
+阅读延伸[72977597]: [https://en.wikipedia.org/wiki/The_Brutalist](https://en.wikipedia.org/wiki/The_Brutalist)   
+
+## 贾斯汀·特鲁多   
+Justin Pierre James Trudeau is a Canadian politician who has been the 23rd prime minister of Canada since 2015 and the leader of the Liberal Party since 2013.   
+
+贾斯汀·皮埃尔·詹姆斯·特鲁多是一位加拿大政治家，自2015年以来担任加拿大第23任总理，自2013年以来担任自由党领袖。   
+
+阅读延伸[451733]: [https://en.wikipedia.org/wiki/Justin_Trudeau](https://en.wikipedia.org/wiki/Justin_Trudeau)   
+
+## 卡拉_索菲亚_加斯孔   
+Karla Sofía Gascón is a Spanish actress. She came to attention appearing in a number of telenovelas and films, including El Señor de los Cielos (2013) and The Noble Family (2013).   
+
+卡拉·索菲亚·加斯孔是一位西班牙女演员。她因出演多部电视剧和电影而受到关注，包括《El Señor de los Cielos》（2013）和《贵族家庭》（2013）。   
+
+阅读延伸[62808670]: [https://en.wikipedia.org/wiki/Karla_Sof%C3%ADa_Gasc%C3%B3n](https://en.wikipedia.org/wiki/Karla_Sof%C3%ADa_Gasc%C3%B3n)   
+
+## 黛米_摩尔   
+Demi Gene Moore is an American actress. After rising to prominence in the late 1980s, Moore became the world's highest-paid actress by 1995. Her accolades include a Golden Globe Award for her performance in The Substance and a Primetime Emmy Award nomination as a producer.   
+
+黛米·吉恩·摩尔是一位美国女演员。摩尔在20世纪80年代末声名鹊起后，到1995年成为世界上收入最高的女演员。她获得的荣誉包括因在《物质》中的表演而获得金球奖，以及作为制片人获得黄金时段艾美奖提名。   
+
+阅读延伸[187807]: [https://en.wikipedia.org/wiki/Demi_Moore](https://en.wikipedia.org/wiki/Demi_Moore)   
 
 ## 维维安   
 James Lee Williams, known professionally as The Vivienne, was a British drag performer, known for being appointed as the UK Drag Ambassador in 2015 for American reality television series RuPaul's Drag Race. He later competed in and won the first series of RuPaul's Drag Race UK in 2019, and competed again in the seventh season of RuPaul's Drag Race All Stars in 2022. He became the first drag performer to compete on Dancing on Ice in 2023, appearing as a contestant on the fifteenth series, in which he finished in third place.   
@@ -20,12 +55,19 @@ James Lee Williams, known professionally as The Vivienne, was a British drag per
 
 阅读延伸[61574467]: [https://en.wikipedia.org/wiki/The_Vivienne](https://en.wikipedia.org/wiki/The_Vivienne)   
 
-## 鱿鱼_游戏_第二季   
-The second season of the South Korean dystopian survival thriller horror television series Squid Game was created for television by Korean writer and television producer Hwang Dong-hyuk. Produced by Netflix, it was released on December 26, 2024.   
+## _实质   
+The Substance is a 2024 satirical body horror film co-produced, written and directed by Coralie Fargeat. The film stars Demi Moore, Margaret Qualley and Dennis Quaid. An international co-production between the United Kingdom and France, its plot follows a fading celebrity (Moore) who decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself (Qualley), unknowingly giving her horrifying side effects.   
 
-韩国反乌托邦生存惊悚恐怖电视剧《鱿鱼游戏》第二季由韩国作家兼电视制片人黄东赫为电视创作。该剧由Netflix制作，于2024年12月26日上映。   
+《物质》是一部2024年的讽刺身体恐怖电影，由Coralie Fargeat联合制作、编剧和导演。这部电影由黛米·摩尔、玛格丽特·夸利和丹尼斯·奎德主演。这是英国和法国之间的国际联合制作，其情节讲述了一位日渐衰落的名人（摩尔饰）决定使用一种黑市药物，这是一种细胞复制物质，可以暂时创造出一个更年轻、更好的自己（夸利饰），在不知不觉中给了她可怕的副作用。   
 
-阅读延伸[77582131]: [https://en.wikipedia.org/wiki/Squid_Game_season_2](https://en.wikipedia.org/wiki/Squid_Game_season_2)   
+阅读延伸[70519613]: [https://en.wikipedia.org/wiki/The_Substance](https://en.wikipedia.org/wiki/The_Substance)   
+
+## Nikki_Glaser   
+Nikki Glaser is an American stand-up comedian, actress, and television host. She hosted the television series Not Safe with Nikki Glaser, which premiered on Comedy Central and Much in 2016. She starred in the 2022 reality show Welcome Home Nikki Glaser? on E!. She hosted the reality TV dating shows Blind Date (2019) on Bravo and FBoy Island (2021–) on HBO Max & The CW and its spinoff Lovers and Liars on The CW. She also hosted the 2025 Golden Globe Awards, which made her the first solo female host in Golden Globes history.   
+
+妮基·格拉泽（Nikki Glaser）是一位美国单口喜剧演员、女演员和电视主持人。她与妮基·格拉泽（Nikki Glaser）一起主持了电视剧《不安全》（Not Safe），该剧于2016年在Comedy Central和Much首播。她主演了2022年真人秀节目《欢迎回家妮基·格拉泽？》在E！。她在HBO Max & The CW上主持了真人秀约会节目《Blind Date》（2019）和《FBoy Island》（2021-），以及在The CW上主持了其衍生节目《Lovers and Liars》。她还主持了2025年金球奖，这使她成为金球奖历史上第一位单独女主持人。   
+
+阅读延伸[36855494]: [https://en.wikipedia.org/wiki/Nikki_Glaser](https://en.wikipedia.org/wiki/Nikki_Glaser)   
 
 ## 兄弟_家   
 The Brothers' Home was an internment camp located in Busan, South Korea during the 1970s and 1980s. The facility contained 20 factories and housed thousands of people, including homeless people and children taken from the streets, along with student protesters who opposed the government. Only 10% of internees were actually homeless. The camp was home to some of the worst human rights abuses in South Korea during the period and has been nicknamed "Korea's Auschwitz" by various Korean media outlets.   
@@ -33,6 +75,41 @@ The Brothers' Home was an internment camp located in Busan, South Korea during t
 兄弟之家是20世纪70年代和80年代位于韩国釜山的一个拘留营。该设施拥有20家工厂，居住着数千人，其中包括无家可归者和从街上带走的儿童，以及反对政府的学生抗议者。只有10%的被拘留者实际上无家可归。该集中营是同期韩国一些最严重侵犯人权行为的所在地，并被韩国多家媒体戏称为“韩国的奥斯威辛集中营”。   
 
 阅读延伸[50243796]: [https://en.wikipedia.org/wiki/Brothers_Home](https://en.wikipedia.org/wiki/Brothers_Home)   
+
+## 阿德里安_布罗迪   
+Adrien Nicholas Brody is an American actor. He is known for his portrayal of Władysław Szpilman in Roman Polanski's war drama The Pianist (2002), for which he won the Academy Award for Best Actor at age 29, becoming the youngest actor to win in that category. He also became the second American male actor to win the César Award for Best Actor for the same film. For his role as a Holocaust survivor who emigrates to the United States in The Brutalist (2024), he won a Golden Globe Award for Best Actor in a Motion Picture – Drama.   
+
+阿德里安·尼古拉斯·布罗迪是一位美国演员。他因在罗曼·波兰斯基的战争剧《钢琴家》（2002年）中饰演瓦萨迪索·斯皮尔曼而闻名，并因此在29岁时荣获奥斯卡最佳男主角奖，成为该类别中最年轻的演员。他也成为第二位凭借同一部电影获得凯撒奖最佳男主角的美国男演员。他在《野蛮人》（2024年）中扮演一名移民到美国的大屠杀幸存者，荣获金球奖剧情类最佳男主角。   
+
+阅读延伸[200750]: [https://en.wikipedia.org/wiki/Adrien_Brody](https://en.wikipedia.org/wiki/Adrien_Brody)   
+
+## 鱿鱼_游戏_第二季   
+The second season of the South Korean dystopian survival thriller horror television series Squid Game was created for television by Korean writer and television producer Hwang Dong-hyuk. Produced by Netflix, it was released on December 26, 2024.   
+
+韩国反乌托邦生存惊悚恐怖电视剧《鱿鱼游戏》第二季由韩国作家兼电视制片人黄东赫为电视创作。该剧由Netflix制作，于2024年12月26日上映。   
+
+阅读延伸[77582131]: [https://en.wikipedia.org/wiki/Squid_Game_season_2](https://en.wikipedia.org/wiki/Squid_Game_season_2)   
+
+## 杰夫_巴埃纳   
+Jeffrey Baena was an American screenwriter and film director. He wrote and directed Life After Beth (2014), Joshy (2016), The Little Hours (2017), Horse Girl (2020), and Spin Me Round (2022), and co-wrote I Heart Huckabees (2004). He was known for his frequent collaborations with actresses Alison Brie, with whom he co-wrote Horse Girl and Spin Me Round, Molly Shannon, and his wife, Aubrey Plaza.   
+
+杰弗里·巴埃纳是一位美国编剧和电影导演。他编剧并执导了《贝丝之后的生活》（Life After Beth）（2014）、《乔希》（Joshy）（2016）、《小时光》（The Little Hours）（2017）、《马女孩》（2020）和《旋转我》（Spin Me Round）（2022），并与人合著了《我心哈克比》（I Heart Huckabees）（2004）。他因与女演员艾莉森·布里（Alison Brie）的频繁合作而闻名，他与她合写了《马女孩》和《旋转我》（Spin Me Round）、莫莉·香农（Molly Shannon）以及他的妻子奥布里·普拉塔（Aubrey Plaza）。   
+
+阅读延伸[51495916]: [https://en.wikipedia.org/wiki/Jeff_Baena](https://en.wikipedia.org/wiki/Jeff_Baena)   
+
+## 佐伊_萨尔达尼亚   
+Zoë Yadira Saldaña-Perego is an American actress. Known primarily for her work in science fiction film franchises, she has starred in four of the highest-grossing films of all time. Films she has appeared in have grossed more than $15 billion worldwide and, as of 2024, she is the second highest-grossing lead actress and the highest-grossing actress overall. Time magazine named her one of the 100 most influential people in the world in 2023.   
+
+佐伊·亚迪拉·萨尔达尼亚-佩雷戈是一位美国女演员。她主要以科幻电影系列作品而闻名，主演过四部有史以来票房最高的电影。她出演的电影在全球票房超过150亿美元，截至2024年，她是票房第二高的女主角，也是总体票房最高的女演员。《时代》杂志将她评为2023年全球最具影响力的100位人物之一。   
+
+阅读延伸[1713217]: [https://en.wikipedia.org/wiki/Zoe_Salda%C3%B1a](https://en.wikipedia.org/wiki/Zoe_Salda%C3%B1a)   
+
+## 奥布里_广场   
+Aubrey Christina Plaza is an American actress, comedian, and producer. She began acting in local theater productions as a teenager and performed improv and sketch comedy at the Upright Citizens Brigade Theatre. After graduating from New York University Tisch School of the Arts, Plaza made her feature film debut in Mystery Team (2009) and gained wide recognition for her role as April Ludgate on the NBC political satire sitcom Parks and Recreation (2009–2015).   
+
+奥布里·克里斯蒂娜·普拉亚（Aubrey Christina Plaza）是一位美国女演员、喜剧演员和制片人。十几岁时，她开始在当地剧院演出，并在直立公民旅剧院表演即兴表演和小品喜剧。从纽约大学蒂施艺术学院毕业后，普拉亚在《神秘团队》（Mystery Team）中首次亮相故事片，并因在NBC政治讽刺情景喜剧《公园与娱乐》（Parks and Recreation）中饰演阿普丽尔·卢盖特（April Ludgate）而获得广泛认可。   
+
+阅读延伸[20213373]: [https://en.wikipedia.org/wiki/Aubrey_Plaza](https://en.wikipedia.org/wiki/Aubrey_Plaza)   
 
 ## 诺斯费拉图_（2024年_电影）   
 Nosferatu is a 2024 American gothic horror film written and directed by Robert Eggers. It is a remake of the 1922 silent film Nosferatu, which was an unauthorised adaptation of Bram Stoker's 1897 novel Dracula. The film features an ensemble cast including Bill Skarsgård, Nicholas Hoult, Lily-Rose Depp, Aaron Taylor-Johnson, Emma Corrin, Ralph Ineson, Simon McBurney, and Willem Dafoe, while also reuniting Eggers with the frequently collaborating cinematographer Jarin Blaschke.   
@@ -48,94 +125,17 @@ Squid Game is a South Korean dystopian survival thriller horror television serie
 
 阅读延伸[68455171]: [https://en.wikipedia.org/wiki/Squid_Game](https://en.wikipedia.org/wiki/Squid_Game)   
 
-## 人_偏肺病毒   
-Human metapneumovirus is a negative-sense single-stranded RNA virus of the family Pneumoviridae and is closely related to the Avian metapneumovirus (AMPV) subgroup C. It was isolated for the first time in 2001 in the Netherlands by using the RAP-PCR technique for identification of unknown viruses growing in cultured cells. As of 2016, it was the second most common cause of acute respiratory tract illness in otherwise-healthy children under the age of 5 in a large US outpatient clinic.   
+## Zendaya   
+Zendaya Maree Stoermer Coleman is an American actress and singer. Her accolades include two Primetime Emmy Awards and a Golden Globe Award. In 2022, Time named her one of the 100 most influential people in the world.   
 
-人偏肺病毒是肺莫病毒科的一种负意义单股RNA病毒，与禽偏肺病毒（AMPV）C亚群密切相关。它于2001年在荷兰首次分离，采用RAP-PCR技术来识别培养细胞中生长的未知病毒。截至2016年，它是美国大型门诊诊所5岁以下其他健康儿童急性呼吸道疾病的第二常见原因。   
+Zendaya Maree Stoermer Coleman是一位美国女演员兼歌手。她获得的荣誉包括两次黄金时段艾美奖和一次金球奖。2022年，《时代》杂志将她评为世界上最具影响力的100位人物之一。   
 
-阅读延伸[477498]: [https://en.wikipedia.org/wiki/Human_metapneumovirus](https://en.wikipedia.org/wiki/Human_metapneumovirus)   
+阅读延伸[28753159]: [https://en.wikipedia.org/wiki/Zendaya](https://en.wikipedia.org/wiki/Zendaya)   
 
-## 吉米·卡特   
-James Earl Carter Jr. is an American politician and humanitarian who served as the 39th president of the United States from 1977 to 1981. A member of the Democratic Party, he was the 76th governor of Georgia from 1971 to 1975, and a Georgia state senator from 1963 to 1967. Carter is the longest-lived president in U.S. history and the first to live to 100 years of age.   
+## 一个不同的人   
+A Different Man is a 2024 American black comedy psychological thriller film written and directed by Aaron Schimberg, starring Sebastian Stan, Renate Reinsve, and Adam Pearson.   
 
-小詹姆斯·厄尔·卡特是一位美国政治家和人道主义者，曾于1977年至1981年担任美国第39任总统。他是民主党成员，1971年至1975年担任佐治亚州第76任州长，1963年至1967年担任佐治亚州参议员。卡特是美国历史上寿命最长的总统，也是第一位活到100岁的总统。   
+《不同的人》是一部2024年美国黑色喜剧心理惊悚电影，由亚伦·辛伯格编剧和导演，塞巴斯蒂安·斯坦、雷娜特·莱因斯维和亚当·皮尔森主演。   
 
-阅读延伸[15992]: [https://en.wikipedia.org/wiki/Jimmy_Carter](https://en.wikipedia.org/wiki/Jimmy_Carter)   
-
-## Pushpa_2：__规则   
-Pushpa 2: The Rule is a 2024 Indian Telugu-language action drama film directed by Sukumar and produced by Mythri Movie Makers, in association with Sukumar Writings. The film stars Allu Arjun in the titular role, alongside Rashmika Mandanna, Fahadh Faasil, Jagapathi Babu, Dhananjaya, Rao Ramesh, Sunil and Anasuya Bharadwaj. It is the second instalment in the Pushpa film series and the sequel to the 2021 film Pushpa: The Rise.   
-
-普什帕2：《规则》是一部2024年印度泰卢固语动作片，由Sukumar执导，Mythri Movie Makers与Sukumar Injings联合制作。这部电影由阿鲁·阿尔琼（Allu Arjun）主演，还有拉什米卡·曼达纳（Rashmika Mandanna）、法赫德·法西尔（Fahadh Faasil）、贾加帕蒂·巴布（Jagapathi Babu）、达南贾亚（Dhananjaya）、拉奥·拉梅什（Rao Ramesh）、苏尼尔（Sunil）和阿纳苏亚·巴拉德瓦吉（Anasuya Bharadwaj）主演。这是普什帕电影系列的第二部，也是2021年电影《普什帕：崛起》的续集。   
-
-阅读延伸[72983433]: [https://en.wikipedia.org/wiki/Pushpa_2%3A_The_Rule](https://en.wikipedia.org/wiki/Pushpa_2%3A_The_Rule)   
-
-## Pan_Am_Flight_103   
-Pan Am Flight 103 (PA103/PAA103) was a regularly scheduled Pan Am transatlantic flight from Frankfurt to Detroit via a stopover in London and another in New York City. Shortly after 19:00 on 21 December 1988, while the Boeing 747 "Clipper Maid of the Seas" was in flight over the Scottish town of Lockerbie, it was destroyed by a bomb, killing all 243 passengers and 16 crew in what became known as the Lockerbie bombing. Large sections of the aircraft crashed in a residential street in Lockerbie, killing 11 residents. With a total of 270 fatalities, it is the deadliest terrorist attack in the history of the United Kingdom.   
-
-泛美航空103号航班（PA 103/PAA 103）是泛美航空的一架定期跨大西洋航班，从法兰克福飞往底特律，经停伦敦，并在纽约市停留。1988年12月21日19：00后不久，当波音747“海中快船”飞机在苏格兰小镇洛克比上空飞行时，飞机被炸弹摧毁，造成243名乘客和16名机组人员全部遇难。洛克比爆炸事件。飞机大部分坠毁在洛克比的一条住宅街道上，造成11名居民死亡。这是英国历史上最致命的恐怖袭击，共造成270人死亡。   
-
-阅读延伸[5409919]: [https://en.wikipedia.org/wiki/Pan_Am_Flight_103](https://en.wikipedia.org/wiki/Pan_Am_Flight_103)   
-
-## 木法沙：_狮子_国王   
-Mufasa: The Lion King is a 2024 American musical drama film directed by Barry Jenkins from a screenplay written by Jeff Nathanson. Produced by Walt Disney Pictures, the film is photorealistically animated, and both a prequel and sequel to the 2019 remake of the 1994 film The Lion King. Donald Glover, Seth Rogen, Billy Eichner, John Kani, and Beyoncé Knowles-Carter reprise their roles from the remake; new cast members include Aaron Pierre, Kelvin Harrison Jr., Tiffany Boone, Mads Mikkelsen, Thandiwe Newton, Lennie James, Anika Noni Rose, and Blue Ivy Carter in her feature film debut.   
-
-《木法沙：狮子王》是一部2024年美国音乐剧电影，由巴里·詹金斯执导，改编自杰夫·内桑森（Jeff Nathanson）编剧。这部电影由华特迪士尼影业制作，是真实感动画，既是1994年电影《狮子王》2019年翻拍的前传和续集。唐纳德·格洛弗、塞斯·罗根、比利·艾希纳、约翰·卡尼和碧昂丝·诺尔斯-卡特重新扮演翻拍版中的角色;新演员包括亚伦·皮埃尔、小凯尔文·哈里森、蒂芙尼·布恩（Tiffany Boone）、马兹·米克尔森（Mads Mikkelsen）、桑迪韦·牛顿（Thandiwe Newton）、伦尼·詹姆斯（Lennie James）、安妮卡·诺妮·罗斯（Anika Noni Rose）和布鲁·艾薇·卡特（Blue Ivy Carter）在她的故事片处女作中亮相。   
-
-阅读延伸[65452520]: [https://en.wikipedia.org/wiki/Mufasa%3A_The_Lion_King](https://en.wikipedia.org/wiki/Mufasa%3A_The_Lion_King)   
-
-## 德里克_罗斯   
-Derrick Martell Rose is an American former professional basketball player. He played one year of college basketball for the Memphis Tigers before being drafted first overall by his hometown Chicago Bulls in the 2008 NBA draft. Nicknamed "D-Rose", and sometimes referred to as "The Windy City Assassin" or simply "Pooh", he was named the NBA Rookie of the Year in 2009 and became the youngest player to win the NBA Most Valuable Player Award in 2011 at the age of 22 years and 7 months.   
-
-德里克·马特尔·罗斯是一位美国前职业篮球运动员。他在孟菲斯老虎队打了一年大学篮球，然后在2008年NBA选秀中被家乡芝加哥公牛队选中。绰号“D-Rose”，有时也被称为“风城刺客”或简称“维尼”，他于2009年被评为NBA年度新秀，并于2011年成为荣获NBA最有价值球员奖的最年轻球员，年仅22岁零7个月。   
-
-阅读延伸[20865738]: [https://en.wikipedia.org/wiki/Derrick_Rose](https://en.wikipedia.org/wiki/Derrick_Rose)   
-
-## 乔治_索罗斯   
-George Soros is an American investor and philanthropist. As of October 2023, he had a net worth of US$6.7 billion, having donated more than $32 billion to the Open Society Foundations, of which $15 billion has already been distributed, representing 64% of his original fortune. In 2020, Forbes called Soros the "most generous giver". He is a resident of New York.   
-
-乔治·索罗斯是一位美国投资者和慈善家。截至2023年10月，他的净资产为67亿美元，已向开放社会基金会捐赠超过320亿美元，其中150亿美元已分配，占他原始财富的64%。2020年，《福布斯》称索罗斯为“最慷慨的捐赠者”。他是纽约居民。   
-
-阅读延伸[6951166]: [https://en.wikipedia.org/wiki/George_Soros](https://en.wikipedia.org/wiki/George_Soros)   
-
-## 总统自由勋章   
-The Presidential Medal of Freedom is the highest civilian award of the United States, alongside the Congressional Gold Medal. It is an award bestowed by decision of the president of the United States to "any person recommended to the President for award of the Medal or any person selected by the President upon his own initiative," and was created to recognize people who have made "an especially meritorious contribution to (1) the security or national interests of the United States, or (2) world peace, or (3) cultural or other significant public or private endeavors." The award is not limited to U.S. citizens, and, while it is a civilian award, it can also be awarded to military personnel and worn on the uniform. It was established in 1963 by President John F. Kennedy, superseding the Medal of Freedom that was initially established by President Harry S. Truman in 1945 to honor civilian service.   
-
-总统自由勋章是美国最高的平民奖项，与国会金质奖章并列。该奖项是根据美国总统的决定颁发给“任何向总统推荐授予勋章的人或总统主动选择的任何人”的奖项，旨在表彰“为以下方面做出特别值得赞扬的贡献”的人：（1）美国的安全或国家利益，或（2）世界和平，或（3）文化或其他重大公共或私人事业。“该奖项不仅限于美国公民，虽然是平民奖项，但也可以颁发给军事人员并佩戴在制服上。它由约翰·F·F·总统于1963年创立。肯尼迪，取代了哈里·S总统最初设立的自由勋章。杜鲁门于1945年向民事服务致敬。   
-
-阅读延伸[22873]: [https://en.wikipedia.org/wiki/Presidential_Medal_of_Freedom](https://en.wikipedia.org/wiki/Presidential_Medal_of_Freedom)   
-
-## 邪恶_（2024年_电影）   
-Wicked is a 2024 American epic musical fantasy film directed by Jon M. Chu from a screenplay by Winnie Holzman and Dana Fox. It is the first of a two-part film adaptation of the stage musical of the same name by Stephen Schwartz and Holzman, which in turn was loosely based on the 1995 novel of the same name by Gregory Maguire. The film stars Cynthia Erivo and Ariana Grande, with Jonathan Bailey, Ethan Slater, Bowen Yang, Marissa Bode, Peter Dinklage, Michelle Yeoh, and Jeff Goldblum in supporting roles.   
-
-Wicked是一部2024年美国史诗音乐奇幻电影，由Jon M执导。《楚》出自温妮·霍尔兹曼和达纳·福克斯的剧本。这是根据斯蒂芬·施瓦茨和霍尔兹曼的同名舞台音乐剧改编的两部分电影中的第一部，该剧又大致根据格雷戈里·马奎尔1995年的同名小说改编。这部电影由辛西娅·艾里沃和阿丽亚娜·格兰德主演，乔纳森·贝利、伊森·斯莱特、杨博文、玛丽莎·博德、彼得·丁拉基、杨紫琼和杰夫·戈德布卢姆担任配角。   
-
-阅读延伸[60455274]: [https://en.wikipedia.org/wiki/Wicked_(2024_film)](https://en.wikipedia.org/wiki/Wicked_(2024_film))   
-
-## 死亡_in_2025   
-The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
-
-以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
-
-阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
-
-## 马可_（2024_电影）   
-Marco is a 2024 Indian Malayalam-language action thriller film written & directed by Haneef Adeni and produced by Shareef Muhammed. The film stars Unni Mukundan, alongside Jagadish, Siddique, Anson Paul, Yukti Thareja, Sreejith Ravi and Kabir Duhan Singh. It is a spin-off of 2019 film Mikhael. The music was composed by Ravi Basrur, while cinematography and editing were handled by Chandru Selvaraj and Shameer Muhammed.   
-
-马可是一部2024年印度马来语动作惊悚电影，由哈尼夫·阿德尼编剧和导演，谢里夫·穆罕默德制作。这部电影由乌尼·穆昆丹（Unni Mukundan）以及贾加迪什（Jagadish）、西迪克（Siddique）、安森·保罗（Anson Paul）、尤克蒂·塔雷贾（Yukti Thareja）、斯里吉斯·拉维（Sreejith Ravi）和卡比尔·杜汉·辛格（Kabir Duhan Singh）主演。这是2019年电影《迈克尔》的衍生作品。音乐由Ravi Basrur创作，电影摄影和剪辑由Sirru Selvaraj和Shameer Muhammed负责。   
-
-阅读延伸[77185206]: [https://en.wikipedia.org/wiki/Marco_(2024_film)](https://en.wikipedia.org/wiki/Marco_(2024_film))   
-
-## 边境加瓦斯卡_奖杯   
-The Border–Gavaskar Trophy (BGT) is an International Test cricket trophy played between India and Australia. The series is named after distinguished former captains, Australia's Allan Border and India's Sunil Gavaskar. It is played via Test series scheduled using International Cricket Council's Future Tours Programme. The winner of a Test series wins the trophy. If a series is drawn, the country holding the trophy retains it. Given the competitive nature of the India–Australia rivalry and the high standings of both teams, the Border–Gavaskar trophy is considered to be one of the most prestigious bilateral trophies in 5-day cricket. Throughout the history of the BGT, India have maintained competitive success against Australian teams. Out of 17 test series, India have been victorious 10 times, Australia have won 6 times, and one series was drawn.   
-
-边境加瓦斯卡奖杯（BGT）是印度和澳大利亚之间举办的国际板球测试奖杯。该系列赛以澳大利亚前队长艾伦·博德和印度苏尼尔·加瓦斯卡的名字命名。它通过国际板球理事会未来之旅计划安排的测试系列进行。测试系列赛的获胜者将赢得奖杯。如果系列赛抽签，奖杯的持有国将保留它。考虑到印澳竞争的竞争性质以及两支球队的高排名，边境-加瓦斯卡奖杯被认为是5天板球比赛中最负盛名的双边奖杯之一。纵观BGT的历史，印度队一直在与澳大利亚队的竞争中保持着成功。在17个测试系列赛中，印度10次获胜，澳大利亚6次获胜，1个系列赛平局。   
-
-阅读延伸[694370]: [https://en.wikipedia.org/wiki/Border%E2%80%93Gavaskar_Trophy](https://en.wikipedia.org/wiki/Border%E2%80%93Gavaskar_Trophy)   
-
-## Avicii   
-Tim Bergling, known professionally as Avicii, was a Swedish DJ, remixer, and record producer. At age 16, he began posting his remixes on electronic music forums, which led to his first record deal. He rose to prominence in 2011 with his single "Levels". His debut studio album, True (2013), blended electronic music with elements of multiple genres and received generally positive reviews. It peaked in the top 10 in more than 15 countries and topped international charts; the lead single, "Wake Me Up", topped most music markets in Europe and reached number four in the United States.   
-
-蒂姆·伯格林（Tim Bergling），专业名称Avicii，是一名瑞典DJ、混音师和唱片制作人。16岁时，他开始在电子音乐论坛上发布他的混音，这导致了他的第一笔唱片交易。2011年，他凭借单曲《Levels》声名鹊起。他的首张录音室专辑《True》（2013）融合了电子音乐与多种流派的元素，并获得了普遍积极的评价。它在超过15个国家进入前十名，并登上国际排行榜榜首;主打单曲《Wake Me Up》在欧洲大部分音乐市场名列前茅，在美国排名第四。   
-
-阅读延伸[29331348]: [https://en.wikipedia.org/wiki/Avicii](https://en.wikipedia.org/wiki/Avicii)   
+阅读延伸[71828618]: [https://en.wikipedia.org/wiki/A_Different_Man](https://en.wikipedia.org/wiki/A_Different_Man)   
 
