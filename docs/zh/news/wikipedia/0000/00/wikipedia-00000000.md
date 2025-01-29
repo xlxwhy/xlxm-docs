@@ -6,47 +6,12 @@ DeepSeek是一家开发开源大型语言模型（LLM）的中国人工智能公
 
 阅读延伸[78452842]: [https://en.wikipedia.org/wiki/DeepSeek](https://en.wikipedia.org/wiki/DeepSeek)   
 
-## 超级碗冠军名单   
-The Super Bowl is the annual American football game that determines the champion of the National Football League (NFL). The game culminates a season that begins in the previous calendar year, and is the conclusion of the NFL playoffs. The winner receives the Vince Lombardi Trophy. The contest is held in an American city, chosen three to four years beforehand, usually at warm-weather sites or domed stadiums. Since January 1971, the winner of the American Football Conference (AFC) Championship Game has faced the winner of the National Football Conference (NFC) Championship Game in the culmination of the NFL playoffs.   
+## 卡罗琳_莱维特   
+Karoline Claire Leavitt is an American political aide currently serving as the national press secretary for Donald Trump's 2024 presidential campaign. She previously served as an assistant press secretary and presidential writer during the first Donald Trump administration as well as a spokesperson for MAGA Inc., a pro-Trump Super PAC. In 2022, she ran for the U.S. House of Representatives in New Hampshire's 1st district, becoming the second member of Generation Z to win a congressional primary. She lost the general election to incumbent Chris Pappas.   
 
-超级碗是一年一度的美式橄榄球比赛，决定国家橄榄球联盟（NFL）冠军。这场比赛是上一个日历年开始的赛季的高潮，也是NFL季后赛的结束。获胜者将获得文斯·隆巴迪奖杯。比赛在美国城市举行，时间是三到四年前选定的，通常在温暖的天气地点或圆顶体育场举行。自1971年1月以来，美国橄榄球联盟（AFC）冠军赛的获胜者一直在NFL季后赛的高潮中对阵国家橄榄球联盟（NFC）冠军赛的获胜者。   
+卡罗琳·克莱尔·莱维特（Karoline Claire Leavitt）是一名美国政治助手，目前担任唐纳德·特朗普2024年总统竞选的国家新闻秘书。她此前曾在唐纳德·特朗普第一届政府期间担任助理新闻秘书和总统撰稿人，以及MAGA Inc.的发言人，支持特朗普的超级政治行动委员会。2022年，她竞选新罕布什尔州第一选区的美国众议院议员，成为第二位赢得国会初选的Z世代成员。她在大选中输给了现任总统克里斯·帕帕斯。   
 
-阅读延伸[2145410]: [https://en.wikipedia.org/wiki/List_of_Super_Bowl_champions](https://en.wikipedia.org/wiki/List_of_Super_Bowl_champions)   
-
-## 帕特里克_马霍姆斯   
-Patrick Lavon Mahomes II is an American professional football quarterback for the Kansas City Chiefs of the National Football League (NFL). Mahomes has led the Chiefs to seven consecutive AFC Championship Game appearances and five Super Bowl appearances since becoming their starting quarterback in 2018. He is one of five quarterbacks in NFL history to win three or more Super Bowls as a starter. Mahomes is widely considered one of the greatest quarterbacks of all time.   
-
-帕特里克·勒文·马霍姆斯二世（Patrick Lavon Mahomes II）是美国国家橄榄球联盟（NFL）堪萨斯城酋长队的美国职业橄榄球四分卫。自2018年成为酋长队的首发四分卫以来，马霍姆斯已带领酋长队连续七次参加AFC锦标赛和五次参加超级碗比赛。他是NFL历史上五位作为首发赢得三场或更多超级碗冠军的四分卫之一。马霍姆斯被广泛认为是有史以来最伟大的四分卫之一。   
-
-阅读延伸[45245149]: [https://en.wikipedia.org/wiki/Patrick_Mahomes](https://en.wikipedia.org/wiki/Patrick_Mahomes)   
-
-## 超级碗_LIX   
-Super Bowl LIX is the upcoming American football championship game of the National Football League (NFL) for the 2024 season. The game is scheduled to be played on February 9, 2025, at the Caesars Superdome in New Orleans, Louisiana. A rematch of Super Bowl LVII from two years earlier, the game will be played between the American Football Conference (AFC) champion and two-time defending Super Bowl champion Kansas City Chiefs and the National Football Conference (NFC) champion Philadelphia Eagles.   
-
-超级碗LIX是美国国家橄榄球联盟（NFL）即将举行的2024赛季美式橄榄球锦标赛。该游戏定于2025年2月9日在路易斯安那州新奥尔良的凯撒超级圆顶球场举行。这场比赛是两年前超级碗LVII的重赛，将由美国足球联盟（AFC）冠军和两届超级碗卫冕冠军堪萨斯城酋长队以及国家足球联盟（NFC）冠军费城老鹰队进行。   
-
-阅读延伸[65587470]: [https://en.wikipedia.org/wiki/Super_Bowl_LIX](https://en.wikipedia.org/wiki/Super_Bowl_LIX)   
-
-## 乔什_艾伦   
-Joshua Patrick Allen is an American professional football quarterback for the Buffalo Bills of the National Football League (NFL). He played college football for the Wyoming Cowboys and was selected seventh overall by the Bills in the 2018 NFL draft.   
-
-约书亚·帕特里克·艾伦是美国国家橄榄球联盟（NFL）布法罗比尔队的美国职业橄榄球四分卫。他曾为怀俄明州牛仔队踢大学橄榄球，并在2018年NFL选秀中被比尔队选为第七名。   
-
-阅读延伸[52484630]: [https://en.wikipedia.org/wiki/Josh_Allen](https://en.wikipedia.org/wiki/Josh_Allen)   
-
-## 超级碗   
-The Super Bowl is the annual league championship game of the National Football League (NFL) of the United States. It has served as the final game of every NFL season since 1966, superseding the NFL Championship Game. Since 2022, the game has been played on the second Sunday in February. Prior Super Bowls were played on Sundays in early to mid-January from 1967 to 1978, late January from 1979 to 2003, and the first Sunday of February from 2004 to 2021. Winning teams are awarded the Vince Lombardi Trophy, named after the eponymous coach who won the first two Super Bowls. Because the NFL restricts the use of its "Super Bowl" trademark, it is frequently referred to as the "big game" or other generic terms by non-sponsoring corporations. The day the game is held is commonly referred to as "Super Bowl Sunday" or simply "Super Sunday".   
-
-超级碗是美国国家橄榄球联盟（NFL）的年度联赛冠军赛。自1966年以来，它一直是NFL每个赛季的最后一场比赛，取代了NFL冠军赛。自2022年以来，该游戏一直在2月份的第二个周日进行。此前的超级碗比赛于1967年至1978年1月上旬至中旬的周日、1979年至2003年1月下旬以及2004年至2021年2月的第一个周日举行。获胜的球队将被授予文斯·隆巴迪奖杯，该奖杯以赢得前两届超级碗的同名教练的名字命名。由于NFL限制其“超级碗”商标的使用，因此非赞助公司经常将其称为“大型比赛”或其他通用术语。比赛举行的那一天通常被称为“超级碗周日”或简称为“超级周日”。   
-
-阅读延伸[27718]: [https://en.wikipedia.org/wiki/Super_Bowl](https://en.wikipedia.org/wiki/Super_Bowl)   
-
-## Facebook   
-Facebook is a social media and social networking service owned by the American technology conglomerate Meta. Created in 2004 by Mark Zuckerberg with four other Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes, its name derives from the face book directories often given to American university students. Membership was initially limited to Harvard students, gradually expanding to other North American universities. Since 2006, Facebook allows everyone to register from 13 years old, except in the case of a handful of nations, where the age requirement is 14 years. As of December 2023, Facebook claimed almost 3.07 billion monthly active users worldwide. As of November 2024, Facebook ranked as the third-most-visited website in the world, with 23% of its traffic coming from the United States. It was the most downloaded mobile app of the 2010s.   
-
-Facebook是美国科技集团Meta旗下的社交媒体和社交网络服务。它由马克·扎克伯格（Mark Zuckerberg）与其他四名哈佛学院学生以及室友爱德华多·萨维林（Eduardo Saverin）、安德鲁·麦科勒姆（Andrew McCollum）、达斯汀·莫斯科维茨（Dustin Moskovitz）和克里斯·休斯（Chris Hughes）于2004年创建，其名称源自美国大学生经常提供的脸书目录。会员最初仅限于哈佛学生，后来逐渐扩展到其他北美大学。自2006年以来，Facebook允许每个人从13岁起注册，但少数国家的年龄要求是14岁。截至2023年12月，Facebook在全球范围内拥有近30.7亿月活跃用户。截至2024年11月，Facebook被评为全球访问量第三大的网站，其23%的流量来自美国。它是2010年代下载量最大的移动应用程序。   
-
-阅读延伸[7529378]: [https://en.wikipedia.org/wiki/Facebook](https://en.wikipedia.org/wiki/Facebook)   
+阅读延伸[71739774]: [https://en.wikipedia.org/wiki/Karoline_Leavitt](https://en.wikipedia.org/wiki/Karoline_Leavitt)   
 
 ## 唐纳德_特朗普   
 Donald John Trump is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021.   
@@ -55,26 +20,40 @@ Donald John Trump is an American politician, media personality, and businessman 
 
 阅读延伸[4848272]: [https://en.wikipedia.org/wiki/Donald_Trump](https://en.wikipedia.org/wiki/Donald_Trump)   
 
-## Sky_Force_（电影）   
-Sky Force is a 2025 Indian Hindi-language action drama film centred around India's first airstrike, the Sargodha airbase attack of Pakistan in the Indo-Pakistani air war of 1965. The film stars Akshay Kumar and newcomer Veer Pahariya in lead roles, alongside Sara Ali Khan and Nimrat Kaur. It is directed by Abhishek Anil Kapur and Sandeep Kewlani, and produced by Maddock Films and Jio Studios.   
+## Facebook   
+Facebook is a social media and social networking service owned by the American technology conglomerate Meta. Created in 2004 by Mark Zuckerberg with four other Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes, its name derives from the face book directories often given to American university students. Membership was initially limited to Harvard students, gradually expanding to other North American universities. Since 2006, Facebook allows everyone to register from 13 years old, except in the case of a handful of nations, where the age requirement is 14 years. As of December 2023, Facebook claimed almost 3.07 billion monthly active users worldwide. As of November 2024, Facebook ranked as the third-most-visited website in the world, with 23% of its traffic coming from the United States. It was the most downloaded mobile app of the 2010s.   
 
-《天空部队》是一部2025年印度印地语动作片，围绕印度的首次空袭，即1965年印巴空战中对巴基斯坦的萨戈达空军基地袭击展开。这部电影由阿克沙伊·库马尔（Akshay Kumar）和新人维尔·帕哈里亚（Veer Pahariya）主演，萨拉·阿里·汗（Sara Ali Khan）和尼姆拉特·考尔（Nimrat Kaur）主演。该片由Abhishek Anil Kapur和Sandeep Kewlani执导，Maddock Films和Jio Studios制作。   
+Facebook是美国科技集团Meta旗下的社交媒体和社交网络服务。它由马克·扎克伯格（Mark Zuckerberg）与其他四名哈佛学院学生以及室友爱德华多·萨维林（Eduardo Saverin）、安德鲁·麦科勒姆（Andrew McCollum）、达斯汀·莫斯科维茨（Dustin Moskovitz）和克里斯·休斯（Chris Hughes）于2004年创建，其名称源自美国大学生经常提供的脸书目录。会员最初仅限于哈佛学生，后来逐渐扩展到其他北美大学。自2006年以来，Facebook允许每个人从13岁起注册，但少数国家的年龄要求是14岁。截至2023年12月，Facebook在全球范围内拥有近30.7亿月活跃用户。截至2024年11月，Facebook被评为全球访问量第三大的网站，其23%的流量来自美国。它是2010年代下载量最大的移动应用程序。   
 
-阅读延伸[74992596]: [https://en.wikipedia.org/wiki/Sky_Force_(film)](https://en.wikipedia.org/wiki/Sky_Force_(film))   
+阅读延伸[7529378]: [https://en.wikipedia.org/wiki/Facebook](https://en.wikipedia.org/wiki/Facebook)   
 
-## 安迪_里德   
-Andrew Walter Reid is an American professional football coach who is the head coach of the Kansas City Chiefs of the National Football League (NFL). Reid was previously the head coach of the Philadelphia Eagles from 1999 to 2012. From 2001 to 2012, he was also the Eagles' executive vice president of football operations, effectively serving as the team's general manager. He is the only NFL coach to win 100 games with two different franchises and also the only coach to appear in four consecutive conference championships with two different franchises. He is considered to be one of the greatest NFL coaches of all time.   
+## 布鲁克林   
+Brooklyn is a borough of New York City located at the westernmost end of Long Island in the State of New York. Formerly an independent city, the borough is coextensive with Kings County, one of twelve original counties established under British rule in 1683 in the then Province of New York. As of the 2020 United States census, the population stood at 2,736,074, making it the most populous of the five boroughs of New York City, and the most populous county in the state. Brooklyn, at 37,339.9 inhabitants per square mile (14,417.0/km2), is the second most densely populated county in the U.S. after Manhattan, as of 2022. Had Brooklyn remained an independent city, it would now be the fourth most populous American city after the rest of New York City, Los Angeles, and Chicago.   
 
-安德鲁·沃尔特·里德是一位美国职业足球教练，也是国家橄榄球联盟（NFL）堪萨斯城酋长队的主教练。里德曾于1999年至2012年担任费城老鹰队主教练。2001年至2012年，他还担任老鹰队足球运营执行副总裁，实际上担任球队的总经理。他是唯一一位凭借两个不同的球队赢得100场比赛的NFL教练，也是唯一一位连续四次参加两个不同的球队锦标赛的教练。他被认为是有史以来最伟大的NFL教练之一。   
+布鲁克林是纽约市的一个行政区，位于纽约州长岛的最西端。该行政区以前是一个独立城市，与金斯县同延，金斯县是1683年英国统治下在当时的纽约省建立的十二个原始县之一。截至2020年美国人口普查，人口为2，736，074人，是纽约市五个行政区中人口最多的县，也是该州人口最多的县。截至2022年，布鲁克林每平方英里有37，339.9名居民（14，417.0/平方公里），是美国人口第二稠密的县，仅次于曼哈顿。如果布鲁克林仍然是一个独立城市，它现在将成为仅次于纽约市、洛杉矶和芝加哥其他地区的美国人口第四多的城市。   
 
-阅读延伸[1326346]: [https://en.wikipedia.org/wiki/Andy_Reid](https://en.wikipedia.org/wiki/Andy_Reid)   
+阅读延伸[47384]: [https://en.wikipedia.org/wiki/Brooklyn](https://en.wikipedia.org/wiki/Brooklyn)   
 
-## 超级碗_LVIII   
-Super Bowl LVIII was an American football game played to determine the champion of the National Football League (NFL) for the 2023 season. In a rematch of Super Bowl LIV from four years earlier, the American Football Conference (AFC) champion and defending Super Bowl champion Kansas City Chiefs defeated the National Football Conference (NFC) champion San Francisco 49ers 25–22 in overtime. The Chiefs became the first team to win back-to-back Super Bowls since the 2004 New England Patriots. The game was played on February 11, 2024, at Allegiant Stadium in Paradise, Nevada. This was the first Super Bowl to be held in the state of Nevada. It marked the third straight year that the Super Bowl had been played in the Western United States, following host cities Inglewood, California, in 2022 and Glendale, Arizona, in 2023.   
+## ChatGPT   
+ChatGPT is a generative artificial intelligence chatbot developed by OpenAI and launched in 2022. It is based on the GPT-4o large language model (LLM). ChatGPT can generate human-like conversational responses, and enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. It is credited with accelerating the AI boom, which has led to ongoing rapid investment in and public attention to the field of artificial intelligence (AI). Some observers have raised concern about the potential of ChatGPT and similar programs to displace human intelligence, enable plagiarism, or fuel misinformation.   
 
-超级碗LVIII是一场美式橄榄球比赛，旨在决定2023赛季国家橄榄球联盟（NFL）冠军。在四年前的超级碗LIV重赛中，美国橄榄球联盟（AFC）冠军和卫冕超级碗冠军堪萨斯城酋长队在加时赛中以25-22击败了国家橄榄球联盟（NFC）冠军旧金山49人队。酋长队成为自2004年新英格兰爱国者队以来第一支连续赢得超级碗冠军的球队。这场比赛于2024年2月11日在内华达州天堂的阿莱吉安特体育场举行。这是内华达州首次举办超级碗比赛。这是继2022年在加利福尼亚州英格尔伍德和2023年在亚利桑那州格伦代尔之后，超级碗连续第三年在美国西部举办。   
+ChatGPT是由OpenAI开发的生成式人工智能聊天机器人，于2022年推出。它基于GPT-4 o大型语言模型（LLM）。ChatGPT可以生成类似人类的对话响应，并使用户能够细化和引导对话以达到所需的长度、格式、风格、详细程度和语言。它被认为加速了人工智能的繁荣，导致了人工智能（AI）领域的持续快速投资和公众对人工智能（AI）领域的关注。一些观察家对ChatGPT和类似程序可能取代人类智力、助长抄袭或助长错误信息表示担忧。   
 
-阅读延伸[57493191]: [https://en.wikipedia.org/wiki/Super_Bowl_LVIII](https://en.wikipedia.org/wiki/Super_Bowl_LVIII)   
+阅读延伸[72417803]: [https://en.wikipedia.org/wiki/ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)   
+
+## 赛琳娜_戈麦斯   
+Selena Marie Gomez is an American singer, actress, producer, and businesswoman. Gomez began her career as a child actress, appearing on the television series Barney & Friends (2002–2004), and emerged as a teen idol for her leading role on the Disney Channel sitcom Wizards of Waverly Place (2007–2012). She signed with Hollywood Records in 2008 and formed the band Selena Gomez & the Scene, which released three albums: Kiss & Tell (2009), A Year Without Rain (2010), and When the Sun Goes Down (2011).   
+
+赛琳娜·玛丽·戈麦斯是一位美国歌手、演员、制片人和女商人。戈麦斯以童星身份开始了她的职业生涯，出演了电视剧《巴尼与朋友》（Barney & Friends）（2002-2004），并因在迪士尼频道情景喜剧《韦弗利奇才》（2007-2012）中担任主角而成为青少年偶像。她于2008年与好莱坞唱片公司签约，组建了乐队Selena Gomez & the Scene，发行了三张专辑：Kiss & Tell（2009）、A Year Without Rain（2010）和When the Sun Goes Down（2011）。   
+
+阅读延伸[6844407]: [https://en.wikipedia.org/wiki/Selena_Gomez](https://en.wikipedia.org/wiki/Selena_Gomez)   
+
+## 墨西哥湾   
+The Gulf of Mexico is an ocean basin and a marginal sea of the Atlantic Ocean, mostly surrounded by the North American continent. It is bounded on the northeast, north and northwest by the Gulf Coast of the United States; on the southwest and south by the Mexican states of Tamaulipas, Veracruz, Tabasco, Campeche, Yucatán, and Quintana Roo; and on the southeast by Cuba. The Southern U.S. states of Texas, Louisiana, Mississippi, Alabama, and Florida, which border the gulf on the north, are often referred to as the "Third Coast" of the United States.   
+
+墨西哥湾是大西洋的一个洋盆和边缘海，大部分被北美大陆包围。它东北部、北部和西北部与美国墨西哥湾沿岸接壤;西南部和南部与墨西哥塔毛利帕斯州、韦拉克鲁斯州、塔巴斯科州、坎佩切州、尤卡坦州和金塔纳罗奥州接壤;东南部与古巴接壤。美国南部的德克萨斯州、路易斯安那州、密西西比州、阿拉巴马州和佛罗里达州北部与海湾接壤，通常被称为美国的“第三海岸”。   
+
+阅读延伸[21076367]: [https://en.wikipedia.org/wiki/Gulf_of_Mexico](https://en.wikipedia.org/wiki/Gulf_of_Mexico)   
 
 ## Instagram   
 Instagram is an American photo and video sharing social networking service owned by Meta Platforms. It allows users to upload media that can be edited with filters, be organized by hashtags, and be associated with a location via geographical tagging. Posts can be shared publicly or with preapproved followers. Users can browse other users' content by tags and locations, view trending content, like photos, and follow other users to add their content to a personal feed. A Meta-operated image-centric social media platform, it is available on iOS, Android, Windows 10, and the web. Users can take photos and edit them using built-in filters and other tools, then share them on other social media platforms like Facebook. It supports 32 languages including English, Hindi, Spanish, French, Korean, and Japanese.   
@@ -83,33 +62,33 @@ Instagram是Meta Platforms旗下的美国照片和视频共享社交网络服务
 
 阅读延伸[31591547]: [https://en.wikipedia.org/wiki/Instagram](https://en.wikipedia.org/wiki/Instagram)   
 
-## 超级碗_LVII   
-Super Bowl LVII was an American football game played to determine the champion of the National Football League (NFL) for the 2022 season. The American Football Conference (AFC) champion Kansas City Chiefs defeated the National Football Conference (NFC) champion Philadelphia Eagles, 38–35. The game was played on February 12, 2023, at State Farm Stadium in Glendale, Arizona. It was the fourth Super Bowl hosted by the Phoenix metropolitan area, and the third at this venue, after Super Bowls XLII in 2008 and XLIX in 2015 when it was known as University of Phoenix Stadium.   
+## 天堂_（2025_TV_系列）   
+Paradise is an American drama television series created by Dan Fogelman and starring Sterling K. Brown, Julianne Nicholson, and James Marsden. It was released on Hulu in the US on January 26, 2025.   
 
-超级碗LVII是一场美式橄榄球比赛，旨在决定2022赛季国家橄榄球联盟（NFL）冠军。美式足球联盟（AFC）冠军堪萨斯城酋长队以38-35击败国家足球联盟（NFC）冠军费城老鹰队。比赛于2023年2月12日在亚利桑那州格伦代尔的州立农场体育场举行。这是凤凰城大都市区举办的第四届超级碗比赛，也是继2008年的超级碗XLII和2015年的XLIX之后在该场馆举办的第三届超级碗比赛，当时它被称为凤凰城大学体育场。   
+《天堂》是一部由丹·福格尔曼创作、斯特林·K主演的美国电视剧。布朗、朱丽安·尼科尔森和詹姆斯·马斯登。它于2025年1月26日在美国Hulu上发布。   
 
-阅读延伸[56390513]: [https://en.wikipedia.org/wiki/Super_Bowl_LVII](https://en.wikipedia.org/wiki/Super_Bowl_LVII)   
+阅读延伸[75712208]: [https://en.wikipedia.org/wiki/Paradise_(2025_TV_series)](https://en.wikipedia.org/wiki/Paradise_(2025_TV_series))   
 
-## 堪萨斯州_城市_酋长   
-The Kansas City Chiefs are a professional American football team based in Kansas City, Missouri. The Chiefs compete in the National Football League (NFL) as a member of the American Football Conference (AFC) West division.   
+## Sky_Force_（电影）   
+Sky Force is a 2025 Indian Hindi-language action drama film centred around India's first airstrike, the Sargodha airbase attack of Pakistan in the Indo-Pakistani air war of 1965. The film stars Akshay Kumar and newcomer Veer Pahariya in lead roles, alongside Sara Ali Khan and Nimrat Kaur. It is directed by Abhishek Anil Kapur and Sandeep Kewlani, and produced by Maddock Films and Jio Studios.   
 
-堪萨斯城酋长队是一支总部位于密苏里州堪萨斯城的职业美式足球队。酋长队作为美国橄榄球联盟（AFC）西部分区的成员参加国家橄榄球联盟（NFL）比赛。   
+《天空部队》是一部2025年印度印地语动作片，围绕印度的首次空袭，即1965年印巴空战中对巴基斯坦的萨戈达空军基地袭击展开。这部电影由阿克沙伊·库马尔（Akshay Kumar）和新人维尔·帕哈里亚（Veer Pahariya）主演，萨拉·阿里·汗（Sara Ali Khan）和尼姆拉特·考尔（Nimrat Kaur）主演。该片由Abhishek Anil Kapur和Sandeep Kewlani执导，Maddock Films和Jio Studios制作。   
 
-阅读延伸[20297793]: [https://en.wikipedia.org/wiki/Kansas_City_Chiefs](https://en.wikipedia.org/wiki/Kansas_City_Chiefs)   
+阅读延伸[74992596]: [https://en.wikipedia.org/wiki/Sky_Force_(film)](https://en.wikipedia.org/wiki/Sky_Force_(film))   
 
-## 萨昆_巴克利   
-Saquon Rasul Quevis Barkley is an American professional football running back for the Philadelphia Eagles of the National Football League (NFL). Barkley played college football for the Penn State Nittany Lions, where he set several school records for his offensive production over three seasons, before forgoing his senior year to enter the NFL.   
+## 梁_文峰   
+Liang Wenfeng is a Chinese entrepreneur and businessman who is the co-founder of the quantitative hedge fund High-Flyer, as well as the founder and CEO of its artificial intelligence arm DeepSeek.   
 
-萨昆·拉苏尔·奎维斯·巴克利（Saquon Rasul Quevis Barkley）是美国职业足球联盟（NFL）费城老鹰队的跑卫。巴克利在宾夕法尼亚州立大学尼塔尼雄狮队踢大学橄榄球，在那里他在三个赛季内创造了多项进攻记录，然后放弃了大四进入NFL。   
+梁文峰是一位中国企业家和商人，是量化对冲基金High-Flyer的联合创始人，也是其人工智能部门DeepSeek的创始人兼首席执行官。   
 
-阅读延伸[48537555]: [https://en.wikipedia.org/wiki/Saquon_Barkley](https://en.wikipedia.org/wiki/Saquon_Barkley)   
+阅读延伸[78950267]: [https://en.wikipedia.org/wiki/Liang_Wenfeng](https://en.wikipedia.org/wiki/Liang_Wenfeng)   
 
-## 埃隆_马斯克   
-Elon Reeve Musk is a businessman and investor known for his key roles in the space company SpaceX and the automotive company Tesla, Inc. Other involvements include ownership of X Corp., the company that operates the social media platform X, and his role in the founding of the Boring Company, xAI, Neuralink, and OpenAI. He is one of the wealthiest individuals in the world; as of August 2024 Forbes estimates his net worth to be US$247 billion.   
+## 超级碗冠军名单   
+The Super Bowl is the annual American football game that determines the champion of the National Football League (NFL). The game culminates a season that begins in the previous calendar year, and is the conclusion of the NFL playoffs. The winner receives the Vince Lombardi Trophy. The contest is held in an American city, chosen three to four years beforehand, usually at warm-weather sites or domed stadiums. Since January 1971, the winner of the American Football Conference (AFC) Championship Game has faced the winner of the National Football Conference (NFC) Championship Game in the culmination of the NFL playoffs.   
 
-埃隆·里夫·马斯克（Elon Reeve Musk）是一位商人和投资者，因在航天公司SpaceX和汽车公司特斯拉公司（Tesla，Inc.）中发挥关键作用而闻名。其他参与包括X Corp.的所有权，运营社交媒体平台X的公司，以及他在Boring Company、xAI、Neuralink和OpenAI的创立中所扮演的角色。他是世界上最富有的人之一;截至2024年8月，福布斯估计他的净资产为2470亿美元。   
+超级碗是一年一度的美式橄榄球比赛，决定国家橄榄球联盟（NFL）冠军。这场比赛是上一个日历年开始的赛季的高潮，也是NFL季后赛的结束。获胜者将获得文斯·隆巴迪奖杯。比赛在美国城市举行，时间是三到四年前选定的，通常在温暖的天气地点或圆顶体育场举行。自1971年1月以来，美国橄榄球联盟（AFC）冠军赛的获胜者一直在NFL季后赛的高潮中对阵国家橄榄球联盟（NFC）冠军赛的获胜者。   
 
-阅读延伸[909036]: [https://en.wikipedia.org/wiki/Elon_Musk](https://en.wikipedia.org/wiki/Elon_Musk)   
+阅读延伸[2145410]: [https://en.wikipedia.org/wiki/List_of_Super_Bowl_champions](https://en.wikipedia.org/wiki/List_of_Super_Bowl_champions)   
 
 ## 死亡_in_2025   
 The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
@@ -118,24 +97,45 @@ The following notable deaths occurred in 2025. Names are reported under the date
 
 阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
 
-## 皮特_赫格塞斯   
-Peter Brian Hegseth is an American television presenter, author, and Army National Guard officer who is to be the nominee for United States Secretary of Defense in Donald Trump's second cabinet. A political commentator for Fox News since 2014 and co-host of Fox & Friends Weekend from 2017 to 2024, he was previously the executive director of Vets for Freedom and Concerned Veterans for America.   
+## 皇家_隆隆_（2025）   
+The 2025 Royal Rumble, also promoted as Royal Rumble: Indianapolis, is an upcoming professional wrestling event produced by WWE. It will be the 38th annual Royal Rumble. It will take place on Saturday, February 1, 2025, at the Lucas Oil Stadium in Indianapolis, Indiana, marking the first Royal Rumble to not take place during the month of January. The event will air via pay-per-view (PPV) and livestreaming and feature wrestlers from the Raw and SmackDown brand divisions. This will also be WWE's first PPV and livestreaming event to air on Netflix in most markets outside the United States, following the WWE Network's merger under the service in January 2025.   
 
-彼得·布莱恩·赫格塞斯（Peter Brian Hegseth）是一位美国电视节目主持人、作家和陆军国民警卫队军官，他将成为唐纳德·特朗普第二届内阁中美国国防部长的提名人。他自2014年起担任福克斯新闻的政治评论员，并于2017年至2024年担任福克斯与朋友周末的联合主持人，此前曾担任Vets for Freedom和Concerned Veterans for America执行董事。   
+2025年皇家摔跤大赛（Royal Rumble：Indianapolis）也被宣传为《皇家摔跤：印第安纳波利斯》，是WWE即将推出的职业摔跤赛事。这将是第38届年度皇家隆隆声。它将于2025年2月1日星期六在印第安纳州印第安纳波利斯的卢卡斯石油体育场举行，这标志着第一次不在一月份举行的皇家隆隆声。该活动将通过按次付费（PPV）和直播方式播出，并由Raw和SmackDown品牌部门的摔跤手担任主角。继WWE Network于2025年1月在该服务下合并后，这也将是WWE在美国以外大多数市场上首次在Netflix上播出的PPV和直播活动。   
 
-阅读延伸[34076202]: [https://en.wikipedia.org/wiki/Pete_Hegseth](https://en.wikipedia.org/wiki/Pete_Hegseth)   
+阅读延伸[76877391]: [https://en.wikipedia.org/wiki/Royal_Rumble_(2025)](https://en.wikipedia.org/wiki/Royal_Rumble_(2025))   
 
-## 杰文斯_悖论   
-In economics, the Jevons paradox occurs when technological advancements make a resource more efficient to use, however, as the cost of using the resource drops, overall demand increases causing total resource consumption to rise. Governments have typically expected efficiency gains to lower resource consumption, rather than anticipating possible increases due to the Jevons paradox.   
+## 埃隆_马斯克   
+Elon Reeve Musk is a businessman and investor known for his key roles in the space company SpaceX and the automotive company Tesla, Inc. Other involvements include ownership of X Corp., the company that operates the social media platform X, and his role in the founding of the Boring Company, xAI, Neuralink, and OpenAI. He is one of the wealthiest individuals in the world; as of August 2024 Forbes estimates his net worth to be US$247 billion.   
 
-在经济学中，当技术进步使资源的使用效率更高时，就会出现杰文斯悖论，然而，随着资源使用成本的下降，总体需求增加，导致总资源消耗增加。政府通常期望提高效率以降低资源消耗，而不是预计由于杰文斯悖论而可能的提高。   
+埃隆·里夫·马斯克（Elon Reeve Musk）是一位商人和投资者，因在航天公司SpaceX和汽车公司特斯拉公司（Tesla，Inc.）中发挥关键作用而闻名。其他参与包括X Corp.的所有权，运营社交媒体平台X的公司，以及他在Boring Company、xAI、Neuralink和OpenAI的创立中所扮演的角色。他是世界上最富有的人之一;截至2024年8月，福布斯估计他的净资产为2470亿美元。   
 
-阅读延伸[988796]: [https://en.wikipedia.org/wiki/Jevons_paradox](https://en.wikipedia.org/wiki/Jevons_paradox)   
+阅读延伸[909036]: [https://en.wikipedia.org/wiki/Elon_Musk](https://en.wikipedia.org/wiki/Elon_Musk)   
 
-## 梁_文峰   
-Liang Wenfeng is a Chinese entrepreneur and businessman who is the co-founder of the quantitative hedge fund High-Flyer, as well as the founder and CEO of its artificial intelligence arm DeepSeek.   
+## 艾米莉亚_佩雷斯   
+Emilia Pérez is a 2024 Spanish-language French musical crime comedy film written and directed by Jacques Audiard. The French production is based on Audiard's opera libretto of the same name, which was in turn loosely adapted from Boris Razon's 2018 novel Écoute. The film stars Zoe Saldaña, Karla Sofía Gascón, Selena Gomez, Adriana Paz, Mark Ivanir, and Édgar Ramírez.   
 
-梁文峰是一位中国企业家和商人，是量化对冲基金High-Flyer的联合创始人，也是其人工智能部门DeepSeek的创始人兼首席执行官。   
+《艾米莉亚·佩雷斯》是一部2024年西班牙语法语音乐犯罪喜剧电影，由雅克·奥迪亚尔编剧和导演。这部法国作品改编自奥迪亚尔的同名歌剧剧本，该剧本又大致改编自鲍里斯·拉松2018年的小说《Écute》。这部电影由佐伊·萨尔达尼亚、卡拉·索菲亚·加斯孔、赛琳娜·戈麦斯、阿德里安娜·帕兹、马克·伊万尼尔和埃德加·拉米雷斯主演。   
 
-阅读延伸[78950267]: [https://en.wikipedia.org/wiki/Liang_Wenfeng](https://en.wikipedia.org/wiki/Liang_Wenfeng)   
+阅读延伸[75607941]: [https://en.wikipedia.org/wiki/Emilia_P%C3%A9rez](https://en.wikipedia.org/wiki/Emilia_P%C3%A9rez)   
+
+## 1989年_天安门_广场_抗议_和_屠杀   
+The Tiananmen Square protests, known within China as the June Fourth Incident, were student-led demonstrations held in Tiananmen Square in Beijing, China, lasting from 15 April to 4 June 1989. After weeks of unsuccessful attempts between the demonstrators and the Chinese government to find a peaceful resolution, the Chinese government deployed troops to occupy the square on the night of 3 June in what is referred to as the Tiananmen Square massacre. The events are sometimes called the '89 Democracy Movement, the Tiananmen Square Incident, or the Tiananmen uprising.   
+
+天安门广场抗议活动在中国境内被称为“六·四事件”，是学生领导的在中国北京天安门广场举行的示威活动，持续时间为1989年4月15日至6月4日。在示威者与中国政府试图找到和平解决方案数周失败后，中国政府于6月3日晚部署军队占领广场，引发了所谓的天安门广场大屠杀。这些事件有时被称为“89民主运动”、“天安门事件”或“天安门起义”。   
+
+阅读延伸[44534]: [https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre)   
+
+## 超级碗_LIX   
+Super Bowl LIX is the upcoming American football championship game of the National Football League (NFL) for the 2024 season. The game is scheduled to be played on February 9, 2025, at the Caesars Superdome in New Orleans, Louisiana. A rematch of Super Bowl LVII from two years earlier, the game will be played between the American Football Conference (AFC) champion and two-time defending Super Bowl champion Kansas City Chiefs and the National Football Conference (NFC) champion Philadelphia Eagles.   
+
+超级碗LIX是美国国家橄榄球联盟（NFL）即将举行的2024赛季美式橄榄球锦标赛。该游戏定于2025年2月9日在路易斯安那州新奥尔良的凯撒超级圆顶球场举行。这场比赛是两年前超级碗LVII的重赛，将由美国足球联盟（AFC）冠军和两届超级碗卫冕冠军堪萨斯城酋长队以及国家足球联盟（NFC）冠军费城老鹰队进行。   
+
+阅读延伸[65587470]: [https://en.wikipedia.org/wiki/Super_Bowl_LIX](https://en.wikipedia.org/wiki/Super_Bowl_LIX)   
+
+## 克里斯蒂_诺姆   
+Kristi Lynn Noem is an American politician who has served since 2019 as the 33rd governor of South Dakota. A member of the Republican Party, she was the U.S. representative for South Dakota's at-large congressional district from 2011 to 2019, and a member of the South Dakota House of Representatives for the 6th district from 2007 to 2011.   
+
+克里斯蒂·林恩·诺姆（Kristi Lynn Noem）是一位美国政治家，自2019年以来一直担任南达科他州第33任州长。作为共和党成员，她于2011年至2019年担任南达科他州无党派国会选区的美国代表，并于2007年至2011年担任南达科他州第六选区众议院议员。   
+
+阅读延伸[27663933]: [https://en.wikipedia.org/wiki/Kristi_Noem](https://en.wikipedia.org/wiki/Kristi_Noem)   
 
