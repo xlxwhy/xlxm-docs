@@ -1,147 +1,141 @@
 # 最新资讯  
-## Bash_in_Berlin   
-WWE Bash in Berlin was a professional wrestling event produced by the American promotion WWE. It took place on Saturday, August 31, 2024, at the Uber Arena in Berlin, Germany and featured wrestlers from the promotion's Raw and SmackDown brand divisions. The event aired via pay-per-view (PPV) and livestreaming, marking WWE's first PPV and livestreaming event to be held in Germany.   
+## 卡罗琳_莱维特   
+Karoline Claire Leavitt is an American political aide currently serving as the national press secretary for Donald Trump's 2024 presidential campaign. She previously served as an assistant press secretary and presidential writer during the first Donald Trump administration as well as a spokesperson for MAGA Inc., a pro-Trump Super PAC. In 2022, she ran for the U.S. House of Representatives in New Hampshire's 1st district, becoming the second member of Generation Z to win a congressional primary. She lost the general election to incumbent Chris Pappas.   
 
-柏林WWE Bash是由美国推广WWE制作的职业摔跤赛事。活动于2024年8月31日星期六在德国柏林的Uber Arena举行，活动中的Raw和SmackDown品牌部门的摔跤手出席了活动。该活动通过按次付费（PPV）和直播方式播出，标志着WWE首次在德国举办PPV和直播活动。   
+卡罗琳·克莱尔·莱维特（Karoline Claire Leavitt）是一名美国政治助手，目前担任唐纳德·特朗普2024年总统竞选的国家新闻秘书。她此前曾在唐纳德·特朗普第一届政府期间担任助理新闻秘书和总统撰稿人，以及MAGA Inc.的发言人，支持特朗普的超级政治行动委员会。2022年，她竞选新罕布什尔州第一选区的美国众议院议员，成为第二位赢得国会初选的Z世代成员。她在大选中输给了现任总统克里斯·帕帕斯。   
 
-阅读延伸[75143160]: [https://en.wikipedia.org/wiki/Bash_in_Berlin](https://en.wikipedia.org/wiki/Bash_in_Berlin)   
+阅读延伸[71739774]: [https://en.wikipedia.org/wiki/Karoline_Leavitt](https://en.wikipedia.org/wiki/Karoline_Leavitt)   
 
-## 胖子_独家新闻   
-Isaac Freeman III, better known by his stage name Fatman Scoop, was an American rapper, hype man, and radio personality. Noted for his booming, raw vocal presence on various hip hop songs, he was best known for his guest performances on the 2005 singles "Lose Control" by Missy Elliott and "It's Like That" by Mariah Carey and for his 1999 sleeper hit single, "Be Faithful", which topped the UK Singles Chart in 2003.   
+## DeepSeek   
+DeepSeek is a Chinese artificial intelligence company that develops open source large language models (LLM). Based in Hangzhou, Zhejiang, it is owned and solely funded by Chinese hedge fund High-Flyer, whose co-founder, Liang Wenfeng, established the company in 2023 and serves as its CEO.   
 
-艾萨克·弗里曼三世（Isaac Freeman III）以其艺名《Fatman Scoop》而闻名，他是一位美国说唱歌手、炒作者和电台名人。他以在各种嘻哈歌曲中蓬勃发展、原始的声乐表演而闻名，最出名的是在2005年Missy Elliott的单曲《Lose Control》和Mariah Carey的《It ' s Like That》中的客串表演，以及他1999年的卧铺热门单曲《Be Faithful》，该单曲于2003年登上英国单曲榜榜首。   
+DeepSeek是一家开发开源大型语言模型（LLM）的中国人工智能公司。该公司总部位于浙江省杭州，由中国对冲基金High-Flyer拥有并全权资助，其联合创始人梁文峰于2023年成立了该公司，并担任首席执行官。   
 
-阅读延伸[601403]: [https://en.wikipedia.org/wiki/Fatman_Scoop](https://en.wikipedia.org/wiki/Fatman_Scoop)   
+阅读延伸[78452842]: [https://en.wikipedia.org/wiki/DeepSeek](https://en.wikipedia.org/wiki/DeepSeek)   
 
-## 约翰尼_高德罗   
-John Michael Gaudreau was an American professional ice hockey winger who played 11 seasons in the National Hockey League (NHL). He played for the NCAA Division I's Boston College Eagles from 2011 to 2014, and was selected by the Calgary Flames in the fourth round, 104th overall, of the 2011 NHL Entry Draft. Nicknamed "Johnny Hockey", he was named the 2014 winner of the Hobey Baker Award as the best player in the NCAA, and, during his first full NHL season in 2014–15, he was selected to play in the 2015 NHL All-Star Game, as well as being selected in the 2014 NHL All-Rookie team. Johnny was a Calder Memorial Trophy finalist for the NHL's best rookie. He won the Lady Byng Memorial Trophy as the NHL's most gentlemanly player for the 2016–17 season. In 2022, Gaudreau signed with the Columbus Blue Jackets, where he spent two seasons with the team.   
+## 罗伯特_F._小肯尼迪   
+Robert Francis Kennedy Jr., also known by his initials RFK Jr., is an American politician, environmental lawyer, anti-vaccine activist, and conspiracy theorist. He is the chairman and founder of Children's Health Defense, an anti-vaccine advocacy group that is a leading proponent of COVID-19 vaccine misinformation, and an independent candidate in the 2024 United States presidential election. A member of the Kennedy family, he is a son of the U.S. attorney general and senator Robert F. Kennedy, and a nephew of the U.S. president John F. Kennedy and the senator Ted Kennedy.   
 
-约翰·迈克尔·高德罗是一位美国职业冰球边锋，在国家冰球联盟（NHL）效力了11个赛季。2011年至2014年，他效力于NCAA I组的波士顿学院老鹰队，并在2011年NHL入围选秀第四轮（总成绩第104名）中被卡尔加里火焰队选中。他绰号“约翰尼·霍基”，被评为2014年霍比·贝克奖（Hobey Baker Award）的NCAA最佳球员，并且在2014-15赛季的第一个完整NHL赛季中，他被选中参加2015年NHL全明星赛，并入选2014年NHL全新秀队。约翰尼是考尔德纪念杯NHL最佳新秀决赛入围者。他赢得了拜恩夫人纪念奖杯，成为NHL 2016-17赛季最绅士的球员。2022年，高德罗与哥伦布蓝夹克队签约，并在球队度过了两个赛季。   
+小罗伯特·弗朗西斯·肯尼迪，他的名字缩写为RFK Jr.，是一位美国政治家、环境律师、反疫苗活动家和阴谋论者。他是儿童健康保护组织的主席和创始人，该组织是一个反疫苗倡导组织，是COVID-19疫苗错误信息的主要支持者，也是2024年美国总统选举的独立候选人。他是肯尼迪家族的一员，是美国司法部长兼参议员罗伯特·F·F的儿子。肯尼迪，也是美国总统约翰·F的侄子。肯尼迪和参议员特德·肯尼迪。   
 
-阅读延伸[33438856]: [https://en.wikipedia.org/wiki/Johnny_Gaudreau](https://en.wikipedia.org/wiki/Johnny_Gaudreau)   
+阅读延伸[522298]: [https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.](https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.)   
 
-## 阿列克谢_波皮林   
-Alexei Popyrin is an Australian professional tennis player.
-He has a career-high ATP singles ranking of No. 23 achieved on 12 August 2024. He also has a career-high ATP doubles ranking of No. 235 achieved on 27 June 2022. He is currently the No. 2 Australian singles player. He has won three singles titles on the ATP Tour, including a Masters 1000 at the 2024 Canadian Open.   
+## 利马市长名单   
+The following is a list of Lima's mayors through the 20th and 21st centuries.   
 
-阿列克谢·波皮林是澳大利亚职业网球运动员。
-2024年8月12日，他在ATP单打比赛中排名第23位，创下职业生涯最高纪录。2022年6月27日，他还获得了职业生涯最高的ATP双打排名第235位。他目前是澳大利亚排名第二的单打选手。他在ATP巡回赛中赢得了三个单打冠军，其中包括2024年加拿大公开赛的大师赛1000强。   
+以下是20世纪和21世纪利马市长名单。   
 
-阅读延伸[54238731]: [https://en.wikipedia.org/wiki/Alexei_Popyrin](https://en.wikipedia.org/wiki/Alexei_Popyrin)   
+阅读延伸[4666281]: [https://en.wikipedia.org/wiki/List_of_mayors_of_Lima](https://en.wikipedia.org/wiki/List_of_mayors_of_Lima)   
 
-## 印度_航空公司_航班_814   
-Indian Airlines Flight 814, commonly known as IC 814, was an Indian Airlines Airbus A300 en route from Tribhuvan International Airport in Kathmandu, Nepal, to Indira Gandhi International Airport in Delhi, India, on Friday, 24 December 1999, when it was hijacked and was flown to several locations before landing in Kandahar, Afghanistan.   
+## 卡罗琳_肯尼迪   
+Caroline Bouvier Kennedy is an American author, diplomat and attorney who served as the United States ambassador to Australia from 2022 to 2024. Kennedy previously served in the Obama administration as the United States ambassador to Japan from 2013 to 2017. Most of Kennedy's professional life has been in literature, law, politics, education reform, and charity. She is a member of the Kennedy family and the only surviving child of US president John F. Kennedy and First Lady Jacqueline Kennedy.   
 
-印度航空814号航班，通常称为IC 814，是一架印度航空空客A300，于1999年12月24日星期五从尼泊尔加德满都特里布万国际机场飞往印度德里的英迪拉·甘地国际机场，当时被劫持并飞往多个地点，然后降落在阿富汗坎大哈。   
+卡罗琳·布维尔·肯尼迪（Caroline Bouvier Kennedy）是一位美国作家、外交官和律师，曾于2022年至2024年担任美国驻澳大利亚大使。肯尼迪此前曾于2013年至2017年在奥巴马政府担任美国驻日本大使。肯尼迪的大部分职业生涯都在文学、法律、政治、教育改革和慈善领域。她是肯尼迪家族的成员，也是美国总统约翰·F·F·唯一幸存的孩子。肯尼迪和第一夫人杰奎琳·肯尼迪。   
 
-阅读延伸[405170]: [https://en.wikipedia.org/wiki/Indian_Airlines_Flight_814](https://en.wikipedia.org/wiki/Indian_Airlines_Flight_814)   
+阅读延伸[341911]: [https://en.wikipedia.org/wiki/Caroline_Kennedy](https://en.wikipedia.org/wiki/Caroline_Kennedy)   
 
-## 拉希姆_斯特林   
-Raheem Shaquille Sterling is a professional footballer who plays as a winger for Premier League club Arsenal, on loan from Chelsea, and the England national team.   
+## 莱肯莱利谋杀案   
+On February 22, 2024, Laken Riley, a 22-year-old Augusta University nursing student, was murdered while she was jogging at the University of Georgia in Athens, Georgia. Her body was found in Oconee Forest Park near Lake Herrick; her death was caused by blunt force trauma and asphyxiation.   
 
-拉希姆·沙奎尔·斯特林是一名职业足球运动员，从切尔西租借到英超俱乐部阿森纳和英格兰国家队担任边锋。   
+2024年2月22日，22岁的奥古斯塔大学护理专业学生拉肯·莱利（Laken Riley）在佐治亚州雅典的佐治亚大学慢跑时被谋杀。她的尸体在赫里克湖附近的奥科尼森林公园被发现;她的死亡是由钝器外伤和窒息造成的。   
 
-阅读延伸[30923526]: [https://en.wikipedia.org/wiki/Raheem_Sterling](https://en.wikipedia.org/wiki/Raheem_Sterling)   
+阅读延伸[76227828]: [https://en.wikipedia.org/wiki/Murder_of_Laken_Riley](https://en.wikipedia.org/wiki/Murder_of_Laken_Riley)   
 
-## 绿洲_（乐队）   
-Oasis were an English rock band formed in Manchester in 1991. The group initially consisted of Liam Gallagher, Paul Arthurs (guitar), Paul McGuigan and Tony McCarroll (drums), with Liam asking his older brother Noel Gallagher to join as a fifth member a few months later to finalise their formation. Noel became the de facto leader of the group and took over the songwriting duties for the band's first four albums. They are characterised as one of the defining and most globally successful groups of the Britpop genre.   
+## Facebook   
+Facebook is a social media and social networking service owned by the American technology conglomerate Meta. Created in 2004 by Mark Zuckerberg with four other Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes, its name derives from the face book directories often given to American university students. Membership was initially limited to Harvard students, gradually expanding to other North American universities. Since 2006, Facebook allows everyone to register from 13 years old, except in the case of a handful of nations, where the age requirement is 14 years. As of December 2023, Facebook claimed almost 3.07 billion monthly active users worldwide. As of November 2024, Facebook ranked as the third-most-visited website in the world, with 23% of its traffic coming from the United States. It was the most downloaded mobile app of the 2010s.   
 
-Oasis是一支1991年在曼彻斯特成立的英国摇滚乐队。该乐队最初由利亚姆·加拉格尔（Liam Gallagher）、保罗·阿瑟（Paul Arthurs）（吉他）、保罗·麦吉根（Paul McGuigan）和托尼·麦卡罗尔（Tony McCarroll）（鼓手）组成，利亚姆要求他的哥哥诺埃尔·加拉格尔（Noel Gallagher）在几个月后加入，成为第五名成员，以确定他们的组建。诺埃尔成为乐队事实上的领导者，并接管了乐队前四张专辑的歌曲创作职责。他们被誉为英伦流行音乐流派中最具代表性且在全球最成功的乐队之一。   
+Facebook是美国科技集团Meta旗下的社交媒体和社交网络服务。它由马克·扎克伯格（Mark Zuckerberg）与其他四名哈佛学院学生以及室友爱德华多·萨维林（Eduardo Saverin）、安德鲁·麦科勒姆（Andrew McCollum）、达斯汀·莫斯科维茨（Dustin Moskovitz）和克里斯·休斯（Chris Hughes）于2004年创建，其名称源自美国大学生经常提供的脸书目录。会员最初仅限于哈佛学生，后来逐渐扩展到其他北美大学。自2006年以来，Facebook允许每个人从13岁起注册，但少数国家的年龄要求是14岁。截至2023年12月，Facebook在全球范围内拥有近30.7亿月活跃用户。截至2024年11月，Facebook被评为全球访问量第三大的网站，其23%的流量来自美国。它是2010年代下载量最大的移动应用程序。   
 
-阅读延伸[161515]: [https://en.wikipedia.org/wiki/Oasis_(band)](https://en.wikipedia.org/wiki/Oasis_(band))   
+阅读延伸[7529378]: [https://en.wikipedia.org/wiki/Facebook](https://en.wikipedia.org/wiki/Facebook)   
 
-## 死亡_in_2024   
+## 谢丽尔_海因斯   
+Cheryl Hines is an American actress and comedian. She portrayed Larry David's wife, Cheryl, on HBO's Curb Your Enthusiasm (2000–24), for which she received two Emmy Award nominations. She also starred as Dallas Royce on the ABC sitcom Suburgatory (2011–14), and made her directorial debut with the 2009 film Serious Moonlight. Hines is the wife of lawyer and former 2024 presidential candidate, Robert F. Kennedy Jr.   
 
+谢丽尔·海因斯是一位美国女演员和喜剧演员。她在HBO的《遏制你的热情》（2000-24）中扮演了拉里·大卫的妻子谢丽尔，并因此获得了两项艾美奖提名。她还在ABC情景喜剧《Suburgatory》（2011-14）中饰演达拉斯·罗伊斯，并在2009年的电影《Serious Moonlight》中首次执导。海因斯是律师、前2024年总统候选人罗伯特·F的妻子Kennedy Jr.   
 
-The following notable deaths occurred in 2024. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and reference.   
+阅读延伸[1009768]: [https://en.wikipedia.org/wiki/Cheryl_Hines](https://en.wikipedia.org/wiki/Cheryl_Hines)   
 
+## Instagram   
+Instagram is an American photo and video sharing social networking service owned by Meta Platforms. It allows users to upload media that can be edited with filters, be organized by hashtags, and be associated with a location via geographical tagging. Posts can be shared publicly or with preapproved followers. Users can browse other users' content by tags and locations, view trending content, like photos, and follow other users to add their content to a personal feed. A Meta-operated image-centric social media platform, it is available on iOS, Android, Windows 10, and the web. Users can take photos and edit them using built-in filters and other tools, then share them on other social media platforms like Facebook. It supports 32 languages including English, Hindi, Spanish, French, Korean, and Japanese.   
 
+Instagram是Meta Platforms旗下的美国照片和视频共享社交网络服务。它允许用户上传可以使用过滤器编辑的媒体，可以通过标签组织，并通过地理标签与位置关联。帖子可以公开或与预先批准的关注者共享。用户可以通过标签和位置浏览其他用户的内容，查看热门内容（例如照片），并关注其他用户将其内容添加到个人提要。它是一个元运营的以图像为中心的社交媒体平台，可在iOS、Android、Windows 10和网络上使用。用户可以使用内置滤镜和其他工具拍摄照片并进行编辑，然后在Facebook等其他社交媒体平台上分享。它支持32种语言，包括英语、印地语、西班牙语、法语、韩语和日语。   
 
-以下值得注意的死亡事件发生在2024年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
+阅读延伸[31591547]: [https://en.wikipedia.org/wiki/Instagram](https://en.wikipedia.org/wiki/Instagram)   
 
-阅读延伸[74988902]: [https://en.wikipedia.org/wiki/Deaths_in_2024](https://en.wikipedia.org/wiki/Deaths_in_2024)   
+## 天堂_（2025_TV_系列）   
+Paradise is an American drama television series created by Dan Fogelman and starring Sterling K. Brown, Julianne Nicholson, and James Marsden. It was released on Hulu in the US on January 26, 2025.   
 
-## 死侍_&_金刚狼   
-Deadpool & Wolverine is a 2024 American superhero film based on Marvel Comics featuring the characters Deadpool and Wolverine. Produced by Marvel Studios, Maximum Effort, and 21 Laps Entertainment, and distributed by Walt Disney Studios Motion Pictures, it is the 34th film in the Marvel Cinematic Universe (MCU) and the sequel to Deadpool (2016) and Deadpool 2 (2018). The film was directed by Shawn Levy from a screenplay he wrote with Ryan Reynolds, Rhett Reese, Paul Wernick, and Zeb Wells. Reynolds and Hugh Jackman respectively star as Wade Wilson / Deadpool and Logan / Wolverine, alongside Emma Corrin, Morena Baccarin, Rob Delaney, Leslie Uggams, Aaron Stanford, and Matthew Macfadyen. In the film, Deadpool learns that the Time Variance Authority is set to destroy his universe and works with a reluctant Wolverine from another universe to stop them.   
+《天堂》是一部由丹·福格尔曼创作、斯特林·K主演的美国电视剧。布朗、朱丽安·尼科尔森和詹姆斯·马斯登。它于2025年1月26日在美国Hulu上发布。   
 
-《死侍与金刚狼》是一部根据漫威漫画改编的2024年美国超级英雄电影，主角是死侍和金刚狼。该片由漫威工作室、Maximum Effort和21 Laps Entertainment制作，由华特迪士尼工作室电影公司发行，是漫威电影宇宙（MCU）的第34部电影，也是《死侍》（Deadpool）（2016）和《死侍2》（2018）的续集。这部电影由肖恩·利维（Shawn Levy）执导，改编自他与瑞安·雷诺兹（Ryan Reynolds）、瑞德·里斯（Rhett Reese）、保罗·韦尔尼克（Paul Wernick）和泽布·威尔斯（Zeb Wells）共同创作的剧本。雷诺兹和休·杰克曼分别饰演韦德·威尔逊/死侍和洛根/金刚狼，与艾玛·科林、莫雷娜·巴卡林、罗布·德莱尼、莱斯利·乌格斯、亚伦·斯坦福和马修·麦克法迪恩一起出演。在电影中，死侍得知时间变异局准备摧毁他的宇宙，并与来自另一个宇宙的不情愿的金刚狼合作来阻止他们。   
+阅读延伸[75712208]: [https://en.wikipedia.org/wiki/Paradise_(2025_TV_series)](https://en.wikipedia.org/wiki/Paradise_(2025_TV_series))   
 
-阅读延伸[52234178]: [https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine](https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine)   
+## 2024- 25_欧足联_比利时_联赛   
+The 2024–25 UEFA Champions League is the 70th season of Europe's premier club football tournament organised by UEFA, and the 33rd season since it was rebranded from the European Champion Clubs' Cup to the UEFA Champions League. This will be the first season under a new format, where in the league phase each team plays eight games against different opponents, but all 36 teams are ranked in a joint group.   
 
-## 索尔_班巴   
-Souleymane Bamba, known as Sol Bamba, was a professional football player and manager. As a player, he was a centre-back. Born in France, he played for the Ivory Coast national team.   
+2024-25年欧洲冠军联赛是欧足联组织的欧洲顶级俱乐部足球锦标赛的第70个赛季，也是从欧洲冠军俱乐部杯更名为欧洲冠军联赛以来的第33个赛季。这将是新形式下的第一个赛季，在联赛阶段，每支球队将与不同的对手进行8场比赛，但所有36支球队都被归入一个联合小组。   
 
-苏莱曼·班巴（Souleymane Bamba），又名索尔·班巴（Sol Bamba），是一名职业足球运动员和教练。作为一名球员，他是一名中后卫。他出生于法国，曾效力于科特迪瓦国家队。   
+阅读延伸[66705208]: [https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League](https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League)   
 
-阅读延伸[8179770]: [https://en.wikipedia.org/wiki/Sol_Bamba](https://en.wikipedia.org/wiki/Sol_Bamba)   
+## 唐纳德_特朗普   
+Donald John Trump is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021.   
 
-## 街道_2   
-Stree 2: Sarkate Ka Aatank is a 2024 Hindi-language comedy horror film directed by Amar Kaushik, written by Niren Bhatt, and produced jointly by Maddock Films and Jio Studios. The film stars Rajkummar Rao, Shraddha Kapoor, Pankaj Tripathi, Abhishek Banerjee and Aparshakti Khurana. It is the fifth installment in the Maddock Supernatural Universe and is the sequel to Stree (2018).   
+唐纳德·约翰·特朗普是一位美国政治家、媒体人物和商人，曾于2017年至2021年担任美国第45任总统。   
 
-Stree 2：Sarkate Ka Aatank是一部2024年印度语喜剧恐怖电影，由Amar Kaushik执导，Niren Bhatt编剧，Maddock Films和Jio Studios联合制作。这部电影由拉贾马尔·拉奥、什拉达·卡普尔、潘卡吉·特里帕蒂、阿布舍克·班纳吉和阿帕尔沙克蒂·库拉纳主演。这是《马多克超自然宇宙》的第五部，也是《Stree》（2018）的续集。   
+阅读延伸[4848272]: [https://en.wikipedia.org/wiki/Donald_Trump](https://en.wikipedia.org/wiki/Donald_Trump)   
 
-阅读延伸[73535388]: [https://en.wikipedia.org/wiki/Stree_2](https://en.wikipedia.org/wiki/Stree_2)   
+## 克里斯蒂_诺姆   
+Kristi Lynn Noem is an American politician who has served since 2019 as the 33rd governor of South Dakota. A member of the Republican Party, she was the U.S. representative for South Dakota's at-large congressional district from 2011 to 2019, and a member of the South Dakota House of Representatives for the 6th district from 2007 to 2011.   
 
-## 卡奥斯_（电视剧）   
-Kaos is a British mythological dark-comedy television series created by Charlie Covell for Netflix. It revolves around three humans as they discover their connection to each other and to a long-standing ancient prophecy while they deal with corrupt and arrogant gods of Classical mythology. The series was released on Netflix on 29 August 2024.   
+克里斯蒂·林恩·诺姆（Kristi Lynn Noem）是一位美国政治家，自2019年以来一直担任南达科他州第33任州长。作为共和党成员，她于2011年至2019年担任南达科他州无党派国会选区的美国代表，并于2007年至2011年担任南达科他州第六选区众议院议员。   
 
-《卡奥斯》是查理·科维尔为Netflix制作的一部英国神话黑色喜剧电视剧。故事围绕三个人类展开，他们在与古典神话中腐败和傲慢的众神打交道时发现了彼此之间的联系以及与一个长期存在的古代预言的联系。该剧于2024年8月29日在Netflix上上映。   
+阅读延伸[27663933]: [https://en.wikipedia.org/wiki/Kristi_Noem](https://en.wikipedia.org/wiki/Kristi_Noem)   
 
-阅读延伸[71455201]: [https://en.wikipedia.org/wiki/Kaos_(TV_series)](https://en.wikipedia.org/wiki/Kaos_(TV_series))   
+## ChatGPT   
+ChatGPT is a generative artificial intelligence chatbot developed by OpenAI and launched in 2022. It is based on the GPT-4o large language model (LLM). ChatGPT can generate human-like conversational responses, and enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. It is credited with accelerating the AI boom, which has led to ongoing rapid investment in and public attention to the field of artificial intelligence (AI). Some observers have raised concern about the potential of ChatGPT and similar programs to displace human intelligence, enable plagiarism, or fuel misinformation.   
 
-## 利亚姆·加拉格尔   
-William John Paul Gallagher is an English singer and songwriter. He is the lead singer of the rock band Oasis. He later fronted the rock band Beady Eye from 2009 to 2014, before starting a successful solo career in 2017. Oasis has had various line-up changes; Gallagher and his older brother Noel have been the only constant members. One of the most recognisable figures in British rock music, Gallagher is noted for his distinctive vocal style and outspoken personality.   
+ChatGPT是由OpenAI开发的生成式人工智能聊天机器人，于2022年推出。它基于GPT-4 o大型语言模型（LLM）。ChatGPT可以生成类似人类的对话响应，并使用户能够细化和引导对话以达到所需的长度、格式、风格、详细程度和语言。它被认为加速了人工智能的繁荣，导致了人工智能（AI）领域的持续快速投资和公众对人工智能（AI）领域的关注。一些观察家对ChatGPT和类似程序可能取代人类智力、助长抄袭或助长错误信息表示担忧。   
 
-威廉·约翰·保罗·加拉格尔是一位英国歌手和词曲作者。他是摇滚乐队Oasis的主唱。后来，他于2009年至2014年担任摇滚乐队Beady Eye的主唱，并于2017年开始了成功的个人生涯。绿洲队的阵容发生了各种变化;加拉格尔和他的哥哥诺埃尔是唯一的固定成员。加拉格尔是英国摇滚音乐界最知名的人物之一，以其独特的声乐风格和直言不讳的个性而闻名。   
+阅读延伸[72417803]: [https://en.wikipedia.org/wiki/ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)   
 
-阅读延伸[178326]: [https://en.wikipedia.org/wiki/Liam_Gallagher](https://en.wikipedia.org/wiki/Liam_Gallagher)   
+## 布鲁克林   
+Brooklyn is a borough of New York City located at the westernmost end of Long Island in the State of New York. Formerly an independent city, the borough is coextensive with Kings County, one of twelve original counties established under British rule in 1683 in the then Province of New York. As of the 2020 United States census, the population stood at 2,736,074, making it the most populous of the five boroughs of New York City, and the most populous county in the state. Brooklyn, at 37,339.9 inhabitants per square mile (14,417.0/km2), is the second most densely populated county in the U.S. after Manhattan, as of 2022. Had Brooklyn remained an independent city, it would now be the fourth most populous American city after the rest of New York City, Los Angeles, and Chicago.   
 
-## 陷阱_（2024年_电影）   
-Trap is a 2024 American psychological thriller film written, directed, and produced by M. Night Shyamalan. Starring Josh Hartnett, Ariel Donoghue, Saleka Night Shyamalan, Hayley Mills, and Alison Pill, it follows a serial killer evading a police blockade while attending a concert with his daughter. The film premiered in New York City on July 24, 2024, and was theatrically released in the United States by Warner Bros. Pictures on August 2, 2024. It received mixed reviews from critics and has grossed $72.3 million worldwide.   
+布鲁克林是纽约市的一个行政区，位于纽约州长岛的最西端。该行政区以前是一个独立城市，与金斯县同延，金斯县是1683年英国统治下在当时的纽约省建立的十二个原始县之一。截至2020年美国人口普查，人口为2，736，074人，是纽约市五个行政区中人口最多的县，也是该州人口最多的县。截至2022年，布鲁克林每平方英里有37，339.9名居民（14，417.0/平方公里），是美国人口第二稠密的县，仅次于曼哈顿。如果布鲁克林仍然是一个独立城市，它现在将成为仅次于纽约市、洛杉矶和芝加哥其他地区的美国人口第四多的城市。   
 
-《陷阱》是一部2024年美国心理惊悚电影，由M.编剧、导演和制作。夜沙马兰。该剧由乔什·哈内特、阿里尔·多诺霍、萨雷卡·奈特·沙马兰、海莉·米尔斯和艾莉森·皮尔主演，讲述了一名连环杀手在与女儿一起参加音乐会时躲避警方封锁的故事。该片于2024年7月24日在纽约首映，并于2024年8月2日由华纳兄弟影业在美国影院上映。它受到了评论家的褒贬不一的评价，全球总收入达7230万美元。   
+阅读延伸[47384]: [https://en.wikipedia.org/wiki/Brooklyn](https://en.wikipedia.org/wiki/Brooklyn)   
 
-阅读延伸[71946032]: [https://en.wikipedia.org/wiki/Trap_(2024_film)](https://en.wikipedia.org/wiki/Trap_(2024_film))   
+## 死亡_in_2025   
+The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
 
-## The_Accurance_（电影）   
-The Deliverance is a 2024 American supernatural horror thriller film directed by Lee Daniels and written by David Coggeshall, and Elijah Bynum. Inspired by the Ammons haunting case, it stars Andra Day with Rob Morgan, Caleb McLaughlin, Aunjanue Ellis-Taylor, Tasha Smith, Omar Epps, Mo'Nique, and Glenn Close. The film was released in select theaters on August 16, 2024, and began streaming on Netflix on August 30.   
+以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
 
-《复仇者》是一部2024年美国超自然恐怖惊悚电影，由李·丹尼尔斯执导，大卫·科格豪尔和伊利亚·拜纳姆编剧。受阿蒙斯令人难以忘怀的案件的启发，该片由安德拉·戴（Andra Day）与罗布·摩根（Rob Morgan）、凯莱布·麦克劳克林（Caleb McLaughlin）、奥贾努·埃利斯-泰勒（Aunjanue Ellis-Taylor）、塔莎·史密斯（Tasha Smith）、奥马尔·埃普斯（Omar Epps）、莫尼克（Mo ' Nique）和格伦·克洛斯（Glenn Close）主演。该片于2024年8月16日在部分影院上映，并于8月30日开始在Netflix上播出。   
+阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
 
-阅读延伸[72186753]: [https://en.wikipedia.org/wiki/The_Deliverance_(film)](https://en.wikipedia.org/wiki/The_Deliverance_(film))   
+## 关塔那摩湾拘留营   
+The Guantanamo Bay, also known as GTMO, GITMO, or simply Guantanamo Bay, is a United States military prison within Naval Station Guantanamo Bay (NSGB), on the coast of Guantánamo Bay, Cuba. It was established in January 2002 by U.S. President George W. Bush to hold terrorism suspects and "illegal enemy combatants" during the Global War on Terrorism following the attacks of September 11, 2001. As of January 2025, at least 780 people from 48 countries have been detained at the camp since its creation, of whom 756 had been transferred elsewhere, 9 died in custody, and 15 remain.   
 
-## 诺埃尔_加拉格尔   
-Noel Thomas David Gallagher is an English musician, singer and songwriter. He is the primary songwriter, lead guitarist and co-lead vocalist of the rock band Oasis. After formerly leaving Oasis, he formed Noel Gallagher's High Flying Birds. He is one of the most successful songwriters in British music history, as the writer of eight UK number-one singles and co-writer of a further number one, as well as the sole or primary writer of ten UK number-one studio albums. He is widely considered to be one of the most influential songwriters in the history of British rock music, cited by numerous major subsequent artists as an influence.   
+关塔那摩湾，也称为GTMO、GITMO或简称关塔那摩湾，是古巴关塔那摩湾海岸关塔那摩湾海军基地（NSGB）内的一所美国军事监狱。它由美国总统乔治·W于2002年1月创立。2001年9月11日袭击事件后，布什在全球反恐战争期间关押恐怖主义嫌疑人和“非法敌方战斗人员”。截至2025年1月，自该营地成立以来，至少有来自48个国家的780人被拘留在该营地，其中756人已被转移到其他地方，9人在拘留期间死亡，15人仍留在营地。   
 
-诺埃尔·托马斯·大卫·加拉格尔（Noel Thomas David Gallagher）是一位英国音乐家、歌手和词曲作者。他是摇滚乐队Oasis的主要词曲作者、主音吉他手和联合主唱。离开绿洲后，他组建了诺埃尔·加拉格尔的High Flying Birds。他是英国音乐史上最成功的词曲作者之一，是八首英国排名第一的单曲的作者和另一首排名第一的合著者，也是十首英国排名第一的录音室专辑的唯一或主要作者。他被广泛认为是英国摇滚音乐史上最有影响力的词曲作家之一，被众多后来的主要艺术家视为有影响力的人。   
+阅读延伸[4406774]: [https://en.wikipedia.org/wiki/Guantanamo_Bay_detention_camp](https://en.wikipedia.org/wiki/Guantanamo_Bay_detention_camp)   
 
-阅读延伸[194961]: [https://en.wikipedia.org/wiki/Noel_Gallagher](https://en.wikipedia.org/wiki/Noel_Gallagher)   
+## 农历新年   
+Lunar New Year is the beginning of a new year based on lunar calendars or, informally but more widely, lunisolar calendars. Typically, both types of calendar begin with a new moon but, whilst a lunar calendar year has a fixed number lunar months, lunisolar calendars have a variable number of lunar months, resetting the count periodically to resynchronise with the solar year. The event is celebrated by numerous cultures in various ways at diverse dates. The determination of the first day of a new lunar or lunisolar year varies by culture.   
 
-## 外星人：_罗穆卢斯   
-Alien: Romulus is a 2024 American science fiction horror film. Directed by Fede Álvarez, who co-wrote it with Rodo Sayagues, the film was produced by Scott Free Productions and Brandywine Productions. It is the seventh installment in the Alien franchise and serves as a standalone interquel set between the events of Alien (1979) and Aliens (1986). It stars Cailee Spaeny, David Jonsson, Archie Renaux, Isabela Merced, Spike Fearn, and Aileen Wu.   
+农历新年是基于农历或非正式但更广泛的农历的新年的开始。通常，这两种日历都以新月开始，但虽然农历年的农历月数是固定的，但农历日历的农历月数是可变的，定期重置计数以与太阳年同步。众多文化在不同的日期以不同的方式庆祝这一活动。农历或农历年第一天的确定因文化而异。   
 
-《异形：罗穆卢斯》是一部2024年的美国科幻恐怖电影。这部电影由费德·阿尔瓦雷斯（Fede Álvarez）执导，并与罗多·萨亚格斯（Rodo Sayagues）共同编剧，由斯科特·自由制作公司（Scott Free Productions）和布兰迪怀恩制作公司（Brandywine Productions）制作。这是《异形》系列的第七部，是以《异形》（1979年）和《异形》（1986年）事件为背景的独立间集。该剧由Cailee Spaeny、David Jonsson、Archie Renaux、Isabela Merced、Spike Fearn和Aileen Wu主演。   
+阅读延伸[288586]: [https://en.wikipedia.org/wiki/Lunar_New_Year](https://en.wikipedia.org/wiki/Lunar_New_Year)   
 
-阅读延伸[67165116]: [https://en.wikipedia.org/wiki/Alien%3A_Romulus](https://en.wikipedia.org/wiki/Alien%3A_Romulus)   
+## 昆布_梅拉   
+Kumbh Mela or Kumbha Mela is a major pilgrimage and festival in Hinduism. On 4 February 2019, Kumbh Mela witnessed the largest public gathering of Hindus ever recorded. It is celebrated in a cycle of approximately 12 years, to celebrate every revolution Brihaspati (Jupiter) completes. Kumbh is mainly held at four riverside pilgrimage sites, namely: Prayagraj, Haridwar (Ganges), Nashik (Godavari), and Ujjain (Shipra); But now the Kumbh Mela has been revived at a fifth place too. The other rejuvenated Kumbh Mela is celebrated at Bansberia Tribeni Sangam in West Bengal at the confluence of Hooghly and Saraswati river, dates back thousands of years but was stopped 700 years ago, but this Kumbh Mela has been reopened since 2022.   
 
-## 杰登_桑乔   
-Jadon Malik Sancho is an English professional footballer who plays as a winger for Premier League club Chelsea, on loan from Manchester United.   
+大壶节或大壶节是印度教的一个主要朝圣和节日。2019年2月4日，昆布梅拉（Kumbh Mela）见证了有记录以来规模最大的印度教徒公开集会。它以大约12年的周期庆祝，以庆祝布里哈斯帕蒂（木星）完成的每一次革命。大壶主要在四个河边朝圣地举行，分别是：Prayagraj、Haridwar（恒河）、Nashik（Godavari）和Ujjain（Shipra）;但现在大壶节也恢复了第五名。另一座复兴的大壶节在西孟加拉邦胡格利河和萨拉斯瓦蒂河交汇处的Bansberia Tribeni Sangam庆祝，其历史可以追溯到数千年前，但在700年前就停止了，但这座大壶节自2022年以来已重新开放。   
 
-杰登·马利克·桑乔是一名英国职业足球运动员，从曼联租借到英超俱乐部切尔西担任边锋。   
+阅读延伸[405564]: [https://en.wikipedia.org/wiki/Kumbh_Mela](https://en.wikipedia.org/wiki/Kumbh_Mela)   
 
-阅读延伸[54824287]: [https://en.wikipedia.org/wiki/Jadon_Sancho](https://en.wikipedia.org/wiki/Jadon_Sancho)   
+## 蛇_（十二宫）   
+The snake is the sixth of the twelve-year cycle of animals which appear in the Chinese zodiac related to the Chinese calendar. The Year of the Snake is associated with the Earthly Branch symbol 巳.   
 
-## 诺瓦克_德约科维奇   
-Novak Djokovic is a Serbian professional tennis player. He has been ranked No. 1 for a record total of 428 weeks in a record 13 different years by the ATP, and finished as the year-end No. 1 a record eight times. Djokovic has won a record 24 Grand Slam men's singles titles, including a record ten Australian Open titles. Overall, he has won 99 singles titles, including a record 72 Big Titles: 24 majors, a record 40 Masters, a record seven year-end championships, and an Olympic gold medal. Djokovic is the only man in tennis history to be the reigning champion of all four majors at once across three different surfaces. In singles, he is the only man to achieve a triple Career Grand Slam, and the only player to complete a Career Golden Masters, a feat he has accomplished twice. Djokovic is the only player in singles to have won all of the Big Titles over the course of his career, having completed the Career Super Slam as part of that accomplishment.   
+蛇是十二年动物周期中的第六种，出现在与中国农历相关的十二生肖中。蛇年与地支符号自流有关。   
 
-诺瓦克·德约科维奇是塞尔维亚职业网球运动员。他在ATP的13个不同年份中以创纪录的428周的时间排名第一，并创纪录地八次成为年终第一。德约科维奇创纪录地赢得了24个大满贯男子单打冠军，其中创纪录地赢得了10个澳大利亚网球公开赛冠军。总体而言，他赢得了99个单打冠军，其中包括创纪录的72个大满贯冠军：24个大满贯冠军、创纪录的40个大师赛冠军、创纪录的7个年终冠军和一枚奥运会金牌。德约科维奇是网球历史上唯一一位在三个不同场地同时成为四个大满贯赛事卫冕冠军的人。在单打比赛中，他是唯一一位获得职业生涯三重大满贯的球员，也是唯一一位获得职业生涯黄金大师赛的球员，他已经完成了两次这一壮举。德约科维奇是唯一一位在职业生涯中赢得所有大满贯冠军的单打球员，他完成了职业超级大满贯作为这一成就的一部分。   
-
-阅读延伸[16100029]: [https://en.wikipedia.org/wiki/Novak_Djokovic](https://en.wikipedia.org/wiki/Novak_Djokovic)   
-
-## 指环王：权力指环王   
-The Lord of the Rings: The Rings of Power is an American fantasy television series developed by J. D. Payne and Patrick McKay for the streaming service Amazon Prime Video. Based on J. R. R. Tolkien's history of Middle-earth, primarily material from the appendices of the novel The Lord of the Rings, the series is set thousands of years before the novel and depicts the major events of Middle-earth's Second Age. It is produced by Amazon MGM Studios in association with New Line Cinema.   
-
-《指环王：权力之戒》是一部由JD开发的美国奇幻电视剧。Payne和Patrick McKay负责流媒体服务Amazon Prime Video。基于JR R.托尔金的中土世界历史主要取材于小说《指环王》的附录，该系列故事以小说前数千年的时间为背景，描绘了中土世界第二纪元的重大事件。该片由亚马逊米高梅工作室与New Line Cinema联合制作。   
-
-阅读延伸[61677624]: [https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Rings_of_Power](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Rings_of_Power)   
+阅读延伸[277030]: [https://en.wikipedia.org/wiki/Snake_(zodiac)](https://en.wikipedia.org/wiki/Snake_(zodiac))   
 
