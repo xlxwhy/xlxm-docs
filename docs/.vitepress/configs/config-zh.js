@@ -11,7 +11,6 @@ module.exports = {
   lastUpdatedText: "最近更新",
 
   nav: [
-
     // {
     //   text: '技术文档',
     //   items: [
@@ -20,9 +19,16 @@ module.exports = {
     //     { text: 'VitePress', link: `${BASEPATH}/document/vitepress/guide/what-is-vitepress` },
     //   ]
     // },
-
     // { text: '技术文章', link: `${BASEPATH}/zh/article/content` },
-    // { text: '技术文档', link: `${BASEPATH}/zh/document/content` },
+
+    {
+      text: '技术文档',
+      items: [
+        { text: 'OpenAI', link: `${BASEPATH}/document/openai/document/introduction` },
+        { text: 'ViteJS', link: `${BASEPATH}/document/vitejs/guide/` },
+        { text: 'VitePress', link: `${BASEPATH}/document/vitepress/guide/what-is-vitepress` },
+      ]
+    },
     { text: '热点资讯', link: `${BASEPATH}/zh/news/latest` },
     { text: '热门工具', link: `https://xlxm.cn/photo/photo.html` },
   ],

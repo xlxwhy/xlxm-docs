@@ -43,6 +43,9 @@ jobs:
       run: |
         npm run i
         npm run build
+        npm run build:document:openai
+        npm run build:document:vitejs
+        npm run build:document:vitepress
     - name: Setup Pages
       uses: actions/configure-pages@v2
     - name: Upload artifact
