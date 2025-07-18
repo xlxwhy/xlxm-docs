@@ -30,7 +30,7 @@ module.exports = {
       ]
     },
     { text: '热点资讯', link: `${BASEPATH}/zh/news/latest` },
-    { text: '热门工具', link: `https://xlxm.cn/photo/photo.html` },
+    { text: '图片工具', link: `https://xlxm.cn/photo/photo.html` },
   ],
 
   sidebar: {
