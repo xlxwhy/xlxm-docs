@@ -1,7 +1,7 @@
 
 // const BASEPATH="https://xlxf.cn"
 // const BASEPATH="http://localhost:5173"
-const BASEPATH = ""
+const BASEPATH = "https://xlxm.cn"
 
 
 module.exports = {
