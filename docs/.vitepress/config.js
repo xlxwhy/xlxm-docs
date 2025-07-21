@@ -11,8 +11,8 @@ module.exports = {
   ignoreDeadLinks: true,
   locales: {
     root: { 
-      title: '聚合资讯及服务',
-      description: '聚合资讯及服务',
+      title: '聚合文档与资讯',
+      description: '聚合文档与资讯',
       themeConfig: configZh
     },
     // "zh": {
