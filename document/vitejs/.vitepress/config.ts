@@ -7,12 +7,24 @@ const ogImage = 'https://vitejs.dev/og-image.png'
 const ogTitle = 'Vite'
 const ogUrl = 'https://vitejs.dev'
 
+const BASEHOST="https://xlxm.cn"
+const BASEPATH="/document/vitejs"
+const BASEURL=`${BASEHOST}${BASEPATH}`
+ 
+
+
 export default defineConfig({
   title: 'Vite 官方中文文档',
   description: '下一代前端工具链',
   lang: 'zh-CN',
 
-  base:"/document/vitejs",
+  base: BASEPATH,
+
+   
+  sitemap: {
+    hostname: `${BASEURL}/`
+  },
+  
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
     ['meta', { property: 'og:type', content: 'website' }],
@@ -23,20 +35,20 @@ export default defineConfig({
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:site', content: '@vite_js' }],
     ['meta', { name: 'theme-color', content: '#646cff' }],
-    [
-      'script',
-      {
-        src: 'https://cdn.usefathom.com/script.js',
-        'data-site': 'TPLGJZGR',
-        'data-spa': 'auto',
-        defer: '',
-      },
-    ],
+    // [
+    //   'script',
+    //   {
+    //     src: 'https://cdn.usefathom.com/script.js',
+    //     'data-site': 'TPLGJZGR',
+    //     'data-spa': 'auto',
+    //     defer: '',
+    //   },
+    // ],
     [
       "script",
       {
         "client": "ca-pub-6579111049316949",
-        async: true,
+        async: "true",
         crossorigin: "anonymous",
         src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6579111049316949"
       }
@@ -55,21 +67,21 @@ export default defineConfig({
   themeConfig: {
     logo: '/logo.svg',
 
-    editLink: {
-      pattern: 'https://github.com/vitejs/docs-cn/edit/main/:path',
-      text: '为此页提供修改建议',
-    },
+    // editLink: {
+    //   pattern: 'https://github.com/vitejs/docs-cn/edit/main/:path',
+    //   text: '为此页提供修改建议',
+    // },
 
     outline: {
       label: '本页目录'
     },
 
-    socialLinks: [
-      { icon: 'mastodon', link: 'https://elk.zone/m.webtoo.ls/@vite' },
-      { icon: 'twitter', link: 'https://twitter.com/vite_js' },
-      { icon: 'discord', link: 'https://chat.vitejs.dev' },
-      { icon: 'github', link: 'https://github.com/vitejs/vite' },
-    ],
+    // socialLinks: [
+    //   { icon: 'mastodon', link: 'https://elk.zone/m.webtoo.ls/@vite' },
+    //   { icon: 'twitter', link: 'https://twitter.com/vite_js' },
+    //   { icon: 'discord', link: 'https://chat.vitejs.dev' },
+    //   { icon: 'github', link: 'https://github.com/vitejs/vite' },
+    // ],
 
     algolia: {
       appId: '7H67QR5P0A',
@@ -124,10 +136,10 @@ export default defineConfig({
     //   placement: 'vitejsdev',
     // },
 
-    footer: {
-      copyright:
-        '本中文文档内容版权为 Vite 官方中文翻译团队所有，保留所有权利。'
-    },
+    // footer: {
+    //   copyright:
+    //     '本中文文档内容版权为 Vite 官方中文翻译团队所有，保留所有权利。'
+    // },
 
     nav: [
       { text: '指引', link: '/guide/', activeMatch: '/guide/' },

@@ -4,11 +4,16 @@ import { defineConfig, type DefaultTheme } from 'vitepress'
 const require = createRequire(import.meta.url)
 const pkg = require('vitepress/package.json')
 
+const BASEHOST="https://xlxm.cn"
+const BASEPATH="/document/vitepress"
+const BASEURL=`${BASEHOST}${BASEPATH}`
+ 
+
 export default defineConfig({
   lang: 'en-US',
   title: 'VitePress',
   description: 'Vite & Vue powered static site generator.',
-  base:"/document/vitepress",
+  base: BASEPATH,
   lastUpdated: true,
   cleanUrls: true,
 
@@ -17,7 +22,7 @@ export default defineConfig({
   },
 
   sitemap: {
-    hostname: 'https://vitepress.dev',
+    hostname: `${BASEURL}/`,
     transformItems(items) {
       return items.filter((item) => !item.url.includes('migration'))
     }
@@ -37,7 +42,7 @@ export default defineConfig({
       "script",
       {
         "client": "ca-pub-6579111049316949",
-        async: true,
+        async: "true",
         crossorigin: "anonymous",
         src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6579111049316949"
       }
