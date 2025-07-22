@@ -1,108 +1,52 @@
 # 最新资讯  
-## 卡罗琳_莱维特   
-Karoline Claire Leavitt is an American political aide currently serving as the national press secretary for Donald Trump's 2024 presidential campaign. She previously served as an assistant press secretary and presidential writer during the first Donald Trump administration as well as a spokesperson for MAGA Inc., a pro-Trump Super PAC. In 2022, she ran for the U.S. House of Representatives in New Hampshire's 1st district, becoming the second member of Generation Z to win a congressional primary. She lost the general election to incumbent Chris Pappas.   
+## 马尔科姆-贾马尔_华纳   
+Malcolm-Jamal Warner was an American actor, musician and poet. He rose to prominence for his role as Theodore Huxtable on the NBC sitcom The Cosby Show (1984–1992), which earned him a nomination for Outstanding Supporting Actor in a Comedy Series at the 38th Primetime Emmy Awards. He was also known for his roles as Malcolm McGee on the sitcom Malcolm & Eddie (1996–2000), Dr. Alex Reed in the sitcom Reed Between the Lines, and Dr. AJ Austin in the medical drama The Resident.   
 
-卡罗琳·克莱尔·莱维特（Karoline Claire Leavitt）是一名美国政治助手，目前担任唐纳德·特朗普2024年总统竞选的国家新闻秘书。她此前曾在唐纳德·特朗普第一届政府期间担任助理新闻秘书和总统撰稿人，以及MAGA Inc.的发言人，支持特朗普的超级政治行动委员会。2022年，她竞选新罕布什尔州第一选区的美国众议院议员，成为第二位赢得国会初选的Z世代成员。她在大选中输给了现任总统克里斯·帕帕斯。   
+马尔科姆-贾马尔·华纳（Malcolm-Jamal Warner）是一位美国演员、音乐家和诗人。他因在NBC情景喜剧《考斯比秀》（The Cosby Show）（1984-1992年）中饰演西奥多·赫克斯特布尔（Theodore Huxtable）而声名鹊起，该片为他赢得了第38届黄金时段艾美奖喜剧类最佳男配角提名。他还因在情景喜剧《马尔科姆与埃迪》（Malcolm & Eddie，1996-2000）中饰演马尔科姆·麦吉、在情景喜剧《Reed Between the Lines》中饰演亚历克斯·里德博士以及在医疗剧《住院医师》中饰演AJ奥斯汀博士而闻名。   
 
-阅读延伸[71739774]: [https://en.wikipedia.org/wiki/Karoline_Leavitt](https://en.wikipedia.org/wiki/Karoline_Leavitt)   
+阅读延伸[656258]: [https://en.wikipedia.org/wiki/Malcolm-Jamal_Warner](https://en.wikipedia.org/wiki/Malcolm-Jamal_Warner)   
 
-## DeepSeek   
-DeepSeek is a Chinese artificial intelligence company that develops open source large language models (LLM). Based in Hangzhou, Zhejiang, it is owned and solely funded by Chinese hedge fund High-Flyer, whose co-founder, Liang Wenfeng, established the company in 2023 and serves as its CEO.   
+## 超人_（2025年_电影）   
+Superman is an upcoming American superhero film based on DC Comics featuring the eponymous character. Produced by DC Studios and to be distributed by Warner Bros. Pictures, it will be the first film in the DC Universe (DCU) and a reboot of the Superman film series. The film is written and directed by James Gunn and stars David Corenswet as Clark Kent / Superman, alongside Rachel Brosnahan, Nicholas Hoult, Edi Gathegi, Anthony Carrigan, Nathan Fillion, Isabela Merced, Skyler Gisondo, Sara Sampaio, María Gabriela de Faría, Wendell Pierce, Alan Tudyk, Pruitt Taylor Vince, and Neva Howell. In the film, Superman's journey to reconcile his alien heritage with his human family is explored.   
 
-DeepSeek是一家开发开源大型语言模型（LLM）的中国人工智能公司。该公司总部位于浙江省杭州，由中国对冲基金High-Flyer拥有并全权资助，其联合创始人梁文峰于2023年成立了该公司，并担任首席执行官。   
+超人是一部即将上映的美国超级英雄电影，改编自DC漫画，主角是同名角色。该片由DC Studios制作，华纳兄弟影业发行，将成为DC宇宙（DCU）的第一部电影，也是超人系列电影的重启。这部电影由詹姆斯·冈恩编剧和导演，大卫·科伦斯韦特饰演克拉克·肯特/超人，与雷切尔·布罗斯纳汉、尼古拉斯·霍尔特、埃迪·加特吉、安东尼·卡里根、内森·菲利安、伊莎贝尔·默塞德、斯凯勒·吉松多、萨拉·桑帕约、玛丽亚·加布里埃拉·德·法利亚、温德尔·皮尔斯、艾伦·图迪克、普鲁特·泰勒·文斯和涅瓦·豪厄尔一起。在电影中，探索了超人将其外星血统与人类家庭调和起来的旅程。   
 
-阅读延伸[78452842]: [https://en.wikipedia.org/wiki/DeepSeek](https://en.wikipedia.org/wiki/DeepSeek)   
+阅读延伸[57255388]: [https://en.wikipedia.org/wiki/Superman_(2025_film)](https://en.wikipedia.org/wiki/Superman_(2025_film))   
 
-## 罗伯特_F._小肯尼迪   
-Robert Francis Kennedy Jr., also known by his initials RFK Jr., is an American politician, environmental lawyer, anti-vaccine activist, and conspiracy theorist. He is the chairman and founder of Children's Health Defense, an anti-vaccine advocacy group that is a leading proponent of COVID-19 vaccine misinformation, and an independent candidate in the 2024 United States presidential election. A member of the Kennedy family, he is a son of the U.S. attorney general and senator Robert F. Kennedy, and a nephew of the U.S. president John F. Kennedy and the senator Ted Kennedy.   
+## 米歇尔_托马斯   
+Michelle Doris Thomas was an American actress. She was known for her roles as Justine Phillips on the NBC sitcom The Cosby Show (1988–1990), as Myra Monkhouse on the ABC/CBS sitcom Family Matters (1993–1998), and as Callie Rogers on the CBS soap opera The Young and the Restless (1998).   
 
-小罗伯特·弗朗西斯·肯尼迪，他的名字缩写为RFK Jr.，是一位美国政治家、环境律师、反疫苗活动家和阴谋论者。他是儿童健康保护组织的主席和创始人，该组织是一个反疫苗倡导组织，是COVID-19疫苗错误信息的主要支持者，也是2024年美国总统选举的独立候选人。他是肯尼迪家族的一员，是美国司法部长兼参议员罗伯特·F·F的儿子。肯尼迪，也是美国总统约翰·F的侄子。肯尼迪和参议员特德·肯尼迪。   
+米歇尔·多丽丝·托马斯是一位美国女演员。她因在NBC情景喜剧The Cosby Show（1988-1990）中饰演Justine Phillips，在ABC/CBS情景喜剧Family Matters（1993-1998）中饰演Myra Monkhouse，以及在CBS肥皂剧The Young and the Restless（1998）中饰演Callie Rogers而闻名。   
 
-阅读延伸[522298]: [https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.](https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.)   
+阅读延伸[411142]: [https://en.wikipedia.org/wiki/Michelle_Thomas](https://en.wikipedia.org/wiki/Michelle_Thomas)   
 
-## 利马市长名单   
-The following is a list of Lima's mayors through the 20th and 21st centuries.   
+## 斯科蒂_舍弗勒   
+Scott Alexander Scheffler is an American professional golfer who plays on the PGA Tour. He is currently ranked world number one in the Official World Golf Ranking, a position he has held for over 100 weeks. He has won four major championships.   
 
-以下是20世纪和21世纪利马市长名单。   
+斯科特·亚历山大·舍夫勒（Scott Alexander Scheffler）是一位参加PGA巡回赛的美国职业高尔夫球手。他目前在官方世界高尔夫排名中排名世界第一，他已经占据这个位置超过100周。他赢得了四次大满贯冠军。   
 
-阅读延伸[4666281]: [https://en.wikipedia.org/wiki/List_of_mayors_of_Lima](https://en.wikipedia.org/wiki/List_of_mayors_of_Lima)   
+阅读延伸[54256563]: [https://en.wikipedia.org/wiki/Scottie_Scheffler](https://en.wikipedia.org/wiki/Scottie_Scheffler)   
 
-## 卡罗琳_肯尼迪   
-Caroline Bouvier Kennedy is an American author, diplomat and attorney who served as the United States ambassador to Australia from 2022 to 2024. Kennedy previously served in the Obama administration as the United States ambassador to Japan from 2013 to 2017. Most of Kennedy's professional life has been in literature, law, politics, education reform, and charity. She is a member of the Kennedy family and the only surviving child of US president John F. Kennedy and First Lady Jacqueline Kennedy.   
+## 不要敲击玻璃   
+Don't Tap the Glass is the ninth studio album by American rapper Tyler, the Creator. It was released on July 21, 2025, through Columbia Records. The album follows his 2024 release Chromakopia. The album features uncredited guest vocals from Baby Keem, Daisy World, Madison McFerrin, and Pharrell Williams. At twenty-eight minutes and thirty seconds in length, Don't Tap the Glass is the shortest studio album in Tyler, the Creator's discography.   
 
-卡罗琳·布维尔·肯尼迪（Caroline Bouvier Kennedy）是一位美国作家、外交官和律师，曾于2022年至2024年担任美国驻澳大利亚大使。肯尼迪此前曾于2013年至2017年在奥巴马政府担任美国驻日本大使。肯尼迪的大部分职业生涯都在文学、法律、政治、教育改革和慈善领域。她是肯尼迪家族的成员，也是美国总统约翰·F·F·唯一幸存的孩子。肯尼迪和第一夫人杰奎琳·肯尼迪。   
+《Don ' t Tap the Glass》是美国说唱歌手创造者泰勒的第九张录音室专辑。它于2025年7月21日通过哥伦比亚唱片公司发行。这张专辑是在他2024年发行的《Chromakopia》之后发行的。这张专辑的嘉宾包括Baby Keem、Daisy World、Madison McFerrin和Pharrell Williams。《Don ' t Tap the Glass》全长28分30秒，是《创造者泰勒》唱片中最短的录音室专辑。   
 
-阅读延伸[341911]: [https://en.wikipedia.org/wiki/Caroline_Kennedy](https://en.wikipedia.org/wiki/Caroline_Kennedy)   
+阅读延伸[80474159]: [https://en.wikipedia.org/wiki/Don't_Tap_the_Glass](https://en.wikipedia.org/wiki/Don't_Tap_the_Glass)   
 
-## 莱肯莱利谋杀案   
-On February 22, 2024, Laken Riley, a 22-year-old Augusta University nursing student, was murdered while she was jogging at the University of Georgia in Athens, Georgia. Her body was found in Oconee Forest Park near Lake Herrick; her death was caused by blunt force trauma and asphyxiation.   
+## 凯伦_玛丽娜_怀特   
+Karen Malina White is an American film and television actress. She is best known for her roles as Kaneesha Carter in the 1989 drama film Lean on Me, Charmaine Brown during the two final seasons on The Cosby Show (1990–1992) and its spin-off A Different World (1992–1993), Nicolette Vandross on Malcolm & Eddie (1996–2000), and as the voice of Dijonay Jones on the Disney Channel animated comedy The Proud Family (2001–2005) and its 2022 Disney+ reboot The Proud Family: Louder and Prouder.   
 
-2024年2月22日，22岁的奥古斯塔大学护理专业学生拉肯·莱利（Laken Riley）在佐治亚州雅典的佐治亚大学慢跑时被谋杀。她的尸体在赫里克湖附近的奥科尼森林公园被发现;她的死亡是由钝器外伤和窒息造成的。   
+凯伦·玛丽娜·怀特是一位美国电影和电视女演员。她最出名的作品是在1989年的剧情片《靠在我身上，查梅因·布朗》中饰演卡内莎·卡特，在《考斯比秀》的最后两季中扮演的角色（1990-1992）及其衍生作品《不同的世界》（1992-1993），Nicolette Vandross谈Malcolm & Eddie（1996-2000年），并在迪士尼频道动画喜剧《骄傲的家庭》（2001-2005年）及其2022年Disney+重启的《骄傲的家庭：更响亮和骄傲》中担任迪乔奈·琼斯的配音。   
 
-阅读延伸[76227828]: [https://en.wikipedia.org/wiki/Murder_of_Laken_Riley](https://en.wikipedia.org/wiki/Murder_of_Laken_Riley)   
+阅读延伸[706453]: [https://en.wikipedia.org/wiki/Karen_Malina_White](https://en.wikipedia.org/wiki/Karen_Malina_White)   
 
-## Facebook   
-Facebook is a social media and social networking service owned by the American technology conglomerate Meta. Created in 2004 by Mark Zuckerberg with four other Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes, its name derives from the face book directories often given to American university students. Membership was initially limited to Harvard students, gradually expanding to other North American universities. Since 2006, Facebook allows everyone to register from 13 years old, except in the case of a handful of nations, where the age requirement is 14 years. As of December 2023, Facebook claimed almost 3.07 billion monthly active users worldwide. As of November 2024, Facebook ranked as the third-most-visited website in the world, with 23% of its traffic coming from the United States. It was the most downloaded mobile app of the 2010s.   
+## 未驯服的_（迷你剧）   
+Untamed is an American drama murder mystery television series for Netflix set in Yosemite National Park starring Eric Bana, Lily Santiago, Rosemarie DeWitt and Sam Neill. It was released on July 17, 2025.   
 
-Facebook是美国科技集团Meta旗下的社交媒体和社交网络服务。它由马克·扎克伯格（Mark Zuckerberg）与其他四名哈佛学院学生以及室友爱德华多·萨维林（Eduardo Saverin）、安德鲁·麦科勒姆（Andrew McCollum）、达斯汀·莫斯科维茨（Dustin Moskovitz）和克里斯·休斯（Chris Hughes）于2004年创建，其名称源自美国大学生经常提供的脸书目录。会员最初仅限于哈佛学生，后来逐渐扩展到其他北美大学。自2006年以来，Facebook允许每个人从13岁起注册，但少数国家的年龄要求是14岁。截至2023年12月，Facebook在全球范围内拥有近30.7亿月活跃用户。截至2024年11月，Facebook被评为全球访问量第三大的网站，其23%的流量来自美国。它是2010年代下载量最大的移动应用程序。   
+《Untamed》是Netflix制作的一部美剧谋杀悬疑电视剧，背景设定在优胜美地国家公园，主演埃里克·巴纳、莉莉·圣地亚哥、罗斯玛丽·德威特和萨姆·尼尔。它于2025年7月17日发布。   
 
-阅读延伸[7529378]: [https://en.wikipedia.org/wiki/Facebook](https://en.wikipedia.org/wiki/Facebook)   
-
-## 谢丽尔_海因斯   
-Cheryl Hines is an American actress and comedian. She portrayed Larry David's wife, Cheryl, on HBO's Curb Your Enthusiasm (2000–24), for which she received two Emmy Award nominations. She also starred as Dallas Royce on the ABC sitcom Suburgatory (2011–14), and made her directorial debut with the 2009 film Serious Moonlight. Hines is the wife of lawyer and former 2024 presidential candidate, Robert F. Kennedy Jr.   
-
-谢丽尔·海因斯是一位美国女演员和喜剧演员。她在HBO的《遏制你的热情》（2000-24）中扮演了拉里·大卫的妻子谢丽尔，并因此获得了两项艾美奖提名。她还在ABC情景喜剧《Suburgatory》（2011-14）中饰演达拉斯·罗伊斯，并在2009年的电影《Serious Moonlight》中首次执导。海因斯是律师、前2024年总统候选人罗伯特·F的妻子Kennedy Jr.   
-
-阅读延伸[1009768]: [https://en.wikipedia.org/wiki/Cheryl_Hines](https://en.wikipedia.org/wiki/Cheryl_Hines)   
-
-## Instagram   
-Instagram is an American photo and video sharing social networking service owned by Meta Platforms. It allows users to upload media that can be edited with filters, be organized by hashtags, and be associated with a location via geographical tagging. Posts can be shared publicly or with preapproved followers. Users can browse other users' content by tags and locations, view trending content, like photos, and follow other users to add their content to a personal feed. A Meta-operated image-centric social media platform, it is available on iOS, Android, Windows 10, and the web. Users can take photos and edit them using built-in filters and other tools, then share them on other social media platforms like Facebook. It supports 32 languages including English, Hindi, Spanish, French, Korean, and Japanese.   
-
-Instagram是Meta Platforms旗下的美国照片和视频共享社交网络服务。它允许用户上传可以使用过滤器编辑的媒体，可以通过标签组织，并通过地理标签与位置关联。帖子可以公开或与预先批准的关注者共享。用户可以通过标签和位置浏览其他用户的内容，查看热门内容（例如照片），并关注其他用户将其内容添加到个人提要。它是一个元运营的以图像为中心的社交媒体平台，可在iOS、Android、Windows 10和网络上使用。用户可以使用内置滤镜和其他工具拍摄照片并进行编辑，然后在Facebook等其他社交媒体平台上分享。它支持32种语言，包括英语、印地语、西班牙语、法语、韩语和日语。   
-
-阅读延伸[31591547]: [https://en.wikipedia.org/wiki/Instagram](https://en.wikipedia.org/wiki/Instagram)   
-
-## 天堂_（2025_TV_系列）   
-Paradise is an American drama television series created by Dan Fogelman and starring Sterling K. Brown, Julianne Nicholson, and James Marsden. It was released on Hulu in the US on January 26, 2025.   
-
-《天堂》是一部由丹·福格尔曼创作、斯特林·K主演的美国电视剧。布朗、朱丽安·尼科尔森和詹姆斯·马斯登。它于2025年1月26日在美国Hulu上发布。   
-
-阅读延伸[75712208]: [https://en.wikipedia.org/wiki/Paradise_(2025_TV_series)](https://en.wikipedia.org/wiki/Paradise_(2025_TV_series))   
-
-## 2024- 25_欧足联_比利时_联赛   
-The 2024–25 UEFA Champions League is the 70th season of Europe's premier club football tournament organised by UEFA, and the 33rd season since it was rebranded from the European Champion Clubs' Cup to the UEFA Champions League. This will be the first season under a new format, where in the league phase each team plays eight games against different opponents, but all 36 teams are ranked in a joint group.   
-
-2024-25年欧洲冠军联赛是欧足联组织的欧洲顶级俱乐部足球锦标赛的第70个赛季，也是从欧洲冠军俱乐部杯更名为欧洲冠军联赛以来的第33个赛季。这将是新形式下的第一个赛季，在联赛阶段，每支球队将与不同的对手进行8场比赛，但所有36支球队都被归入一个联合小组。   
-
-阅读延伸[66705208]: [https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League](https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League)   
-
-## 唐纳德_特朗普   
-Donald John Trump is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021.   
-
-唐纳德·约翰·特朗普是一位美国政治家、媒体人物和商人，曾于2017年至2021年担任美国第45任总统。   
-
-阅读延伸[4848272]: [https://en.wikipedia.org/wiki/Donald_Trump](https://en.wikipedia.org/wiki/Donald_Trump)   
-
-## 克里斯蒂_诺姆   
-Kristi Lynn Noem is an American politician who has served since 2019 as the 33rd governor of South Dakota. A member of the Republican Party, she was the U.S. representative for South Dakota's at-large congressional district from 2011 to 2019, and a member of the South Dakota House of Representatives for the 6th district from 2007 to 2011.   
-
-克里斯蒂·林恩·诺姆（Kristi Lynn Noem）是一位美国政治家，自2019年以来一直担任南达科他州第33任州长。作为共和党成员，她于2011年至2019年担任南达科他州无党派国会选区的美国代表，并于2007年至2011年担任南达科他州第六选区众议院议员。   
-
-阅读延伸[27663933]: [https://en.wikipedia.org/wiki/Kristi_Noem](https://en.wikipedia.org/wiki/Kristi_Noem)   
-
-## ChatGPT   
-ChatGPT is a generative artificial intelligence chatbot developed by OpenAI and launched in 2022. It is based on the GPT-4o large language model (LLM). ChatGPT can generate human-like conversational responses, and enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. It is credited with accelerating the AI boom, which has led to ongoing rapid investment in and public attention to the field of artificial intelligence (AI). Some observers have raised concern about the potential of ChatGPT and similar programs to displace human intelligence, enable plagiarism, or fuel misinformation.   
-
-ChatGPT是由OpenAI开发的生成式人工智能聊天机器人，于2022年推出。它基于GPT-4 o大型语言模型（LLM）。ChatGPT可以生成类似人类的对话响应，并使用户能够细化和引导对话以达到所需的长度、格式、风格、详细程度和语言。它被认为加速了人工智能的繁荣，导致了人工智能（AI）领域的持续快速投资和公众对人工智能（AI）领域的关注。一些观察家对ChatGPT和类似程序可能取代人类智力、助长抄袭或助长错误信息表示担忧。   
-
-阅读延伸[72417803]: [https://en.wikipedia.org/wiki/ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)   
-
-## 布鲁克林   
-Brooklyn is a borough of New York City located at the westernmost end of Long Island in the State of New York. Formerly an independent city, the borough is coextensive with Kings County, one of twelve original counties established under British rule in 1683 in the then Province of New York. As of the 2020 United States census, the population stood at 2,736,074, making it the most populous of the five boroughs of New York City, and the most populous county in the state. Brooklyn, at 37,339.9 inhabitants per square mile (14,417.0/km2), is the second most densely populated county in the U.S. after Manhattan, as of 2022. Had Brooklyn remained an independent city, it would now be the fourth most populous American city after the rest of New York City, Los Angeles, and Chicago.   
-
-布鲁克林是纽约市的一个行政区，位于纽约州长岛的最西端。该行政区以前是一个独立城市，与金斯县同延，金斯县是1683年英国统治下在当时的纽约省建立的十二个原始县之一。截至2020年美国人口普查，人口为2，736，074人，是纽约市五个行政区中人口最多的县，也是该州人口最多的县。截至2022年，布鲁克林每平方英里有37，339.9名居民（14，417.0/平方公里），是美国人口第二稠密的县，仅次于曼哈顿。如果布鲁克林仍然是一个独立城市，它现在将成为仅次于纽约市、洛杉矶和芝加哥其他地区的美国人口第四多的城市。   
-
-阅读延伸[47384]: [https://en.wikipedia.org/wiki/Brooklyn](https://en.wikipedia.org/wiki/Brooklyn)   
+阅读延伸[77209933]: [https://en.wikipedia.org/wiki/Untamed_(miniseries)](https://en.wikipedia.org/wiki/Untamed_(miniseries))   
 
 ## 死亡_in_2025   
 The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
@@ -111,31 +55,87 @@ The following notable deaths occurred in 2025. Names are reported under the date
 
 阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
 
-## 关塔那摩湾拘留营   
-The Guantanamo Bay, also known as GTMO, GITMO, or simply Guantanamo Bay, is a United States military prison within Naval Station Guantanamo Bay (NSGB), on the coast of Guantánamo Bay, Cuba. It was established in January 2002 by U.S. President George W. Bush to hold terrorism suspects and "illegal enemy combatants" during the Global War on Terrorism following the attacks of September 11, 2001. As of January 2025, at least 780 people from 48 countries have been detained at the camp since its creation, of whom 756 had been transferred elsewhere, 9 died in custody, and 15 remain.   
+## 失踪_of_艾米_林恩_布拉德利   
+Amy Lynn Bradley is an American woman who went missing during a Caribbean cruise on the Royal Caribbean International cruise ship Rhapsody of the Seas in late March 1998 while en route to Curaçao. Her whereabouts remain unknown. She was a 23-year-old Longwood University graduate at the time of her disappearance.   
 
-关塔那摩湾，也称为GTMO、GITMO或简称关塔那摩湾，是古巴关塔那摩湾海岸关塔那摩湾海军基地（NSGB）内的一所美国军事监狱。它由美国总统乔治·W于2002年1月创立。2001年9月11日袭击事件后，布什在全球反恐战争期间关押恐怖主义嫌疑人和“非法敌方战斗人员”。截至2025年1月，自该营地成立以来，至少有来自48个国家的780人被拘留在该营地，其中756人已被转移到其他地方，9人在拘留期间死亡，15人仍留在营地。   
+艾米·林恩·布拉德利（Amy Lynn Bradley）是一名美国妇女，1998年3月下旬，她乘坐皇家加勒比国际游轮“海洋狂想曲”（Rhapsody of the Seas）前往Curaçao岛的加勒比海游轮失踪。她的下落仍然未知。失踪时，她是一名23岁的朗伍德大学毕业生。   
 
-阅读延伸[4406774]: [https://en.wikipedia.org/wiki/Guantanamo_Bay_detention_camp](https://en.wikipedia.org/wiki/Guantanamo_Bay_detention_camp)   
+阅读延伸[2758975]: [https://en.wikipedia.org/wiki/Disappearance_of_Amy_Lynn_Bradley](https://en.wikipedia.org/wiki/Disappearance_of_Amy_Lynn_Bradley)   
 
-## 农历新年   
-Lunar New Year is the beginning of a new year based on lunar calendars or, informally but more widely, lunisolar calendars. Typically, both types of calendar begin with a new moon but, whilst a lunar calendar year has a fixed number lunar months, lunisolar calendars have a variable number of lunar months, resetting the count periodically to resynchronise with the solar year. The event is celebrated by numerous cultures in various ways at diverse dates. The determination of the first day of a new lunar or lunisolar year varies by culture.   
+## 安迪_拜伦   
+Andrew Michael Byron is an American businessman who was the chief executive officer of the data analytics company Astronomer from July 2023 to July 2025. He became globally known in July 2025 after a video of him and a subordinate, Kristin Cabot, embracing at a Coldplay concert on a "kiss cam" became a viral Internet meme. He and Cabot were both married at the time, but not to each other. In the wake of publicity over the incident, Byron was suspended from his position at Astronomer, and he resigned within a few days.   
 
-农历新年是基于农历或非正式但更广泛的农历的新年的开始。通常，这两种日历都以新月开始，但虽然农历年的农历月数是固定的，但农历日历的农历月数是可变的，定期重置计数以与太阳年同步。众多文化在不同的日期以不同的方式庆祝这一活动。农历或农历年第一天的确定因文化而异。   
+安德鲁·迈克尔·拜伦（Andrew Michael Byron）是一名美国商人，于2023年7月至2025年7月期间担任数据分析公司Astratification的首席执行官。2025年7月，他和下属克里斯汀·卡伯特在酷玩乐队演唱会上用“亲吻摄像头”拥抱的视频成为网络病毒式的模因，之后他在全球范围内闻名。他和卡伯特当时都结婚了，但不是彼此。事件曝光后，拜伦被停职，并在几天内辞职。   
 
-阅读延伸[288586]: [https://en.wikipedia.org/wiki/Lunar_New_Year](https://en.wikipedia.org/wiki/Lunar_New_Year)   
+阅读延伸[80477568]: [https://en.wikipedia.org/wiki/Andy_Byron](https://en.wikipedia.org/wiki/Andy_Byron)   
 
-## 昆布_梅拉   
-Kumbh Mela or Kumbha Mela is a major pilgrimage and festival in Hinduism. On 4 February 2019, Kumbh Mela witnessed the largest public gathering of Hindus ever recorded. It is celebrated in a cycle of approximately 12 years, to celebrate every revolution Brihaspati (Jupiter) completes. Kumbh is mainly held at four riverside pilgrimage sites, namely: Prayagraj, Haridwar (Ganges), Nashik (Godavari), and Ujjain (Shipra); But now the Kumbh Mela has been revived at a fifth place too. The other rejuvenated Kumbh Mela is celebrated at Bansberia Tribeni Sangam in West Bengal at the confluence of Hooghly and Saraswati river, dates back thousands of years but was stopped 700 years ago, but this Kumbh Mela has been reopened since 2022.   
+## Slammief_（2025）   
+The 2025 Slammiversary was a professional wrestling pay-per-view (PPV) event produced by Total Nonstop Action Wrestling (TNA) that took place on July 20, 2025, at the UBS Arena in Elmont, New York. It was the 21st event under the Slammiversary chronology, and celebrated the promotion's 23rd anniversary. Wrestlers from WWE's NXT brand also appeared on the card as part of the partnership between the two promotions.   
 
-大壶节或大壶节是印度教的一个主要朝圣和节日。2019年2月4日，昆布梅拉（Kumbh Mela）见证了有记录以来规模最大的印度教徒公开集会。它以大约12年的周期庆祝，以庆祝布里哈斯帕蒂（木星）完成的每一次革命。大壶主要在四个河边朝圣地举行，分别是：Prayagraj、Haridwar（恒河）、Nashik（Godavari）和Ujjain（Shipra）;但现在大壶节也恢复了第五名。另一座复兴的大壶节在西孟加拉邦胡格利河和萨拉斯瓦蒂河交汇处的Bansberia Tribeni Sangam庆祝，其历史可以追溯到数千年前，但在700年前就停止了，但这座大壶节自2022年以来已重新开放。   
+2025年Slammilles是由Total Nonstop Action Wrestling（TNA）制作的一项按次付费（PPV）职业摔跤赛事，于2025年7月20日在纽约州埃尔蒙特的瑞银竞技场举行。这是Slammidae编年史下的第21场活动，庆祝了促销活动23周年。WWE NXT品牌的摔跤手也出现在卡上，作为两项促销活动合作的一部分。   
 
-阅读延伸[405564]: [https://en.wikipedia.org/wiki/Kumbh_Mela](https://en.wikipedia.org/wiki/Kumbh_Mela)   
+阅读延伸[78600445]: [https://en.wikipedia.org/wiki/Slammiversary_(2025)](https://en.wikipedia.org/wiki/Slammiversary_(2025))   
 
-## 蛇_（十二宫）   
-The snake is the sixth of the twelve-year cycle of animals which appear in the Chinese zodiac related to the Chinese calendar. The Year of the Snake is associated with the Earthly Branch symbol 巳.   
+## 杰弗里_爱泼斯坦   
+Jeffrey Edward Epstein was an American financier and child sex offender. Born and raised in New York City, Epstein began his professional career as a teacher at the Dalton School, despite lacking a college degree. After his dismissal from the school in 1976, he entered the banking and finance sector, working at Bear Stearns in various roles before starting his own firm. Epstein cultivated an elite social circle and procured many women and children whom he and his associates sexually abused.   
 
-蛇是十二年动物周期中的第六种，出现在与中国农历相关的十二生肖中。蛇年与地支符号自流有关。   
+杰弗里·爱德华·爱泼斯坦是一位美国金融家和儿童性犯罪者。爱泼斯坦在纽约出生和长大，尽管没有大学学位，但他还是在道尔顿学校担任教师，开始了他的职业生涯。1976年被学校开除后，他进入了银行和金融行业，在创办自己的公司之前，在贝尔斯登担任过各种职位。爱泼斯坦培养了一个精英社交圈，并收买了许多妇女和儿童，这些妇女和儿童被他和他的同事性虐待。   
 
-阅读延伸[277030]: [https://en.wikipedia.org/wiki/Snake_(zodiac)](https://en.wikipedia.org/wiki/Snake_(zodiac))   
+阅读延伸[6253522]: [https://en.wikipedia.org/wiki/Jeffrey_Epstein](https://en.wikipedia.org/wiki/Jeffrey_Epstein)   
+
+## 五._ S._阿丘塔纳丹   
+Velikkakathu Sankaran Achuthanandan, also known by his initialism VS, was an Indian politician who was the Chief Minister of Kerala from 2006 to 2011. At 82, he was the oldest person to have assumed the office. He was affiliated with the Communist Party of India (Marxist). He served as the chairman of Administrative reforms in Kerala with state cabinet rank from 2016 to 2021. He served as Leader of the Opposition for 15 years which makes him the longest serving Leader of the Opposition in the Kerala Legislative Assembly.   
+
+Velikkakathu Sankaran Achuthanandan，也以其首字母VS而闻名，是一位印度政治家，于2006年至2011年担任喀拉拉邦首席部长。82岁的他是上任以来年龄最大的人。他隶属于印度共产党（马克思主义）。2016年至2021年，他担任喀拉拉邦行政改革主席，担任州内阁职务。他担任反对党领袖15年，这使他成为喀拉拉邦立法议会任职时间最长的反对党领袖。   
+
+阅读延伸[1011307]: [https://en.wikipedia.org/wiki/V._S._Achuthanandan](https://en.wikipedia.org/wiki/V._S._Achuthanandan)   
+
+## 雷吉娜_国王   
+Regina Rene King is an American actress, director and producer. She has received various accolades, including an Academy Award, a Golden Globe Award, and four Primetime Emmy Awards. In 2019, Time magazine named her one of the 100 most influential people in the world.   
+
+Regina Rene King是一位美国女演员，导演和制片人。她获得了各种荣誉，包括奥斯卡奖，金球奖和四个黄金时段艾美奖。2019年，《时代》杂志将她评为世界上最具影响力的100人之一。   
+
+阅读延伸[1599816]: [https://en.wikipedia.org/wiki/Regina_King](https://en.wikipedia.org/wiki/Regina_King)   
+
+## 我知道你去年夏天做了什么（2025年电影）   
+I Know What You Did Last Summer is a 2025 American slasher film directed by Jennifer Kaytin Robinson, who co-wrote the screenplay with Sam Lansky from a story by Leah McKendrick and Robinson. It is the fourth installment in the I Know What You Did Last Summer franchise and the sequel to I Still Know What You Did Last Summer (1998). The film stars Madelyn Cline, Chase Sui Wonders, Jonah Hauer-King, Tyriq Withers, Sarah Pidgeon, Billy Campbell, Gabbriette Bechtel, and Austin Nichols, with Freddie Prinze Jr., and Jennifer Love Hewitt. Sarah Michelle Gellar and Brandy from the first two films, respectively, appear in cameos. The plot takes place 27 years after the Tower Bay murders, when another hook-wielding killer appears and begins targeting a group of friends one year after they covered up a car crash in which they supposedly killed someone.   
+
+《我知道你去年夏天做了什么》是一部2025年的美国恐怖电影，由詹妮弗·凯廷·罗宾逊执导，她与萨姆·兰斯基共同编剧，改编自利亚·麦肯德里克和罗宾逊的故事。这是《我知道你去年夏天做了什么》系列的第四部，也是《我仍然知道你去年夏天做了什么》（1998）的续集。这部电影由玛德琳·克莱恩（Madelyn Cline）、蔡斯·苏·奇迹（Chase Sui Wonders）、乔纳·哈尔-金（Jonah Hauer-King）、泰里克·威瑟斯（Tyriq Withers）、莎拉·皮金（Sarah Pidgeon）、比利·坎贝尔（Billy Campbell）、加布里埃特·贝希特（Gabbriette Bechtel）和奥斯汀·尼科尔斯（Austin Nichols）主演，弗雷迪·普林兹（Freddie Prinze Jr.），和詹妮弗·洛夫·休伊特。前两部电影中的莎拉·米歇尔·盖拉和布兰迪分别客串。该情节发生在塔湾谋杀案27年后，当时另一名挥舞着钩的杀手出现了，并开始瞄准一群朋友，一年后，他们掩盖了一场据称杀害了某人的车祸。   
+
+阅读延伸[72964115]: [https://en.wikipedia.org/wiki/I_Know_What_You_Did_Last_Summer_(2025_film)](https://en.wikipedia.org/wiki/I_Know_What_You_Did_Last_Summer_(2025_film))   
+
+## 成都_J-7   
+The Chengdu J-7 is a Chinese fighter aircraft. It is a license-built version of the Soviet Mikoyan-Gurevich MiG-21, and thus shares many similarities with that aircraft. The aircraft is armed with infrared homing air-to-air missiles and is mainly designed for short range air-to-air combat. The aircraft is also used for close air support.   
+
+成都J-7是中国战斗机。它是苏联米高扬-古列维奇米格-21的许可制造版本，因此与该飞机有许多相似之处。该飞机配备红外寻的空对空导弹，主要用于短程空对空战斗。该飞机还用于近距离空中支援。   
+
+阅读延伸[377543]: [https://en.wikipedia.org/wiki/Chengdu_J-7](https://en.wikipedia.org/wiki/Chengdu_J-7)   
+
+## 侏罗纪_世界_重生   
+Jurassic World Rebirth is a 2025 American science fiction action film directed by Gareth Edwards and written by David Koepp. A standalone sequel to Jurassic World Dominion (2022), it is the fourth Jurassic World film and the seventh installment overall in the Jurassic Park franchise. The film stars Scarlett Johansson, Mahershala Ali, Jonathan Bailey, Rupert Friend, Manuel Garcia-Rulfo, and Ed Skrein. In the film, the world's dinosaurs now live around the equator, which provides the last viable climate for them to survive. A team travels to a former island research facility where the three largest prehistoric animals reside, with the goal of extracting samples that are vital for a heart disease treatment. The team also rescues a shipwrecked family, and both groups struggle to survive after becoming stranded on the island.   
+
+侏罗纪世界重生是一部2025年美国科幻动作片，由加雷斯·爱德华兹执导，大卫·科普编剧。这是《侏罗纪世界统治》（2022）的独立续集，是《侏罗纪世界》的第四部电影，也是《侏罗纪公园》系列的第七部。这部电影由斯嘉丽·约翰逊、马赫沙拉·阿里、乔纳森·贝利、鲁珀特·弗兰德、曼努埃尔·加西亚-鲁尔福和埃德·斯克雷恩主演。在影片中，世界上的恐龙现在生活在赤道周围，这为它们生存提供了最后的可行气候。一个团队前往三种最大的史前动物居住的前岛屿研究设施，目标是提取对心脏病治疗至关重要的样本。该团队还拯救了一个海难家庭，两个群体在被困在岛上后都在努力生存。   
+
+阅读延伸[75884495]: [https://en.wikipedia.org/wiki/Jurassic_World_Rebirth](https://en.wikipedia.org/wiki/Jurassic_World_Rebirth)   
+
+## 他妈   
+Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
+
+Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词或表达蔑视。虽然它的起源并不清楚，但通常被认为是在1475年左右首次得到证实的。在现代使用中，fuck一词及其衍生词被用作名词、动词、形容词、中词、感叹词或副词。有许多常用短语使用该词，以及包含该词的复合词，例如muddermuses和fuck off。   
+
+阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
+
+## 天文学家_（公司）   
+Astronomer is the company behind Astro, a unified DataOps platform powered by Apache Airflow. Astro enables data teams to build, run, observe, and manage mission-critical data pipelines for data, analytics, and AI-driven applications with a valuation of around $1.3 billion and approximately 350 employees, it became a unicorn in 2022.   
+
+Astrumb是Astro背后的公司，Astro是一个由Apache AirFlow支持的统一数据Ops平台。Astro使数据团队能够为数据、分析和人工智能驱动的应用程序构建、运行、观察和管理关键任务数据管道，估值约为13亿美元，拥有约350名员工，并于2022年成为独角兽。   
+
+阅读延伸[80476310]: [https://en.wikipedia.org/wiki/Astronomer_(company)](https://en.wikipedia.org/wiki/Astronomer_(company))   
+
+## 比尔_考斯比   
+William Henry Cosby Jr. is an American comedian, actor, and media personality. Often deemed a trailblazer for African Americans in the entertainment industry, Cosby was a film, television, and stand-up comedy star, with his longest-running live-action role being that of Cliff Huxtable in the sitcom The Cosby Show (1984–1992). He also released several stand-up comedy albums and was a popular spokesperson in advertising for decades. Cosby was well known in the United States for his fatherly image and gained a reputation as "America's Dad". However, starting in 2014, dozens of allegations of sexual assault have been made against him, which ended his career and sharply diminished his status as a pop culture icon.   
+
+小威廉·亨利·科斯比是一位美国喜剧演员、演员和媒体人物。考斯比经常被视为娱乐界非裔美国人的开拓者，他是一位电影、电视和单口喜剧明星，他出演时间最长的真人角色是情景喜剧《考斯比秀》（The Cosby Show）中的克里夫·赫克斯特布尔（Cliff Huxtable）（1984-1992）。他还发行了几张单口喜剧专辑，几十年来一直是广告界的热门代言人。科斯比以父亲般的形象在美国闻名，并被誉为“美国爸爸”。然而，从2014年开始，数十起针对他的性侵犯指控结束了他的职业生涯，并急剧削弱了他作为流行文化偶像的地位。   
+
+阅读延伸[158894]: [https://en.wikipedia.org/wiki/Bill_Cosby](https://en.wikipedia.org/wiki/Bill_Cosby)   
 
