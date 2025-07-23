@@ -1,10 +1,24 @@
 # 最新资讯  
+## 奥兹_奥斯本   
+John Michael "Ozzy" Osbourne was an English singer, songwriter and media personality. He rose to prominence during the 1970s as the lead vocalist of the heavy metal band Black Sabbath, during which period he adopted the nickname "Prince of Darkness".   
+
+约翰·迈克尔·“奥兹”·奥斯本是一位英国歌手、词曲作者和媒体名人。20世纪70年代，他作为重金属乐队Black Sabbath的主唱而声名鹊起，在此期间他获得了“黑暗王子”的绰号。   
+
+阅读延伸[85406]: [https://en.wikipedia.org/wiki/Ozzy_Osbourne](https://en.wikipedia.org/wiki/Ozzy_Osbourne)   
+
 ## 马尔科姆-贾马尔_华纳   
 Malcolm-Jamal Warner was an American actor, musician and poet. He rose to prominence for his role as Theodore Huxtable on the NBC sitcom The Cosby Show (1984–1992), which earned him a nomination for Outstanding Supporting Actor in a Comedy Series at the 38th Primetime Emmy Awards. He was also known for his roles as Malcolm McGee on the sitcom Malcolm & Eddie (1996–2000), Dr. Alex Reed in the sitcom Reed Between the Lines, and Dr. AJ Austin in the medical drama The Resident.   
 
 马尔科姆-贾马尔·华纳（Malcolm-Jamal Warner）是一位美国演员、音乐家和诗人。他因在NBC情景喜剧《考斯比秀》（The Cosby Show）（1984-1992年）中饰演西奥多·赫克斯特布尔（Theodore Huxtable）而声名鹊起，该片为他赢得了第38届黄金时段艾美奖喜剧类最佳男配角提名。他还因在情景喜剧《马尔科姆与埃迪》（Malcolm & Eddie，1996-2000）中饰演马尔科姆·麦吉、在情景喜剧《Reed Between the Lines》中饰演亚历克斯·里德博士以及在医疗剧《住院医师》中饰演AJ奥斯汀博士而闻名。   
 
 阅读延伸[656258]: [https://en.wikipedia.org/wiki/Malcolm-Jamal_Warner](https://en.wikipedia.org/wiki/Malcolm-Jamal_Warner)   
+
+## 莎朗_奥斯本   
+Sharon Rachel Osbourne is an English-American television personality, music manager, and author. She was married to heavy metal singer Ozzy Osbourne from 1982 until his death in 2025, and came to prominence while appearing on The Osbournes (2002–2005), a reality television show that aired on MTV, which followed her family's daily life. Osbourne later became a judge on television talent competition shows, including The X Factor and America's Got Talent (2007–2012).   
+
+莎朗·雷切尔·奥斯本（Sharon Rachel Osbourne）是一位英美裔电视名人、音乐经理和作家。她于1982年与重金属歌手奥兹·奥斯本（Ozzy Osbourne）结婚，直至2025年去世，并在出演《奥斯本》（The Osbournes）（2002-2005）时声名鹊起，这是一档在MTV上播出的真人秀节目，关注她家人的日常生活。奥斯本后来成为电视选秀节目的评委，包括《X Factor》和《美国达人秀》（2007-2012年）。   
+
+阅读延伸[165939]: [https://en.wikipedia.org/wiki/Sharon_Osbourne](https://en.wikipedia.org/wiki/Sharon_Osbourne)   
 
 ## 超人_（2025年_电影）   
 Superman is an upcoming American superhero film based on DC Comics featuring the eponymous character. Produced by DC Studios and to be distributed by Warner Bros. Pictures, it will be the first film in the DC Universe (DCU) and a reboot of the Superman film series. The film is written and directed by James Gunn and stars David Corenswet as Clark Kent / Superman, alongside Rachel Brosnahan, Nicholas Hoult, Edi Gathegi, Anthony Carrigan, Nathan Fillion, Isabela Merced, Skyler Gisondo, Sara Sampaio, María Gabriela de Faría, Wendell Pierce, Alan Tudyk, Pruitt Taylor Vince, and Neva Howell. In the film, Superman's journey to reconcile his alien heritage with his human family is explored.   
@@ -13,6 +27,13 @@ Superman is an upcoming American superhero film based on DC Comics featuring the
 
 阅读延伸[57255388]: [https://en.wikipedia.org/wiki/Superman_(2025_film)](https://en.wikipedia.org/wiki/Superman_(2025_film))   
 
+## 黑色_安息日   
+Black Sabbath were an English rock band formed in Birmingham in 1968 by guitarist Tony Iommi, drummer Bill Ward, bassist Geezer Butler, and vocalist Ozzy Osbourne. After adopting the Black Sabbath name in 1969, they distinguished themselves through occult themes with horror-inspired lyrics and down-tuned guitars. Their first three albums, Black Sabbath, Paranoid, and Master of Reality (1971), were commercially successful, and are now cited as pioneering albums in the development of heavy metal music. Subsequent albums Vol. 4 (1972), Sabbath Bloody Sabbath (1973), Sabotage (1975), Technical Ecstasy (1976), and Never Say Die! (1978) saw the band explore more experimental and progressive styles.   
+
+Black Sabbath是一支英国摇滚乐队，于1968年在伯明翰成立，由吉他手Tony Iommi、鼓手Bill Ward、贝斯手Geezer Butler和歌手Ozzy Osbourne组成。1969年采用“黑色安息日”这个名字后，他们通过神秘主题、恐怖灵感的歌词和调音的吉他脱颖而出。他们的前三张专辑《Black Sabbath》、《Paranoid》和《Master of Reality》（1971）在商业上取得了成功，现在被认为是重金属音乐发展的先驱专辑。随后的专辑Vol. 4（1972）、Sabbath Bloody Sabbath（1973）、Sabotage（1975）、Technical Ecuits（1976）和Never Say Die！（1978）见证了乐队探索更多实验性和进步的风格。   
+
+阅读延伸[4314]: [https://en.wikipedia.org/wiki/Black_Sabbath](https://en.wikipedia.org/wiki/Black_Sabbath)   
+
 ## 米歇尔_托马斯   
 Michelle Doris Thomas was an American actress. She was known for her roles as Justine Phillips on the NBC sitcom The Cosby Show (1988–1990), as Myra Monkhouse on the ABC/CBS sitcom Family Matters (1993–1998), and as Callie Rogers on the CBS soap opera The Young and the Restless (1998).   
 
@@ -20,33 +41,40 @@ Michelle Doris Thomas was an American actress. She was known for her roles as Ju
 
 阅读延伸[411142]: [https://en.wikipedia.org/wiki/Michelle_Thomas](https://en.wikipedia.org/wiki/Michelle_Thomas)   
 
-## 斯科蒂_舍弗勒   
-Scott Alexander Scheffler is an American professional golfer who plays on the PGA Tour. He is currently ranked world number one in the Official World Golf Ranking, a position he has held for over 100 weeks. He has won four major championships.   
+## 艾米_奥斯本   
+Aimee Rachel Osbourne is an English actress and singer. She is the eldest daughter of Ozzy and Sharon Osbourne. While her younger siblings Jack and Kelly achieved pop culture fame for appearing in the family's MTV reality series The Osbournes, she declined to appear on the show, feeling that doing so would typecast her and affect her musical career. She has expressed discomfort with some of her parents' behaviour on television.   
 
-斯科特·亚历山大·舍夫勒（Scott Alexander Scheffler）是一位参加PGA巡回赛的美国职业高尔夫球手。他目前在官方世界高尔夫排名中排名世界第一，他已经占据这个位置超过100周。他赢得了四次大满贯冠军。   
+艾米·雷切尔·奥斯本（Aimee Rachel Osbourne）是一位英国女演员兼歌手。她是奥兹和莎朗·奥斯本的长女。虽然她的弟弟妹妹杰克和凯利因出演家族的MTV真人秀节目《奥斯本》而在流行文化中声名鹊起，但她拒绝出现在该剧中，觉得这样做会让她典型化并影响她的音乐生涯。她对父母在电视上的一些行为表示不满。   
 
-阅读延伸[54256563]: [https://en.wikipedia.org/wiki/Scottie_Scheffler](https://en.wikipedia.org/wiki/Scottie_Scheffler)   
+阅读延伸[37122728]: [https://en.wikipedia.org/wiki/Aimee_Osbourne](https://en.wikipedia.org/wiki/Aimee_Osbourne)   
 
-## 不要敲击玻璃   
-Don't Tap the Glass is the ninth studio album by American rapper Tyler, the Creator. It was released on July 21, 2025, through Columbia Records. The album follows his 2024 release Chromakopia. The album features uncredited guest vocals from Baby Keem, Daisy World, Madison McFerrin, and Pharrell Williams. At twenty-eight minutes and thirty seconds in length, Don't Tap the Glass is the shortest studio album in Tyler, the Creator's discography.   
+## 凯利_奥斯本   
+Kelly Michelle Lee Osbourne is an English television personality, singer, actor, and fashion designer. She is the youngest daughter of Ozzy and Sharon Osbourne, and came to prominence while appearing on the reality show The Osbournes (2002–2005) with her family, for which they won a 2002 Emmy Award for Outstanding Reality Program. Her other television work includes hosting Project Catwalk (2007–2008) and Fashion Police (2010–2015), competing on the ninth season of Dancing with the Stars (2009), and judging on Project Runway Junior (2015–2017) and Australia's Got Talent (2016). She also played the voice role of Hildy Gloom in the Disney XD animated series The 7D (2014–2016).   
 
-《Don ' t Tap the Glass》是美国说唱歌手创造者泰勒的第九张录音室专辑。它于2025年7月21日通过哥伦比亚唱片公司发行。这张专辑是在他2024年发行的《Chromakopia》之后发行的。这张专辑的嘉宾包括Baby Keem、Daisy World、Madison McFerrin和Pharrell Williams。《Don ' t Tap the Glass》全长28分30秒，是《创造者泰勒》唱片中最短的录音室专辑。   
+凯莉·米歇尔·李·奥斯本（Kelly Michelle Lee Osbourne）是一位英国电视名人、歌手、演员和时装设计师。她是奥兹·奥斯本（Ozzy Osbourne）和莎朗·奥斯本（Sharon Osbourne）最小的女儿，在与家人一起出现在真人秀节目《The Osbourne》（2002-2005）中时声名鹊起，并因此获得了2002年艾美奖杰出真人秀节目奖。她的其他电视作品包括主持时装秀计划（2007-2008年）和时尚警察（2010-2015年），参加《与星共舞》第九季的比赛（2009年），并在《天桥少年》（Project Runway Junior）（2015-2017年）和《澳大利亚达人秀》（2016年）中担任评委。她还在迪士尼XO动画系列《The 7 D》（2014-2016年）中扮演了Hildy Gloom的配音角色。   
 
-阅读延伸[80474159]: [https://en.wikipedia.org/wiki/Don't_Tap_the_Glass](https://en.wikipedia.org/wiki/Don't_Tap_the_Glass)   
+阅读延伸[97561]: [https://en.wikipedia.org/wiki/Kelly_Osbourne](https://en.wikipedia.org/wiki/Kelly_Osbourne)   
 
-## 凯伦_玛丽娜_怀特   
-Karen Malina White is an American film and television actress. She is best known for her roles as Kaneesha Carter in the 1989 drama film Lean on Me, Charmaine Brown during the two final seasons on The Cosby Show (1990–1992) and its spin-off A Different World (1992–1993), Nicolette Vandross on Malcolm & Eddie (1996–2000), and as the voice of Dijonay Jones on the Disney Channel animated comedy The Proud Family (2001–2005) and its 2022 Disney+ reboot The Proud Family: Louder and Prouder.   
+## _神奇_四：_第一步   
+The Fantastic Four: First Steps is a 2025 American superhero film based on the Marvel Comics superhero team the Fantastic Four. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is intended to be the 37th film in the Marvel Cinematic Universe (MCU) and the second reboot of the Fantastic Four film series. The film is directed by Matt Shakman from a screenplay by Josh Friedman, Eric Pearson, Jeff Kaplan, and Ian Springer. It features an ensemble cast including Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach, and Joseph Quinn as the titular team, alongside Julia Garner, Natasha Lyonne, Paul Walter Hauser, and Ralph Ineson. In the film, the Fantastic Four must protect their 1960s-inspired retro-futuristic world from the planet-devouring cosmic being Galactus (Ineson).   
 
-凯伦·玛丽娜·怀特是一位美国电影和电视女演员。她最出名的作品是在1989年的剧情片《靠在我身上，查梅因·布朗》中饰演卡内莎·卡特，在《考斯比秀》的最后两季中扮演的角色（1990-1992）及其衍生作品《不同的世界》（1992-1993），Nicolette Vandross谈Malcolm & Eddie（1996-2000年），并在迪士尼频道动画喜剧《骄傲的家庭》（2001-2005年）及其2022年Disney+重启的《骄傲的家庭：更响亮和骄傲》中担任迪乔奈·琼斯的配音。   
+《神奇四侠：第一步》是一部2025年的美国超级英雄电影，改编自漫威超级英雄团队神奇四侠。该片由漫威工作室制作，华特迪士尼工作室电影公司发行，预计成为漫威电影宇宙（MCU）的第37部电影，也是神奇四侠系列电影的第二部重启。这部电影由马特·沙克曼执导，改编自乔什·弗里德曼、埃里克·皮尔森、杰夫·卡普兰和伊恩·斯普林格的剧本。该剧由佩德罗·帕斯卡（Pedro Pascal）、凡妮莎·柯比（Vanessa Kirby）、埃本·莫斯-巴拉赫（Ebon Moss-Bachrach）和约瑟夫·奎因（Joseph Quinn）组成，还有朱莉娅·加纳（Julia Garner）、娜塔莎·莱昂内（Natasha Lyonne）、保罗·沃尔特·豪瑟（Paul Walter Hauser）和拉尔夫·伊内森（Ralph Ineson）。在电影中，神奇四侠必须保护他们受20世纪60年代启发的复古未来世界免受吞噬地球的宇宙生物银河系（伊尼森饰）的侵害。   
 
-阅读延伸[706453]: [https://en.wikipedia.org/wiki/Karen_Malina_White](https://en.wikipedia.org/wiki/Karen_Malina_White)   
+阅读延伸[61443907]: [https://en.wikipedia.org/wiki/The_Fantastic_Four%3A_First_Steps](https://en.wikipedia.org/wiki/The_Fantastic_Four%3A_First_Steps)   
 
-## 未驯服的_（迷你剧）   
-Untamed is an American drama murder mystery television series for Netflix set in Yosemite National Park starring Eric Bana, Lily Santiago, Rosemarie DeWitt and Sam Neill. It was released on July 17, 2025.   
+## 米歇尔_阿杰芒   
+Michelle Agyemang is an English professional footballer who plays as a forward for Women's Super League club Arsenal and the England national team.   
 
-《Untamed》是Netflix制作的一部美剧谋杀悬疑电视剧，背景设定在优胜美地国家公园，主演埃里克·巴纳、莉莉·圣地亚哥、罗斯玛丽·德威特和萨姆·尼尔。它于2025年7月17日发布。   
+米歇尔·阿杰芒（Michelle Agyemang）是一名英国职业足球运动员，在女子超级联赛俱乐部阿森纳和英格兰国家队担任前锋。   
 
-阅读延伸[77209933]: [https://en.wikipedia.org/wiki/Untamed_(miniseries)](https://en.wikipedia.org/wiki/Untamed_(miniseries))   
+阅读延伸[73848752]: [https://en.wikipedia.org/wiki/Michelle_Agyemang](https://en.wikipedia.org/wiki/Michelle_Agyemang)   
+
+## 杰克_奥斯本   
+Jack Joseph Osbourne is a British-American media personality. He is the son of the late heavy metal singer Ozzy Osbourne and Sharon Osbourne. He starred on MTV's reality series The Osbournes (2002–2005), along with his father, mother Sharon, and sister Kelly. Osbourne has since pursued a career as a fitness and travel reporter, presenting shows such as Jack Osbourne: Adrenaline Junkie (2005–2009) and BBC's Saving Planet Earth (2007). In 2016, he and his father Ozzy travelled the world in the History Channel reality series Ozzy & Jack's World Detour.   
+
+杰克·约瑟夫·奥斯本是一位英美媒体名人。他是已故重金属歌手奥兹·奥斯本和莎朗·奥斯本的儿子。他与父亲、母亲莎朗和妹妹凯莉一起主演了MTV的真人秀节目《奥斯本》（The Osbournes）（2002-2005）。此后，奥斯本开始从事健身和旅游记者的职业，主持了《杰克·奥斯本：肾上腺素瘾君子》（Jack Osbourne：Adrenaline Junkie）（2005-2009）和BBC的《拯救地球》（Saving Planet Earth）（2007）等节目。2016年，他和他的父亲奥兹在历史频道的真人秀节目《奥兹和杰克的世界绕道》中环游世界。   
+
+阅读延伸[394763]: [https://en.wikipedia.org/wiki/Jack_Osbourne](https://en.wikipedia.org/wiki/Jack_Osbourne)   
 
 ## 死亡_in_2025   
 The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
@@ -55,26 +83,12 @@ The following notable deaths occurred in 2025. Names are reported under the date
 
 阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
 
-## 失踪_of_艾米_林恩_布拉德利   
-Amy Lynn Bradley is an American woman who went missing during a Caribbean cruise on the Royal Caribbean International cruise ship Rhapsody of the Seas in late March 1998 while en route to Curaçao. Her whereabouts remain unknown. She was a 23-year-old Longwood University graduate at the time of her disappearance.   
+## 比尔_考斯比   
+William Henry Cosby Jr. is an American comedian, actor, and media personality. Often deemed a trailblazer for African Americans in the entertainment industry, Cosby was a film, television, and stand-up comedy star, with his longest-running live-action role being that of Cliff Huxtable in the sitcom The Cosby Show (1984–1992). He also released several stand-up comedy albums and was a popular spokesperson in advertising for decades. Cosby was well known in the United States for his fatherly image and gained a reputation as "America's Dad". However, starting in 2014, dozens of allegations of sexual assault have been made against him, which ended his career and sharply diminished his status as a pop culture icon.   
 
-艾米·林恩·布拉德利（Amy Lynn Bradley）是一名美国妇女，1998年3月下旬，她乘坐皇家加勒比国际游轮“海洋狂想曲”（Rhapsody of the Seas）前往Curaçao岛的加勒比海游轮失踪。她的下落仍然未知。失踪时，她是一名23岁的朗伍德大学毕业生。   
+小威廉·亨利·科斯比是一位美国喜剧演员、演员和媒体人物。考斯比经常被视为娱乐界非裔美国人的开拓者，他是一位电影、电视和单口喜剧明星，他出演时间最长的真人角色是情景喜剧《考斯比秀》（The Cosby Show）中的克里夫·赫克斯特布尔（Cliff Huxtable）（1984-1992）。他还发行了几张单口喜剧专辑，几十年来一直是广告界的热门代言人。科斯比以父亲般的形象在美国闻名，并被誉为“美国爸爸”。然而，从2014年开始，数十起针对他的性侵犯指控结束了他的职业生涯，并急剧削弱了他作为流行文化偶像的地位。   
 
-阅读延伸[2758975]: [https://en.wikipedia.org/wiki/Disappearance_of_Amy_Lynn_Bradley](https://en.wikipedia.org/wiki/Disappearance_of_Amy_Lynn_Bradley)   
-
-## 安迪_拜伦   
-Andrew Michael Byron is an American businessman who was the chief executive officer of the data analytics company Astronomer from July 2023 to July 2025. He became globally known in July 2025 after a video of him and a subordinate, Kristin Cabot, embracing at a Coldplay concert on a "kiss cam" became a viral Internet meme. He and Cabot were both married at the time, but not to each other. In the wake of publicity over the incident, Byron was suspended from his position at Astronomer, and he resigned within a few days.   
-
-安德鲁·迈克尔·拜伦（Andrew Michael Byron）是一名美国商人，于2023年7月至2025年7月期间担任数据分析公司Astratification的首席执行官。2025年7月，他和下属克里斯汀·卡伯特在酷玩乐队演唱会上用“亲吻摄像头”拥抱的视频成为网络病毒式的模因，之后他在全球范围内闻名。他和卡伯特当时都结婚了，但不是彼此。事件曝光后，拜伦被停职，并在几天内辞职。   
-
-阅读延伸[80477568]: [https://en.wikipedia.org/wiki/Andy_Byron](https://en.wikipedia.org/wiki/Andy_Byron)   
-
-## Slammief_（2025）   
-The 2025 Slammiversary was a professional wrestling pay-per-view (PPV) event produced by Total Nonstop Action Wrestling (TNA) that took place on July 20, 2025, at the UBS Arena in Elmont, New York. It was the 21st event under the Slammiversary chronology, and celebrated the promotion's 23rd anniversary. Wrestlers from WWE's NXT brand also appeared on the card as part of the partnership between the two promotions.   
-
-2025年Slammilles是由Total Nonstop Action Wrestling（TNA）制作的一项按次付费（PPV）职业摔跤赛事，于2025年7月20日在纽约州埃尔蒙特的瑞银竞技场举行。这是Slammidae编年史下的第21场活动，庆祝了促销活动23周年。WWE NXT品牌的摔跤手也出现在卡上，作为两项促销活动合作的一部分。   
-
-阅读延伸[78600445]: [https://en.wikipedia.org/wiki/Slammiversary_(2025)](https://en.wikipedia.org/wiki/Slammiversary_(2025))   
+阅读延伸[158894]: [https://en.wikipedia.org/wiki/Bill_Cosby](https://en.wikipedia.org/wiki/Bill_Cosby)   
 
 ## 杰弗里_爱泼斯坦   
 Jeffrey Edward Epstein was an American financier and child sex offender. Born and raised in New York City, Epstein began his professional career as a teacher at the Dalton School, despite lacking a college degree. After his dismissal from the school in 1976, he entered the banking and finance sector, working at Bear Stearns in various roles before starting his own firm. Epstein cultivated an elite social circle and procured many women and children whom he and his associates sexually abused.   
@@ -83,59 +97,45 @@ Jeffrey Edward Epstein was an American financier and child sex offender. Born an
 
 阅读延伸[6253522]: [https://en.wikipedia.org/wiki/Jeffrey_Epstein](https://en.wikipedia.org/wiki/Jeffrey_Epstein)   
 
-## 五._ S._阿丘塔纳丹   
-Velikkakathu Sankaran Achuthanandan, also known by his initialism VS, was an Indian politician who was the Chief Minister of Kerala from 2006 to 2011. At 82, he was the oldest person to have assumed the office. He was affiliated with the Communist Party of India (Marxist). He served as the chairman of Administrative reforms in Kerala with state cabinet rank from 2016 to 2021. He served as Leader of the Opposition for 15 years which makes him the longest serving Leader of the Opposition in the Kerala Legislative Assembly.   
+## 失踪_of_艾米_林恩_布拉德利   
+Amy Lynn Bradley is an American woman who went missing during a Caribbean cruise on the Royal Caribbean International cruise ship Rhapsody of the Seas in late March 1998 while en route to Curaçao. Her whereabouts remain unknown. She was a 23-year-old Longwood University graduate at the time of her disappearance.   
 
-Velikkakathu Sankaran Achuthanandan，也以其首字母VS而闻名，是一位印度政治家，于2006年至2011年担任喀拉拉邦首席部长。82岁的他是上任以来年龄最大的人。他隶属于印度共产党（马克思主义）。2016年至2021年，他担任喀拉拉邦行政改革主席，担任州内阁职务。他担任反对党领袖15年，这使他成为喀拉拉邦立法议会任职时间最长的反对党领袖。   
+艾米·林恩·布拉德利（Amy Lynn Bradley）是一名美国妇女，1998年3月下旬，她乘坐皇家加勒比国际游轮“海洋狂想曲”（Rhapsody of the Seas）前往Curaçao岛的加勒比海游轮失踪。她的下落仍然未知。失踪时，她是一名23岁的朗伍德大学毕业生。   
 
-阅读延伸[1011307]: [https://en.wikipedia.org/wiki/V._S._Achuthanandan](https://en.wikipedia.org/wiki/V._S._Achuthanandan)   
+阅读延伸[2758975]: [https://en.wikipedia.org/wiki/Disappearance_of_Amy_Lynn_Bradley](https://en.wikipedia.org/wiki/Disappearance_of_Amy_Lynn_Bradley)   
 
-## 雷吉娜_国王   
-Regina Rene King is an American actress, director and producer. She has received various accolades, including an Academy Award, a Golden Globe Award, and four Primetime Emmy Awards. In 2019, Time magazine named her one of the 100 most influential people in the world.   
+## 回到开始   
+Back to the Beginning was a benefit concert by the English rock band Black Sabbath, with a number of supporting artists. It took place on 5 July 2025 at Villa Park in Aston, Birmingham, England, very near where the band was formed in 1968.   
 
-Regina Rene King是一位美国女演员，导演和制片人。她获得了各种荣誉，包括奥斯卡奖，金球奖和四个黄金时段艾美奖。2019年，《时代》杂志将她评为世界上最具影响力的100人之一。   
+《Back to the Beginning》是英国摇滚乐队Black Sabbath的一场慈善音乐会，有多位配角艺术家参加。它于2025年7月5日在英国伯明翰阿斯顿的维拉公园举行，距离乐队1968年成立的地方很近。   
 
-阅读延伸[1599816]: [https://en.wikipedia.org/wiki/Regina_King](https://en.wikipedia.org/wiki/Regina_King)   
+阅读延伸[79148710]: [https://en.wikipedia.org/wiki/Back_to_the_Beginning](https://en.wikipedia.org/wiki/Back_to_the_Beginning)   
 
-## 我知道你去年夏天做了什么（2025年电影）   
-I Know What You Did Last Summer is a 2025 American slasher film directed by Jennifer Kaytin Robinson, who co-wrote the screenplay with Sam Lansky from a story by Leah McKendrick and Robinson. It is the fourth installment in the I Know What You Did Last Summer franchise and the sequel to I Still Know What You Did Last Summer (1998). The film stars Madelyn Cline, Chase Sui Wonders, Jonah Hauer-King, Tyriq Withers, Sarah Pidgeon, Billy Campbell, Gabbriette Bechtel, and Austin Nichols, with Freddie Prinze Jr., and Jennifer Love Hewitt. Sarah Michelle Gellar and Brandy from the first two films, respectively, appear in cameos. The plot takes place 27 years after the Tower Bay murders, when another hook-wielding killer appears and begins targeting a group of friends one year after they covered up a car crash in which they supposedly killed someone.   
+## 吉斯莱恩_麦克斯韦   
+Ghislaine Noelle Marion Maxwell is a British former socialite and a convicted sex offender. She was found guilty of child sex trafficking and other offences in connection with the deceased financier and convicted sex offender Jeffrey Epstein in 2021. In 2022 she was sentenced in federal court in New York City to twenty years' imprisonment.   
 
-《我知道你去年夏天做了什么》是一部2025年的美国恐怖电影，由詹妮弗·凯廷·罗宾逊执导，她与萨姆·兰斯基共同编剧，改编自利亚·麦肯德里克和罗宾逊的故事。这是《我知道你去年夏天做了什么》系列的第四部，也是《我仍然知道你去年夏天做了什么》（1998）的续集。这部电影由玛德琳·克莱恩（Madelyn Cline）、蔡斯·苏·奇迹（Chase Sui Wonders）、乔纳·哈尔-金（Jonah Hauer-King）、泰里克·威瑟斯（Tyriq Withers）、莎拉·皮金（Sarah Pidgeon）、比利·坎贝尔（Billy Campbell）、加布里埃特·贝希特（Gabbriette Bechtel）和奥斯汀·尼科尔斯（Austin Nichols）主演，弗雷迪·普林兹（Freddie Prinze Jr.），和詹妮弗·洛夫·休伊特。前两部电影中的莎拉·米歇尔·盖拉和布兰迪分别客串。该情节发生在塔湾谋杀案27年后，当时另一名挥舞着钩的杀手出现了，并开始瞄准一群朋友，一年后，他们掩盖了一场据称杀害了某人的车祸。   
+吉斯莱恩·诺埃尔·马里恩·麦克斯韦尔是一位英国前社交名流，也是一名被定罪的性犯罪者。2021年，她被判犯有儿童性交易和与已故金融家、被定罪的性犯罪者杰弗里·爱泼斯坦有关的其他罪行。2022年，她在纽约市联邦法院被判处二十年监禁。   
 
-阅读延伸[72964115]: [https://en.wikipedia.org/wiki/I_Know_What_You_Did_Last_Summer_(2025_film)](https://en.wikipedia.org/wiki/I_Know_What_You_Did_Last_Summer_(2025_film))   
+阅读延伸[32018562]: [https://en.wikipedia.org/wiki/Ghislaine_Maxwell](https://en.wikipedia.org/wiki/Ghislaine_Maxwell)   
 
-## 成都_J-7   
-The Chengdu J-7 is a Chinese fighter aircraft. It is a license-built version of the Soviet Mikoyan-Gurevich MiG-21, and thus shares many similarities with that aircraft. The aircraft is armed with infrared homing air-to-air missiles and is mainly designed for short range air-to-air combat. The aircraft is also used for close air support.   
+## 未驯服的_（迷你剧）   
+Untamed is an American drama murder mystery television series for Netflix set in Yosemite National Park starring Eric Bana, Lily Santiago, Rosemarie DeWitt and Sam Neill. It was released on July 17, 2025.   
 
-成都J-7是中国战斗机。它是苏联米高扬-古列维奇米格-21的许可制造版本，因此与该飞机有许多相似之处。该飞机配备红外寻的空对空导弹，主要用于短程空对空战斗。该飞机还用于近距离空中支援。   
+《Untamed》是Netflix制作的一部美剧谋杀悬疑电视剧，背景设定在优胜美地国家公园，主演埃里克·巴纳、莉莉·圣地亚哥、罗斯玛丽·德威特和萨姆·尼尔。它于2025年7月17日发布。   
 
-阅读延伸[377543]: [https://en.wikipedia.org/wiki/Chengdu_J-7](https://en.wikipedia.org/wiki/Chengdu_J-7)   
+阅读延伸[77209933]: [https://en.wikipedia.org/wiki/Untamed_(miniseries)](https://en.wikipedia.org/wiki/Untamed_(miniseries))   
 
-## 侏罗纪_世界_重生   
-Jurassic World Rebirth is a 2025 American science fiction action film directed by Gareth Edwards and written by David Koepp. A standalone sequel to Jurassic World Dominion (2022), it is the fourth Jurassic World film and the seventh installment overall in the Jurassic Park franchise. The film stars Scarlett Johansson, Mahershala Ali, Jonathan Bailey, Rupert Friend, Manuel Garcia-Rulfo, and Ed Skrein. In the film, the world's dinosaurs now live around the equator, which provides the last viable climate for them to survive. A team travels to a former island research facility where the three largest prehistoric animals reside, with the goal of extracting samples that are vital for a heart disease treatment. The team also rescues a shipwrecked family, and both groups struggle to survive after becoming stranded on the island.   
+## 凯伦_玛丽娜_怀特   
+Karen Malina White is an American film and television actress. She is best known for her roles as Kaneesha Carter in the 1989 drama film Lean on Me, Charmaine Brown during the two final seasons on The Cosby Show (1990–1992) and its spin-off A Different World (1992–1993), Nicolette Vandross on Malcolm & Eddie (1996–2000), and as the voice of Dijonay Jones on the Disney Channel animated comedy The Proud Family (2001–2005) and its 2022 Disney+ reboot The Proud Family: Louder and Prouder.   
 
-侏罗纪世界重生是一部2025年美国科幻动作片，由加雷斯·爱德华兹执导，大卫·科普编剧。这是《侏罗纪世界统治》（2022）的独立续集，是《侏罗纪世界》的第四部电影，也是《侏罗纪公园》系列的第七部。这部电影由斯嘉丽·约翰逊、马赫沙拉·阿里、乔纳森·贝利、鲁珀特·弗兰德、曼努埃尔·加西亚-鲁尔福和埃德·斯克雷恩主演。在影片中，世界上的恐龙现在生活在赤道周围，这为它们生存提供了最后的可行气候。一个团队前往三种最大的史前动物居住的前岛屿研究设施，目标是提取对心脏病治疗至关重要的样本。该团队还拯救了一个海难家庭，两个群体在被困在岛上后都在努力生存。   
+凯伦·玛丽娜·怀特是一位美国电影和电视女演员。她最出名的作品是在1989年的剧情片《靠在我身上，查梅因·布朗》中饰演卡内莎·卡特，在《考斯比秀》的最后两季中扮演的角色（1990-1992）及其衍生作品《不同的世界》（1992-1993），Nicolette Vandross谈Malcolm & Eddie（1996-2000年），并在迪士尼频道动画喜剧《骄傲的家庭》（2001-2005年）及其2022年Disney+重启的《骄傲的家庭：更响亮和骄傲》中担任迪乔奈·琼斯的配音。   
 
-阅读延伸[75884495]: [https://en.wikipedia.org/wiki/Jurassic_World_Rebirth](https://en.wikipedia.org/wiki/Jurassic_World_Rebirth)   
+阅读延伸[706453]: [https://en.wikipedia.org/wiki/Karen_Malina_White](https://en.wikipedia.org/wiki/Karen_Malina_White)   
 
-## 他妈   
-Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
+## 克洛伊_凯利   
+Chloe Maggie Kelly is an English professional footballer who plays as a forward for Women's Super League club Arsenal and the England national team. Kelly started her senior career at Arsenal, prior to going on loan to Everton, and joining the team permanently in 2018. With Manchester City, she is a 2019–20 FA Cup and 2021–22 League Cup winner, has twice been named in the PFA WSL Team of the Year, and was the joint top assist provider in the 2020–21 WSL season. With Arsenal, she is a 2024–25 UEFA Champions League winner.   
 
-Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词或表达蔑视。虽然它的起源并不清楚，但通常被认为是在1475年左右首次得到证实的。在现代使用中，fuck一词及其衍生词被用作名词、动词、形容词、中词、感叹词或副词。有许多常用短语使用该词，以及包含该词的复合词，例如muddermuses和fuck off。   
+克洛伊·玛吉·凯利（Chloe Maggie Kelly）是一名英国职业足球运动员，在女子超级联赛俱乐部阿森纳和英格兰国家队担任前锋。凯利在阿森纳开始了她的高级职业生涯，之后被租借到埃弗顿，并于2018年永久加入球队。在曼城，她是2019-20赛季足总杯和2021-22赛季联赛杯冠军，两次入选PFA WSL年度最佳球队，并且是2020-21赛季WSL联合顶级助攻提供者。在阿森纳，她是2024-25赛季欧洲冠军联赛冠军。   
 
-阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
-
-## 天文学家_（公司）   
-Astronomer is the company behind Astro, a unified DataOps platform powered by Apache Airflow. Astro enables data teams to build, run, observe, and manage mission-critical data pipelines for data, analytics, and AI-driven applications with a valuation of around $1.3 billion and approximately 350 employees, it became a unicorn in 2022.   
-
-Astrumb是Astro背后的公司，Astro是一个由Apache AirFlow支持的统一数据Ops平台。Astro使数据团队能够为数据、分析和人工智能驱动的应用程序构建、运行、观察和管理关键任务数据管道，估值约为13亿美元，拥有约350名员工，并于2022年成为独角兽。   
-
-阅读延伸[80476310]: [https://en.wikipedia.org/wiki/Astronomer_(company)](https://en.wikipedia.org/wiki/Astronomer_(company))   
-
-## 比尔_考斯比   
-William Henry Cosby Jr. is an American comedian, actor, and media personality. Often deemed a trailblazer for African Americans in the entertainment industry, Cosby was a film, television, and stand-up comedy star, with his longest-running live-action role being that of Cliff Huxtable in the sitcom The Cosby Show (1984–1992). He also released several stand-up comedy albums and was a popular spokesperson in advertising for decades. Cosby was well known in the United States for his fatherly image and gained a reputation as "America's Dad". However, starting in 2014, dozens of allegations of sexual assault have been made against him, which ended his career and sharply diminished his status as a pop culture icon.   
-
-小威廉·亨利·科斯比是一位美国喜剧演员、演员和媒体人物。考斯比经常被视为娱乐界非裔美国人的开拓者，他是一位电影、电视和单口喜剧明星，他出演时间最长的真人角色是情景喜剧《考斯比秀》（The Cosby Show）中的克里夫·赫克斯特布尔（Cliff Huxtable）（1984-1992）。他还发行了几张单口喜剧专辑，几十年来一直是广告界的热门代言人。科斯比以父亲般的形象在美国闻名，并被誉为“美国爸爸”。然而，从2014年开始，数十起针对他的性侵犯指控结束了他的职业生涯，并急剧削弱了他作为流行文化偶像的地位。   
-
-阅读延伸[158894]: [https://en.wikipedia.org/wiki/Bill_Cosby](https://en.wikipedia.org/wiki/Bill_Cosby)   
+阅读延伸[50958217]: [https://en.wikipedia.org/wiki/Chloe_Kelly](https://en.wikipedia.org/wiki/Chloe_Kelly)   
 
