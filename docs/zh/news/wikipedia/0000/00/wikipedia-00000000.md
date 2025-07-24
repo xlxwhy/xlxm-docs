@@ -6,26 +6,12 @@ John Michael "Ozzy" Osbourne was an English singer, songwriter and media persona
 
 阅读延伸[85406]: [https://en.wikipedia.org/wiki/Ozzy_Osbourne](https://en.wikipedia.org/wiki/Ozzy_Osbourne)   
 
-## 马尔科姆-贾马尔_华纳   
-Malcolm-Jamal Warner was an American actor, musician and poet. He rose to prominence for his role as Theodore Huxtable on the NBC sitcom The Cosby Show (1984–1992), which earned him a nomination for Outstanding Supporting Actor in a Comedy Series at the 38th Primetime Emmy Awards. He was also known for his roles as Malcolm McGee on the sitcom Malcolm & Eddie (1996–2000), Dr. Alex Reed in the sitcom Reed Between the Lines, and Dr. AJ Austin in the medical drama The Resident.   
-
-马尔科姆-贾马尔·华纳（Malcolm-Jamal Warner）是一位美国演员、音乐家和诗人。他因在NBC情景喜剧《考斯比秀》（The Cosby Show）（1984-1992年）中饰演西奥多·赫克斯特布尔（Theodore Huxtable）而声名鹊起，该片为他赢得了第38届黄金时段艾美奖喜剧类最佳男配角提名。他还因在情景喜剧《马尔科姆与埃迪》（Malcolm & Eddie，1996-2000）中饰演马尔科姆·麦吉、在情景喜剧《Reed Between the Lines》中饰演亚历克斯·里德博士以及在医疗剧《住院医师》中饰演AJ奥斯汀博士而闻名。   
-
-阅读延伸[656258]: [https://en.wikipedia.org/wiki/Malcolm-Jamal_Warner](https://en.wikipedia.org/wiki/Malcolm-Jamal_Warner)   
-
 ## 莎朗_奥斯本   
 Sharon Rachel Osbourne is an English-American television personality, music manager, and author. She was married to heavy metal singer Ozzy Osbourne from 1982 until his death in 2025, and came to prominence while appearing on The Osbournes (2002–2005), a reality television show that aired on MTV, which followed her family's daily life. Osbourne later became a judge on television talent competition shows, including The X Factor and America's Got Talent (2007–2012).   
 
 莎朗·雷切尔·奥斯本（Sharon Rachel Osbourne）是一位英美裔电视名人、音乐经理和作家。她于1982年与重金属歌手奥兹·奥斯本（Ozzy Osbourne）结婚，直至2025年去世，并在出演《奥斯本》（The Osbournes）（2002-2005）时声名鹊起，这是一档在MTV上播出的真人秀节目，关注她家人的日常生活。奥斯本后来成为电视选秀节目的评委，包括《X Factor》和《美国达人秀》（2007-2012年）。   
 
 阅读延伸[165939]: [https://en.wikipedia.org/wiki/Sharon_Osbourne](https://en.wikipedia.org/wiki/Sharon_Osbourne)   
-
-## 超人_（2025年_电影）   
-Superman is an upcoming American superhero film based on DC Comics featuring the eponymous character. Produced by DC Studios and to be distributed by Warner Bros. Pictures, it will be the first film in the DC Universe (DCU) and a reboot of the Superman film series. The film is written and directed by James Gunn and stars David Corenswet as Clark Kent / Superman, alongside Rachel Brosnahan, Nicholas Hoult, Edi Gathegi, Anthony Carrigan, Nathan Fillion, Isabela Merced, Skyler Gisondo, Sara Sampaio, María Gabriela de Faría, Wendell Pierce, Alan Tudyk, Pruitt Taylor Vince, and Neva Howell. In the film, Superman's journey to reconcile his alien heritage with his human family is explored.   
-
-超人是一部即将上映的美国超级英雄电影，改编自DC漫画，主角是同名角色。该片由DC Studios制作，华纳兄弟影业发行，将成为DC宇宙（DCU）的第一部电影，也是超人系列电影的重启。这部电影由詹姆斯·冈恩编剧和导演，大卫·科伦斯韦特饰演克拉克·肯特/超人，与雷切尔·布罗斯纳汉、尼古拉斯·霍尔特、埃迪·加特吉、安东尼·卡里根、内森·菲利安、伊莎贝尔·默塞德、斯凯勒·吉松多、萨拉·桑帕约、玛丽亚·加布里埃拉·德·法利亚、温德尔·皮尔斯、艾伦·图迪克、普鲁特·泰勒·文斯和涅瓦·豪厄尔一起。在电影中，探索了超人将其外星血统与人类家庭调和起来的旅程。   
-
-阅读延伸[57255388]: [https://en.wikipedia.org/wiki/Superman_(2025_film)](https://en.wikipedia.org/wiki/Superman_(2025_film))   
 
 ## 黑色_安息日   
 Black Sabbath were an English rock band formed in Birmingham in 1968 by guitarist Tony Iommi, drummer Bill Ward, bassist Geezer Butler, and vocalist Ozzy Osbourne. After adopting the Black Sabbath name in 1969, they distinguished themselves through occult themes with horror-inspired lyrics and down-tuned guitars. Their first three albums, Black Sabbath, Paranoid, and Master of Reality (1971), were commercially successful, and are now cited as pioneering albums in the development of heavy metal music. Subsequent albums Vol. 4 (1972), Sabbath Bloody Sabbath (1973), Sabotage (1975), Technical Ecstasy (1976), and Never Say Die! (1978) saw the band explore more experimental and progressive styles.   
@@ -34,12 +20,19 @@ Black Sabbath是一支英国摇滚乐队，于1968年在伯明翰成立，由吉
 
 阅读延伸[4314]: [https://en.wikipedia.org/wiki/Black_Sabbath](https://en.wikipedia.org/wiki/Black_Sabbath)   
 
-## 米歇尔_托马斯   
-Michelle Doris Thomas was an American actress. She was known for her roles as Justine Phillips on the NBC sitcom The Cosby Show (1988–1990), as Myra Monkhouse on the ABC/CBS sitcom Family Matters (1993–1998), and as Callie Rogers on the CBS soap opera The Young and the Restless (1998).   
+## 赛亚拉   
+Saiyaara is a 2025 Indian Hindi-language musical romantic drama film directed by Mohit Suri. Produced under Yash Raj Films, it stars debutant Ahaan Panday and Aneet Padda. It is loosely based on the 2004 Korean film A Moment To Remember. The film follows Krish Kapoor, a troubled musician, as he forms a deep connection with Vaani Batra, a shy poet.   
 
-米歇尔·多丽丝·托马斯是一位美国女演员。她因在NBC情景喜剧The Cosby Show（1988-1990）中饰演Justine Phillips，在ABC/CBS情景喜剧Family Matters（1993-1998）中饰演Myra Monkhouse，以及在CBS肥皂剧The Young and the Restless（1998）中饰演Callie Rogers而闻名。   
+《Saiyaara》是一部2025年印度印地语音乐浪漫剧情片，由莫希特·苏瑞执导。该片由Yash Raj Films制作，由首次亮相的阿汉·潘迪（Ahaan Panday）和阿尼特·帕达（Aneet Padda）主演。它大致改编自2004年韩国电影《难忘的时刻》。这部电影讲述了陷入困境的音乐家克里什·卡普尔与害羞诗人瓦尼·巴特拉建立了深厚的联系。   
 
-阅读延伸[411142]: [https://en.wikipedia.org/wiki/Michelle_Thomas](https://en.wikipedia.org/wiki/Michelle_Thomas)   
+阅读延伸[80453578]: [https://en.wikipedia.org/wiki/Saiyaara](https://en.wikipedia.org/wiki/Saiyaara)   
+
+## 马尔科姆-贾马尔_华纳   
+Malcolm-Jamal Warner was an American actor, musician and poet. He rose to prominence for his role as Theodore Huxtable on the NBC sitcom The Cosby Show (1984–1992), which earned him a nomination for Outstanding Supporting Actor in a Comedy Series at the 38th Primetime Emmy Awards. He was also known for his roles as Malcolm McGee on the sitcom Malcolm & Eddie (1996–2000), Dr. Alex Reed in the sitcom Reed Between the Lines, and Dr. AJ Austin in the medical drama The Resident.   
+
+马尔科姆-贾马尔·华纳（Malcolm-Jamal Warner）是一位美国演员、音乐家和诗人。他因在NBC情景喜剧《考斯比秀》（The Cosby Show）（1984-1992年）中饰演西奥多·赫克斯特布尔（Theodore Huxtable）而声名鹊起，该片为他赢得了第38届黄金时段艾美奖喜剧类最佳男配角提名。他还因在情景喜剧《马尔科姆与埃迪》（Malcolm & Eddie，1996-2000）中饰演马尔科姆·麦吉、在情景喜剧《Reed Between the Lines》中饰演亚历克斯·里德博士以及在医疗剧《住院医师》中饰演AJ奥斯汀博士而闻名。   
+
+阅读延伸[656258]: [https://en.wikipedia.org/wiki/Malcolm-Jamal_Warner](https://en.wikipedia.org/wiki/Malcolm-Jamal_Warner)   
 
 ## 艾米_奥斯本   
 Aimee Rachel Osbourne is an English actress and singer. She is the eldest daughter of Ozzy and Sharon Osbourne. While her younger siblings Jack and Kelly achieved pop culture fame for appearing in the family's MTV reality series The Osbournes, she declined to appear on the show, feeling that doing so would typecast her and affect her musical career. She has expressed discomfort with some of her parents' behaviour on television.   
@@ -62,12 +55,12 @@ The Fantastic Four: First Steps is a 2025 American superhero film based on the M
 
 阅读延伸[61443907]: [https://en.wikipedia.org/wiki/The_Fantastic_Four%3A_First_Steps](https://en.wikipedia.org/wiki/The_Fantastic_Four%3A_First_Steps)   
 
-## 米歇尔_阿杰芒   
-Michelle Agyemang is an English professional footballer who plays as a forward for Women's Super League club Arsenal and the England national team.   
+## 超人_（2025年_电影）   
+Superman is an upcoming American superhero film based on DC Comics featuring the eponymous character. Produced by DC Studios and to be distributed by Warner Bros. Pictures, it will be the first film in the DC Universe (DCU) and a reboot of the Superman film series. The film is written and directed by James Gunn and stars David Corenswet as Clark Kent / Superman, alongside Rachel Brosnahan, Nicholas Hoult, Edi Gathegi, Anthony Carrigan, Nathan Fillion, Isabela Merced, Skyler Gisondo, Sara Sampaio, María Gabriela de Faría, Wendell Pierce, Alan Tudyk, Pruitt Taylor Vince, and Neva Howell. In the film, Superman's journey to reconcile his alien heritage with his human family is explored.   
 
-米歇尔·阿杰芒（Michelle Agyemang）是一名英国职业足球运动员，在女子超级联赛俱乐部阿森纳和英格兰国家队担任前锋。   
+超人是一部即将上映的美国超级英雄电影，改编自DC漫画，主角是同名角色。该片由DC Studios制作，华纳兄弟影业发行，将成为DC宇宙（DCU）的第一部电影，也是超人系列电影的重启。这部电影由詹姆斯·冈恩编剧和导演，大卫·科伦斯韦特饰演克拉克·肯特/超人，与雷切尔·布罗斯纳汉、尼古拉斯·霍尔特、埃迪·加特吉、安东尼·卡里根、内森·菲利安、伊莎贝尔·默塞德、斯凯勒·吉松多、萨拉·桑帕约、玛丽亚·加布里埃拉·德·法利亚、温德尔·皮尔斯、艾伦·图迪克、普鲁特·泰勒·文斯和涅瓦·豪厄尔一起。在电影中，探索了超人将其外星血统与人类家庭调和起来的旅程。   
 
-阅读延伸[73848752]: [https://en.wikipedia.org/wiki/Michelle_Agyemang](https://en.wikipedia.org/wiki/Michelle_Agyemang)   
+阅读延伸[57255388]: [https://en.wikipedia.org/wiki/Superman_(2025_film)](https://en.wikipedia.org/wiki/Superman_(2025_film))   
 
 ## 杰克_奥斯本   
 Jack Joseph Osbourne is a British-American media personality. He is the son of the late heavy metal singer Ozzy Osbourne and Sharon Osbourne. He starred on MTV's reality series The Osbournes (2002–2005), along with his father, mother Sharon, and sister Kelly. Osbourne has since pursued a career as a fitness and travel reporter, presenting shows such as Jack Osbourne: Adrenaline Junkie (2005–2009) and BBC's Saving Planet Earth (2007). In 2016, he and his father Ozzy travelled the world in the History Channel reality series Ozzy & Jack's World Detour.   
@@ -76,19 +69,12 @@ Jack Joseph Osbourne is a British-American media personality. He is the son of t
 
 阅读延伸[394763]: [https://en.wikipedia.org/wiki/Jack_Osbourne](https://en.wikipedia.org/wiki/Jack_Osbourne)   
 
-## 死亡_in_2025   
-The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
+## 2022_大学_of_莎士比亚_谋杀案   
+In the early morning of November 13, 2022, four University of Idaho students were fatally stabbed in an off-campus residence at 1122 King Road in Moscow, Idaho. On December 30, suspect Bryan Christopher Kohberger was arrested in Monroe County, Pennsylvania, on four counts of first-degree murder and one count of felony burglary. Prosecutors initially sought the death penalty.   
 
-以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
+2022年11月13日凌晨，四名爱达荷大学学生在爱达荷州莫斯科市国王路1122号的校外住所被刺死。12月30日，犯罪嫌疑人布莱恩·克里斯托弗·科伯格在宾夕法尼亚州门罗县被捕，罪名是四项一级谋杀罪和一项重罪入室盗窃罪。检察官最初寻求死刑。   
 
-阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
-
-## 比尔_考斯比   
-William Henry Cosby Jr. is an American comedian, actor, and media personality. Often deemed a trailblazer for African Americans in the entertainment industry, Cosby was a film, television, and stand-up comedy star, with his longest-running live-action role being that of Cliff Huxtable in the sitcom The Cosby Show (1984–1992). He also released several stand-up comedy albums and was a popular spokesperson in advertising for decades. Cosby was well known in the United States for his fatherly image and gained a reputation as "America's Dad". However, starting in 2014, dozens of allegations of sexual assault have been made against him, which ended his career and sharply diminished his status as a pop culture icon.   
-
-小威廉·亨利·科斯比是一位美国喜剧演员、演员和媒体人物。考斯比经常被视为娱乐界非裔美国人的开拓者，他是一位电影、电视和单口喜剧明星，他出演时间最长的真人角色是情景喜剧《考斯比秀》（The Cosby Show）中的克里夫·赫克斯特布尔（Cliff Huxtable）（1984-1992）。他还发行了几张单口喜剧专辑，几十年来一直是广告界的热门代言人。科斯比以父亲般的形象在美国闻名，并被誉为“美国爸爸”。然而，从2014年开始，数十起针对他的性侵犯指控结束了他的职业生涯，并急剧削弱了他作为流行文化偶像的地位。   
-
-阅读延伸[158894]: [https://en.wikipedia.org/wiki/Bill_Cosby](https://en.wikipedia.org/wiki/Bill_Cosby)   
+阅读延伸[72292051]: [https://en.wikipedia.org/wiki/2022_University_of_Idaho_murders](https://en.wikipedia.org/wiki/2022_University_of_Idaho_murders)   
 
 ## 杰弗里_爱泼斯坦   
 Jeffrey Edward Epstein was an American financier and child sex offender. Born and raised in New York City, Epstein began his professional career as a teacher at the Dalton School, despite lacking a college degree. After his dismissal from the school in 1976, he entered the banking and finance sector, working at Bear Stearns in various roles before starting his own firm. Epstein cultivated an elite social circle and procured many women and children whom he and his associates sexually abused.   
@@ -97,6 +83,20 @@ Jeffrey Edward Epstein was an American financier and child sex offender. Born an
 
 阅读延伸[6253522]: [https://en.wikipedia.org/wiki/Jeffrey_Epstein](https://en.wikipedia.org/wiki/Jeffrey_Epstein)   
 
+## 回到开始   
+Back to the Beginning was a benefit concert by the English rock band Black Sabbath, with a number of supporting artists. It took place on 5 July 2025 at Villa Park in Aston, Birmingham, England, very near where the band was formed in 1968.   
+
+《Back to the Beginning》是英国摇滚乐队Black Sabbath的一场慈善音乐会，有多位配角艺术家参加。它于2025年7月5日在英国伯明翰阿斯顿的维拉公园举行，距离乐队1968年成立的地方很近。   
+
+阅读延伸[79148710]: [https://en.wikipedia.org/wiki/Back_to_the_Beginning](https://en.wikipedia.org/wiki/Back_to_the_Beginning)   
+
+## 死亡_in_2025   
+The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
+
+以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
+
+阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
+
 ## 失踪_of_艾米_林恩_布拉德利   
 Amy Lynn Bradley is an American woman who went missing during a Caribbean cruise on the Royal Caribbean International cruise ship Rhapsody of the Seas in late March 1998 while en route to Curaçao. Her whereabouts remain unknown. She was a 23-year-old Longwood University graduate at the time of her disappearance.   
 
@@ -104,12 +104,19 @@ Amy Lynn Bradley is an American woman who went missing during a Caribbean cruise
 
 阅读延伸[2758975]: [https://en.wikipedia.org/wiki/Disappearance_of_Amy_Lynn_Bradley](https://en.wikipedia.org/wiki/Disappearance_of_Amy_Lynn_Bradley)   
 
-## 回到开始   
-Back to the Beginning was a benefit concert by the English rock band Black Sabbath, with a number of supporting artists. It took place on 5 July 2025 at Villa Park in Aston, Birmingham, England, very near where the band was formed in 1968.   
+## 兰迪-罗兹   
+Randall William Rhoads was an American guitarist. He was the co-founder and original guitarist of the heavy metal band Quiet Riot, and the guitarist and co-songwriter for Ozzy Osbourne's first two solo albums Blizzard of Ozz (1980) and Diary of a Madman (1981). Rhoads was posthumously inducted into the Rock and Roll Hall of Fame in 2021.   
 
-《Back to the Beginning》是英国摇滚乐队Black Sabbath的一场慈善音乐会，有多位配角艺术家参加。它于2025年7月5日在英国伯明翰阿斯顿的维拉公园举行，距离乐队1968年成立的地方很近。   
+兰德尔·威廉·罗兹（Randall William Rhoads）是一位美国吉他手。他是重金属乐队Quiet Riot的联合创始人和原创吉他手，也是Ozzy Osbourne前两张个人专辑《Blizzard of Ozz》（1980）和《Diary of a Madman》（1981）的吉他手和联合词曲作者。2021年，罗兹死后入选摇滚名人堂。   
 
-阅读延伸[79148710]: [https://en.wikipedia.org/wiki/Back_to_the_Beginning](https://en.wikipedia.org/wiki/Back_to_the_Beginning)   
+阅读延伸[203269]: [https://en.wikipedia.org/wiki/Randy_Rhoads](https://en.wikipedia.org/wiki/Randy_Rhoads)   
+
+## Trisha_Paytas   
+Trisha Paytas is an American media personality. Her content consists of a wide variety of genres including lifestyle-oriented vlogs, music videos, and mukbangs. As of July 2022, she has accumulated roughly 5 million subscribers and almost 1 billion lifetime views on YouTube.   
+
+Trisha Paytas是美国媒体名人。她的内容由多种类型组成，包括面向生活方式的vlog、音乐视频和mukbangs。截至2022年7月，她在YouTube上积累了约500万订阅者和近10亿次终生观看次数。   
+
+阅读延伸[38510711]: [https://en.wikipedia.org/wiki/Trisha_Paytas](https://en.wikipedia.org/wiki/Trisha_Paytas)   
 
 ## 吉斯莱恩_麦克斯韦   
 Ghislaine Noelle Marion Maxwell is a British former socialite and a convicted sex offender. She was found guilty of child sex trafficking and other offences in connection with the deceased financier and convicted sex offender Jeffrey Epstein in 2021. In 2022 she was sentenced in federal court in New York City to twenty years' imprisonment.   
@@ -118,24 +125,17 @@ Ghislaine Noelle Marion Maxwell is a British former socialite and a convicted se
 
 阅读延伸[32018562]: [https://en.wikipedia.org/wiki/Ghislaine_Maxwell](https://en.wikipedia.org/wiki/Ghislaine_Maxwell)   
 
-## 未驯服的_（迷你剧）   
-Untamed is an American drama murder mystery television series for Netflix set in Yosemite National Park starring Eric Bana, Lily Santiago, Rosemarie DeWitt and Sam Neill. It was released on July 17, 2025.   
+## Yungblud   
+Dominic Richard Harrison, known professionally as Yungblud, is an English singer, songwriter and actor. In 2018, he released his debut EP Yungblud, followed by his first full-length album 21st Century Liability. In 2019, he released his second EP, The Underrated Youth, and the following year, he released his second studio album, Weird!, which peaked at the top of the UK Albums Chart and reached number 75 on the US Billboard 200. His third album, titled Yungblud like his first EP, was released in 2022 and reached number 1 on the UK Album Charts, as well as number 45 on the Billboard 200 and number 7 on the U.S. Top Rock Albums chart.   
 
-《Untamed》是Netflix制作的一部美剧谋杀悬疑电视剧，背景设定在优胜美地国家公园，主演埃里克·巴纳、莉莉·圣地亚哥、罗斯玛丽·德威特和萨姆·尼尔。它于2025年7月17日发布。   
+多米尼克·理查德·哈里森（Dominic Richard Harrison），专业名称Yungblud，是一位英国歌手、词曲作者和演员。2018年，他发行了首张EP Yungblud，随后又发行了首张全长专辑《21世纪Liability》。2019年，他发行了第二张EP《The Underrated Youth》，次年，他发行了第二张录音室专辑《Weird！》该专辑在英国专辑排行榜上名列前茅，并在美国Billboard 200排行榜上排名第75位。他的第三张专辑名为Yungblud，就像他的第一张EP一样，于2022年发行，在英国专辑排行榜上排名第一，在公告牌200排行榜上排名第45位，在美国顶级摇滚专辑排行榜上排名第7位。   
 
-阅读延伸[77209933]: [https://en.wikipedia.org/wiki/Untamed_(miniseries)](https://en.wikipedia.org/wiki/Untamed_(miniseries))   
+阅读延伸[56418869]: [https://en.wikipedia.org/wiki/Yungblud](https://en.wikipedia.org/wiki/Yungblud)   
 
-## 凯伦_玛丽娜_怀特   
-Karen Malina White is an American film and television actress. She is best known for her roles as Kaneesha Carter in the 1989 drama film Lean on Me, Charmaine Brown during the two final seasons on The Cosby Show (1990–1992) and its spin-off A Different World (1992–1993), Nicolette Vandross on Malcolm & Eddie (1996–2000), and as the voice of Dijonay Jones on the Disney Channel animated comedy The Proud Family (2001–2005) and its 2022 Disney+ reboot The Proud Family: Louder and Prouder.   
+## 托尼_Iommi   
+Anthony Frank Iommi Jr. is an English musician. He co-founded the heavy metal band Black Sabbath, and was the guitarist, leader, primary composer, and sole continuous member during the band's existence for over five decades. He is considered one of the pioneers of heavy metal music and is responsible for inspiring numerous subgenres of metal, most notably doom metal. Iommi was ranked number 13 on Rolling Stone's 2023 list of the “250 Greatest Guitarists of all Time.   
 
-凯伦·玛丽娜·怀特是一位美国电影和电视女演员。她最出名的作品是在1989年的剧情片《靠在我身上，查梅因·布朗》中饰演卡内莎·卡特，在《考斯比秀》的最后两季中扮演的角色（1990-1992）及其衍生作品《不同的世界》（1992-1993），Nicolette Vandross谈Malcolm & Eddie（1996-2000年），并在迪士尼频道动画喜剧《骄傲的家庭》（2001-2005年）及其2022年Disney+重启的《骄傲的家庭：更响亮和骄傲》中担任迪乔奈·琼斯的配音。   
+小安东尼·弗兰克·约米是一位英国音乐家。他是重金属乐队Black Sabbath的共同创始人，并在乐队成立五十多年期间担任吉他手、乐队主唱、主要作曲家和唯一的连续成员。他被认为是重金属音乐的先驱之一，并激发了许多金属亚流派，最著名的是厄运金属。Iommi在滚石杂志2023年“有史以来250位最伟大吉他手”名单中排名第13位。   
 
-阅读延伸[706453]: [https://en.wikipedia.org/wiki/Karen_Malina_White](https://en.wikipedia.org/wiki/Karen_Malina_White)   
-
-## 克洛伊_凯利   
-Chloe Maggie Kelly is an English professional footballer who plays as a forward for Women's Super League club Arsenal and the England national team. Kelly started her senior career at Arsenal, prior to going on loan to Everton, and joining the team permanently in 2018. With Manchester City, she is a 2019–20 FA Cup and 2021–22 League Cup winner, has twice been named in the PFA WSL Team of the Year, and was the joint top assist provider in the 2020–21 WSL season. With Arsenal, she is a 2024–25 UEFA Champions League winner.   
-
-克洛伊·玛吉·凯利（Chloe Maggie Kelly）是一名英国职业足球运动员，在女子超级联赛俱乐部阿森纳和英格兰国家队担任前锋。凯利在阿森纳开始了她的高级职业生涯，之后被租借到埃弗顿，并于2018年永久加入球队。在曼城，她是2019-20赛季足总杯和2021-22赛季联赛杯冠军，两次入选PFA WSL年度最佳球队，并且是2020-21赛季WSL联合顶级助攻提供者。在阿森纳，她是2024-25赛季欧洲冠军联赛冠军。   
-
-阅读延伸[50958217]: [https://en.wikipedia.org/wiki/Chloe_Kelly](https://en.wikipedia.org/wiki/Chloe_Kelly)   
+阅读延伸[395736]: [https://en.wikipedia.org/wiki/Tony_Iommi](https://en.wikipedia.org/wiki/Tony_Iommi)   
 
