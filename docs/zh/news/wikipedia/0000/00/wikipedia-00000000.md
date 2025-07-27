@@ -1,4 +1,11 @@
 # 最新资讯  
+## 快乐_吉尔摩_2   
+Happy Gilmore 2 is a 2025 American sports comedy film directed by Kyle Newacheck, and written by Tim Herlihy and Adam Sandler. It is a sequel to Happy Gilmore (1996). Sandler, Julie Bowen, Christopher McDonald, Ben Stiller, and Dennis Dugan reprise their roles from the original film while Benny Safdie and Bad Bunny join the film as new cast members.   
+
+《快乐吉尔摩2》是一部2025年美国体育喜剧电影，由凯尔·纽阿切克执导，蒂姆·赫利希和亚当·桑德勒编剧。这是快乐吉尔摩（Happy Gilmore）（1996）的续集。桑德勒、朱莉·鲍文、克里斯托弗·麦克唐纳、本·斯蒂勒和丹尼斯·杜根重新扮演原电影中的角色，而本尼·萨夫迪和坏兔子则作为新演员加入电影。   
+
+阅读延伸[76422099]: [https://en.wikipedia.org/wiki/Happy_Gilmore_2](https://en.wikipedia.org/wiki/Happy_Gilmore_2)   
+
 ## 浩克_霍根   
 Terry Gene Bollea, better known by his ring name Hulk Hogan, is an American retired professional wrestler. He is widely regarded as the most recognized wrestling star worldwide, the most popular wrestler of the 1980s, as well as one of the greatest professional wrestlers of all time.   
 
@@ -20,20 +27,6 @@ The Fantastic Four: First Steps is a 2025 American superhero film based on the M
 
 阅读延伸[61443907]: [https://en.wikipedia.org/wiki/The_Fantastic_Four%3A_First_Steps](https://en.wikipedia.org/wiki/The_Fantastic_Four%3A_First_Steps)   
 
-## 查克_曼吉奥内   
-Charles Frank Mangione was an American flugelhorn player, trumpeter, and composer. He came to prominence as a member of Art Blakey's band in the 1960s, and later co-led the Jazz Brothers with his brother, Gap, achieving international success in 1978 with his jazz-pop single "Feels So Good". He released more than 30 albums, beginning in 1960s. He also appeared in various television shows including a recurring role on King of the Hill.   
-
-查尔斯·弗兰克·曼吉奥内（Charles Frank Mangione）是一位美国长笛手、小号手和作曲家。20世纪60年代，他作为Art Blakey乐队的成员而声名鹊起，后来与兄弟Gap共同领导爵士兄弟乐队，并于1978年凭借爵士乐流行单曲《Feels So Good》在国际上取得成功。从20世纪60年代开始，他发行了30多张专辑。他还出现在各种电视节目中，包括在《山丘之王》中反复扮演的角色。   
-
-阅读延伸[153000]: [https://en.wikipedia.org/wiki/Chuck_Mangione](https://en.wikipedia.org/wiki/Chuck_Mangione)   
-
-## 快乐_吉尔摩_2   
-Happy Gilmore 2 is a 2025 American sports comedy film directed by Kyle Newacheck, and written by Tim Herlihy and Adam Sandler. It is a sequel to Happy Gilmore (1996). Sandler, Julie Bowen, Christopher McDonald, Ben Stiller, and Dennis Dugan reprise their roles from the original film while Benny Safdie and Bad Bunny join the film as new cast members.   
-
-《快乐吉尔摩2》是一部2025年美国体育喜剧电影，由凯尔·纽阿切克执导，蒂姆·赫利希和亚当·桑德勒编剧。这是快乐吉尔摩（Happy Gilmore）（1996）的续集。桑德勒、朱莉·鲍文、克里斯托弗·麦克唐纳、本·斯蒂勒和丹尼斯·杜根重新扮演原电影中的角色，而本尼·萨夫迪和坏兔子则作为新演员加入电影。   
-
-阅读延伸[76422099]: [https://en.wikipedia.org/wiki/Happy_Gilmore_2](https://en.wikipedia.org/wiki/Happy_Gilmore_2)   
-
 ## 赛亚拉   
 Saiyaara is a 2025 Indian Hindi-language musical romantic drama film directed by Mohit Suri. Produced under Yash Raj Films, it stars debutant Ahaan Panday and Aneet Padda. It is loosely based on the 2004 Korean film A Moment To Remember. The film follows Krish Kapoor, a troubled musician, as he forms a deep connection with Vaani Batra, a shy poet.   
 
@@ -48,26 +41,33 @@ Superman is an upcoming American superhero film based on DC Comics featuring the
 
 阅读延伸[57255388]: [https://en.wikipedia.org/wiki/Superman_(2025_film)](https://en.wikipedia.org/wiki/Superman_(2025_film))   
 
-## 布鲁克_霍根   
-Brooke Ellen Oleksy, better known by her stage name Brooke Hogan, is an American television personality and singer. The daughter of professional wrestler Hulk Hogan, she starred in the reality television series Hogan Knows Best from 2005 to 2007. The show saw a then-teenage Brooke struggling with her overprotective father while pursuing her musical career.   
+## 亚当_桑德勒   
+Adam Richard Sandler is an American comedian and actor. Primarily a comedic leading actor in films, his accolades include an Independent Spirit Award, alongside nominations for three Grammy Awards, seven Primetime Emmy Awards, two Golden Globe Awards, and a Screen Actors Guild Award. In 2023, Sandler was awarded the Mark Twain Prize for American Humor.   
 
-布鲁克·艾伦·奥莱克西（Brooke Ellen Oleksy）以其艺名布鲁克·霍根（Brooke Hogan）而闻名，是一位美国电视名人和歌手。作为职业摔跤手Hulk Hogan的女儿，她于2005年至2007年间主演了真人秀电视剧《Hogan Knows Best》。在该剧中，当时十几岁的布鲁克在追求音乐事业时与过度保护的父亲作斗争。   
+亚当·理查德·桑德勒是一位美国喜剧演员和演员。他主要是电影中的喜剧男主角，获得的荣誉包括独立精神奖，以及三项格莱美奖、七项黄金时段艾美奖、两项金球奖和一项演员工会奖的提名。2023年，桑德勒荣获马克·吐温美国幽默奖。   
 
-阅读延伸[1021276]: [https://en.wikipedia.org/wiki/Brooke_Hogan](https://en.wikipedia.org/wiki/Brooke_Hogan)   
+阅读延伸[102690]: [https://en.wikipedia.org/wiki/Adam_Sandler](https://en.wikipedia.org/wiki/Adam_Sandler)   
 
-## 马尔科姆-贾马尔_华纳   
-Malcolm-Jamal Warner was an American actor, musician and poet. He rose to prominence for his role as Theodore Huxtable on the NBC sitcom The Cosby Show (1984–1992), which earned him a nomination for Outstanding Supporting Actor in a Comedy Series at the 38th Primetime Emmy Awards. He was also known for his roles as Malcolm McGee on the sitcom Malcolm & Eddie (1996–2000), Dr. Alex Reed in the sitcom Reed Between the Lines, and Dr. AJ Austin in the medical drama The Resident.   
+## Sunny_Sandler   
+Sunny Madeline Sandler is an American actress. Her parents are actors Adam Sandler and Jackie Sandler. She is known for playing Stacy Friedman in You Are So Not Invited to My Bat Mitzvah (2023).   
 
-马尔科姆-贾马尔·华纳（Malcolm-Jamal Warner）是一位美国演员、音乐家和诗人。他因在NBC情景喜剧《考斯比秀》（The Cosby Show）（1984-1992年）中饰演西奥多·赫克斯特布尔（Theodore Huxtable）而声名鹊起，该片为他赢得了第38届黄金时段艾美奖喜剧类最佳男配角提名。他还因在情景喜剧《马尔科姆与埃迪》（Malcolm & Eddie，1996-2000）中饰演马尔科姆·麦吉、在情景喜剧《Reed Between the Lines》中饰演亚历克斯·里德博士以及在医疗剧《住院医师》中饰演AJ奥斯汀博士而闻名。   
+桑尼·玛德琳·桑德勒是一位美国女演员。她的父母是演员亚当·桑德勒和杰基·桑德勒。她因在《You Are So Not Invited to My Bat Mitzvah》（2023）中扮演史黛西·弗里德曼而闻名。   
 
-阅读延伸[656258]: [https://en.wikipedia.org/wiki/Malcolm-Jamal_Warner](https://en.wikipedia.org/wiki/Malcolm-Jamal_Warner)   
+阅读延伸[39708362]: [https://en.wikipedia.org/wiki/Sunny_Sandler](https://en.wikipedia.org/wiki/Sunny_Sandler)   
 
-## 杰弗里_爱泼斯坦   
-Jeffrey Edward Epstein was an American financier and child sex offender. Born and raised in New York City, Epstein began his professional career as a teacher at the Dalton School, despite lacking a college degree. After his dismissal from the school in 1976, he entered the banking and finance sector, working at Bear Stearns in various roles before starting his own firm. Epstein cultivated an elite social circle and procured many women and children whom he and his associates sexually abused.   
+## 尼克_库尔茨   
+Nicholas Jeffrey Kurtz is an American professional baseball first baseman for the Athletics of Major League Baseball (MLB). He played college baseball for the Wake Forest Demon Deacons and was selected by the Athletics in the first round of the 2024 MLB draft. He made his MLB debut in 2025.   
 
-杰弗里·爱德华·爱泼斯坦是一位美国金融家和儿童性犯罪者。爱泼斯坦在纽约出生和长大，尽管没有大学学位，但他还是在道尔顿学校担任教师，开始了他的职业生涯。1976年被学校开除后，他进入了银行和金融行业，在创办自己的公司之前，在贝尔斯登担任过各种职位。爱泼斯坦培养了一个精英社交圈，并收买了许多妇女和儿童，这些妇女和儿童被他和他的同事性虐待。   
+尼古拉斯·杰弗里·库尔茨（Nicholas Jeffrey Kurtz）是美国职业棒球大联盟（MLB）田径队的一垒手。他曾为维克森林恶魔执事队打大学棒球，并在2024年MLB选秀第一轮中被田径队选中。他于2025年首次亮相MLB。   
 
-阅读延伸[6253522]: [https://en.wikipedia.org/wiki/Jeffrey_Epstein](https://en.wikipedia.org/wiki/Jeffrey_Epstein)   
+阅读延伸[75262190]: [https://en.wikipedia.org/wiki/Nick_Kurtz](https://en.wikipedia.org/wiki/Nick_Kurtz)   
+
+## 比利_乔尔   
+William Martin Joel is an American singer, songwriter, and pianist. Nicknamed the "Piano Man" after his signature 1973 song of the same name, Joel has had a successful career as a solo artist since the 1970s. From 1971 to 1993, he released 12 studio albums spanning the genres of pop and rock, and in 2001 released a one-off studio album of classical compositions. With over 160 million records sold worldwide, Joel is one of the world's best-selling music artists and is the fourth-best-selling solo artist in the United States. His 1985 compilation album, Greatest Hits – Volume I & Volume II, is one of the best-selling albums in the United States.   
+
+威廉·马丁·乔尔是一位美国歌手、词曲作者和钢琴家。乔尔因其1973年的同名标志性歌曲而被昵称为“钢琴人”，自20世纪70年代以来一直是一名成功的独唱艺术家。从1971年到1993年，他发行了12张录音室专辑，涵盖流行和摇滚流派，并于2001年发行了一张一次性的古典作品录音室专辑。Joel在全球销量超过1.6亿张唱片，是世界上最畅销的音乐艺术家之一，也是美国第四畅销的独唱艺术家。他1985年的合辑专辑《Greatest Hits - Volume I & Volume II》是美国最畅销的专辑之一。   
+
+阅读延伸[43927]: [https://en.wikipedia.org/wiki/Billy_Joel](https://en.wikipedia.org/wiki/Billy_Joel)   
 
 ## 死亡_in_2025   
 The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
@@ -83,26 +83,19 @@ Ghislaine Noelle Marion Maxwell is a British former socialite and a convicted se
 
 阅读延伸[32018562]: [https://en.wikipedia.org/wiki/Ghislaine_Maxwell](https://en.wikipedia.org/wiki/Ghislaine_Maxwell)   
 
-## 杰西_海曼   
-Jesse Wayne Heiman is an American actor and comedian, best known for his uncredited work as an extra in a wide variety of films and television shows. He is also known for appearing in a GoDaddy commercial at Super Bowl XLVII, alongside Bar Refaeli and Danica Patrick.   
+## 杰弗里_爱泼斯坦   
+Jeffrey Edward Epstein was an American financier and child sex offender. Born and raised in New York City, Epstein began his professional career as a teacher at the Dalton School, despite lacking a college degree. After his dismissal from the school in 1976, he entered the banking and finance sector, working at Bear Stearns in various roles before starting his own firm. Epstein cultivated an elite social circle and procured many women and children whom he and his associates sexually abused.   
 
-杰西·韦恩·海曼（Jesse Wayne Heiman）是一位美国演员和喜剧演员，因在各种电影和电视节目中担任临时演员而闻名。他还因与Bar Refaeli和Danica Patrick一起出演超级碗XLVII的GoDaddy广告而闻名。   
+杰弗里·爱德华·爱泼斯坦是一位美国金融家和儿童性犯罪者。爱泼斯坦在纽约出生和长大，尽管没有大学学位，但他还是在道尔顿学校担任教师，开始了他的职业生涯。1976年被学校开除后，他进入了银行和金融行业，在创办自己的公司之前，在贝尔斯登担任过各种职位。爱泼斯坦培养了一个精英社交圈，并收买了许多妇女和儿童，这些妇女和儿童被他和他的同事性虐待。   
 
-阅读延伸[31214633]: [https://en.wikipedia.org/wiki/Jesse_Heiman](https://en.wikipedia.org/wiki/Jesse_Heiman)   
+阅读延伸[6253522]: [https://en.wikipedia.org/wiki/Jeffrey_Epstein](https://en.wikipedia.org/wiki/Jeffrey_Epstein)   
 
-## 莎朗_奥斯本   
-Sharon Rachel Osbourne is an English-American television personality, music manager, and author. She was married to heavy metal singer Ozzy Osbourne from 1982 until his death in 2025, and came to prominence while appearing on The Osbournes (2002–2005), a reality television show that aired on MTV, which followed her family's daily life. Osbourne later became a judge on television talent competition shows, including The X Factor and America's Got Talent (2007–2012).   
+## UFC_on_ABC：_Whittaker_vs._ de_Ridder   
+UFC on ABC: Whittaker vs. de Ridder was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on July 26, 2025, at the Etihad Arena in Abu Dhabi, United Arab Emirates.   
 
-莎朗·雷切尔·奥斯本（Sharon Rachel Osbourne）是一位英美裔电视名人、音乐经理和作家。她于1982年与重金属歌手奥兹·奥斯本（Ozzy Osbourne）结婚，直至2025年去世，并在出演《奥斯本》（The Osbournes）（2002-2005）时声名鹊起，这是一档在MTV上播出的真人秀节目，关注她家人的日常生活。奥斯本后来成为电视选秀节目的评委，包括《X Factor》和《美国达人秀》（2007-2012年）。   
+UFC在ABC上：Whittaker vs. de Ridder是由终极格斗锦标赛制作的一项综合武术赛事，于2025年7月26日在阿拉伯联合酋长国阿布扎比的阿提哈德竞技场举行。   
 
-阅读延伸[165939]: [https://en.wikipedia.org/wiki/Sharon_Osbourne](https://en.wikipedia.org/wiki/Sharon_Osbourne)   
-
-## 琳达_霍根_（电视_个性）   
-Linda Marie Claridge, also known as Linda Hogan, is an American television personality who was the first wife of professional wrestler Hulk Hogan. She is best known for her role on the American reality television show Hogan Knows Best.   
-
-琳达·玛丽·克拉里奇（Linda Marie Claridge），又名琳达·霍根（Linda Hogan），是一位美国电视名人，也是职业摔跤手胡尔克·霍根（Hulk Hogan）的第一任妻子。她因在美国真人秀节目《霍根最了解》中的角色而闻名。   
-
-阅读延伸[4671458]: [https://en.wikipedia.org/wiki/Linda_Hogan_(TV_personality)](https://en.wikipedia.org/wiki/Linda_Hogan_(TV_personality))   
+阅读延伸[79315912]: [https://en.wikipedia.org/wiki/UFC_on_ABC%3A_Whittaker_vs._de_Ridder](https://en.wikipedia.org/wiki/UFC_on_ABC%3A_Whittaker_vs._de_Ridder)   
 
 ## 凡妮莎_柯比   
 Vanessa Nuala Kirby is an English actress. She rose to international prominence with her portrayal of Princess Margaret in the Netflix drama series The Crown (2016–2017), for which she won the BAFTA for Best Supporting Actress. For her performance in the film Pieces of a Woman (2020), she won the Volpi Cup for Best Actress, and received a nomination for the Academy Award for Best Actress.   
@@ -111,26 +104,33 @@ Vanessa Nuala Kirby is an English actress. She rose to international prominence 
 
 阅读延伸[32483659]: [https://en.wikipedia.org/wiki/Vanessa_Kirby](https://en.wikipedia.org/wiki/Vanessa_Kirby)   
 
-## 尼克_霍根   
-Nicholas Allan Bollea, known as Nick Hogan, is an American reality television personality known for his appearances on the reality show Hogan Knows Best alongside his father, mother, and older sister.   
+## 本尼_萨夫迪   
+Benjamin Safdie is an American filmmaker and actor. He and his elder brother, Josh, have directed the films Heaven Knows What (2014), Good Time (2017), and Uncut Gems (2019). Transitioning towards acting, Safdie was nominated for the Independent Spirit Award for Best Supporting Male for his role in Good Time and has since taken on roles in films such as Licorice Pizza (2021), Are You There God? It's Me, Margaret, and Oppenheimer. He also co-created, co-wrote, and starred in the television series The Curse (2023).   
 
-尼古拉斯·艾伦·博利亚（Nicholas Allan Bollea），又名尼克·霍根（Nick Hogan），是一位美国真人秀人物，因与父亲、母亲和姐姐一起出现在真人秀节目《霍根最了解》中而闻名。   
+本杰明·萨夫迪是一位美国电影制片人和演员。他和哥哥乔什执导了电影《天堂知道什么》（Heaven Knows What，2014）、《美好时光》（Good Time，2017）和《未切割的宝石》（Uncut Gems，2019）。萨夫迪转向演艺界，凭借在《美好时光》中的角色获得独立精神奖最佳男配角提名，此后又在《甘草披萨》（2021年）、《你在吗？》等电影中出演角色，上帝在吗？是我、玛格丽特和奥本海默。他还共同创作、共同编剧和主演了电视剧《诅咒》（The Curse，2023）。   
 
-阅读延伸[2362463]: [https://en.wikipedia.org/wiki/Nick_Hogan](https://en.wikipedia.org/wiki/Nick_Hogan)   
+阅读延伸[69754034]: [https://en.wikipedia.org/wiki/Benny_Safdie](https://en.wikipedia.org/wiki/Benny_Safdie)   
 
-## 威廉姆斯综合症   
-Williams syndrome (WS), also Williams–Beuren syndrome (WBS), is a genetic disorder that affects many parts of the body. Facial features frequently include a broad forehead, underdeveloped chin, short nose, and full cheeks. Mild to moderate intellectual disability is observed, particularly challenges with visual spatial tasks such as drawing. Verbal skills are relatively unaffected. Many people have an outgoing personality, a happy disposition, an openness to engaging with other people, increased empathy and decreased aggression. Medical issues with teeth, heart problems, and periods of high blood calcium are common.   
+## 富兰克林_理查兹_（角色）   
+Franklin Benjamin Richards is a fictional character appearing in American comic books published by Marvel Comics. The character is a supporting character in Fantastic Four. He has been portrayed as a child and as a novice superhero.   
 
-威廉姆斯综合征（WS），也称为威廉姆斯-博伦综合征（MCB），是一种影响身体许多部位的遗传性疾病。面部特征通常包括宽阔的额头、发育不全的下巴、短鼻子和丰满的脸颊。观察到轻度至中度智力障碍，特别是绘画等视觉空间任务的挑战。言语能力相对不受影响。许多人性格外向，性格快乐，乐于与他人交往，同理心增强，攻击性减弱。牙齿的医疗问题、心脏问题和高血脂期很常见。   
+富兰克林·本杰明·理查兹是漫威漫画出版的美国漫画书中出现的虚构人物。该角色是《神奇四侠》中的配角。他被描绘成一个孩子和新手超级英雄。   
 
-阅读延伸[210454]: [https://en.wikipedia.org/wiki/Williams_syndrome](https://en.wikipedia.org/wiki/Williams_syndrome)   
+阅读延伸[585562]: [https://en.wikipedia.org/wiki/Franklin_Richards_(character)](https://en.wikipedia.org/wiki/Franklin_Richards_(character))   
 
-## 黑色_安息日   
-Black Sabbath were an English rock band formed in Birmingham in 1968 by guitarist Tony Iommi, drummer Bill Ward, bassist Geezer Butler, and vocalist Ozzy Osbourne. After adopting the Black Sabbath name in 1969, they distinguished themselves through occult themes with horror-inspired lyrics and down-tuned guitars. Their first three albums, Black Sabbath, Paranoid, and Master of Reality (1971), were commercially successful, and are now cited as pioneering albums in the development of heavy metal music. Subsequent albums Vol. 4 (1972), Sabbath Bloody Sabbath (1973), Sabotage (1975), Technical Ecstasy (1976), and Never Say Die! (1978) saw the band explore more experimental and progressive styles.   
+## 约翰_戴利_（高尔夫球手）   
+John Patrick Daly is an American professional golfer on the PGA Tour and PGA Tour Champions. Daly is known primarily for his driving distance off the tee, his non-country-club appearance and attitude, his exceptionally long backswing, the inconsistency of his play, and his personal life. His two greatest on-course accomplishments are his "zero-to-hero" victory in the 1991 PGA Championship, and his playoff victory over Costantino Rocca in the 1995 Open Championship.   
 
-Black Sabbath是一支英国摇滚乐队，于1968年在伯明翰成立，由吉他手Tony Iommi、鼓手Bill Ward、贝斯手Geezer Butler和歌手Ozzy Osbourne组成。1969年采用“黑色安息日”这个名字后，他们通过神秘主题、恐怖灵感的歌词和调音的吉他脱颖而出。他们的前三张专辑《Black Sabbath》、《Paranoid》和《Master of Reality》（1971）在商业上取得了成功，现在被认为是重金属音乐发展的先驱专辑。随后的专辑Vol. 4（1972）、Sabbath Bloody Sabbath（1973）、Sabotage（1975）、Technical Ecuits（1976）和Never Say Die！（1978）见证了乐队探索更多实验性和进步的风格。   
+约翰·帕特里克·戴利（John Patrick Daly）是美国职业高尔夫球手，曾参加PGA巡回赛和PGA巡回赛冠军赛。戴利主要以他在发球台外的驾驶距离、他非乡村俱乐部的外表和态度、他超长的后摆、他比赛的不一致性和他的个人生活而闻名。他在球场上的两个最大成就是他在1991年PGA锦标赛中“零到英雄”的胜利，以及他在1995年公开赛中击败Costantino Rocca的季后赛胜利。   
 
-阅读延伸[4314]: [https://en.wikipedia.org/wiki/Black_Sabbath](https://en.wikipedia.org/wiki/Black_Sabbath)   
+阅读延伸[481730]: [https://en.wikipedia.org/wiki/John_Daly_(golfer)](https://en.wikipedia.org/wiki/John_Daly_(golfer))   
+
+## 快乐_吉尔摩   
+Happy Gilmore is a 1996 American sports comedy film directed by Dennis Dugan, produced by Robert Simonds, and starring Adam Sandler in the title role, with Christopher McDonald, Julie Bowen and Carl Weathers. The film follows the exploits of its title character, a failed ice hockey player who seeks to raise enough money to prevent the foreclosure of his grandmother's house. Happy unexpectedly learns he can make long shots in golf and competes in paid tournaments, amassing a following for his skill as well as his boorish behavior.   
+
+《快乐吉尔摩》是一部1996年的美国体育喜剧电影，由丹尼斯·杜根执导，罗伯特·西蒙兹制片，亚当·桑德勒主演，克里斯托弗·麦克唐纳、朱莉·鲍文和卡尔·韦瑟斯主演。这部电影讲述了主角的事迹，他是一位失败的冰球运动员，试图筹集足够的资金来防止祖母的房子被取消抵押品赎回权。快乐意外地得知自己可以在高尔夫球中投远球，还可以参加付费锦标赛，凭借他的技术和粗鲁行为积累了一批追随者。   
+
+阅读延伸[400797]: [https://en.wikipedia.org/wiki/Happy_Gilmore](https://en.wikipedia.org/wiki/Happy_Gilmore)   
 
 ## 阿尼特_帕达   
 Aneet Padda is an Indian actress who works in Hindi films. She began her career with a brief role in the drama Salaam Venky (2022) and had her first lead role in the Amazon Prime Video series Big Girls Don't Cry (2024). She had her breakthrough with Mohit Suri's romantic drama Saiyaara (2025), for which she earned wider recognition.   
