@@ -124,6 +124,17 @@ function document(): DefaultTheme.SidebarItem[] {
         { text: 'Installation', link: 'installation' }, 
       ]
     },
+    {
+      text: 'Data',
+      collapsed: false,
+      items: [
+        { text: 'bank', link: 'data/bank/bank' },
+        { text: 'currency', link: 'data/currency/currency' }, 
+        { text: 'fund', link: 'data/fund/fund_public' },  
+        { text: 'stock', link: 'data/stock/stock' }, 
+        { text: 'event', link: 'data/event/event' }, 
+      ]
+    },
   ]
 }
  
