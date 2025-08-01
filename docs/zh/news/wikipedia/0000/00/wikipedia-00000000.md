@@ -1,108 +1,73 @@
 # 最新资讯  
-## 卡罗琳_莱维特   
-Karoline Claire Leavitt is an American political aide currently serving as the national press secretary for Donald Trump's 2024 presidential campaign. She previously served as an assistant press secretary and presidential writer during the first Donald Trump administration as well as a spokesperson for MAGA Inc., a pro-Trump Super PAC. In 2022, she ran for the U.S. House of Representatives in New Hampshire's 1st district, becoming the second member of Generation Z to win a congressional primary. She lost the general election to incumbent Chris Pappas.   
+## 奥兹_奥斯本   
+John Michael "Ozzy" Osbourne was an English singer, songwriter and media personality. He rose to prominence during the 1970s as the lead vocalist of the heavy metal band Black Sabbath, during which period he adopted the nickname "Prince of Darkness".   
 
-卡罗琳·克莱尔·莱维特（Karoline Claire Leavitt）是一名美国政治助手，目前担任唐纳德·特朗普2024年总统竞选的国家新闻秘书。她此前曾在唐纳德·特朗普第一届政府期间担任助理新闻秘书和总统撰稿人，以及MAGA Inc.的发言人，支持特朗普的超级政治行动委员会。2022年，她竞选新罕布什尔州第一选区的美国众议院议员，成为第二位赢得国会初选的Z世代成员。她在大选中输给了现任总统克里斯·帕帕斯。   
+约翰·迈克尔·“奥兹”·奥斯本是一位英国歌手、词曲作者和媒体名人。20世纪70年代，他作为重金属乐队Black Sabbath的主唱而声名鹊起，在此期间他获得了“黑暗王子”的绰号。   
 
-阅读延伸[71739774]: [https://en.wikipedia.org/wiki/Karoline_Leavitt](https://en.wikipedia.org/wiki/Karoline_Leavitt)   
+阅读延伸[85406]: [https://en.wikipedia.org/wiki/Ozzy_Osbourne](https://en.wikipedia.org/wiki/Ozzy_Osbourne)   
 
-## DeepSeek   
-DeepSeek is a Chinese artificial intelligence company that develops open source large language models (LLM). Based in Hangzhou, Zhejiang, it is owned and solely funded by Chinese hedge fund High-Flyer, whose co-founder, Liang Wenfeng, established the company in 2023 and serves as its CEO.   
+## 悉尼_斯威尼   
+Sydney Bernice Sweeney is an American actress and producer. She gained early recognition for her roles in Everything Sucks!, The Handmaid's Tale, and Sharp Objects. She received wider acclaim for her performances in the drama series Euphoria (2019–present) and the first season of the anthology series The White Lotus (2021), both of which earned her nominations for two Primetime Emmy Awards.   
 
-DeepSeek是一家开发开源大型语言模型（LLM）的中国人工智能公司。该公司总部位于浙江省杭州，由中国对冲基金High-Flyer拥有并全权资助，其联合创始人梁文峰于2023年成立了该公司，并担任首席执行官。   
+西德尼·伯尼斯·斯威尼是一位美国女演员兼制片人。她因在《Everything Sucks！》中的角色而获得早期认可，使女的故事和利器。她因在电视剧《欣快感》（2019年至今）和选集系列《白莲花》（2021年）第一季中的表演而受到广泛赞誉，这两部剧都为她赢得了两项黄金时段艾美奖提名。   
 
-阅读延伸[78452842]: [https://en.wikipedia.org/wiki/DeepSeek](https://en.wikipedia.org/wiki/DeepSeek)   
+阅读延伸[56636819]: [https://en.wikipedia.org/wiki/Sydney_Sweeney](https://en.wikipedia.org/wiki/Sydney_Sweeney)   
 
-## 罗伯特_F._小肯尼迪   
-Robert Francis Kennedy Jr., also known by his initials RFK Jr., is an American politician, environmental lawyer, anti-vaccine activist, and conspiracy theorist. He is the chairman and founder of Children's Health Defense, an anti-vaccine advocacy group that is a leading proponent of COVID-19 vaccine misinformation, and an independent candidate in the 2024 United States presidential election. A member of the Kennedy family, he is a son of the U.S. attorney general and senator Robert F. Kennedy, and a nephew of the U.S. president John F. Kennedy and the senator Ted Kennedy.   
+## 艾米_奥斯本   
+Aimee Rachel Osbourne is an English actress and singer. She is the eldest daughter of Ozzy and Sharon Osbourne. While her younger siblings Jack and Kelly achieved pop culture fame for appearing in the family's MTV reality series The Osbournes, she declined to appear on the show, feeling that doing so would typecast her and affect her musical career. She has expressed discomfort with some of her parents' behaviour on television.   
 
-小罗伯特·弗朗西斯·肯尼迪，他的名字缩写为RFK Jr.，是一位美国政治家、环境律师、反疫苗活动家和阴谋论者。他是儿童健康保护组织的主席和创始人，该组织是一个反疫苗倡导组织，是COVID-19疫苗错误信息的主要支持者，也是2024年美国总统选举的独立候选人。他是肯尼迪家族的一员，是美国司法部长兼参议员罗伯特·F·F的儿子。肯尼迪，也是美国总统约翰·F的侄子。肯尼迪和参议员特德·肯尼迪。   
+艾米·雷切尔·奥斯本（Aimee Rachel Osbourne）是一位英国女演员兼歌手。她是奥兹和莎朗·奥斯本的长女。虽然她的弟弟妹妹杰克和凯利因出演家族的MTV真人秀节目《奥斯本》而在流行文化中声名鹊起，但她拒绝出现在该剧中，觉得这样做会让她典型化并影响她的音乐生涯。她对父母在电视上的一些行为表示不满。   
 
-阅读延伸[522298]: [https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.](https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.)   
+阅读延伸[37122728]: [https://en.wikipedia.org/wiki/Aimee_Osbourne](https://en.wikipedia.org/wiki/Aimee_Osbourne)   
 
-## 利马市长名单   
-The following is a list of Lima's mayors through the 20th and 21st centuries.   
+## 帕梅拉_安德森   
+Pamela Denise Anderson is a Canadian-American actress, model and media personality. She rose to prominence after being selected as the February 1990 Playboy Playmate of the Month. She went on to make regular appearances on the magazine's cover and held the record for the most Playboy covers by any individual. Anderson began her acting career on the ABC sitcom Home Improvement, before receiving international recognition for starring as "C.J." Parker in the drama series Baywatch (1992–1997), which further cemented her status as a sex symbol.   
 
-以下是20世纪和21世纪利马市长名单。   
+帕梅拉·丹尼斯·安德森（Pamela Denise Anderson）是一位共和党裔美国女演员、模特和媒体人物。1990年2月，她被选为《花花公子》本月玩伴后声名鹊起。她随后经常出现在该杂志的封面上，并保持着个人翻唱《花花公子》最多的记录。安德森在美国广播公司（ABC）情景喜剧《家居装修》（Home Improvement）中开始了她的演艺生涯，随后因饰演“CJ”而获得国际认可帕克在电视剧《海滩游侠》（1992-1997）中的角色，进一步巩固了她作为性感象征的地位。   
 
-阅读延伸[4666281]: [https://en.wikipedia.org/wiki/List_of_mayors_of_Lima](https://en.wikipedia.org/wiki/List_of_mayors_of_Lima)   
+阅读延伸[23035]: [https://en.wikipedia.org/wiki/Pamela_Anderson](https://en.wikipedia.org/wiki/Pamela_Anderson)   
 
-## 卡罗琳_肯尼迪   
-Caroline Bouvier Kennedy is an American author, diplomat and attorney who served as the United States ambassador to Australia from 2022 to 2024. Kennedy previously served in the Obama administration as the United States ambassador to Japan from 2013 to 2017. Most of Kennedy's professional life has been in literature, law, politics, education reform, and charity. She is a member of the Kennedy family and the only surviving child of US president John F. Kennedy and First Lady Jacqueline Kennedy.   
+## 莎朗_奥斯本   
+Sharon Rachel Osbourne is an English-American television personality, music manager, and author. She was married to heavy metal singer Ozzy Osbourne from 1982 until his death in 2025, and came to prominence while appearing on The Osbournes (2002–2005), a reality television show that aired on MTV, which followed her family's daily life. Osbourne later became a judge on television talent competition shows, including The X Factor and America's Got Talent (2007–2012).   
 
-卡罗琳·布维尔·肯尼迪（Caroline Bouvier Kennedy）是一位美国作家、外交官和律师，曾于2022年至2024年担任美国驻澳大利亚大使。肯尼迪此前曾于2013年至2017年在奥巴马政府担任美国驻日本大使。肯尼迪的大部分职业生涯都在文学、法律、政治、教育改革和慈善领域。她是肯尼迪家族的成员，也是美国总统约翰·F·F·唯一幸存的孩子。肯尼迪和第一夫人杰奎琳·肯尼迪。   
+莎朗·雷切尔·奥斯本（Sharon Rachel Osbourne）是一位英美裔电视名人、音乐经理和作家。她于1982年与重金属歌手奥兹·奥斯本（Ozzy Osbourne）结婚，直至2025年去世，并在出演《奥斯本》（The Osbournes）（2002-2005）时声名鹊起，这是一档在MTV上播出的真人秀节目，关注她家人的日常生活。奥斯本后来成为电视选秀节目的评委，包括《X Factor》和《美国达人秀》（2007-2012年）。   
 
-阅读延伸[341911]: [https://en.wikipedia.org/wiki/Caroline_Kennedy](https://en.wikipedia.org/wiki/Caroline_Kennedy)   
+阅读延伸[165939]: [https://en.wikipedia.org/wiki/Sharon_Osbourne](https://en.wikipedia.org/wiki/Sharon_Osbourne)   
 
-## 莱肯莱利谋杀案   
-On February 22, 2024, Laken Riley, a 22-year-old Augusta University nursing student, was murdered while she was jogging at the University of Georgia in Athens, Georgia. Her body was found in Oconee Forest Park near Lake Herrick; her death was caused by blunt force trauma and asphyxiation.   
+## 利亚姆·尼森   
+William John Neeson is an actor from Northern Ireland. He has received several accolades, including nominations for an Academy Award, a BAFTA Award, three Golden Globe Awards, and two Tony Awards. In 2020, he was placed seventh on The Irish Times' list of Ireland's 50 Greatest Film Actors. Neeson was appointed Officer of the Order of the British Empire (OBE) in 2000.   
 
-2024年2月22日，22岁的奥古斯塔大学护理专业学生拉肯·莱利（Laken Riley）在佐治亚州雅典的佐治亚大学慢跑时被谋杀。她的尸体在赫里克湖附近的奥科尼森林公园被发现;她的死亡是由钝器外伤和窒息造成的。   
+威廉·约翰·尼森是一位来自北爱尔兰的演员。他曾获得多项荣誉，包括奥斯卡金像奖、英国电影和电视艺术学院奖、三项金球奖和两项托尼奖提名。2020年，他在《爱尔兰时报》评选的爱尔兰50位最伟大电影演员名单中排名第七。尼森于2000年被任命为大英帝国勋章（OBE）官员。   
 
-阅读延伸[76227828]: [https://en.wikipedia.org/wiki/Murder_of_Laken_Riley](https://en.wikipedia.org/wiki/Murder_of_Laken_Riley)   
+阅读延伸[64182]: [https://en.wikipedia.org/wiki/Liam_Neeson](https://en.wikipedia.org/wiki/Liam_Neeson)   
 
-## Facebook   
-Facebook is a social media and social networking service owned by the American technology conglomerate Meta. Created in 2004 by Mark Zuckerberg with four other Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes, its name derives from the face book directories often given to American university students. Membership was initially limited to Harvard students, gradually expanding to other North American universities. Since 2006, Facebook allows everyone to register from 13 years old, except in the case of a handful of nations, where the age requirement is 14 years. As of December 2023, Facebook claimed almost 3.07 billion monthly active users worldwide. As of November 2024, Facebook ranked as the third-most-visited website in the world, with 23% of its traffic coming from the United States. It was the most downloaded mobile app of the 2010s.   
+## 赛亚拉   
+Saiyaara is a 2025 Indian Hindi-language musical romantic drama film directed by Mohit Suri. Produced under Yash Raj Films, it stars debutant Ahaan Panday and Aneet Padda. It is loosely based on the 2004 Korean film A Moment To Remember. The film follows Krish Kapoor, a troubled musician, as he forms a deep connection with Vaani Batra, a shy poet.   
 
-Facebook是美国科技集团Meta旗下的社交媒体和社交网络服务。它由马克·扎克伯格（Mark Zuckerberg）与其他四名哈佛学院学生以及室友爱德华多·萨维林（Eduardo Saverin）、安德鲁·麦科勒姆（Andrew McCollum）、达斯汀·莫斯科维茨（Dustin Moskovitz）和克里斯·休斯（Chris Hughes）于2004年创建，其名称源自美国大学生经常提供的脸书目录。会员最初仅限于哈佛学生，后来逐渐扩展到其他北美大学。自2006年以来，Facebook允许每个人从13岁起注册，但少数国家的年龄要求是14岁。截至2023年12月，Facebook在全球范围内拥有近30.7亿月活跃用户。截至2024年11月，Facebook被评为全球访问量第三大的网站，其23%的流量来自美国。它是2010年代下载量最大的移动应用程序。   
+《Saiyaara》是一部2025年印度印地语音乐浪漫剧情片，由莫希特·苏瑞执导。该片由Yash Raj Films制作，由首次亮相的阿汉·潘迪（Ahaan Panday）和阿尼特·帕达（Aneet Padda）主演。它大致改编自2004年韩国电影《难忘的时刻》。这部电影讲述了陷入困境的音乐家克里什·卡普尔与害羞诗人瓦尼·巴特拉建立了深厚的联系。   
 
-阅读延伸[7529378]: [https://en.wikipedia.org/wiki/Facebook](https://en.wikipedia.org/wiki/Facebook)   
+阅读延伸[80453578]: [https://en.wikipedia.org/wiki/Saiyaara](https://en.wikipedia.org/wiki/Saiyaara)   
 
-## 谢丽尔_海因斯   
-Cheryl Hines is an American actress and comedian. She portrayed Larry David's wife, Cheryl, on HBO's Curb Your Enthusiasm (2000–24), for which she received two Emmy Award nominations. She also starred as Dallas Royce on the ABC sitcom Suburgatory (2011–14), and made her directorial debut with the 2009 film Serious Moonlight. Hines is the wife of lawyer and former 2024 presidential candidate, Robert F. Kennedy Jr.   
+## _神奇_四：_第一步   
+The Fantastic Four: First Steps is a 2025 American superhero film based on the Marvel Comics superhero team the Fantastic Four. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is intended to be the 37th film in the Marvel Cinematic Universe (MCU) and the second reboot of the Fantastic Four film series. The film is directed by Matt Shakman from a screenplay by Josh Friedman, Eric Pearson, Jeff Kaplan, and Ian Springer. It features an ensemble cast including Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach, and Joseph Quinn as the titular team, alongside Julia Garner, Natasha Lyonne, Paul Walter Hauser, and Ralph Ineson. In the film, the Fantastic Four must protect their 1960s-inspired retro-futuristic world from the planet-devouring cosmic being Galactus (Ineson).   
 
-谢丽尔·海因斯是一位美国女演员和喜剧演员。她在HBO的《遏制你的热情》（2000-24）中扮演了拉里·大卫的妻子谢丽尔，并因此获得了两项艾美奖提名。她还在ABC情景喜剧《Suburgatory》（2011-14）中饰演达拉斯·罗伊斯，并在2009年的电影《Serious Moonlight》中首次执导。海因斯是律师、前2024年总统候选人罗伯特·F的妻子Kennedy Jr.   
+《神奇四侠：第一步》是一部2025年的美国超级英雄电影，改编自漫威超级英雄团队神奇四侠。该片由漫威工作室制作，华特迪士尼工作室电影公司发行，预计成为漫威电影宇宙（MCU）的第37部电影，也是神奇四侠系列电影的第二部重启。这部电影由马特·沙克曼执导，改编自乔什·弗里德曼、埃里克·皮尔森、杰夫·卡普兰和伊恩·斯普林格的剧本。该剧由佩德罗·帕斯卡（Pedro Pascal）、凡妮莎·柯比（Vanessa Kirby）、埃本·莫斯-巴拉赫（Ebon Moss-Bachrach）和约瑟夫·奎因（Joseph Quinn）组成，还有朱莉娅·加纳（Julia Garner）、娜塔莎·莱昂内（Natasha Lyonne）、保罗·沃尔特·豪瑟（Paul Walter Hauser）和拉尔夫·伊内森（Ralph Ineson）。在电影中，神奇四侠必须保护他们受20世纪60年代启发的复古未来世界免受吞噬地球的宇宙生物银河系（伊尼森饰）的侵害。   
 
-阅读延伸[1009768]: [https://en.wikipedia.org/wiki/Cheryl_Hines](https://en.wikipedia.org/wiki/Cheryl_Hines)   
+阅读延伸[61443907]: [https://en.wikipedia.org/wiki/The_Fantastic_Four%3A_First_Steps](https://en.wikipedia.org/wiki/The_Fantastic_Four%3A_First_Steps)   
 
-## Instagram   
-Instagram is an American photo and video sharing social networking service owned by Meta Platforms. It allows users to upload media that can be edited with filters, be organized by hashtags, and be associated with a location via geographical tagging. Posts can be shared publicly or with preapproved followers. Users can browse other users' content by tags and locations, view trending content, like photos, and follow other users to add their content to a personal feed. A Meta-operated image-centric social media platform, it is available on iOS, Android, Windows 10, and the web. Users can take photos and edit them using built-in filters and other tools, then share them on other social media platforms like Facebook. It supports 32 languages including English, Hindi, Spanish, French, Korean, and Japanese.   
+## 超人_（2025年_电影）   
+Superman is an upcoming American superhero film based on DC Comics featuring the eponymous character. Produced by DC Studios and to be distributed by Warner Bros. Pictures, it will be the first film in the DC Universe (DCU) and a reboot of the Superman film series. The film is written and directed by James Gunn and stars David Corenswet as Clark Kent / Superman, alongside Rachel Brosnahan, Nicholas Hoult, Edi Gathegi, Anthony Carrigan, Nathan Fillion, Isabela Merced, Skyler Gisondo, Sara Sampaio, María Gabriela de Faría, Wendell Pierce, Alan Tudyk, Pruitt Taylor Vince, and Neva Howell. In the film, Superman's journey to reconcile his alien heritage with his human family is explored.   
 
-Instagram是Meta Platforms旗下的美国照片和视频共享社交网络服务。它允许用户上传可以使用过滤器编辑的媒体，可以通过标签组织，并通过地理标签与位置关联。帖子可以公开或与预先批准的关注者共享。用户可以通过标签和位置浏览其他用户的内容，查看热门内容（例如照片），并关注其他用户将其内容添加到个人提要。它是一个元运营的以图像为中心的社交媒体平台，可在iOS、Android、Windows 10和网络上使用。用户可以使用内置滤镜和其他工具拍摄照片并进行编辑，然后在Facebook等其他社交媒体平台上分享。它支持32种语言，包括英语、印地语、西班牙语、法语、韩语和日语。   
+超人是一部即将上映的美国超级英雄电影，改编自DC漫画，主角是同名角色。该片由DC Studios制作，华纳兄弟影业发行，将成为DC宇宙（DCU）的第一部电影，也是超人系列电影的重启。这部电影由詹姆斯·冈恩编剧和导演，大卫·科伦斯韦特饰演克拉克·肯特/超人，与雷切尔·布罗斯纳汉、尼古拉斯·霍尔特、埃迪·加特吉、安东尼·卡里根、内森·菲利安、伊莎贝尔·默塞德、斯凯勒·吉松多、萨拉·桑帕约、玛丽亚·加布里埃拉·德·法利亚、温德尔·皮尔斯、艾伦·图迪克、普鲁特·泰勒·文斯和涅瓦·豪厄尔一起。在电影中，探索了超人将其外星血统与人类家庭调和起来的旅程。   
 
-阅读延伸[31591547]: [https://en.wikipedia.org/wiki/Instagram](https://en.wikipedia.org/wiki/Instagram)   
+阅读延伸[57255388]: [https://en.wikipedia.org/wiki/Superman_(2025_film)](https://en.wikipedia.org/wiki/Superman_(2025_film))   
 
-## 天堂_（2025_TV_系列）   
-Paradise is an American drama television series created by Dan Fogelman and starring Sterling K. Brown, Julianne Nicholson, and James Marsden. It was released on Hulu in the US on January 26, 2025.   
+## 王国_（2025_film）   
+Kingdom is a 2025 Indian Telugu language spy action drama film written and directed by Gowtam Tinnanuri. The film is produced by Naga Vamsi and Sai Soujanya under the banners of Sithara Entertainments and Fortune Four Cinemas. The film stars Vijay Deverakonda alongside Satyadev and Bhagyashri Borse. It is intended to be the first installment of a planned duology.   
 
-《天堂》是一部由丹·福格尔曼创作、斯特林·K主演的美国电视剧。布朗、朱丽安·尼科尔森和詹姆斯·马斯登。它于2025年1月26日在美国Hulu上发布。   
+《王国》是一部2025年印度泰卢固语间谍动作片，由Gowtam Tinnanuri编剧和导演。这部电影由Naga Vamsi和Sai Soujanya制作，隶属于Sithara Entertainments和Fortune Four Cinemas。这部电影由维贾伊·德韦拉孔达（Vijay Deverakonda）与萨蒂亚德夫（Satyadev）和巴加什里·博尔塞（Bhagyashri Borse）主演。它旨在成为计划中的二元体系的第一部分。   
 
-阅读延伸[75712208]: [https://en.wikipedia.org/wiki/Paradise_(2025_TV_series)](https://en.wikipedia.org/wiki/Paradise_(2025_TV_series))   
-
-## 2024- 25_欧足联_比利时_联赛   
-The 2024–25 UEFA Champions League is the 70th season of Europe's premier club football tournament organised by UEFA, and the 33rd season since it was rebranded from the European Champion Clubs' Cup to the UEFA Champions League. This will be the first season under a new format, where in the league phase each team plays eight games against different opponents, but all 36 teams are ranked in a joint group.   
-
-2024-25年欧洲冠军联赛是欧足联组织的欧洲顶级俱乐部足球锦标赛的第70个赛季，也是从欧洲冠军俱乐部杯更名为欧洲冠军联赛以来的第33个赛季。这将是新形式下的第一个赛季，在联赛阶段，每支球队将与不同的对手进行8场比赛，但所有36支球队都被归入一个联合小组。   
-
-阅读延伸[66705208]: [https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League](https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Champions_League)   
-
-## 唐纳德_特朗普   
-Donald John Trump is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021.   
-
-唐纳德·约翰·特朗普是一位美国政治家、媒体人物和商人，曾于2017年至2021年担任美国第45任总统。   
-
-阅读延伸[4848272]: [https://en.wikipedia.org/wiki/Donald_Trump](https://en.wikipedia.org/wiki/Donald_Trump)   
-
-## 克里斯蒂_诺姆   
-Kristi Lynn Noem is an American politician who has served since 2019 as the 33rd governor of South Dakota. A member of the Republican Party, she was the U.S. representative for South Dakota's at-large congressional district from 2011 to 2019, and a member of the South Dakota House of Representatives for the 6th district from 2007 to 2011.   
-
-克里斯蒂·林恩·诺姆（Kristi Lynn Noem）是一位美国政治家，自2019年以来一直担任南达科他州第33任州长。作为共和党成员，她于2011年至2019年担任南达科他州无党派国会选区的美国代表，并于2007年至2011年担任南达科他州第六选区众议院议员。   
-
-阅读延伸[27663933]: [https://en.wikipedia.org/wiki/Kristi_Noem](https://en.wikipedia.org/wiki/Kristi_Noem)   
-
-## ChatGPT   
-ChatGPT is a generative artificial intelligence chatbot developed by OpenAI and launched in 2022. It is based on the GPT-4o large language model (LLM). ChatGPT can generate human-like conversational responses, and enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. It is credited with accelerating the AI boom, which has led to ongoing rapid investment in and public attention to the field of artificial intelligence (AI). Some observers have raised concern about the potential of ChatGPT and similar programs to displace human intelligence, enable plagiarism, or fuel misinformation.   
-
-ChatGPT是由OpenAI开发的生成式人工智能聊天机器人，于2022年推出。它基于GPT-4 o大型语言模型（LLM）。ChatGPT可以生成类似人类的对话响应，并使用户能够细化和引导对话以达到所需的长度、格式、风格、详细程度和语言。它被认为加速了人工智能的繁荣，导致了人工智能（AI）领域的持续快速投资和公众对人工智能（AI）领域的关注。一些观察家对ChatGPT和类似程序可能取代人类智力、助长抄袭或助长错误信息表示担忧。   
-
-阅读延伸[72417803]: [https://en.wikipedia.org/wiki/ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)   
-
-## 布鲁克林   
-Brooklyn is a borough of New York City located at the westernmost end of Long Island in the State of New York. Formerly an independent city, the borough is coextensive with Kings County, one of twelve original counties established under British rule in 1683 in the then Province of New York. As of the 2020 United States census, the population stood at 2,736,074, making it the most populous of the five boroughs of New York City, and the most populous county in the state. Brooklyn, at 37,339.9 inhabitants per square mile (14,417.0/km2), is the second most densely populated county in the U.S. after Manhattan, as of 2022. Had Brooklyn remained an independent city, it would now be the fourth most populous American city after the rest of New York City, Los Angeles, and Chicago.   
-
-布鲁克林是纽约市的一个行政区，位于纽约州长岛的最西端。该行政区以前是一个独立城市，与金斯县同延，金斯县是1683年英国统治下在当时的纽约省建立的十二个原始县之一。截至2020年美国人口普查，人口为2，736，074人，是纽约市五个行政区中人口最多的县，也是该州人口最多的县。截至2022年，布鲁克林每平方英里有37，339.9名居民（14，417.0/平方公里），是美国人口第二稠密的县，仅次于曼哈顿。如果布鲁克林仍然是一个独立城市，它现在将成为仅次于纽约市、洛杉矶和芝加哥其他地区的美国人口第四多的城市。   
-
-阅读延伸[47384]: [https://en.wikipedia.org/wiki/Brooklyn](https://en.wikipedia.org/wiki/Brooklyn)   
+阅读延伸[77509057]: [https://en.wikipedia.org/wiki/Kingdom_(2025_film)](https://en.wikipedia.org/wiki/Kingdom_(2025_film))   
 
 ## 死亡_in_2025   
 The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
@@ -111,31 +76,66 @@ The following notable deaths occurred in 2025. Names are reported under the date
 
 阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
 
-## 关塔那摩湾拘留营   
-The Guantanamo Bay, also known as GTMO, GITMO, or simply Guantanamo Bay, is a United States military prison within Naval Station Guantanamo Bay (NSGB), on the coast of Guantánamo Bay, Cuba. It was established in January 2002 by U.S. President George W. Bush to hold terrorism suspects and "illegal enemy combatants" during the Global War on Terrorism following the attacks of September 11, 2001. As of January 2025, at least 780 people from 48 countries have been detained at the camp since its creation, of whom 756 had been transferred elsewhere, 9 died in custody, and 15 remain.   
+## 浩克_霍根   
+Terry Gene Bollea, better known by his ring name Hulk Hogan, is an American retired professional wrestler. He is widely regarded as the most recognized wrestling star worldwide, the most popular wrestler of the 1980s, as well as one of the greatest professional wrestlers of all time.   
 
-关塔那摩湾，也称为GTMO、GITMO或简称关塔那摩湾，是古巴关塔那摩湾海岸关塔那摩湾海军基地（NSGB）内的一所美国军事监狱。它由美国总统乔治·W于2002年1月创立。2001年9月11日袭击事件后，布什在全球反恐战争期间关押恐怖主义嫌疑人和“非法敌方战斗人员”。截至2025年1月，自该营地成立以来，至少有来自48个国家的780人被拘留在该营地，其中756人已被转移到其他地方，9人在拘留期间死亡，15人仍留在营地。   
+特里·吉恩·博利亚（Terry Gene Bollea）以其戒指名Hulk Hogan而闻名，是一位美国退休职业摔跤手。他被广泛认为是全球最知名的摔跤明星、20世纪80年代最受欢迎的摔跤手，也是有史以来最伟大的职业摔跤手之一。   
 
-阅读延伸[4406774]: [https://en.wikipedia.org/wiki/Guantanamo_Bay_detention_camp](https://en.wikipedia.org/wiki/Guantanamo_Bay_detention_camp)   
+阅读延伸[301775]: [https://en.wikipedia.org/wiki/Hulk_Hogan](https://en.wikipedia.org/wiki/Hulk_Hogan)   
 
-## 农历新年   
-Lunar New Year is the beginning of a new year based on lunar calendars or, informally but more widely, lunisolar calendars. Typically, both types of calendar begin with a new moon but, whilst a lunar calendar year has a fixed number lunar months, lunisolar calendars have a variable number of lunar months, resetting the count periodically to resynchronise with the solar year. The event is celebrated by numerous cultures in various ways at diverse dates. The determination of the first day of a new lunar or lunisolar year varies by culture.   
+## 娜塔莎_理查森   
+Natasha Jane Richardson was an English-American actress. A member of the Redgrave family, Richardson was the daughter of actress Vanessa Redgrave and director/producer Tony Richardson and the granddaughter of Michael Redgrave and Rachel Kempson. Richardson met future husband, Liam Neeson, in 1991 while filming Shining Through.   
 
-农历新年是基于农历或非正式但更广泛的农历的新年的开始。通常，这两种日历都以新月开始，但虽然农历年的农历月数是固定的，但农历日历的农历月数是可变的，定期重置计数以与太阳年同步。众多文化在不同的日期以不同的方式庆祝这一活动。农历或农历年第一天的确定因文化而异。   
+娜塔莎·简·理查森是一位英裔美国女演员。理查森是雷德格雷夫家族的成员，是女演员凡妮莎·雷德格雷夫和导演/制片人托尼·理查森的女儿，也是迈克尔·雷德格雷夫和雷切尔·肯普森的孙女。1991年，理查森在拍摄《闪灵》时认识了未来的丈夫利亚姆·尼森。   
 
-阅读延伸[288586]: [https://en.wikipedia.org/wiki/Lunar_New_Year](https://en.wikipedia.org/wiki/Lunar_New_Year)   
+阅读延伸[594667]: [https://en.wikipedia.org/wiki/Natasha_Richardson](https://en.wikipedia.org/wiki/Natasha_Richardson)   
 
-## 昆布_梅拉   
-Kumbh Mela or Kumbha Mela is a major pilgrimage and festival in Hinduism. On 4 February 2019, Kumbh Mela witnessed the largest public gathering of Hindus ever recorded. It is celebrated in a cycle of approximately 12 years, to celebrate every revolution Brihaspati (Jupiter) completes. Kumbh is mainly held at four riverside pilgrimage sites, namely: Prayagraj, Haridwar (Ganges), Nashik (Godavari), and Ujjain (Shipra); But now the Kumbh Mela has been revived at a fifth place too. The other rejuvenated Kumbh Mela is celebrated at Bansberia Tribeni Sangam in West Bengal at the confluence of Hooghly and Saraswati river, dates back thousands of years but was stopped 700 years ago, but this Kumbh Mela has been reopened since 2022.   
+## 凯利_奥斯本   
+Kelly Michelle Lee Osbourne is an English television personality, singer, actor, and fashion designer. She is the youngest daughter of Ozzy and Sharon Osbourne, and came to prominence while appearing on the reality show The Osbournes (2002–2005) with her family, for which they won a 2002 Emmy Award for Outstanding Reality Program. Her other television work includes hosting Project Catwalk (2007–2008) and Fashion Police (2010–2015), competing on the ninth season of Dancing with the Stars (2009), and judging on Project Runway Junior (2015–2017) and Australia's Got Talent (2016). She also played the voice role of Hildy Gloom in the Disney XD animated series The 7D (2014–2016).   
 
-大壶节或大壶节是印度教的一个主要朝圣和节日。2019年2月4日，昆布梅拉（Kumbh Mela）见证了有记录以来规模最大的印度教徒公开集会。它以大约12年的周期庆祝，以庆祝布里哈斯帕蒂（木星）完成的每一次革命。大壶主要在四个河边朝圣地举行，分别是：Prayagraj、Haridwar（恒河）、Nashik（Godavari）和Ujjain（Shipra）;但现在大壶节也恢复了第五名。另一座复兴的大壶节在西孟加拉邦胡格利河和萨拉斯瓦蒂河交汇处的Bansberia Tribeni Sangam庆祝，其历史可以追溯到数千年前，但在700年前就停止了，但这座大壶节自2022年以来已重新开放。   
+凯莉·米歇尔·李·奥斯本（Kelly Michelle Lee Osbourne）是一位英国电视名人、歌手、演员和时装设计师。她是奥兹·奥斯本（Ozzy Osbourne）和莎朗·奥斯本（Sharon Osbourne）最小的女儿，在与家人一起出现在真人秀节目《The Osbourne》（2002-2005）中时声名鹊起，并因此获得了2002年艾美奖杰出真人秀节目奖。她的其他电视作品包括主持时装秀计划（2007-2008年）和时尚警察（2010-2015年），参加《与星共舞》第九季的比赛（2009年），并在《天桥少年》（Project Runway Junior）（2015-2017年）和《澳大利亚达人秀》（2016年）中担任评委。她还在迪士尼XO动画系列《The 7 D》（2014-2016年）中扮演了Hildy Gloom的配音角色。   
 
-阅读延伸[405564]: [https://en.wikipedia.org/wiki/Kumbh_Mela](https://en.wikipedia.org/wiki/Kumbh_Mela)   
+阅读延伸[97561]: [https://en.wikipedia.org/wiki/Kelly_Osbourne](https://en.wikipedia.org/wiki/Kelly_Osbourne)   
 
-## 蛇_（十二宫）   
-The snake is the sixth of the twelve-year cycle of animals which appear in the Chinese zodiac related to the Chinese calendar. The Year of the Snake is associated with the Earthly Branch symbol 巳.   
+## 弗吉尼亚州_朱弗尔   
+Virginia Louise Giuffre was an American-Australian advocate of justice for survivors of sex trafficking and one of the most prominent and vocal accusers of child sex offender Jeffrey Epstein. Giuffre created Victims Refuse Silence, a non-profit organization in the United States, in 2015, which was relaunched under the name Speak Out, Act, Reclaim (SOAR) in November 2021. She gave a detailed account to many American and British reporters about her experiences of being trafficked by Epstein and Ghislaine Maxwell.   
 
-蛇是十二年动物周期中的第六种，出现在与中国农历相关的十二生肖中。蛇年与地支符号自流有关。   
+弗吉尼亚·路易丝·朱弗尔（Virginia Louise Giuffre）是一位为性交易幸存者伸张正义的美国-澳大利亚倡导者，也是儿童性犯罪者杰弗里·爱泼斯坦（Jeffrey Epstein）最着名和最直言不讳的指控者之一。Giuffre于2015年在美国创建了一个非营利组织Victims Refuse Silence，并于2021年11月以Speak Out，Act，Reclaim（SOAR）的名义重新启动。她向许多美国和英国记者详细讲述了自己被爱泼斯坦和吉斯莱恩·麦克斯韦贩卖的经历。   
 
-阅读延伸[277030]: [https://en.wikipedia.org/wiki/Snake_(zodiac)](https://en.wikipedia.org/wiki/Snake_(zodiac))   
+阅读延伸[62493394]: [https://en.wikipedia.org/wiki/Virginia_Giuffre](https://en.wikipedia.org/wiki/Virginia_Giuffre)   
+
+## The_Naked_Gun_（2025_电影）   
+The Naked Gun is a 2025 American action comedy film directed by Akiva Schaffer, who co-wrote the script with Dan Gregor and Doug Mand. It serves as a legacy sequel to Naked Gun 33⅓: The Final Insult (1994) and is the fourth film in The Naked Gun franchise. The film stars Liam Neeson, Pamela Anderson, Paul Walter Hauser, Kevin Durand, and Danny Huston. Its plot follows the son of Lt. Frank Drebin who must succeed in his father's footsteps to prevent the closure of Police Squad.   
+
+《裸枪》是一部2025年的美国动作喜剧电影，由Akiva Schaffer执导，她与Dan Gregor和Doug Mand共同撰写剧本。它是《Naked Gun 33》笔名：《最后的侮辱》（1994年）的遗留续集，也是《Naked Gun》系列的第四部电影。该片由利亚姆·尼森、帕梅拉·安德森、保罗·沃尔特·豪瑟、凯文·杜兰德和丹尼·休斯顿主演。故事情节讲述了弗兰克·德雷宾中尉的儿子，他必须继承父亲的脚步，以防止警察小队关闭。   
+
+阅读延伸[72578421]: [https://en.wikipedia.org/wiki/The_Naked_Gun_(2025_film)](https://en.wikipedia.org/wiki/The_Naked_Gun_(2025_film))   
+
+## 快乐_吉尔摩_2   
+Happy Gilmore 2 is a 2025 American sports comedy film directed by Kyle Newacheck, and written by Tim Herlihy and Adam Sandler. It is a sequel to Happy Gilmore (1996). Sandler, Julie Bowen, Christopher McDonald, Ben Stiller, and Dennis Dugan reprise their roles from the original film while Benny Safdie and Bad Bunny join the film as new cast members.   
+
+《快乐吉尔摩2》是一部2025年美国体育喜剧电影，由凯尔·纽阿切克执导，蒂姆·赫利希和亚当·桑德勒编剧。这是快乐吉尔摩（Happy Gilmore）（1996）的续集。桑德勒、朱莉·鲍文、克里斯托弗·麦克唐纳、本·斯蒂勒和丹尼斯·杜根重新扮演原电影中的角色，而本尼·萨夫迪和坏兔子则作为新演员加入电影。   
+
+阅读延伸[76422099]: [https://en.wikipedia.org/wiki/Happy_Gilmore_2](https://en.wikipedia.org/wiki/Happy_Gilmore_2)   
+
+## 杰克_奥斯本   
+Jack Joseph Osbourne is a British-American media personality. He is the son of the late heavy metal singer Ozzy Osbourne and Sharon Osbourne. He starred on MTV's reality series The Osbournes (2002–2005), along with his father, mother Sharon, and sister Kelly. Osbourne has since pursued a career as a fitness and travel reporter, presenting shows such as Jack Osbourne: Adrenaline Junkie (2005–2009) and BBC's Saving Planet Earth (2007). In 2016, he and his father Ozzy travelled the world in the History Channel reality series Ozzy & Jack's World Detour.   
+
+杰克·约瑟夫·奥斯本是一位英美媒体名人。他是已故重金属歌手奥兹·奥斯本和莎朗·奥斯本的儿子。他与父亲、母亲莎朗和妹妹凯莉一起主演了MTV的真人秀节目《奥斯本》（The Osbournes）（2002-2005）。此后，奥斯本开始从事健身和旅游记者的职业，主持了《杰克·奥斯本：肾上腺素瘾君子》（Jack Osbourne：Adrenaline Junkie）（2005-2009）和BBC的《拯救地球》（Saving Planet Earth）（2007）等节目。2016年，他和他的父亲奥兹在历史频道的真人秀节目《奥兹和杰克的世界绕道》中环游世界。   
+
+阅读延伸[394763]: [https://en.wikipedia.org/wiki/Jack_Osbourne](https://en.wikipedia.org/wiki/Jack_Osbourne)   
+
+## 他妈   
+Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
+
+Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词或表达蔑视。虽然它的起源并不清楚，但通常被认为是在1475年左右首次得到证实的。在现代使用中，fuck一词及其衍生词被用作名词、动词、形容词、中词、感叹词或副词。有许多常用短语使用该词，以及包含该词的复合词，例如muddermuses和fuck off。   
+
+阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
+
+## 一起_（2025_film）   
+Together is a 2025 supernatural body horror film written and directed by Michael Shanks, in his directorial debut. The film stars real-life married actors Dave Franco and Alison Brie as a couple who move to the countryside but find themselves encountering a mysterious force that horrifically causes changes in their bodies.   
+
+《在一起》是一部2025年的超自然身体恐怖电影，由迈克尔·尚克斯编剧和导演，这是他的导演处女作。这部电影由现实生活中的已婚演员戴夫·弗兰科和艾莉森·布里主演，饰演一对夫妇搬到乡村，但发现自己遇到了一种神秘的力量，这种力量可怕地导致了他们的身体发生变化。   
+
+阅读延伸[78577232]: [https://en.wikipedia.org/wiki/Together_(2025_film)](https://en.wikipedia.org/wiki/Together_(2025_film))   
 
