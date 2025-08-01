@@ -24,6 +24,7 @@ module.exports = {
     {
       text: '技术文档',
       items: [
+        { text: 'AKShare', link: `${BASEPATH}/document/akshare/document/tutorial` },
         { text: 'OpenAI', link: `${BASEPATH}/document/openai/document/introduction` },
         { text: 'ViteJS', link: `${BASEPATH}/document/vitejs/guide/` },
         { text: 'VitePress', link: `${BASEPATH}/document/vitepress/guide/what-is-vitepress` },

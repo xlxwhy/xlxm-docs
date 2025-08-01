@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "i": "npm install  --registry https://registry.npmmirror.com  --legacy-peer-deps",
+    "build:document:akshare": "sh ./bin/build-document.sh akshare ",
     "build:document:openai": "sh ./bin/build-document.sh openai ",
     "build:document:vitejs": "sh ./bin/build-document.sh vitejs ",
     "build:document:vitepress": "sh ./bin/build-document.sh vitepress ",
@@ -28,7 +29,7 @@
     "minimist": "^1.2.8",
     "numeral": "^2.0.6",
     "sass": "^1.69.5",
-    "vitepress": "^1.0.0-rc.20",
+    "vitepress": "^1.6.3",
     "vue-qr": "^4.0.9",
     "wikipedia": "^2.1.1"
   },
