@@ -6,13 +6,6 @@ The 2025 SummerSlam, also promoted as SummerSlam: New Jersey, is an upcoming pro
 
 阅读延伸[60009987]: [https://en.wikipedia.org/wiki/SummerSlam_(2025)](https://en.wikipedia.org/wiki/SummerSlam_(2025))   
 
-## 悉尼_斯威尼   
-Sydney Bernice Sweeney is an American actress and producer. She gained early recognition for her roles in Everything Sucks!, The Handmaid's Tale, and Sharp Objects. She received wider acclaim for her performances in the drama series Euphoria (2019–present) and the first season of the anthology series The White Lotus (2021), both of which earned her nominations for two Primetime Emmy Awards.   
-
-西德尼·伯尼斯·斯威尼是一位美国女演员兼制片人。她因在《Everything Sucks！》中的角色而获得早期认可，使女的故事和利器。她因在电视剧《欣快感》（2019年至今）和选集系列《白莲花》（2021年）第一季中的表演而受到广泛赞誉，这两部剧都为她赢得了两项黄金时段艾美奖提名。   
-
-阅读延伸[56636819]: [https://en.wikipedia.org/wiki/Sydney_Sweeney](https://en.wikipedia.org/wiki/Sydney_Sweeney)   
-
 ## _神奇_四：_第一步   
 The Fantastic Four: First Steps is a 2025 American superhero film based on the Marvel Comics superhero team the Fantastic Four. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is intended to be the 37th film in the Marvel Cinematic Universe (MCU) and the second reboot of the Fantastic Four film series. The film is directed by Matt Shakman from a screenplay by Josh Friedman, Eric Pearson, Jeff Kaplan, and Ian Springer. It features an ensemble cast including Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach, and Joseph Quinn as the titular team, alongside Julia Garner, Natasha Lyonne, Paul Walter Hauser, and Ralph Ineson. In the film, the Fantastic Four must protect their 1960s-inspired retro-futuristic world from the planet-devouring cosmic being Galactus (Ineson).   
 
@@ -20,19 +13,19 @@ The Fantastic Four: First Steps is a 2025 American superhero film based on the M
 
 阅读延伸[61443907]: [https://en.wikipedia.org/wiki/The_Fantastic_Four%3A_First_Steps](https://en.wikipedia.org/wiki/The_Fantastic_Four%3A_First_Steps)   
 
-## 奥兹_奥斯本   
-John Michael "Ozzy" Osbourne was an English singer, songwriter and media personality. He rose to prominence during the 1970s as the lead vocalist of the heavy metal band Black Sabbath, during which period he adopted the nickname "Prince of Darkness".   
+## 洛尼_安德森   
+Loni Anderson was an American actress. She is best known for playing receptionist Jennifer Marlowe on the CBS sitcom WKRP in Cincinnati (1978–1982), which earned her nominations for three Golden Globe Awards and two Emmy Awards.   
 
-约翰·迈克尔·“奥兹”·奥斯本是一位英国歌手、词曲作者和媒体名人。20世纪70年代，他作为重金属乐队Black Sabbath的主唱而声名鹊起，在此期间他获得了“黑暗王子”的绰号。   
+洛尼·安德森是一位美国女演员。她因在辛辛那提CBS情景喜剧WKRP（1978-1982年）中扮演接待员詹妮弗·马洛而闻名，该剧为她赢得了三项金球奖和两项艾美奖提名。   
 
-阅读延伸[85406]: [https://en.wikipedia.org/wiki/Ozzy_Osbourne](https://en.wikipedia.org/wiki/Ozzy_Osbourne)   
+阅读延伸[769659]: [https://en.wikipedia.org/wiki/Loni_Anderson](https://en.wikipedia.org/wiki/Loni_Anderson)   
 
-## The_Naked_Gun_（2025_电影）   
-The Naked Gun is a 2025 American action comedy film directed by Akiva Schaffer, who co-wrote the script with Dan Gregor and Doug Mand. It serves as a legacy sequel to Naked Gun 33⅓: The Final Insult (1994) and is the fourth film in The Naked Gun franchise. The film stars Liam Neeson, Pamela Anderson, Paul Walter Hauser, Kevin Durand, and Danny Huston. Its plot follows the son of Lt. Frank Drebin who must succeed in his father's footsteps to prevent the closure of Police Squad.   
+## 悉尼_斯威尼   
+Sydney Bernice Sweeney is an American actress and producer. She gained early recognition for her roles in Everything Sucks!, The Handmaid's Tale, and Sharp Objects. She received wider acclaim for her performances in the drama series Euphoria (2019–present) and the first season of the anthology series The White Lotus (2021), both of which earned her nominations for two Primetime Emmy Awards.   
 
-《裸枪》是一部2025年的美国动作喜剧电影，由Akiva Schaffer执导，她与Dan Gregor和Doug Mand共同撰写剧本。它是《Naked Gun 33》笔名：《最后的侮辱》（1994年）的遗留续集，也是《Naked Gun》系列的第四部电影。该片由利亚姆·尼森、帕梅拉·安德森、保罗·沃尔特·豪瑟、凯文·杜兰德和丹尼·休斯顿主演。故事情节讲述了弗兰克·德雷宾中尉的儿子，他必须继承父亲的脚步，以防止警察小队关闭。   
+西德尼·伯尼斯·斯威尼是一位美国女演员兼制片人。她因在《Everything Sucks！》中的角色而获得早期认可，使女的故事和利器。她因在电视剧《欣快感》（2019年至今）和选集系列《白莲花》（2021年）第一季中的表演而受到广泛赞誉，这两部剧都为她赢得了两项黄金时段艾美奖提名。   
 
-阅读延伸[72578421]: [https://en.wikipedia.org/wiki/The_Naked_Gun_(2025_film)](https://en.wikipedia.org/wiki/The_Naked_Gun_(2025_film))   
+阅读延伸[56636819]: [https://en.wikipedia.org/wiki/Sydney_Sweeney](https://en.wikipedia.org/wiki/Sydney_Sweeney)   
 
 ## 超人_（2025年_电影）   
 Superman is an upcoming American superhero film based on DC Comics featuring the eponymous character. Produced by DC Studios and to be distributed by Warner Bros. Pictures, it will be the first film in the DC Universe (DCU) and a reboot of the Superman film series. The film is written and directed by James Gunn and stars David Corenswet as Clark Kent / Superman, alongside Rachel Brosnahan, Nicholas Hoult, Edi Gathegi, Anthony Carrigan, Nathan Fillion, Isabela Merced, Skyler Gisondo, Sara Sampaio, María Gabriela de Faría, Wendell Pierce, Alan Tudyk, Pruitt Taylor Vince, and Neva Howell. In the film, Superman's journey to reconcile his alien heritage with his human family is explored.   
@@ -41,19 +34,12 @@ Superman is an upcoming American superhero film based on DC Comics featuring the
 
 阅读延伸[57255388]: [https://en.wikipedia.org/wiki/Superman_(2025_film)](https://en.wikipedia.org/wiki/Superman_(2025_film))   
 
-## 帕梅拉_安德森   
-Pamela Denise Anderson is a Canadian-American actress, model and media personality. She rose to prominence after being selected as the February 1990 Playboy Playmate of the Month. She went on to make regular appearances on the magazine's cover and held the record for the most Playboy covers by any individual. Anderson began her acting career on the ABC sitcom Home Improvement, before receiving international recognition for starring as "C.J." Parker in the drama series Baywatch (1992–1997), which further cemented her status as a sex symbol.   
+## The_Naked_Gun_（2025_电影）   
+The Naked Gun is a 2025 American action comedy film directed by Akiva Schaffer, who co-wrote the script with Dan Gregor and Doug Mand. It serves as a legacy sequel to Naked Gun 33⅓: The Final Insult (1994) and is the fourth film in The Naked Gun franchise. The film stars Liam Neeson, Pamela Anderson, Paul Walter Hauser, Kevin Durand, and Danny Huston. Its plot follows the son of Lt. Frank Drebin who must succeed in his father's footsteps to prevent the closure of Police Squad.   
 
-帕梅拉·丹尼斯·安德森（Pamela Denise Anderson）是一位共和党裔美国女演员、模特和媒体人物。1990年2月，她被选为《花花公子》本月玩伴后声名鹊起。她随后经常出现在该杂志的封面上，并保持着个人翻唱《花花公子》最多的记录。安德森在美国广播公司（ABC）情景喜剧《家居装修》（Home Improvement）中开始了她的演艺生涯，随后因饰演“CJ”而获得国际认可帕克在电视剧《海滩游侠》（1992-1997）中的角色，进一步巩固了她作为性感象征的地位。   
+《裸枪》是一部2025年的美国动作喜剧电影，由Akiva Schaffer执导，她与Dan Gregor和Doug Mand共同撰写剧本。它是《Naked Gun 33》笔名：《最后的侮辱》（1994年）的遗留续集，也是《Naked Gun》系列的第四部电影。该片由利亚姆·尼森、帕梅拉·安德森、保罗·沃尔特·豪瑟、凯文·杜兰德和丹尼·休斯顿主演。故事情节讲述了弗兰克·德雷宾中尉的儿子，他必须继承父亲的脚步，以防止警察小队关闭。   
 
-阅读延伸[23035]: [https://en.wikipedia.org/wiki/Pamela_Anderson](https://en.wikipedia.org/wiki/Pamela_Anderson)   
-
-## 赛亚拉   
-Saiyaara is a 2025 Indian Hindi-language musical romantic drama film directed by Mohit Suri. Produced under Yash Raj Films, it stars debutant Ahaan Panday and Aneet Padda. It is loosely based on the 2004 Korean film A Moment To Remember. The film follows Krish Kapoor, a troubled musician, as he forms a deep connection with Vaani Batra, a shy poet.   
-
-《Saiyaara》是一部2025年印度印地语音乐浪漫剧情片，由莫希特·苏瑞执导。该片由Yash Raj Films制作，由首次亮相的阿汉·潘迪（Ahaan Panday）和阿尼特·帕达（Aneet Padda）主演。它大致改编自2004年韩国电影《难忘的时刻》。这部电影讲述了陷入困境的音乐家克里什·卡普尔与害羞诗人瓦尼·巴特拉建立了深厚的联系。   
-
-阅读延伸[80453578]: [https://en.wikipedia.org/wiki/Saiyaara](https://en.wikipedia.org/wiki/Saiyaara)   
+阅读延伸[72578421]: [https://en.wikipedia.org/wiki/The_Naked_Gun_(2025_film)](https://en.wikipedia.org/wiki/The_Naked_Gun_(2025_film))   
 
 ## 我的牛津年   
 My Oxford Year is a 2025 American romantic comedy film directed by Iain Morris and written by Allison Burnett and Melissa Osborne, inspired by the novel of the same name by Julia Whelan, which was adapted from Burnett’s original screenplay. It stars Sofia Carson, Corey Mylchreest, Dougray Scott, and Catherine McCormack.   
@@ -69,12 +55,40 @@ Corey Mylchreest is an English actor. A graduate of the Royal Academy of Dramati
 
 阅读延伸[73059654]: [https://en.wikipedia.org/wiki/Corey_Mylchreest](https://en.wikipedia.org/wiki/Corey_Mylchreest)   
 
+## 赛亚拉   
+Saiyaara is a 2025 Indian Hindi-language musical romantic drama film directed by Mohit Suri. Produced under Yash Raj Films, it stars debutant Ahaan Panday and Aneet Padda. It is loosely based on the 2004 Korean film A Moment To Remember. The film follows Krish Kapoor, a troubled musician, as he forms a deep connection with Vaani Batra, a shy poet.   
+
+《Saiyaara》是一部2025年印度印地语音乐浪漫剧情片，由莫希特·苏瑞执导。该片由Yash Raj Films制作，由首次亮相的阿汉·潘迪（Ahaan Panday）和阿尼特·帕达（Aneet Padda）主演。它大致改编自2004年韩国电影《难忘的时刻》。这部电影讲述了陷入困境的音乐家克里什·卡普尔与害羞诗人瓦尼·巴特拉建立了深厚的联系。   
+
+阅读延伸[80453578]: [https://en.wikipedia.org/wiki/Saiyaara](https://en.wikipedia.org/wiki/Saiyaara)   
+
 ## 死亡_in_2025   
 The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
 
 以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
 
 阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
+
+## 奥兹_奥斯本   
+John Michael "Ozzy" Osbourne was an English singer, songwriter and media personality. He rose to prominence during the 1970s as the lead vocalist of the heavy metal band Black Sabbath, during which period he adopted the nickname "Prince of Darkness".   
+
+约翰·迈克尔·“奥兹”·奥斯本是一位英国歌手、词曲作者和媒体名人。20世纪70年代，他作为重金属乐队Black Sabbath的主唱而声名鹊起，在此期间他获得了“黑暗王子”的绰号。   
+
+阅读延伸[85406]: [https://en.wikipedia.org/wiki/Ozzy_Osbourne](https://en.wikipedia.org/wiki/Ozzy_Osbourne)   
+
+## 帕梅拉_安德森   
+Pamela Denise Anderson is a Canadian-American actress, model and media personality. She rose to prominence after being selected as the February 1990 Playboy Playmate of the Month. She went on to make regular appearances on the magazine's cover and held the record for the most Playboy covers by any individual. Anderson began her acting career on the ABC sitcom Home Improvement, before receiving international recognition for starring as "C.J." Parker in the drama series Baywatch (1992–1997), which further cemented her status as a sex symbol.   
+
+帕梅拉·丹尼斯·安德森（Pamela Denise Anderson）是一位共和党裔美国女演员、模特和媒体人物。1990年2月，她被选为《花花公子》本月玩伴后声名鹊起。她随后经常出现在该杂志的封面上，并保持着个人翻唱《花花公子》最多的记录。安德森在美国广播公司（ABC）情景喜剧《家居装修》（Home Improvement）中开始了她的演艺生涯，随后因饰演“CJ”而获得国际认可帕克在电视剧《海滩游侠》（1992-1997）中的角色，进一步巩固了她作为性感象征的地位。   
+
+阅读延伸[23035]: [https://en.wikipedia.org/wiki/Pamela_Anderson](https://en.wikipedia.org/wiki/Pamela_Anderson)   
+
+## 蓝鲸_阴茎   
+The blue whale penis is the largest in the animal kingdom. It is commonly cited as having an average penis length of 2.5 metres to 3 metres (9.8 ft) and a diameter of 30 centimetres (12 in) to 36 centimetres (14 in).   
+
+蓝鲸的阴茎是动物王国中最大的。它通常被认为平均阴茎长度为2.5米至3米（9.8英尺），直径为30厘米（12英寸）至36厘米（14英寸）。   
+
+阅读延伸[37203371]: [https://en.wikipedia.org/wiki/Blue_whale_penis](https://en.wikipedia.org/wiki/Blue_whale_penis)   
 
 ## 利亚姆·尼森   
 William John Neeson is an actor from Northern Ireland. He has received several accolades, including nominations for an Academy Award, a BAFTA Award, three Golden Globe Awards, and two Tony Awards. In 2020, he was placed seventh on The Irish Times' list of Ireland's 50 Greatest Film Actors. Neeson was appointed Officer of the Order of the British Empire (OBE) in 2000.   
@@ -90,19 +104,12 @@ Happy Gilmore 2 is a 2025 American sports comedy film directed by Kyle Newacheck
 
 阅读延伸[76422099]: [https://en.wikipedia.org/wiki/Happy_Gilmore_2](https://en.wikipedia.org/wiki/Happy_Gilmore_2)   
 
-## 孙兴民   
-Son Heung-min is a South Korean professional footballer who plays as a forward for and captains both Premier League club Tottenham Hotspur and the South Korea national team. Known for his speed, finishing, two-footedness, and ability to link play, he is the top Asian goalscorer in both Premier League and UEFA Champions League history, and is widely regarded as the greatest Asian player of all time.   
+## 昴   
+The Pleiades, also known as Seven Sisters and Messier 45 (M45), is an asterism of an open star cluster containing young B-type stars in the northwest of the constellation Taurus. At a distance of about 444 light-years, it is among the nearest star clusters to Earth and the nearest Messier object to Earth, being the most obvious star cluster to the naked eye in the night sky. It contains the reflection nebulae NGC 1432, an HII region, and NGC 1435, known as the Merope Nebula. Around 2330 BC the Pleiades marked the vernal point. Due to the brightness of its stars, the Pleiades is viewable from most areas on Earth, even in locations with significant light pollution.   
 
-孙兴民是一名韩国职业足球运动员，担任英超俱乐部托特纳姆热刺队和韩国国家队前锋和队长。他以速度、射门、双脚和连接比赛的能力而闻名，是英超联赛和欧洲冠军联赛历史上最伟大的亚洲射手，也被广泛认为是有史以来最伟大的亚洲球员。   
+昂宿星，也被称为七姐妹和梅西耶45（M45），是金牛座西北部一个包含年轻B型恒星的疏散恒星的星系团。它距离地球最近的恒星群之一，也是距离地球最近的梅西耶天体，是夜空中肉眼最明显的恒星群。它包含反射星系NGC 1432（HII区域）和NGC 1435（被称为Merope Nebula）。公元前2330年左右，昂宿星标志着春天的到来。由于其恒星的亮度，昂宿星在地球上的大部分地区都可以看到，即使是在光污染严重的地方也是如此。   
 
-阅读延伸[29152920]: [https://en.wikipedia.org/wiki/Son_Heung-min](https://en.wikipedia.org/wiki/Son_Heung-min)   
-
-## Jeannie_Seely   
-Marilyn Jeanne Seely was an American singer, songwriter, record producer, and author. Primarily identified with country music, Seely found success with the Grammy Award-winning song "Don't Touch Me" (1966). Her soul-inspired vocal delivery gave her the nickname of "Miss Country Soul". Seely was a member of and performer on the Grand Ole Opry, having appeared more times on the program than any other performer.   
-
-玛丽莲·珍妮·西利（Marilyn Jeanne Seely）是一位美国歌手、词曲作者、唱片制作人和作家。希利主要以乡村音乐为特色，凭借格莱美获奖歌曲《Don ' t Touch Me》（1966）获得了成功。她灵魂般的声乐表达给了她“乡村灵魂小姐”的绰号。西利是Grand Ole Opry的成员和表演者，在该节目中出现的次数比任何其他表演者都多。   
-
-阅读延伸[1698238]: [https://en.wikipedia.org/wiki/Jeannie_Seely](https://en.wikipedia.org/wiki/Jeannie_Seely)   
+阅读延伸[56568]: [https://en.wikipedia.org/wiki/Pleiades](https://en.wikipedia.org/wiki/Pleiades)   
 
 ## 他妈   
 Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
@@ -111,13 +118,6 @@ Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词�
 
 阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
 
-## 卡拉巴万_纳瓦斯   
-Kalabhavan Navas was an Indian actor, comedian, and mimic. He started his career as a mimic in stage shows. Introduced to films by director Balu Kiriyath in the film Mimics Action 500 (1995), he is known for his roles in television and films, such as Hitler Brothers (1997), Junior Mandrake (1997), Mattupetti Machan (1998), Chandamama (1999) and Thillana Thillana (2003). He was also a singer.   
-
-卡拉巴万·纳瓦斯是一位印度演员、喜剧演员和模仿者。他的职业生涯始于舞台表演模仿者。他在电影《模仿行动500》（Mimics Action 500，1995）中接触了导演巴鲁·基里亚斯（Balu Kiriyath）的电影，并因其在电视和电影中的角色而闻名，例如希特勒兄弟（1997）、少年曼德拉（1997）、马图佩蒂·马钱（1998）、托玛（1999）和蒂拉娜·蒂拉娜（Thillana Thillana Thillana）（2003）。他也是一名歌手。   
-
-阅读延伸[55790321]: [https://en.wikipedia.org/wiki/Kalabhavan_Navas](https://en.wikipedia.org/wiki/Kalabhavan_Navas)   
-
 ## 世界之战（2025年电影）   
 War of the Worlds is a 2025 American screenlife science fiction thriller film based on H. G. Wells's 1898 novel The War of the Worlds. The film was directed by Rich Lee with a screenplay by Kenneth A. Golde and Marc Hyman from a story by Golde. It stars Ice Cube, Eva Longoria, Clark Gregg, Andrea Savage, Henry Hunter Hall, Iman Benson, Devon Bostick, and Michael O'Neill.   
 
@@ -125,17 +125,17 @@ War of the Worlds is a 2025 American screenlife science fiction thriller film ba
 
 阅读延伸[80520591]: [https://en.wikipedia.org/wiki/War_of_the_Worlds_(2025_film)](https://en.wikipedia.org/wiki/War_of_the_Worlds_(2025_film))   
 
-## 王国_（2025_film）   
-Kingdom is a 2025 Indian Telugu language spy action drama film written and directed by Gowtam Tinnanuri. The film is produced by Naga Vamsi and Sai Soujanya under the banners of Sithara Entertainments and Fortune Four Cinemas. The film stars Vijay Deverakonda alongside Satyadev and Bhagyashri Borse. It is intended to be the first installment of a planned duology.   
+## 索菲亚_卡森   
+Sofia Lauren Daccarett Char, known professionally as Sofia Carson, is an American actress and singer. Her first appearance on television was as a guest star on the Disney Channel series Austin & Ally (2014). In 2015, she received recognition as Evie, the daughter of the Evil Queen, in the Disney musical fantasy film Descendants, and later reprised her role in its sequels. She has since starred in the Disney Channel Original Movie Adventures in Babysitting, A Cinderella Story: If the Shoe Fits, the Netflix romantic drama film Purple Hearts (2022), thriller film Carry-On (2024) and the romantic comedy The Life List (2025).   
 
-《王国》是一部2025年印度泰卢固语间谍动作片，由Gowtam Tinnanuri编剧和导演。这部电影由Naga Vamsi和Sai Soujanya制作，隶属于Sithara Entertainments和Fortune Four Cinemas。这部电影由维贾伊·德韦拉孔达（Vijay Deverakonda）与萨蒂亚德夫（Satyadev）和巴加什里·博尔塞（Bhagyashri Borse）主演。它旨在成为计划中的二元体系的第一部分。   
+索菲亚·劳伦·达卡雷特·查尔（Sofia Lauren Daccarett Char），专业名称索菲亚·卡森（Sofia Carson），是一位美国女演员和歌手。她第一次出现在电视上是在迪士尼频道的剧集《奥斯汀与盟友》（Austin & Ally）（2014）中担任客串明星。2015年，她在迪士尼音乐奇幻电影《后裔》中饰演邪恶女王的女儿埃维，后来在续集中再次扮演她的角色。此后，她主演了迪士尼频道原创电影《保姆历险记》、《灰姑娘的故事：如果鞋子合适》、Netflix浪漫剧情片《紫心》（2022年）、惊悚片《随身携带》（2024年）和浪漫喜剧《生命清单》（2025年）。   
 
-阅读延伸[77509057]: [https://en.wikipedia.org/wiki/Kingdom_(2025_film)](https://en.wikipedia.org/wiki/Kingdom_(2025_film))   
+阅读延伸[44514422]: [https://en.wikipedia.org/wiki/Sofia_Carson](https://en.wikipedia.org/wiki/Sofia_Carson)   
 
-## KPop_恶魔_猎人   
-KPop Demon Hunters is a 2025 American animated musical fantasy film produced by Sony Pictures Animation and released by Netflix. It was directed by Maggie Kang and Chris Appelhans from a screenplay they co-wrote with the writing team of Danya Jimenez and Hannah McMechan, based on a story conceived by Kang. The film stars the voices of Arden Cho, Ahn Hyo-seop, May Hong, Ji-young Yoo, Yunjin Kim, Daniel Dae Kim, Ken Jeong, and Lee Byung-hun. It follows a K-pop girl group, Huntr/x, who lead double lives as demon hunters; they face off against a rival boy band, the Saja Boys, whose members are secretly demons.   
+## 2025年_公式_One_World_锦标赛   
+The 2025 FIA Formula One World Championship is an ongoing motor racing championship for Formula One cars and the 76th running of the Formula One World Championship. It is recognised by the Fédération Internationale de l'Automobile (FIA), the governing body of international motorsport, as the highest class of competition for open-wheel racing cars. The championship is contested over twenty-four Grands Prix held around the world. It began in March and will end in December.   
 
-KPop《恶魔猎人》是一部2025年美国动画音乐奇幻电影，由索尼影业动画制作，Netflix发行。该片由玛吉·康（Maggie Kang）和克里斯·阿佩尔汉斯（Chris Appelhans）执导，改编自他们与丹雅·希门尼斯（Danya Jimenez）和汉娜·麦克梅钦（Hannah McMechan）的编剧团队共同编写的剧本，改编自康构思的故事。这部电影由Arden Cho、Ahn Hyo-seop、May Hong、Ji-young Yoo、Yunjin Kim、Daniel Dae Kim、Ken Jeong和Lee Byung-hun配音。故事讲述了韩国流行音乐女子组合Huntra/x作为恶魔猎人过着双重生活的故事;她们与对手男孩乐队Saja Boys对峙，该乐队的成员秘密是恶魔。   
+2025年国际汽联一级方程式世界锦标赛是一项正在进行的一级方程式赛车锦标赛，也是一级方程式世界锦标赛的第76届。它被国际赛车运动的管理机构国际汽车联合会（FIA）认定为开放轮赛车的最高级别比赛。该冠军在世界各地举行的24场大奖赛上进行角逐。它于三月开始，将于十二月结束。   
 
-阅读延伸[67104864]: [https://en.wikipedia.org/wiki/KPop_Demon_Hunters](https://en.wikipedia.org/wiki/KPop_Demon_Hunters)   
+阅读延伸[72768531]: [https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship](https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship)   
 
