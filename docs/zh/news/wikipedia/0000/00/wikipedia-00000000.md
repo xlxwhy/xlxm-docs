@@ -1,17 +1,17 @@
 # 最新资讯  
-## 洛尼_安德森   
-Loni Anderson was an American actress. She is best known for playing receptionist Jennifer Marlowe on the CBS sitcom WKRP in Cincinnati (1978–1982), which earned her nominations for three Golden Globe Awards and two Emmy Awards.   
+## 1989年_天安门_广场_抗议_和_屠杀   
+The Tiananmen Square protests, known within China as the June Fourth Incident, were student-led demonstrations held in Tiananmen Square in Beijing, China, lasting from 15 April to 4 June 1989. After weeks of unsuccessful attempts between the demonstrators and the Chinese government to find a peaceful resolution, the Chinese government deployed troops to occupy the square on the night of 3 June in what is referred to as the Tiananmen Square massacre. The events are sometimes called the '89 Democracy Movement, the Tiananmen Square Incident, or the Tiananmen uprising.   
 
-洛尼·安德森是一位美国女演员。她因在辛辛那提CBS情景喜剧WKRP（1978-1982年）中扮演接待员詹妮弗·马洛而闻名，该剧为她赢得了三项金球奖和两项艾美奖提名。   
+天安门广场抗议活动在中国境内被称为“六·四事件”，是学生领导的在中国北京天安门广场举行的示威活动，持续时间为1989年4月15日至6月4日。在示威者与中国政府试图找到和平解决方案数周失败后，中国政府于6月3日晚部署军队占领广场，引发了所谓的天安门广场大屠杀。这些事件有时被称为“89民主运动”、“天安门事件”或“天安门起义”。   
 
-阅读延伸[769659]: [https://en.wikipedia.org/wiki/Loni_Anderson](https://en.wikipedia.org/wiki/Loni_Anderson)   
+阅读延伸[44534]: [https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre)   
 
-## SummerSlam_（2025）   
-The 2025 SummerSlam, also promoted as SummerSlam: New Jersey, is an upcoming professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It will be the 38th annual SummerSlam and is scheduled to take place as a two-night event on Saturday, August 2, and Sunday, August 3, 2025, at MetLife Stadium in East Rutherford, New Jersey, and will be held for wrestlers from the promotion's Raw and SmackDown brand divisions. Rapper Cardi B will serve as the hostess of the event.   
+## 泰国政府   
+Government of Thailand, officially the Royal Thai Government, is the central executive authority of the Kingdom of Thailand. The government is led by the prime minister who selects all the other ministers. The country has had a coalition government since 2024 led by Pheu Thai. The country emerged as a modern nation state after the foundation of the Chakri dynasty and the city of Bangkok in 1782. The Revolution of 1932 brought an end to absolute monarchy and replaced it with a constitutional monarchy.   
 
-2025年SummerSlam，也被宣传为SummerSlam：New Jersey，是WWE即将推出的职业摔跤按次付费（PPV）和直播赛事。这将是第38届年度SummerSlam，定于2025年8月2日星期六和8月3日星期日在新泽西州东卢瑟福的NPS体育场举行为期两晚的活动，将为来自促销活动的Raw和SmackDown品牌部门的摔跤手举办。说唱歌手Cardi B将担任此次活动的主持人。   
+泰国政府，正式名称泰王国政府，是泰王国的中央行政机关。政府由总理领导，总理选出所有其他部长。该国自2024年以来一直组建由Pheu Thai领导的联合政府。1782年察克里王朝和曼谷市建立后，该国成为一个现代民族国家。1932年革命结束了绝对君主制，代之以君主立宪制。   
 
-阅读延伸[60009987]: [https://en.wikipedia.org/wiki/SummerSlam_(2025)](https://en.wikipedia.org/wiki/SummerSlam_(2025))   
+阅读延伸[19068660]: [https://en.wikipedia.org/wiki/Government_of_Thailand](https://en.wikipedia.org/wiki/Government_of_Thailand)   
 
 ## 悉尼_斯威尼   
 Sydney Bernice Sweeney is an American actress and producer. She gained early recognition for her roles in Everything Sucks!, The Handmaid's Tale, and Sharp Objects. She received wider acclaim for her performances in the drama series Euphoria (2019–present) and the first season of the anthology series The White Lotus (2021), both of which earned her nominations for two Primetime Emmy Awards.   
@@ -20,6 +20,13 @@ Sydney Bernice Sweeney is an American actress and producer. She gained early rec
 
 阅读延伸[56636819]: [https://en.wikipedia.org/wiki/Sydney_Sweeney](https://en.wikipedia.org/wiki/Sydney_Sweeney)   
 
+## 武器_（2025_电影）   
+Weapons is an upcoming American mystery horror film written, produced, and directed by Zach Cregger. The film stars Josh Brolin, Julia Garner, Alden Ehrenreich, Austin Abrams, Cary Christopher, Benedict Wong, and Amy Madigan. Its plot follows the case of seventeen kids from the same classroom who mysteriously disappear overnight at the exact same time.   
+
+《武器》是一部即将上映的美国悬疑恐怖电影，由扎克·克雷格编剧、制作和导演。这部电影由乔什·布罗林、朱莉娅·加纳、奥尔登·埃斯珀赖希、奥斯汀·艾布拉姆斯、卡里·克里斯托弗、本尼迪克特·黄和艾米·马迪根主演。它的情节讲述了同一个教室的十七个孩子在同一时间一夜之间神秘失踪的故事。   
+
+阅读延伸[73248680]: [https://en.wikipedia.org/wiki/Weapons_(2025_film)](https://en.wikipedia.org/wiki/Weapons_(2025_film))   
+
 ## _神奇_四：_第一步   
 The Fantastic Four: First Steps is a 2025 American superhero film based on the Marvel Comics superhero team the Fantastic Four. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is intended to be the 37th film in the Marvel Cinematic Universe (MCU) and the second reboot of the Fantastic Four film series. The film is directed by Matt Shakman from a screenplay by Josh Friedman, Eric Pearson, Jeff Kaplan, and Ian Springer. It features an ensemble cast including Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach, and Joseph Quinn as the titular team, alongside Julia Garner, Natasha Lyonne, Paul Walter Hauser, and Ralph Ineson. In the film, the Fantastic Four must protect their 1960s-inspired retro-futuristic world from the planet-devouring cosmic being Galactus (Ineson).   
 
@@ -27,12 +34,12 @@ The Fantastic Four: First Steps is a 2025 American superhero film based on the M
 
 阅读延伸[61443907]: [https://en.wikipedia.org/wiki/The_Fantastic_Four%3A_First_Steps](https://en.wikipedia.org/wiki/The_Fantastic_Four%3A_First_Steps)   
 
-## 超人_（2025年_电影）   
-Superman is an upcoming American superhero film based on DC Comics featuring the eponymous character. Produced by DC Studios and to be distributed by Warner Bros. Pictures, it will be the first film in the DC Universe (DCU) and a reboot of the Superman film series. The film is written and directed by James Gunn and stars David Corenswet as Clark Kent / Superman, alongside Rachel Brosnahan, Nicholas Hoult, Edi Gathegi, Anthony Carrigan, Nathan Fillion, Isabela Merced, Skyler Gisondo, Sara Sampaio, María Gabriela de Faría, Wendell Pierce, Alan Tudyk, Pruitt Taylor Vince, and Neva Howell. In the film, Superman's journey to reconcile his alien heritage with his human family is explored.   
+## 世界之战（2025年电影）   
+War of the Worlds is a 2025 American screenlife science fiction thriller film based on H. G. Wells's 1898 novel The War of the Worlds. The film was directed by Rich Lee with a screenplay by Kenneth A. Golde and Marc Hyman from a story by Golde. It stars Ice Cube, Eva Longoria, Clark Gregg, Andrea Savage, Henry Hunter Hall, Iman Benson, Devon Bostick, and Michael O'Neill.   
 
-超人是一部即将上映的美国超级英雄电影，改编自DC漫画，主角是同名角色。该片由DC Studios制作，华纳兄弟影业发行，将成为DC宇宙（DCU）的第一部电影，也是超人系列电影的重启。这部电影由詹姆斯·冈恩编剧和导演，大卫·科伦斯韦特饰演克拉克·肯特/超人，与雷切尔·布罗斯纳汉、尼古拉斯·霍尔特、埃迪·加特吉、安东尼·卡里根、内森·菲利安、伊莎贝尔·默塞德、斯凯勒·吉松多、萨拉·桑帕约、玛丽亚·加布里埃拉·德·法利亚、温德尔·皮尔斯、艾伦·图迪克、普鲁特·泰勒·文斯和涅瓦·豪厄尔一起。在电影中，探索了超人将其外星血统与人类家庭调和起来的旅程。   
+《世界大战》（War of the Worlds）是一部2025年上映的美国科幻惊悚片，根据H。G.威尔斯1898年的小说《世界大战》。这部电影是由李富执导，肯尼斯·A·金编剧。戈尔德和马克·海曼来自戈尔德的故事。该片由艾斯·库珀、伊娃·朗格利亚、克拉克·格雷格、安德里亚·萨维奇、亨利·亨特·霍尔、伊曼·本森、德文·博斯蒂克和迈克尔·奥尼尔主演。   
 
-阅读延伸[57255388]: [https://en.wikipedia.org/wiki/Superman_(2025_film)](https://en.wikipedia.org/wiki/Superman_(2025_film))   
+阅读延伸[80520591]: [https://en.wikipedia.org/wiki/War_of_the_Worlds_(2025_film)](https://en.wikipedia.org/wiki/War_of_the_Worlds_(2025_film))   
 
 ## 死亡_in_2025   
 The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
@@ -41,26 +48,19 @@ The following notable deaths occurred in 2025. Names are reported under the date
 
 阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
 
-## 伯特-雷诺兹   
-Burton Leon Reynolds Jr. was an American actor most famous during the 1970s and 1980s. He became well known in television series such as Gunsmoke (1962–1965), Hawk (1966) and Dan August (1970–1971). He had leading roles in films such as Navajo Joe (1966) and 100 Rifles (1969), and his breakthrough role was as Lewis Medlock in Deliverance (1972).   
+## 洛尼_安德森   
+Loni Anderson was an American actress. She is best known for playing receptionist Jennifer Marlowe on the CBS sitcom WKRP in Cincinnati (1978–1982), which earned her nominations for three Golden Globe Awards and two Emmy Awards.   
 
-小伯顿·莱昂·雷诺兹是20世纪70年代和80年代最著名的美国演员。他因《Gunsmoke》（1962-1965）、《Hawk》（1966）和《Dan August》（1970-1971）等电视剧而闻名。他在《纳瓦霍·乔》（1966）和《100步枪》（1969）等电影中担任主角，他的突破性角色是在《复仇者》（1972）中饰演刘易斯·梅德洛克。   
+洛尼·安德森是一位美国女演员。她因在辛辛那提CBS情景喜剧WKRP（1978-1982年）中扮演接待员詹妮弗·马洛而闻名，该剧为她赢得了三项金球奖和两项艾美奖提名。   
 
-阅读延伸[178246]: [https://en.wikipedia.org/wiki/Burt_Reynolds](https://en.wikipedia.org/wiki/Burt_Reynolds)   
+阅读延伸[769659]: [https://en.wikipedia.org/wiki/Loni_Anderson](https://en.wikipedia.org/wiki/Loni_Anderson)   
 
-## 帕梅拉_安德森   
-Pamela Denise Anderson is a Canadian-American actress, model and media personality. She rose to prominence after being selected as the February 1990 Playboy Playmate of the Month. She went on to make regular appearances on the magazine's cover and held the record for the most Playboy covers by any individual. Anderson began her acting career on the ABC sitcom Home Improvement, before receiving international recognition for starring as "C.J." Parker in the drama series Baywatch (1992–1997), which further cemented her status as a sex symbol.   
+## 泰国教育   
+Education in Thailand is provided mainly by the Thai government through the Ministry of Education from pre-school to senior high school. A free basic education to fifteen years is guaranteed by the Thai constitution. This basic education comprises six years of elementary school and three years of lower secondary school. In addition, three years of pre-school and three years of upper-secondary education is available free of charge, but are non-compulsory.   
 
-帕梅拉·丹尼斯·安德森（Pamela Denise Anderson）是一位共和党裔美国女演员、模特和媒体人物。1990年2月，她被选为《花花公子》本月玩伴后声名鹊起。她随后经常出现在该杂志的封面上，并保持着个人翻唱《花花公子》最多的记录。安德森在美国广播公司（ABC）情景喜剧《家居装修》（Home Improvement）中开始了她的演艺生涯，随后因饰演“CJ”而获得国际认可帕克在电视剧《海滩游侠》（1992-1997）中的角色，进一步巩固了她作为性感象征的地位。   
+泰国的教育主要由泰国政府通过教育部提供，从学前班到高中。泰国宪法保障十五年的免费基础教育。这种基础教育包括六年小学和三年初中。此外，三年学前教育和三年高中教育是免费的，但是非义务的。   
 
-阅读延伸[23035]: [https://en.wikipedia.org/wiki/Pamela_Anderson](https://en.wikipedia.org/wiki/Pamela_Anderson)   
-
-## 食部_索伦   
-Shibu Soren was an Indian politician who was a member of the Rajya Sabha, representing Jharkhand, and the leader of the Jharkhand Mukti Morcha (JMM). He previously served as the 3rd Chief Minister of Jharkhand, first for 10 days in 2005, then from 2008 to 2009, and again from 2009 to 2010. He was also the President of the JMM, a constituent of the INDIA Alliance. Soren was a Member of Parliament, Lok Sabha from Dumka from 1980 to 1984, 1989 to 1998, and 2002 to 2019. He also served as the Minister for Coal in the Union Cabinet three times: in 2004, from 2004 to 2005, and in 2006. However, he was convicted by a Delhi district court of his involvement in the 1994 murder of his private secretary, Shashi Nath Jha. He had also been indicted in the past on other criminal charges.   
-
-Shibu Soren是一位印度政治家，是代表贾坎德邦的Rajya Sabha成员，也是贾坎德邦的领导人。他此前曾担任贾坎德邦第三任首席部长，2005年首次任职10天，2008年至2009年，2009年至2010年再次任职。他还是印度联盟成员JMM的主席。索伦于1980年至1984年、1989年至1998年、2002年至2019年担任杜姆卡议员Lok Sabha。他还三次担任联邦内阁煤炭部长：2004年、2004年至2005年和2006年。然而，德里地方法院判定他参与了1994年谋杀私人秘书沙希·纳特·贾（Shashi Nath Jha）的事件。他过去还曾因其他刑事指控被起诉。   
-
-阅读延伸[871822]: [https://en.wikipedia.org/wiki/Shibu_Soren](https://en.wikipedia.org/wiki/Shibu_Soren)   
+阅读延伸[550135]: [https://en.wikipedia.org/wiki/Education_in_Thailand](https://en.wikipedia.org/wiki/Education_in_Thailand)   
 
 ## Lil_Tay   
 Tay Tian, known professionally as Lil Tay, is an American-Canadian internet personality and musician. She first came to prominence in early 2018 at the age of ten, when content depicting her boasting about being wealthy and calling herself "the youngest flexer of the century", as well as videos of her rapping, were published and viewed millions of times on YouTube and Instagram.   
@@ -69,19 +69,12 @@ Tay Tian，专业名称Lil Tay，是一位美籍加拿大互联网名人和音�
 
 阅读延伸[74557276]: [https://en.wikipedia.org/wiki/Lil_Tay](https://en.wikipedia.org/wiki/Lil_Tay)   
 
-## 赛亚拉   
-Saiyaara is a 2025 Indian Hindi-language musical romantic drama film directed by Mohit Suri. Produced under Yash Raj Films, it stars debutant Ahaan Panday and Aneet Padda. It is loosely based on the 2004 Korean film A Moment To Remember. The film follows Krish Kapoor, a troubled musician, as he forms a deep connection with Vaani Batra, a shy poet.   
+## 超人_（2025年_电影）   
+Superman is an upcoming American superhero film based on DC Comics featuring the eponymous character. Produced by DC Studios and to be distributed by Warner Bros. Pictures, it will be the first film in the DC Universe (DCU) and a reboot of the Superman film series. The film is written and directed by James Gunn and stars David Corenswet as Clark Kent / Superman, alongside Rachel Brosnahan, Nicholas Hoult, Edi Gathegi, Anthony Carrigan, Nathan Fillion, Isabela Merced, Skyler Gisondo, Sara Sampaio, María Gabriela de Faría, Wendell Pierce, Alan Tudyk, Pruitt Taylor Vince, and Neva Howell. In the film, Superman's journey to reconcile his alien heritage with his human family is explored.   
 
-《Saiyaara》是一部2025年印度印地语音乐浪漫剧情片，由莫希特·苏瑞执导。该片由Yash Raj Films制作，由首次亮相的阿汉·潘迪（Ahaan Panday）和阿尼特·帕达（Aneet Padda）主演。它大致改编自2004年韩国电影《难忘的时刻》。这部电影讲述了陷入困境的音乐家克里什·卡普尔与害羞诗人瓦尼·巴特拉建立了深厚的联系。   
+超人是一部即将上映的美国超级英雄电影，改编自DC漫画，主角是同名角色。该片由DC Studios制作，华纳兄弟影业发行，将成为DC宇宙（DCU）的第一部电影，也是超人系列电影的重启。这部电影由詹姆斯·冈恩编剧和导演，大卫·科伦斯韦特饰演克拉克·肯特/超人，与雷切尔·布罗斯纳汉、尼古拉斯·霍尔特、埃迪·加特吉、安东尼·卡里根、内森·菲利安、伊莎贝尔·默塞德、斯凯勒·吉松多、萨拉·桑帕约、玛丽亚·加布里埃拉·德·法利亚、温德尔·皮尔斯、艾伦·图迪克、普鲁特·泰勒·文斯和涅瓦·豪厄尔一起。在电影中，探索了超人将其外星血统与人类家庭调和起来的旅程。   
 
-阅读延伸[80453578]: [https://en.wikipedia.org/wiki/Saiyaara](https://en.wikipedia.org/wiki/Saiyaara)   
-
-## The_Naked_Gun_（2025_电影）   
-The Naked Gun is a 2025 American action comedy film directed by Akiva Schaffer, who co-wrote the script with Dan Gregor and Doug Mand. It serves as a legacy sequel to Naked Gun 33⅓: The Final Insult (1994) and is the fourth film in The Naked Gun franchise. The film stars Liam Neeson, Pamela Anderson, Paul Walter Hauser, Kevin Durand, and Danny Huston. Its plot follows the son of Lt. Frank Drebin who must succeed in his father's footsteps to prevent the closure of Police Squad.   
-
-《裸枪》是一部2025年的美国动作喜剧电影，由Akiva Schaffer执导，她与Dan Gregor和Doug Mand共同撰写剧本。它是《Naked Gun 33》笔名：《最后的侮辱》（1994年）的遗留续集，也是《Naked Gun》系列的第四部电影。该片由利亚姆·尼森、帕梅拉·安德森、保罗·沃尔特·豪瑟、凯文·杜兰德和丹尼·休斯顿主演。故事情节讲述了弗兰克·德雷宾中尉的儿子，他必须继承父亲的脚步，以防止警察小队关闭。   
-
-阅读延伸[72578421]: [https://en.wikipedia.org/wiki/The_Naked_Gun_(2025_film)](https://en.wikipedia.org/wiki/The_Naked_Gun_(2025_film))   
+阅读延伸[57255388]: [https://en.wikipedia.org/wiki/Superman_(2025_film)](https://en.wikipedia.org/wiki/Superman_(2025_film))   
 
 ## 奥兹_奥斯本   
 John Michael "Ozzy" Osbourne was an English singer, songwriter and media personality. He rose to prominence during the 1970s as the lead vocalist of the heavy metal band Black Sabbath, during which period he adopted the nickname "Prince of Darkness".   
@@ -90,40 +83,26 @@ John Michael "Ozzy" Osbourne was an English singer, songwriter and media persona
 
 阅读延伸[85406]: [https://en.wikipedia.org/wiki/Ozzy_Osbourne](https://en.wikipedia.org/wiki/Ozzy_Osbourne)   
 
-## 1989年_天安门_广场_抗议_和_屠杀   
-The Tiananmen Square protests, known within China as the June Fourth Incident, were student-led demonstrations held in Tiananmen Square in Beijing, China, lasting from 15 April to 4 June 1989. After weeks of unsuccessful attempts between the demonstrators and the Chinese government to find a peaceful resolution, the Chinese government deployed troops to occupy the square on the night of 3 June in what is referred to as the Tiananmen Square massacre. The events are sometimes called the '89 Democracy Movement, the Tiananmen Square Incident, or the Tiananmen uprising.   
+## 赛亚拉   
+Saiyaara is a 2025 Indian Hindi-language musical romantic drama film directed by Mohit Suri. Produced under Yash Raj Films, it stars debutant Ahaan Panday and Aneet Padda. It is loosely based on the 2004 Korean film A Moment To Remember. The film follows Krish Kapoor, a troubled musician, as he forms a deep connection with Vaani Batra, a shy poet.   
 
-天安门广场抗议活动在中国境内被称为“六·四事件”，是学生领导的在中国北京天安门广场举行的示威活动，持续时间为1989年4月15日至6月4日。在示威者与中国政府试图找到和平解决方案数周失败后，中国政府于6月3日晚部署军队占领广场，引发了所谓的天安门广场大屠杀。这些事件有时被称为“89民主运动”、“天安门事件”或“天安门起义”。   
+《Saiyaara》是一部2025年印度印地语音乐浪漫剧情片，由莫希特·苏瑞执导。该片由Yash Raj Films制作，由首次亮相的阿汉·潘迪（Ahaan Panday）和阿尼特·帕达（Aneet Padda）主演。它大致改编自2004年韩国电影《难忘的时刻》。这部电影讲述了陷入困境的音乐家克里什·卡普尔与害羞诗人瓦尼·巴特拉建立了深厚的联系。   
 
-阅读延伸[44534]: [https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre)   
+阅读延伸[80453578]: [https://en.wikipedia.org/wiki/Saiyaara](https://en.wikipedia.org/wiki/Saiyaara)   
 
-## 我的牛津年   
-My Oxford Year is a 2025 American romantic comedy film directed by Iain Morris and written by Allison Burnett and Melissa Osborne, inspired by the novel of the same name by Julia Whelan, which was adapted from Burnett’s original screenplay. It stars Sofia Carson, Corey Mylchreest, Dougray Scott, and Catherine McCormack.   
+## 泰国   
+Thailand, officially the Kingdom of Thailand and historically known as Siam, is a country in Southeast Asia on the Indochinese Peninsula. With a population of almost 66 million, it spans 513,115 square kilometres (198,115 sq mi). Thailand is bordered to the northwest by Myanmar, to the northeast and east by Laos, to the southeast by Cambodia, to the south by the Gulf of Thailand and Malaysia, and to the southwest by the Andaman Sea; it also shares maritime borders with Vietnam to the southeast and Indonesia and India to the southwest. Bangkok is the state capital and largest city.   
 
-《我的牛津年》是一部2025年美国浪漫喜剧电影，由伊恩·莫里斯执导，艾莉森·伯内特和梅丽莎·奥斯本编剧，灵感来自朱莉娅·惠兰的同名小说，该小说改编自伯内特的原创剧本。该片由索菲亚·卡森、科里·米尔克里斯特、杜格雷·斯科特和凯瑟琳·麦科马克主演。   
+泰国，正式名称泰王国，历史上称为暹罗，是东南亚印度支那半岛的一个国家。人口近6600万，占地513，115平方公里（198，115平方英里）。泰国西北与缅甸接壤，东北和东部与老挝接壤，东南与柬埔寨接壤，南临泰国湾和马来西亚湾，西南与安达曼海接壤;东南与越南接壤，西南与印度尼西亚和印度接壤。曼谷是该州首府和最大城市。   
 
-阅读延伸[77995769]: [https://en.wikipedia.org/wiki/My_Oxford_Year](https://en.wikipedia.org/wiki/My_Oxford_Year)   
+阅读延伸[30128]: [https://en.wikipedia.org/wiki/Thailand](https://en.wikipedia.org/wiki/Thailand)   
 
-## 布罗克-莱斯纳尔   
-Brock Edward Lesnar is an American professional wrestler and former mixed martial artist, amateur wrestler and professional American football player. As a professional wrestler, he is signed to WWE. Often regarded as one of the most prolific combat sport athletes in the world, Lesnar is the only person to have won the primary heavyweight championships of WWE, Ultimate Fighting Championship (UFC), New Japan Pro-Wrestling (NJPW), the Inoki Genome Federation (IGF), and the National Collegiate Athletic Association (NCAA).   
+## 帕梅拉_安德森   
+Pamela Denise Anderson is a Canadian-American actress, model and media personality. She rose to prominence after being selected as the February 1990 Playboy Playmate of the Month. She went on to make regular appearances on the magazine's cover and held the record for the most Playboy covers by any individual. Anderson began her acting career on the ABC sitcom Home Improvement, before receiving international recognition for starring as "C.J." Parker in the drama series Baywatch (1992–1997), which further cemented her status as a sex symbol.   
 
-布洛克·爱德华·莱斯纳尔（Brock Edward Lesnar）是一位美国职业摔跤手，曾担任综合格斗家、业余摔跤手和职业美式橄榄球运动员。作为一名职业摔跤手，他与WWE签约。莱斯纳尔经常被认为是世界上最多产的格斗运动员之一，是唯一一位赢得WWE、终极格斗锦标赛（UFC）、新日本职业摔跤（NJPW）、猪木基因组联合会（IGF）和全国大学生体育协会（NCAA）初级重量级冠军的人。   
+帕梅拉·丹尼斯·安德森（Pamela Denise Anderson）是一位共和党裔美国女演员、模特和媒体人物。1990年2月，她被选为《花花公子》本月玩伴后声名鹊起。她随后经常出现在该杂志的封面上，并保持着个人翻唱《花花公子》最多的记录。安德森在美国广播公司（ABC）情景喜剧《家居装修》（Home Improvement）中开始了她的演艺生涯，随后因饰演“CJ”而获得国际认可帕克在电视剧《海滩游侠》（1992-1997）中的角色，进一步巩固了她作为性感象征的地位。   
 
-阅读延伸[316592]: [https://en.wikipedia.org/wiki/Brock_Lesnar](https://en.wikipedia.org/wiki/Brock_Lesnar)   
-
-## Corey_Mylchreest   
-Corey Mylchreest is an English actor. A graduate of the Royal Academy of Dramatic Art, he is known for his starring role as a fictionalized King George III in the Netflix period drama miniseries Queen Charlotte: A Bridgerton Story (2023). Additionally, Mylchreest starred alongside Sofia Carson in My Oxford Year in 2025.   
-
-科里·米尔克里斯特是一位英国演员。他毕业于皇家戏剧艺术学院，因在Netflix时代迷你剧《夏洛特女王：布里杰顿的故事》（2023年）中饰演虚构的乔治三世国王而闻名。此外，Mylchreest还与Sofia Carson一起出演了2025年的《我的牛津年》。   
-
-阅读延伸[73059654]: [https://en.wikipedia.org/wiki/Corey_Mylchreest](https://en.wikipedia.org/wiki/Corey_Mylchreest)   
-
-## 利亚姆·尼森   
-William John Neeson is an actor from Northern Ireland. He has received several accolades, including nominations for an Academy Award, a BAFTA Award, three Golden Globe Awards, and two Tony Awards. In 2020, he was placed seventh on The Irish Times' list of Ireland's 50 Greatest Film Actors. Neeson was appointed Officer of the Order of the British Empire (OBE) in 2000.   
-
-威廉·约翰·尼森是一位来自北爱尔兰的演员。他曾获得多项荣誉，包括奥斯卡金像奖、英国电影和电视艺术学院奖、三项金球奖和两项托尼奖提名。2020年，他在《爱尔兰时报》评选的爱尔兰50位最伟大电影演员名单中排名第七。尼森于2000年被任命为大英帝国勋章（OBE）官员。   
-
-阅读延伸[64182]: [https://en.wikipedia.org/wiki/Liam_Neeson](https://en.wikipedia.org/wiki/Liam_Neeson)   
+阅读延伸[23035]: [https://en.wikipedia.org/wiki/Pamela_Anderson](https://en.wikipedia.org/wiki/Pamela_Anderson)   
 
 ## 他妈   
 Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
@@ -132,10 +111,31 @@ Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词�
 
 阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
 
-## 世界之战（2025年电影）   
-War of the Worlds is a 2025 American screenlife science fiction thriller film based on H. G. Wells's 1898 novel The War of the Worlds. The film was directed by Rich Lee with a screenplay by Kenneth A. Golde and Marc Hyman from a story by Golde. It stars Ice Cube, Eva Longoria, Clark Gregg, Andrea Savage, Henry Hunter Hall, Iman Benson, Devon Bostick, and Michael O'Neill.   
+## 侏罗纪_世界_重生   
+Jurassic World Rebirth is a 2025 American science fiction action film directed by Gareth Edwards and written by David Koepp. A standalone sequel to Jurassic World Dominion (2022), it is the fourth Jurassic World film and the seventh installment overall in the Jurassic Park franchise. The film stars Scarlett Johansson, Mahershala Ali, Jonathan Bailey, Rupert Friend, Manuel Garcia-Rulfo, and Ed Skrein. In the film, the world's dinosaurs now live around the equator, which provides the last viable climate for them to survive. A team travels to a former island research facility where the three largest prehistoric animals reside, with the goal of extracting samples that are vital for a heart disease treatment. The team also rescues a shipwrecked family, and both groups struggle to survive after becoming stranded on the island.   
 
-《世界大战》（War of the Worlds）是一部2025年上映的美国科幻惊悚片，根据H。G.威尔斯1898年的小说《世界大战》。这部电影是由李富执导，肯尼斯·A·金编剧。戈尔德和马克·海曼来自戈尔德的故事。该片由艾斯·库珀、伊娃·朗格利亚、克拉克·格雷格、安德里亚·萨维奇、亨利·亨特·霍尔、伊曼·本森、德文·博斯蒂克和迈克尔·奥尼尔主演。   
+侏罗纪世界重生是一部2025年美国科幻动作片，由加雷斯·爱德华兹执导，大卫·科普编剧。这是《侏罗纪世界统治》（2022）的独立续集，是《侏罗纪世界》的第四部电影，也是《侏罗纪公园》系列的第七部。这部电影由斯嘉丽·约翰逊、马赫沙拉·阿里、乔纳森·贝利、鲁珀特·弗兰德、曼努埃尔·加西亚-鲁尔福和埃德·斯克雷恩主演。在影片中，世界上的恐龙现在生活在赤道周围，这为它们生存提供了最后的可行气候。一个团队前往三种最大的史前动物居住的前岛屿研究设施，目标是提取对心脏病治疗至关重要的样本。该团队还拯救了一个海难家庭，两个群体在被困在岛上后都在努力生存。   
 
-阅读延伸[80520591]: [https://en.wikipedia.org/wiki/War_of_the_Worlds_(2025_film)](https://en.wikipedia.org/wiki/War_of_the_Worlds_(2025_film))   
+阅读延伸[75884495]: [https://en.wikipedia.org/wiki/Jurassic_World_Rebirth](https://en.wikipedia.org/wiki/Jurassic_World_Rebirth)   
+
+## 豪尔赫_科斯塔   
+Jorge Paulo Costa Almeida was a Portuguese professional football central defender and manager.   
+
+豪尔赫·保罗·科斯塔·阿尔梅达是葡萄牙职业足球中后卫兼主教练。   
+
+阅读延伸[670891]: [https://en.wikipedia.org/wiki/Jorge_Costa](https://en.wikipedia.org/wiki/Jorge_Costa)   
+
+## The_Naked_Gun_（2025_电影）   
+The Naked Gun is a 2025 American action comedy film directed by Akiva Schaffer, who co-wrote the script with Dan Gregor and Doug Mand. It serves as a legacy sequel to Naked Gun 33⅓: The Final Insult (1994) and is the fourth film in The Naked Gun franchise. The film stars Liam Neeson, Pamela Anderson, Paul Walter Hauser, Kevin Durand, and Danny Huston. Its plot follows the son of Lt. Frank Drebin who must succeed in his father's footsteps to prevent the closure of Police Squad.   
+
+《裸枪》是一部2025年的美国动作喜剧电影，由Akiva Schaffer执导，她与Dan Gregor和Doug Mand共同撰写剧本。它是《Naked Gun 33》笔名：《最后的侮辱》（1994年）的遗留续集，也是《Naked Gun》系列的第四部电影。该片由利亚姆·尼森、帕梅拉·安德森、保罗·沃尔特·豪瑟、凯文·杜兰德和丹尼·休斯顿主演。故事情节讲述了弗兰克·德雷宾中尉的儿子，他必须继承父亲的脚步，以防止警察小队关闭。   
+
+阅读延伸[72578421]: [https://en.wikipedia.org/wiki/The_Naked_Gun_(2025_film)](https://en.wikipedia.org/wiki/The_Naked_Gun_(2025_film))   
+
+## Corey_Mylchreest   
+Corey Mylchreest is an English actor. A graduate of the Royal Academy of Dramatic Art, he is known for his starring role as a fictionalized King George III in the Netflix period drama miniseries Queen Charlotte: A Bridgerton Story (2023). Additionally, Mylchreest starred alongside Sofia Carson in My Oxford Year in 2025.   
+
+科里·米尔克里斯特是一位英国演员。他毕业于皇家戏剧艺术学院，因在Netflix时代迷你剧《夏洛特女王：布里杰顿的故事》（2023年）中饰演虚构的乔治三世国王而闻名。此外，Mylchreest还与Sofia Carson一起出演了2025年的《我的牛津年》。   
+
+阅读延伸[73059654]: [https://en.wikipedia.org/wiki/Corey_Mylchreest](https://en.wikipedia.org/wiki/Corey_Mylchreest)   
 
