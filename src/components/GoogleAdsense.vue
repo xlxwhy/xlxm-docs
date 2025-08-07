@@ -51,7 +51,16 @@ export default {
 .ad-container-home {
     padding: 0px;
 }
+
 .ad-container-article {
-    padding-right: 255px;
+    padding-right: 0px;
+}
+
+
+/* 针对屏幕宽度大于1200px的设备 */
+@media (min-width: 1200px) {
+    .ad-container-article {
+        padding-right: 255px;
+    }
 }
 </style>
