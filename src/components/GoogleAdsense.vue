@@ -52,6 +52,6 @@ export default {
     padding: 0px;
 }
 .ad-container-article {
-    padding-right: 225px;
+    padding-right: 255px;
 }
 </style>
