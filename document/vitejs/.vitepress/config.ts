@@ -145,7 +145,7 @@ export default defineConfig({
       
       {
         text: '资讯首页',
-        link: '/',
+        link: `${BASEHOST}`,
         activeMatch: '/'
       },
       { text: '指引', link: '/guide/', activeMatch: '/guide/' },

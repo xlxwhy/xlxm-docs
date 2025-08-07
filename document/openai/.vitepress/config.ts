@@ -107,7 +107,7 @@ function nav(): DefaultTheme.NavItem[] {
     
     {
       text: '资讯首页',
-      link: '/',
+      link: `${BASEHOST}`,
       activeMatch: '/'
     },
     {

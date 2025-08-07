@@ -33,9 +33,10 @@ export default {
 
 <style lang="scss">
 .ad-container{
-    .ad-contnet{
+    .ad-content{
         display: flex;
         justify-content: center;
+        max-width: 850px;
     }
 }
 
