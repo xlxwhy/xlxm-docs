@@ -32,12 +32,12 @@ export default {
 
 
 <style lang="scss">
-.ad-container{
-    .ad-content{
-        display: flex;
-        justify-content: center;
+.ad-container {
+    display: flex;
+    justify-content: center;
+    .ad-content {
         max-width: 850px;
+        width: 800px;
     }
 }
-
 </style>
