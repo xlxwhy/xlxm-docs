@@ -142,6 +142,12 @@ export default defineConfig({
     // },
 
     nav: [
+      
+      {
+        text: '资讯首页',
+        link: '/',
+        activeMatch: '/'
+      },
       { text: '指引', link: '/guide/', activeMatch: '/guide/' },
       { text: '配置', link: '/config/', activeMatch: '/config/' },
       { text: '插件', link: '/plugins/', activeMatch: '/plugins/' },

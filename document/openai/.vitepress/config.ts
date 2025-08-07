@@ -104,6 +104,12 @@ export default defineConfig({
 
 function nav(): DefaultTheme.NavItem[] {
   return [
+    
+    {
+      text: '资讯首页',
+      link: '/',
+      activeMatch: '/'
+    },
     {
       text: 'Document',
       link: '/document/introduction',
