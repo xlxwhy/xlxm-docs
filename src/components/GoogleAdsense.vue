@@ -1,5 +1,5 @@
 <template>
-    <div class="ad-container">
+    <div :class="'ad-container  ad-container-' + padding">
         <div class="ad-content">
             <script async
                 src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6579111049316949"
@@ -16,6 +16,12 @@
 <script>
 
 export default {
+    props: {
+        padding: {
+            type: [String],
+            default: "article"
+        },
+    },
     data() {
         return {
         }
@@ -35,9 +41,17 @@ export default {
 .ad-container {
     display: flex;
     justify-content: center;
+
     .ad-content {
         max-width: 850px;
         width: 800px;
     }
+}
+
+.ad-container-home {
+    padding: 0px;
+}
+.ad-container-article {
+    padding-left: 225px;
 }
 </style>

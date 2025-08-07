@@ -6,6 +6,7 @@ footer: true
 prev: false
 next: false 
 hideAdContent: false
+googleAdsensePadding: home
 lastUpdated: false
 ---
 

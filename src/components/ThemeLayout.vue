@@ -16,7 +16,7 @@ const { Layout } = DefaultTheme
   <Layout>
     <template #doc-top> 
         <div v-if="!frontmatter.hideAdContent">
-          <GoogleAdsense />
+          <GoogleAdsense :padding="frontmatter.googleAdsensePadding" />
         </div>
     </template>
   </Layout>
