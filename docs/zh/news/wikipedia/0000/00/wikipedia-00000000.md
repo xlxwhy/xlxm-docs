@@ -1,24 +1,10 @@
 # 最新资讯  
-## 1989年_天安门_广场_抗议_和_屠杀   
-The Tiananmen Square protests, known within China as the June Fourth Incident, were student-led demonstrations held in Tiananmen Square in Beijing, China, lasting from 15 April to 4 June 1989. After weeks of unsuccessful attempts between the demonstrators and the Chinese government to find a peaceful resolution, the Chinese government deployed troops to occupy the square on the night of 3 June in what is referred to as the Tiananmen Square massacre. The events are sometimes called the '89 Democracy Movement, the Tiananmen Square Incident, or the Tiananmen uprising.   
+## 凯利_麦克   
+Kelley Mack was an American actress. She was best known for playing Addy in season 9 of the series The Walking Dead (2018–2019). She also had roles in the films Profile (2018) and Broadcast Signal Intrusion (2021).   
 
-天安门广场抗议活动在中国境内被称为“六·四事件”，是学生领导的在中国北京天安门广场举行的示威活动，持续时间为1989年4月15日至6月4日。在示威者与中国政府试图找到和平解决方案数周失败后，中国政府于6月3日晚部署军队占领广场，引发了所谓的天安门广场大屠杀。这些事件有时被称为“89民主运动”、“天安门事件”或“天安门起义”。   
+凯利·麦克是一位美国女演员。她因在《行尸走肉》系列第九季（2018-2019）中扮演阿迪而闻名。她还出演过电影《Profile》（2018）和《Broadcast Signal Insurance》（2021）。   
 
-阅读延伸[44534]: [https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre)   
-
-## 泰国政府   
-Government of Thailand, officially the Royal Thai Government, is the central executive authority of the Kingdom of Thailand. The government is led by the prime minister who selects all the other ministers. The country has had a coalition government since 2024 led by Pheu Thai. The country emerged as a modern nation state after the foundation of the Chakri dynasty and the city of Bangkok in 1782. The Revolution of 1932 brought an end to absolute monarchy and replaced it with a constitutional monarchy.   
-
-泰国政府，正式名称泰王国政府，是泰王国的中央行政机关。政府由总理领导，总理选出所有其他部长。该国自2024年以来一直组建由Pheu Thai领导的联合政府。1782年察克里王朝和曼谷市建立后，该国成为一个现代民族国家。1932年革命结束了绝对君主制，代之以君主立宪制。   
-
-阅读延伸[19068660]: [https://en.wikipedia.org/wiki/Government_of_Thailand](https://en.wikipedia.org/wiki/Government_of_Thailand)   
-
-## 悉尼_斯威尼   
-Sydney Bernice Sweeney is an American actress and producer. She gained early recognition for her roles in Everything Sucks!, The Handmaid's Tale, and Sharp Objects. She received wider acclaim for her performances in the drama series Euphoria (2019–present) and the first season of the anthology series The White Lotus (2021), both of which earned her nominations for two Primetime Emmy Awards.   
-
-西德尼·伯尼斯·斯威尼是一位美国女演员兼制片人。她因在《Everything Sucks！》中的角色而获得早期认可，使女的故事和利器。她因在电视剧《欣快感》（2019年至今）和选集系列《白莲花》（2021年）第一季中的表演而受到广泛赞誉，这两部剧都为她赢得了两项黄金时段艾美奖提名。   
-
-阅读延伸[56636819]: [https://en.wikipedia.org/wiki/Sydney_Sweeney](https://en.wikipedia.org/wiki/Sydney_Sweeney)   
+阅读延伸[80638409]: [https://en.wikipedia.org/wiki/Kelley_Mack](https://en.wikipedia.org/wiki/Kelley_Mack)   
 
 ## 武器_（2025_电影）   
 Weapons is an upcoming American mystery horror film written, produced, and directed by Zach Cregger. The film stars Josh Brolin, Julia Garner, Alden Ehrenreich, Austin Abrams, Cary Christopher, Benedict Wong, and Amy Madigan. Its plot follows the case of seventeen kids from the same classroom who mysteriously disappear overnight at the exact same time.   
@@ -26,6 +12,34 @@ Weapons is an upcoming American mystery horror film written, produced, and direc
 《武器》是一部即将上映的美国悬疑恐怖电影，由扎克·克雷格编剧、制作和导演。这部电影由乔什·布罗林、朱莉娅·加纳、奥尔登·埃斯珀赖希、奥斯汀·艾布拉姆斯、卡里·克里斯托弗、本尼迪克特·黄和艾米·马迪根主演。它的情节讲述了同一个教室的十七个孩子在同一时间一夜之间神秘失踪的故事。   
 
 阅读延伸[73248680]: [https://en.wikipedia.org/wiki/Weapons_(2025_film)](https://en.wikipedia.org/wiki/Weapons_(2025_film))   
+
+## 1989年_天安门_广场_抗议_和_屠杀   
+The Tiananmen Square protests, known within China as the June Fourth Incident, were student-led demonstrations held in Tiananmen Square in Beijing, China, lasting from 15 April to 4 June 1989. After weeks of unsuccessful attempts between the demonstrators and the Chinese government to find a peaceful resolution, the Chinese government deployed troops to occupy the square on the night of 3 June in what is referred to as the Tiananmen Square massacre. The events are sometimes called the '89 Democracy Movement, the Tiananmen Square Incident, or the Tiananmen uprising.   
+
+天安门广场抗议活动在中国境内被称为“六·四事件”，是学生领导的在中国北京天安门广场举行的示威活动，持续时间为1989年4月15日至6月4日。在示威者与中国政府试图找到和平解决方案数周失败后，中国政府于6月3日晚部署军队占领广场，引发了所谓的天安门广场大屠杀。这些事件有时被称为“89民主运动”、“天安门事件”或“天安门起义”。   
+
+阅读延伸[44534]: [https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre)   
+
+## 星期三_（电视剧）   
+Wednesday is an American supernatural mystery comedy television series based on the character Wednesday Addams by Charles Addams. Created by Alfred Gough and Miles Millar, it stars Jenna Ortega as the titular character, with Gwendoline Christie, Riki Lindhome, Jamie McShane, Hunter Doohan, Percy Hynes White, Emma Myers, Joy Sunday, Georgie Farmer, Naomi J. Ogawa, Christina Ricci, and Moosa Mostafa appearing in supporting roles. Four out of the eight episodes of the first season were directed by Tim Burton, who also serves as executive producer. The first season revolves around Wednesday Addams, who attempts to solve a murder mystery at her new school.   
+
+《星期三》是一部美国超自然悬疑喜剧电视剧，根据查尔斯·亚当斯的《星期三·亚当斯》角色改编。该剧由阿尔弗雷德·高夫（Alfred Gough）和迈尔斯·米勒（Miles Millar）创作，珍娜·奥尔特加（Jenna Ortega）饰演名义角色，格温多琳·克里斯蒂（Gwendoline Christie）、里基·林德霍姆（Riki Lindhomome）、杰米·麦克肖恩（Jamie McShane）、亨特·杜汉（Hunter Doohan）、珀西·海因斯·怀特（Percy Hynes White）、艾玛·迈尔斯（Emma Myers）、乔伊·桑迪（Joy Sunday）、乔吉·法默（Georgie Farmer）、娜奥米·J·Ogawa、克里斯蒂娜·里奇（Christina Ricci）和穆萨·穆斯塔法（Moosa Mostafa）担任配角。第一季的八集中有四集由蒂姆·伯顿执导，他也担任执行制片人。第一季围绕周三·亚当斯展开，她试图在新学校解开谋杀案之谜。   
+
+阅读延伸[66740629]: [https://en.wikipedia.org/wiki/Wednesday_(TV_series)](https://en.wikipedia.org/wiki/Wednesday_(TV_series))   
+
+## 死亡_in_2025   
+The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
+
+以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
+
+阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
+
+## 悉尼_斯威尼   
+Sydney Bernice Sweeney is an American actress and producer. She gained early recognition for her roles in Everything Sucks!, The Handmaid's Tale, and Sharp Objects. She received wider acclaim for her performances in the drama series Euphoria (2019–present) and the first season of the anthology series The White Lotus (2021), both of which earned her nominations for two Primetime Emmy Awards.   
+
+西德尼·伯尼斯·斯威尼是一位美国女演员兼制片人。她因在《Everything Sucks！》中的角色而获得早期认可，使女的故事和利器。她因在电视剧《欣快感》（2019年至今）和选集系列《白莲花》（2021年）第一季中的表演而受到广泛赞誉，这两部剧都为她赢得了两项黄金时段艾美奖提名。   
+
+阅读延伸[56636819]: [https://en.wikipedia.org/wiki/Sydney_Sweeney](https://en.wikipedia.org/wiki/Sydney_Sweeney)   
 
 ## _神奇_四：_第一步   
 The Fantastic Four: First Steps is a 2025 American superhero film based on the Marvel Comics superhero team the Fantastic Four. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is intended to be the 37th film in the Marvel Cinematic Universe (MCU) and the second reboot of the Fantastic Four film series. The film is directed by Matt Shakman from a screenplay by Josh Friedman, Eric Pearson, Jeff Kaplan, and Ian Springer. It features an ensemble cast including Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach, and Joseph Quinn as the titular team, alongside Julia Garner, Natasha Lyonne, Paul Walter Hauser, and Ralph Ineson. In the film, the Fantastic Four must protect their 1960s-inspired retro-futuristic world from the planet-devouring cosmic being Galactus (Ineson).   
@@ -41,33 +55,12 @@ War of the Worlds is a 2025 American screenlife science fiction thriller film ba
 
 阅读延伸[80520591]: [https://en.wikipedia.org/wiki/War_of_the_Worlds_(2025_film)](https://en.wikipedia.org/wiki/War_of_the_Worlds_(2025_film))   
 
-## 死亡_in_2025   
-The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
+## 广岛和广岛原子弹爆炸   
+On 6 and 9 August 1945, the United States detonated two atomic bombs over the Japanese cities of Hiroshima and Nagasaki, respectively, during World War II. The aerial bombings killed between 150,000 and 246,000 people, most of whom were civilians, and remain the only uses of nuclear weapons in an armed conflict. Japan announced its surrender to the Allies on 15 August, six days after the bombing of Nagasaki and the Soviet Union's declaration of war against Japan and invasion of Manchuria. The Japanese government signed an instrument of surrender on 2 September, ending the war.   
 
-以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
+1945年8月6日和9日，二战期间，美国分别在日本广岛和广岛上空引爆了两枚原子弹。空袭造成15万至246，000人死亡，其中大多数是平民，并且仍然是武装冲突中核武器的唯一使用。日本于8月15日宣布向盟国投降，即轰炸广岛、苏联对日本宣战并入侵满洲六天后。日本政府于9月2日签署投降书，结束战争。   
 
-阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
-
-## 洛尼_安德森   
-Loni Anderson was an American actress. She is best known for playing receptionist Jennifer Marlowe on the CBS sitcom WKRP in Cincinnati (1978–1982), which earned her nominations for three Golden Globe Awards and two Emmy Awards.   
-
-洛尼·安德森是一位美国女演员。她因在辛辛那提CBS情景喜剧WKRP（1978-1982年）中扮演接待员詹妮弗·马洛而闻名，该剧为她赢得了三项金球奖和两项艾美奖提名。   
-
-阅读延伸[769659]: [https://en.wikipedia.org/wiki/Loni_Anderson](https://en.wikipedia.org/wiki/Loni_Anderson)   
-
-## 泰国教育   
-Education in Thailand is provided mainly by the Thai government through the Ministry of Education from pre-school to senior high school. A free basic education to fifteen years is guaranteed by the Thai constitution. This basic education comprises six years of elementary school and three years of lower secondary school. In addition, three years of pre-school and three years of upper-secondary education is available free of charge, but are non-compulsory.   
-
-泰国的教育主要由泰国政府通过教育部提供，从学前班到高中。泰国宪法保障十五年的免费基础教育。这种基础教育包括六年小学和三年初中。此外，三年学前教育和三年高中教育是免费的，但是非义务的。   
-
-阅读延伸[550135]: [https://en.wikipedia.org/wiki/Education_in_Thailand](https://en.wikipedia.org/wiki/Education_in_Thailand)   
-
-## Lil_Tay   
-Tay Tian, known professionally as Lil Tay, is an American-Canadian internet personality and musician. She first came to prominence in early 2018 at the age of ten, when content depicting her boasting about being wealthy and calling herself "the youngest flexer of the century", as well as videos of her rapping, were published and viewed millions of times on YouTube and Instagram.   
-
-Tay Tian，专业名称Lil Tay，是一位美籍加拿大互联网名人和音乐家。她于2018年初首次崭露头角，当时她十岁，当时她吹嘘自己富有并称自己为“本世纪最年轻的弹性歌手”的内容以及她的说唱视频在YouTube和Instagram上被发布并观看了数百万次。   
-
-阅读延伸[74557276]: [https://en.wikipedia.org/wiki/Lil_Tay](https://en.wikipedia.org/wiki/Lil_Tay)   
+阅读延伸[11778948]: [https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki](https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki)   
 
 ## 超人_（2025年_电影）   
 Superman is an upcoming American superhero film based on DC Comics featuring the eponymous character. Produced by DC Studios and to be distributed by Warner Bros. Pictures, it will be the first film in the DC Universe (DCU) and a reboot of the Superman film series. The film is written and directed by James Gunn and stars David Corenswet as Clark Kent / Superman, alongside Rachel Brosnahan, Nicholas Hoult, Edi Gathegi, Anthony Carrigan, Nathan Fillion, Isabela Merced, Skyler Gisondo, Sara Sampaio, María Gabriela de Faría, Wendell Pierce, Alan Tudyk, Pruitt Taylor Vince, and Neva Howell. In the film, Superman's journey to reconcile his alien heritage with his human family is explored.   
@@ -76,13 +69,6 @@ Superman is an upcoming American superhero film based on DC Comics featuring the
 
 阅读延伸[57255388]: [https://en.wikipedia.org/wiki/Superman_(2025_film)](https://en.wikipedia.org/wiki/Superman_(2025_film))   
 
-## 奥兹_奥斯本   
-John Michael "Ozzy" Osbourne was an English singer, songwriter and media personality. He rose to prominence during the 1970s as the lead vocalist of the heavy metal band Black Sabbath, during which period he adopted the nickname "Prince of Darkness".   
-
-约翰·迈克尔·“奥兹”·奥斯本是一位英国歌手、词曲作者和媒体名人。20世纪70年代，他作为重金属乐队Black Sabbath的主唱而声名鹊起，在此期间他获得了“黑暗王子”的绰号。   
-
-阅读延伸[85406]: [https://en.wikipedia.org/wiki/Ozzy_Osbourne](https://en.wikipedia.org/wiki/Ozzy_Osbourne)   
-
 ## 赛亚拉   
 Saiyaara is a 2025 Indian Hindi-language musical romantic drama film directed by Mohit Suri. Produced under Yash Raj Films, it stars debutant Ahaan Panday and Aneet Padda. It is loosely based on the 2004 Korean film A Moment To Remember. The film follows Krish Kapoor, a troubled musician, as he forms a deep connection with Vaani Batra, a shy poet.   
 
@@ -90,26 +76,12 @@ Saiyaara is a 2025 Indian Hindi-language musical romantic drama film directed by
 
 阅读延伸[80453578]: [https://en.wikipedia.org/wiki/Saiyaara](https://en.wikipedia.org/wiki/Saiyaara)   
 
-## 泰国   
-Thailand, officially the Kingdom of Thailand and historically known as Siam, is a country in Southeast Asia on the Indochinese Peninsula. With a population of almost 66 million, it spans 513,115 square kilometres (198,115 sq mi). Thailand is bordered to the northwest by Myanmar, to the northeast and east by Laos, to the southeast by Cambodia, to the south by the Gulf of Thailand and Malaysia, and to the southwest by the Andaman Sea; it also shares maritime borders with Vietnam to the southeast and Indonesia and India to the southwest. Bangkok is the state capital and largest city.   
+## 达纳_柏拉图   
+Dana Michelle Plato was an American actress. An influential teen idol of the late 1970s and early 1980s, she played Kimberly Drummond on the sitcom Diff'rent Strokes (1978–1986). Her personal struggles with substance abuse were well documented by the media and led to her premature death at the age of 34. Her life has retrospectively been called a "tragedy".   
 
-泰国，正式名称泰王国，历史上称为暹罗，是东南亚印度支那半岛的一个国家。人口近6600万，占地513，115平方公里（198，115平方英里）。泰国西北与缅甸接壤，东北和东部与老挝接壤，东南与柬埔寨接壤，南临泰国湾和马来西亚湾，西南与安达曼海接壤;东南与越南接壤，西南与印度尼西亚和印度接壤。曼谷是该州首府和最大城市。   
+达纳·米歇尔·柏拉图是一位美国女演员。她是20世纪70年代末和80年代初颇具影响力的青少年偶像，在情景喜剧《Diff ' rent Strokes》（1978-1986）中扮演金伯利·德拉蒙德（Kimberly Drummond）。媒体详细记录了她个人与药物滥用的斗争，并导致她在34岁时过早去世。回顾过去，她的一生被称为“悲剧”。   
 
-阅读延伸[30128]: [https://en.wikipedia.org/wiki/Thailand](https://en.wikipedia.org/wiki/Thailand)   
-
-## 帕梅拉_安德森   
-Pamela Denise Anderson is a Canadian-American actress, model and media personality. She rose to prominence after being selected as the February 1990 Playboy Playmate of the Month. She went on to make regular appearances on the magazine's cover and held the record for the most Playboy covers by any individual. Anderson began her acting career on the ABC sitcom Home Improvement, before receiving international recognition for starring as "C.J." Parker in the drama series Baywatch (1992–1997), which further cemented her status as a sex symbol.   
-
-帕梅拉·丹尼斯·安德森（Pamela Denise Anderson）是一位共和党裔美国女演员、模特和媒体人物。1990年2月，她被选为《花花公子》本月玩伴后声名鹊起。她随后经常出现在该杂志的封面上，并保持着个人翻唱《花花公子》最多的记录。安德森在美国广播公司（ABC）情景喜剧《家居装修》（Home Improvement）中开始了她的演艺生涯，随后因饰演“CJ”而获得国际认可帕克在电视剧《海滩游侠》（1992-1997）中的角色，进一步巩固了她作为性感象征的地位。   
-
-阅读延伸[23035]: [https://en.wikipedia.org/wiki/Pamela_Anderson](https://en.wikipedia.org/wiki/Pamela_Anderson)   
-
-## 他妈   
-Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
-
-Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词或表达蔑视。虽然它的起源并不清楚，但通常被认为是在1475年左右首次得到证实的。在现代使用中，fuck一词及其衍生词被用作名词、动词、形容词、中词、感叹词或副词。有许多常用短语使用该词，以及包含该词的复合词，例如muddermuses和fuck off。   
-
-阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
+阅读延伸[9048]: [https://en.wikipedia.org/wiki/Dana_Plato](https://en.wikipedia.org/wiki/Dana_Plato)   
 
 ## 侏罗纪_世界_重生   
 Jurassic World Rebirth is a 2025 American science fiction action film directed by Gareth Edwards and written by David Koepp. A standalone sequel to Jurassic World Dominion (2022), it is the fourth Jurassic World film and the seventh installment overall in the Jurassic Park franchise. The film stars Scarlett Johansson, Mahershala Ali, Jonathan Bailey, Rupert Friend, Manuel Garcia-Rulfo, and Ed Skrein. In the film, the world's dinosaurs now live around the equator, which provides the last viable climate for them to survive. A team travels to a former island research facility where the three largest prehistoric animals reside, with the goal of extracting samples that are vital for a heart disease treatment. The team also rescues a shipwrecked family, and both groups struggle to survive after becoming stranded on the island.   
@@ -118,24 +90,52 @@ Jurassic World Rebirth is a 2025 American science fiction action film directed b
 
 阅读延伸[75884495]: [https://en.wikipedia.org/wiki/Jurassic_World_Rebirth](https://en.wikipedia.org/wiki/Jurassic_World_Rebirth)   
 
-## 豪尔赫_科斯塔   
-Jorge Paulo Costa Almeida was a Portuguese professional football central defender and manager.   
+## 斯图尔特堡   
+Fort Stewart is a United States Army post in the U.S. state of Georgia. It lies primarily in Liberty and Bryan counties, but also extends into smaller portions of Evans, Long, and Tattnall Counties. The nearby city of Hinesville, along with Ft. Stewart and the rest of Liberty and Long Counties, comprise the Hinesville metropolitan area. Much of Fort Stewart's garrison are members of the 3rd Infantry Division.   
 
-豪尔赫·保罗·科斯塔·阿尔梅达是葡萄牙职业足球中后卫兼主教练。   
+斯图尔特堡是美国陆军位于美国佐治亚州的一个哨所。它主要位于利伯蒂县和布莱恩县，但也延伸到埃文斯县、朗县和塔特纳尔县的较小部分地区。附近的海因斯维尔市以及福特。斯图尔特以及利伯蒂县和朗县的其他地区组成了海恩斯维尔都会区。斯图尔特堡的大部分驻军都是第三步兵师的成员。   
 
-阅读延伸[670891]: [https://en.wikipedia.org/wiki/Jorge_Costa](https://en.wikipedia.org/wiki/Jorge_Costa)   
+阅读延伸[110221]: [https://en.wikipedia.org/wiki/Fort_Stewart](https://en.wikipedia.org/wiki/Fort_Stewart)   
 
-## The_Naked_Gun_（2025_电影）   
-The Naked Gun is a 2025 American action comedy film directed by Akiva Schaffer, who co-wrote the script with Dan Gregor and Doug Mand. It serves as a legacy sequel to Naked Gun 33⅓: The Final Insult (1994) and is the fourth film in The Naked Gun franchise. The film stars Liam Neeson, Pamela Anderson, Paul Walter Hauser, Kevin Durand, and Danny Huston. Its plot follows the son of Lt. Frank Drebin who must succeed in his father's footsteps to prevent the closure of Police Squad.   
+## 奥兹_奥斯本   
+John Michael "Ozzy" Osbourne was an English singer, songwriter and media personality. He rose to prominence during the 1970s as the lead vocalist of the heavy metal band Black Sabbath, during which period he adopted the nickname "Prince of Darkness".   
 
-《裸枪》是一部2025年的美国动作喜剧电影，由Akiva Schaffer执导，她与Dan Gregor和Doug Mand共同撰写剧本。它是《Naked Gun 33》笔名：《最后的侮辱》（1994年）的遗留续集，也是《Naked Gun》系列的第四部电影。该片由利亚姆·尼森、帕梅拉·安德森、保罗·沃尔特·豪瑟、凯文·杜兰德和丹尼·休斯顿主演。故事情节讲述了弗兰克·德雷宾中尉的儿子，他必须继承父亲的脚步，以防止警察小队关闭。   
+约翰·迈克尔·“奥兹”·奥斯本是一位英国歌手、词曲作者和媒体名人。20世纪70年代，他作为重金属乐队Black Sabbath的主唱而声名鹊起，在此期间他获得了“黑暗王子”的绰号。   
 
-阅读延伸[72578421]: [https://en.wikipedia.org/wiki/The_Naked_Gun_(2025_film)](https://en.wikipedia.org/wiki/The_Naked_Gun_(2025_film))   
+阅读延伸[85406]: [https://en.wikipedia.org/wiki/Ozzy_Osbourne](https://en.wikipedia.org/wiki/Ozzy_Osbourne)   
 
-## Corey_Mylchreest   
-Corey Mylchreest is an English actor. A graduate of the Royal Academy of Dramatic Art, he is known for his starring role as a fictionalized King George III in the Netflix period drama miniseries Queen Charlotte: A Bridgerton Story (2023). Additionally, Mylchreest starred alongside Sofia Carson in My Oxford Year in 2025.   
+## 他妈   
+Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
 
-科里·米尔克里斯特是一位英国演员。他毕业于皇家戏剧艺术学院，因在Netflix时代迷你剧《夏洛特女王：布里杰顿的故事》（2023年）中饰演虚构的乔治三世国王而闻名。此外，Mylchreest还与Sofia Carson一起出演了2025年的《我的牛津年》。   
+Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词或表达蔑视。虽然它的起源并不清楚，但通常被认为是在1475年左右首次得到证实的。在现代使用中，fuck一词及其衍生词被用作名词、动词、形容词、中词、感叹词或副词。有许多常用短语使用该词，以及包含该词的复合词，例如muddermuses和fuck off。   
 
-阅读延伸[73059654]: [https://en.wikipedia.org/wiki/Corey_Mylchreest](https://en.wikipedia.org/wiki/Corey_Mylchreest)   
+阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
+
+## 本杰明_舍什科   
+Benjamin Šeško is a Slovenian professional footballer who plays as a striker for Bundesliga club RB Leipzig and the Slovenia national team.   
+
+本杰明·舍什科是斯洛文尼亚职业足球运动员，曾在德甲俱乐部莱比锡RB和斯洛文尼亚国家队担任前锋。   
+
+阅读延伸[61902206]: [https://en.wikipedia.org/wiki/Benjamin_%C5%A0e%C5%A1ko](https://en.wikipedia.org/wiki/Benjamin_%C5%A0e%C5%A1ko)   
+
+## 斯蒂芬_斯塔克   
+Stephen Stucker was an American actor, known for portrayals of bizarre characters, notably the manic control-room worker Johnny in the early 1980s Airplane! movies and the stenographer in the courtroom sequence of 1977's The Kentucky Fried Movie.   
+
+斯蒂芬·斯塔克（Stephen Stucker）是一位美国演员，以扮演奇异角色而闻名，尤其是20世纪80年代初疯狂的控制室工作人员约翰尼（Johnny）飞机！电影和1977年肯塔基油炸电影法庭序列中的速记员。   
+
+阅读延伸[3077917]: [https://en.wikipedia.org/wiki/Stephen_Stucker](https://en.wikipedia.org/wiki/Stephen_Stucker)   
+
+## 阿基米德的爪   
+The Claw of Archimedes was an ancient weapon devised by Archimedes to defend the seaward portion of Syracuse's city wall against amphibious assault. Although its exact nature is unclear, the accounts of ancient historians seem to describe it as a sort of crane equipped with a grappling hook that was able to lift an attacking quinquereme by the bow. By then releasing the claw the ship would fall onto the rocks or water below, inevitably capsizing. The claw could allegedly shake boats with such force that the crew would be thrown into the sea.   
+
+阿基米德之爪是阿基米德设计的一种古老武器，用于保卫锡拉丘兹城墙的向海部分免受两栖攻击。尽管它的确切性质尚不清楚，但古代历史学家的叙述似乎将它描述为一种配备抓钩的起重机，能够用船头举起攻击的五魁兽。然后松开爪子，船就会掉到下面的岩石或水中，不可避免地倾覆。据称，爪子可以摇晃船只，其力量如此之大，以至于船员会被扔进海里。   
+
+阅读延伸[999439]: [https://en.wikipedia.org/wiki/Claw_of_Archimedes](https://en.wikipedia.org/wiki/Claw_of_Archimedes)   
+
+## 帕梅拉_安德森   
+Pamela Denise Anderson is a Canadian-American actress, model and media personality. She rose to prominence after being selected as the February 1990 Playboy Playmate of the Month. She went on to make regular appearances on the magazine's cover and held the record for the most Playboy covers by any individual. Anderson began her acting career on the ABC sitcom Home Improvement, before receiving international recognition for starring as "C.J." Parker in the drama series Baywatch (1992–1997), which further cemented her status as a sex symbol.   
+
+帕梅拉·丹尼斯·安德森（Pamela Denise Anderson）是一位共和党裔美国女演员、模特和媒体人物。1990年2月，她被选为《花花公子》本月玩伴后声名鹊起。她随后经常出现在该杂志的封面上，并保持着个人翻唱《花花公子》最多的记录。安德森在美国广播公司（ABC）情景喜剧《家居装修》（Home Improvement）中开始了她的演艺生涯，随后因饰演“CJ”而获得国际认可帕克在电视剧《海滩游侠》（1992-1997）中的角色，进一步巩固了她作为性感象征的地位。   
+
+阅读延伸[23035]: [https://en.wikipedia.org/wiki/Pamela_Anderson](https://en.wikipedia.org/wiki/Pamela_Anderson)   
 
