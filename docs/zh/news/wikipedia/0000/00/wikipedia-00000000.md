@@ -6,26 +6,19 @@ Weapons is an upcoming American mystery horror film written, produced, and direc
 
 阅读延伸[73248680]: [https://en.wikipedia.org/wiki/Weapons_(2025_film)](https://en.wikipedia.org/wiki/Weapons_(2025_film))   
 
-## 星期三_（电视剧）   
-Wednesday is an American supernatural mystery comedy television series based on the character Wednesday Addams by Charles Addams. Created by Alfred Gough and Miles Millar, it stars Jenna Ortega as the titular character, with Gwendoline Christie, Riki Lindhome, Jamie McShane, Hunter Doohan, Percy Hynes White, Emma Myers, Joy Sunday, Georgie Farmer, Naomi J. Ogawa, Christina Ricci, and Moosa Mostafa appearing in supporting roles. Four out of the eight episodes of the first season were directed by Tim Burton, who also serves as executive producer. The first season revolves around Wednesday Addams, who attempts to solve a murder mystery at her new school.   
-
-《星期三》是一部美国超自然悬疑喜剧电视剧，根据查尔斯·亚当斯的《星期三·亚当斯》角色改编。该剧由阿尔弗雷德·高夫（Alfred Gough）和迈尔斯·米勒（Miles Millar）创作，珍娜·奥尔特加（Jenna Ortega）饰演名义角色，格温多琳·克里斯蒂（Gwendoline Christie）、里基·林德霍姆（Riki Lindhomome）、杰米·麦克肖恩（Jamie McShane）、亨特·杜汉（Hunter Doohan）、珀西·海因斯·怀特（Percy Hynes White）、艾玛·迈尔斯（Emma Myers）、乔伊·桑迪（Joy Sunday）、乔吉·法默（Georgie Farmer）、娜奥米·J·Ogawa、克里斯蒂娜·里奇（Christina Ricci）和穆萨·穆斯塔法（Moosa Mostafa）担任配角。第一季的八集中有四集由蒂姆·伯顿执导，他也担任执行制片人。第一季围绕周三·亚当斯展开，她试图在新学校解开谋杀案之谜。   
-
-阅读延伸[66740629]: [https://en.wikipedia.org/wiki/Wednesday_(TV_series)](https://en.wikipedia.org/wiki/Wednesday_(TV_series))   
-
-## 1989年_天安门_广场_抗议_和_屠杀   
-The Tiananmen Square protests, known within China as the June Fourth Incident, were student-led demonstrations held in Tiananmen Square in Beijing, China, lasting from 15 April to 4 June 1989. After weeks of unsuccessful attempts between the demonstrators and the Chinese government to find a peaceful resolution, the Chinese government deployed troops to occupy the square on the night of 3 June in what is referred to as the Tiananmen Square massacre. The events are sometimes called the '89 Democracy Movement, the Tiananmen Square Incident, or the Tiananmen uprising.   
-
-天安门广场抗议活动在中国境内被称为“六·四事件”，是学生领导的在中国北京天安门广场举行的示威活动，持续时间为1989年4月15日至6月4日。在示威者与中国政府试图找到和平解决方案数周失败后，中国政府于6月3日晚部署军队占领广场，引发了所谓的天安门广场大屠杀。这些事件有时被称为“89民主运动”、“天安门事件”或“天安门起义”。   
-
-阅读延伸[44534]: [https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre)   
-
 ## 死亡_in_2025   
 The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
 
 以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
 
 阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
+
+## 星期三_（电视剧）   
+Wednesday is an American supernatural mystery comedy television series based on the character Wednesday Addams by Charles Addams. Created by Alfred Gough and Miles Millar, it stars Jenna Ortega as the titular character, with Gwendoline Christie, Riki Lindhome, Jamie McShane, Hunter Doohan, Percy Hynes White, Emma Myers, Joy Sunday, Georgie Farmer, Naomi J. Ogawa, Christina Ricci, and Moosa Mostafa appearing in supporting roles. Four out of the eight episodes of the first season were directed by Tim Burton, who also serves as executive producer. The first season revolves around Wednesday Addams, who attempts to solve a murder mystery at her new school.   
+
+《星期三》是一部美国超自然悬疑喜剧电视剧，根据查尔斯·亚当斯的《星期三·亚当斯》角色改编。该剧由阿尔弗雷德·高夫（Alfred Gough）和迈尔斯·米勒（Miles Millar）创作，珍娜·奥尔特加（Jenna Ortega）饰演名义角色，格温多琳·克里斯蒂（Gwendoline Christie）、里基·林德霍姆（Riki Lindhomome）、杰米·麦克肖恩（Jamie McShane）、亨特·杜汉（Hunter Doohan）、珀西·海因斯·怀特（Percy Hynes White）、艾玛·迈尔斯（Emma Myers）、乔伊·桑迪（Joy Sunday）、乔吉·法默（Georgie Farmer）、娜奥米·J·Ogawa、克里斯蒂娜·里奇（Christina Ricci）和穆萨·穆斯塔法（Moosa Mostafa）担任配角。第一季的八集中有四集由蒂姆·伯顿执导，他也担任执行制片人。第一季围绕周三·亚当斯展开，她试图在新学校解开谋杀案之谜。   
+
+阅读延伸[66740629]: [https://en.wikipedia.org/wiki/Wednesday_(TV_series)](https://en.wikipedia.org/wiki/Wednesday_(TV_series))   
 
 ## 超人_（2025年_电影）   
 Superman is an upcoming American superhero film based on DC Comics featuring the eponymous character. Produced by DC Studios and to be distributed by Warner Bros. Pictures, it will be the first film in the DC Universe (DCU) and a reboot of the Superman film series. The film is written and directed by James Gunn and stars David Corenswet as Clark Kent / Superman, alongside Rachel Brosnahan, Nicholas Hoult, Edi Gathegi, Anthony Carrigan, Nathan Fillion, Isabela Merced, Skyler Gisondo, Sara Sampaio, María Gabriela de Faría, Wendell Pierce, Alan Tudyk, Pruitt Taylor Vince, and Neva Howell. In the film, Superman's journey to reconcile his alien heritage with his human family is explored.   
@@ -41,20 +34,6 @@ The Fantastic Four: First Steps is a 2025 American superhero film based on the M
 
 阅读延伸[61443907]: [https://en.wikipedia.org/wiki/The_Fantastic_Four%3A_First_Steps](https://en.wikipedia.org/wiki/The_Fantastic_Four%3A_First_Steps)   
 
-## Cam_Little   
-Cameron Little is an American professional football placekicker for the Jacksonville Jaguars of the National Football League (NFL). Little played college football for the Arkansas Razorbacks, where he holds the highest field goal percentage of any kicker in program history, and he finished his college career without having missed an extra point.   
-
-卡梅伦·利特尔（Cameron Little）是美国国家橄榄球联盟（NFL）杰克逊维尔美洲虎队的美国职业橄榄球裁判。利特尔曾在阿肯色州Razorbacks队踢大学橄榄球，他拥有该项目历史上所有踢球者中最高的投篮命中率，并且他在没有错过任何一分的情况下结束了自己的大学生涯。   
-
-阅读延伸[76007193]: [https://en.wikipedia.org/wiki/Cam_Little](https://en.wikipedia.org/wiki/Cam_Little)   
-
-## Ainhum   
-Ainhum, also known as dactylolysis spontanea, is a painful constriction of the base of the fifth toe frequently followed by bilateral spontaneous autoamputation a few years later.   
-
-Ainhum，也称为趾关节松解症，是一种第五趾根部的疼痛收缩，几年后经常出现双侧自发自动截肢。   
-
-阅读延伸[1025653]: [https://en.wikipedia.org/wiki/Ainhum](https://en.wikipedia.org/wiki/Ainhum)   
-
 ## 他妈   
 Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
 
@@ -62,12 +41,26 @@ Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词�
 
 阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
 
-## 黄线_（Namma_Metro）   
-The Yellow Line of Namma Metro is a line on the metro rail network of Bengaluru, India. The 18.82 km (11.69 mi)-long line connects R.V. Road with Bommasandra, and is fully elevated with 16 stations. Rashtreeya Vidyalaya Road station is the terminal station within the city, with an interchange with the Green Line. Jayadeva Hospital will serve as another elevated interchange station with the Pink Line, which is under construction. Upon its opening, Jayadeva Hospital station emerges as the tallest and largest metro station in Bengaluru, with five levels of transport, including the metro lines. Central Silk Board station will be another interchange, between the Yellow and Blue Lines. The other end of the Yellow Line terminates at Delta Electronics Bommasandra.   
+## 伯纳斯_街道_骗局   
+The Berners Street hoax was perpetrated by the writer Theodore Hook in Westminster in 1810. After several weeks of preparation he made an apparently spontaneous bet with a friend that he could transform any property into the most talked-about address in London. Hook spent six weeks sending between a thousand and four thousand letters to tradespeople and businesses ordering deliveries of their goods and services to 54 Berners Street, Westminster, at various times on 27 November 1810. Several well-known people were also invited to call on the address, including the chairmen of the Bank of England and the East India Company, the Duke of Gloucester and the Lord Mayor of London.   
 
-Namma Metro黄线是印度班加罗尔地铁网络上的一条线路。这条全长18.82公里（11.69英里）的线路连接RV路和Bommasandra，完全高架，设有16个车站。Rashtreeya Vidyalaya Road站是市内的终点站，可与绿线换乘。Jayadeva医院将作为另一个与正在建设的粉红线的高架换乘站。Jayadeva Hospital站开通后，成为班加西最高、最大的地铁站，拥有五级交通，包括地铁线。中央丝绸板站将是黄线和蓝线之间的另一个立交桥。黄线的另一端终止于达美电子Bommasandra。   
+伯纳斯街骗局是作家西奥多·胡克（Theodore Hook）于1810年在威斯敏斯特制造的。经过几周的准备，他与一位朋友进行了一个显然自发的打赌，他可以将任何房产改造成伦敦最受关注的地址。1810年11月27日，胡克花了六周的时间，在不同时间向商人和企业发送了一千到四千封信件，要求将其商品和服务交付到威斯敏斯特伯纳斯街54号。英国央行和东印度公司董事长、格洛斯特公爵和伦敦市长等几位知名人士也受邀前来发表讲话。   
 
-阅读延伸[54623706]: [https://en.wikipedia.org/wiki/Yellow_Line_(Namma_Metro)](https://en.wikipedia.org/wiki/Yellow_Line_(Namma_Metro))   
+阅读延伸[6537930]: [https://en.wikipedia.org/wiki/Berners_Street_hoax](https://en.wikipedia.org/wiki/Berners_Street_hoax)   
+
+## The_Gilded_Age_（电视剧）   
+The Gilded Age is an American historical drama television series created and written by Julian Fellowes for HBO that is set in the United States during the Gilded Age, the boom years of the 1880s in New York City. Originally announced in 2018 for NBC, it was later announced in May 2019 that the show was moved to HBO. The first season premiered on January 24, 2022, and the second on October 29, 2023. In December 2023, the series was renewed for a third season, which premiered on June 22, 2025. In July 2025, the series was renewed for a fourth season.   
+
+《镀金时代》是一部美国历史电视剧，由朱利安·费洛斯为HBO创作和编剧，故事背景设定在镀金时代（1880年代纽约市的繁荣时期）的美国。该剧最初于2018年宣布由NBC播出，后来于2019年5月宣布将该剧移至HBO播出。第一季于2022年1月24日首播，第二季于2023年10月29日首播。2023年12月，该剧续订第三季，并于2025年6月22日首播。2025年7月，该系列续订第四季。   
+
+阅读延伸[56463386]: [https://en.wikipedia.org/wiki/The_Gilded_Age_(TV_series)](https://en.wikipedia.org/wiki/The_Gilded_Age_(TV_series))   
+
+## 1989年_天安门_广场_抗议_和_屠杀   
+The Tiananmen Square protests, known within China as the June Fourth Incident, were student-led demonstrations held in Tiananmen Square in Beijing, China, lasting from 15 April to 4 June 1989. After weeks of unsuccessful attempts between the demonstrators and the Chinese government to find a peaceful resolution, the Chinese government deployed troops to occupy the square on the night of 3 June in what is referred to as the Tiananmen Square massacre. The events are sometimes called the '89 Democracy Movement, the Tiananmen Square Incident, or the Tiananmen uprising.   
+
+天安门广场抗议活动在中国境内被称为“六·四事件”，是学生领导的在中国北京天安门广场举行的示威活动，持续时间为1989年4月15日至6月4日。在示威者与中国政府试图找到和平解决方案数周失败后，中国政府于6月3日晚部署军队占领广场，引发了所谓的天安门广场大屠杀。这些事件有时被称为“89民主运动”、“天安门事件”或“天安门起义”。   
+
+阅读延伸[44534]: [https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre)   
 
 ## 赛亚拉   
 Saiyaara is a 2025 Indian Hindi-language musical romantic drama film directed by Mohit Suri. Produced under Yash Raj Films, it stars debutant Ahaan Panday and Aneet Padda. It is loosely based on the 2004 Korean film A Moment To Remember. The film follows Krish Kapoor, a troubled musician, as he forms a deep connection with Vaani Batra, a shy poet.   
@@ -76,40 +69,19 @@ Saiyaara is a 2025 Indian Hindi-language musical romantic drama film directed by
 
 阅读延伸[80453578]: [https://en.wikipedia.org/wiki/Saiyaara](https://en.wikipedia.org/wiki/Saiyaara)   
 
-## 更怪异的_星期五   
-Freakier Friday is a 2025 American fantasy comedy film directed by Nisha Ganatra and written by Jordan Weiss. Produced by Walt Disney Pictures, it is a sequel to Freaky Friday (2003), itself based on Mary Rodgers's 1972 novel, and the seventh overall film in the franchise. Jamie Lee Curtis, Lindsay Lohan, Mark Harmon, Chad Michael Murray, Rosalind Chao, Ryan Malgarini, Christina Vidal Mitchell, Haley Hudson, Stephen Tobolowsky, and Lucille Soong reprise their respective roles from the original film, with Julia Butters, Sophia Hammons in her feature film debut and Manny Jacinto joining the cast.   
+## 米格尔_乌里韦_图贝   
+Miguel Uribe Turbay was a Colombian politician who served as a member of the Senate of Colombia from 2022 until his assassination in 2025. A member of the conservative Democratic Centre party, he had been seeking the party's nomination for the 2026 presidential election.   
 
-《怪异的星期五》是一部2025年的美国奇幻喜剧电影，由尼莎·加纳特拉执导，乔丹·韦斯编剧。该片由华特迪士尼影业制作，是《怪异星期五》（Freaky Friday，2003年）的续集，该片本身根据玛丽·罗杰斯1972年的小说改编，也是该系列中的第七部完整电影。杰米·李·柯蒂斯、林赛·罗韩、马克·哈蒙、查德·迈克尔·默里、罗莎琳德·赵、瑞安·马尔加里尼、克里斯蒂娜·维达尔·米切尔、海莉·哈德森、斯蒂芬·托博洛斯基和露西尔·宋重新演绎了原电影中各自的角色，朱莉娅·巴特斯、索菲亚·哈蒙斯出演了她的故事片处女作，曼尼·哈辛托也加入了演员阵容。   
+米格尔·乌里韦·图尔贝（Miguel Uribe Turbay）是一位哥伦比亚政治家，从2022年起担任哥伦比亚参议院议员，直到2025年遇刺。作为保守派民主中间党成员，他一直在寻求该党2026年总统选举的提名。   
 
-阅读延伸[73773500]: [https://en.wikipedia.org/wiki/Freakier_Friday](https://en.wikipedia.org/wiki/Freakier_Friday)   
+阅读延伸[80113458]: [https://en.wikipedia.org/wiki/Miguel_Uribe_Turbay](https://en.wikipedia.org/wiki/Miguel_Uribe_Turbay)   
 
-## J._ J._ Spaun   
-John Michael "J. J." Spaun Jr. is an American professional golfer who plays on the PGA Tour. He has won one major championship, the 2025 U.S. Open.   
+## 克里斯蒂亚诺_罗纳尔多   
+Cristiano Ronaldo dos Santos Aveiro is a Portuguese professional footballer who plays as a forward for and captains both Saudi Pro League club Al-Nassr and the Portugal national team. Nicknamed CR7, he is widely regarded as one of the greatest players in history, and has won numerous individual accolades throughout his career, including five Ballon d'Or awards, a record three UEFA Men's Player of the Year Awards, four European Golden Shoes, and was named five times the world's best player by FIFA. He has won 34 trophies in his career, including five UEFA Champions Leagues and the UEFA European Championship. He holds the records for most goals (140) and assists (42) in the Champions League, goals (14) and assists (8) in the European Championship, and most international appearances (221) and international goals (138). He is one of only five players to have scored 100 goals with three different clubs. He has made over 1,200 professional career appearances, the most by an outfield player, and has scored over 900 official senior career goals for club and country, making him the top goalscorer of all time.   
 
-约翰·迈克尔“JJ“小斯潘是一位参加PGA巡回赛的美国职业高尔夫球手。他赢得了一项重大冠军，即2025年美国公开赛。   
+克里斯蒂亚诺·罗纳尔多·多斯桑托斯·阿维罗是一位葡萄牙职业足球运动员，担任沙特职业联赛俱乐部阿尔纳斯尔和葡萄牙国家队的前锋和队长。绰号CR 7的他被广泛认为是历史上最伟大的球员之一，并在整个职业生涯中赢得了许多个人荣誉，包括五次金球奖、创纪录的三次欧洲男子年度最佳球员奖、四次欧洲金靴奖，并五次被国际足联评为世界最佳球员。他在职业生涯中赢得了34座奖杯，其中包括5座欧洲冠军联赛和欧洲锦标赛。他保持着欧冠进球数（140个）和助攻数（42个）、欧洲杯进球数（14个）和助攻数（8个）以及国际比赛出场数（221个）和国际比赛进球数（138个）的记录。他是仅有的五名在三家不同俱乐部打进100球的球员之一。他职业生涯出场次数超过1，200次，是外场球员最多的，并为俱乐部和国家队打进了900多个职业生涯官方高级进球，使他成为有史以来最佳射手。   
 
-阅读延伸[47379261]: [https://en.wikipedia.org/wiki/J._J._Spaun](https://en.wikipedia.org/wiki/J._J._Spaun)   
-
-## FA_社区_盾牌   
-The Football Association Community Shield is an annual match in English football contested at Wembley Stadium between the champions of the previous Premier League season and the holders of the FA Cup. If the same team wins both the league and the FA Cup, the match is played against the Premier League runners-up. The fixture is traditionally held in early August and serves as the opening match of the English football season, functioning as a ceremonial curtain-raiser rather than a major competitive honour.   
-
-英足总盾杯是英国足球界的一场年度比赛，上赛季英超冠军和足总杯冠军在温布利体育场举行。如果同一支球队同时赢得联赛和足总杯，则比赛将对阵英超亚军。这场比赛传统上在八月初举行，是英格兰足球赛季的首场比赛，其作用是拉开帷幕的仪式，而不是一项重大的比赛荣誉。   
-
-阅读延伸[291075]: [https://en.wikipedia.org/wiki/FA_Community_Shield](https://en.wikipedia.org/wiki/FA_Community_Shield)   
-
-## KPop_恶魔_猎人   
-KPop Demon Hunters is a 2025 American animated musical fantasy film produced by Sony Pictures Animation and released by Netflix. It was directed by Maggie Kang and Chris Appelhans from a screenplay they co-wrote with the writing team of Danya Jimenez and Hannah McMechan, based on a story conceived by Kang. The film stars the voices of Arden Cho, Ahn Hyo-seop, May Hong, Ji-young Yoo, Yunjin Kim, Daniel Dae Kim, Ken Jeong, and Lee Byung-hun. It follows a K-pop girl group, Huntr/x, who lead double lives as demon hunters; they face off against a rival boy band, the Saja Boys, whose members are secretly demons.   
-
-KPop《恶魔猎人》是一部2025年美国动画音乐奇幻电影，由索尼影业动画制作，Netflix发行。该片由玛吉·康（Maggie Kang）和克里斯·阿佩尔汉斯（Chris Appelhans）执导，改编自他们与丹雅·希门尼斯（Danya Jimenez）和汉娜·麦克梅钦（Hannah McMechan）的编剧团队共同编写的剧本，改编自康构思的故事。这部电影由Arden Cho、Ahn Hyo-seop、May Hong、Ji-young Yoo、Yunjin Kim、Daniel Dae Kim、Ken Jeong和Lee Byung-hun配音。故事讲述了韩国流行音乐女子组合Huntra/x作为恶魔猎人过着双重生活的故事;她们与对手男孩乐队Saja Boys对峙，该乐队的成员秘密是恶魔。   
-
-阅读延伸[67104864]: [https://en.wikipedia.org/wiki/KPop_Demon_Hunters](https://en.wikipedia.org/wiki/KPop_Demon_Hunters)   
-
-## 珍娜_奥尔特加   
-Jenna Marie Ortega is an American actress. She began her career as a child and received recognition for her role as a younger version of Jane in The CW comedy-drama series Jane the Virgin (2014–2019). She then won an Imagen Award for her leading role as Harley Diaz in the Disney Channel series Stuck in the Middle (2016–2018). She played Ellie Alves in the thriller series You (2019) and starred in the family film Yes Day (2021), both for Netflix.   
-
-珍娜·玛丽·奥尔特加是一位美国女演员。她从小就开始了自己的职业生涯，并因在CW喜剧电视剧《处女简》（2014-2019年）中饰演年轻版的简而受到认可。随后，她因在迪士尼频道系列剧《卡在中间》（2016-2018年）中饰演哈利·迪亚兹（Harley Diaz）而获得Imagen Award。她在惊悚剧《You》（2019年）中扮演艾莉·阿尔维斯（Ellie Alves），并主演了家庭电影《Yes Day》（2021年），这两部电影都是Netflix的。   
-
-阅读延伸[50229776]: [https://en.wikipedia.org/wiki/Jenna_Ortega](https://en.wikipedia.org/wiki/Jenna_Ortega)   
+阅读延伸[623737]: [https://en.wikipedia.org/wiki/Cristiano_Ronaldo](https://en.wikipedia.org/wiki/Cristiano_Ronaldo)   
 
 ## 扎克_克雷格   
 Zachary Michael Cregger is an American comedian, actor, and filmmaker. He is a founding member of the comedy troupe The Whitest Kids U' Know and starred in the sitcoms Friends with Benefits, Guys with Kids, and Wrecked. He wrote and directed the horror films Barbarian (2022) and Weapons (2025).   
@@ -118,12 +90,47 @@ Zachary Michael Cregger is an American comedian, actor, and filmmaker. He is a f
 
 阅读延伸[21980922]: [https://en.wikipedia.org/wiki/Zach_Cregger](https://en.wikipedia.org/wiki/Zach_Cregger)   
 
-## 2026_AFC_U-20_女子_亚洲杯_资格赛   
-The 2026 AFC U-20 Women's Asian Cup qualification was a women's under-20 football competition that determined the participating teams in the 2026 AFC U-20 Women's Asian Cup final tournament.   
+## KPop_恶魔_猎人   
+KPop Demon Hunters is a 2025 American animated musical fantasy film produced by Sony Pictures Animation and released by Netflix. It was directed by Maggie Kang and Chris Appelhans from a screenplay they co-wrote with the writing team of Danya Jimenez and Hannah McMechan, based on a story conceived by Kang. The film stars the voices of Arden Cho, Ahn Hyo-seop, May Hong, Ji-young Yoo, Yunjin Kim, Daniel Dae Kim, Ken Jeong, and Lee Byung-hun. It follows a K-pop girl group, Huntr/x, who lead double lives as demon hunters; they face off against a rival boy band, the Saja Boys, whose members are secretly demons.   
 
-2026年亚足联U-20女子亚洲杯预选赛是一场女子20岁以下足球比赛，决定了2026年亚足联U-20女子亚洲杯决赛的参赛球队。   
+KPop《恶魔猎人》是一部2025年美国动画音乐奇幻电影，由索尼影业动画制作，Netflix发行。该片由玛吉·康（Maggie Kang）和克里斯·阿佩尔汉斯（Chris Appelhans）执导，改编自他们与丹雅·希门尼斯（Danya Jimenez）和汉娜·麦克梅钦（Hannah McMechan）的编剧团队共同编写的剧本，改编自康构思的故事。这部电影由Arden Cho、Ahn Hyo-seop、May Hong、Ji-young Yoo、Yunjin Kim、Daniel Dae Kim、Ken Jeong和Lee Byung-hun配音。故事讲述了韩国流行音乐女子组合Huntra/x作为恶魔猎人过着双重生活的故事;她们与对手男孩乐队Saja Boys对峙，该乐队的成员秘密是恶魔。   
 
-阅读延伸[79393887]: [https://en.wikipedia.org/wiki/2026_AFC_U-20_Women's_Asian_Cup_qualification](https://en.wikipedia.org/wiki/2026_AFC_U-20_Women's_Asian_Cup_qualification)   
+阅读延伸[67104864]: [https://en.wikipedia.org/wiki/KPop_Demon_Hunters](https://en.wikipedia.org/wiki/KPop_Demon_Hunters)   
+
+## 酷利_（2025年_电影）   
+Coolie is an upcoming Indian Tamil-language action thriller film directed by Lokesh Kanagaraj and produced by Kalanithi Maran under Sun Pictures. The film stars Rajinikanth, Nagarjuna, Soubin Shahir, Upendra, Shruti Haasan, Sathyaraj, and Aamir Khan in the lead roles. Rachita Ram, Reba Monica John, Junior MGR, Kanna Ravi, Monisha Blessy, Kaali Venkat, and Charle appear in supporting roles. In the film, a mysterious man stands up to a corrupt syndicate that exploits and abuses the coolies in a coastal port town.   
+
+《酷里》是一部即将上映的印度泰米尔语动作惊悚电影，由洛克什·卡纳加拉吉执导，由太阳影业旗下卡拉尼蒂·马兰制作。这部电影由Rajinikanth、Nagarjuna、Soubin Shahir、Upendra、Shruti Haasan、Sathyaraj和Aamir Khan主演。Rachita Ram、Reba Monica John、Junior MGR、Kanna Ravi、Monisha Blessy、Kaali Venkat和Charle担任配角。在影片中，一名神秘男子反抗一个剥削和虐待沿海港口小镇的工人的腐败集团。   
+
+阅读延伸[74795535]: [https://en.wikipedia.org/wiki/Coolie_(2025_film)](https://en.wikipedia.org/wiki/Coolie_(2025_film))   
+
+## 珍娜_奥尔特加   
+Jenna Marie Ortega is an American actress. She began her career as a child and received recognition for her role as a younger version of Jane in The CW comedy-drama series Jane the Virgin (2014–2019). She then won an Imagen Award for her leading role as Harley Diaz in the Disney Channel series Stuck in the Middle (2016–2018). She played Ellie Alves in the thriller series You (2019) and starred in the family film Yes Day (2021), both for Netflix.   
+
+珍娜·玛丽·奥尔特加是一位美国女演员。她从小就开始了自己的职业生涯，并因在CW喜剧电视剧《处女简》（2014-2019年）中饰演年轻版的简而受到认可。随后，她因在迪士尼频道系列剧《卡在中间》（2016-2018年）中饰演哈利·迪亚兹（Harley Diaz）而获得Imagen Award。她在惊悚剧《You》（2019年）中扮演艾莉·阿尔维斯（Ellie Alves），并主演了家庭电影《Yes Day》（2021年），这两部电影都是Netflix的。   
+
+阅读延伸[50229776]: [https://en.wikipedia.org/wiki/Jenna_Ortega](https://en.wikipedia.org/wiki/Jenna_Ortega)   
+
+## 更怪异的_星期五   
+Freakier Friday is a 2025 American fantasy comedy film directed by Nisha Ganatra and written by Jordan Weiss. Produced by Walt Disney Pictures, it is a sequel to Freaky Friday (2003), itself based on Mary Rodgers's 1972 novel, and the seventh overall film in the franchise. Jamie Lee Curtis, Lindsay Lohan, Mark Harmon, Chad Michael Murray, Rosalind Chao, Ryan Malgarini, Christina Vidal Mitchell, Haley Hudson, Stephen Tobolowsky, and Lucille Soong reprise their respective roles from the original film, with Julia Butters, Sophia Hammons in her feature film debut and Manny Jacinto joining the cast.   
+
+《怪异的星期五》是一部2025年的美国奇幻喜剧电影，由尼莎·加纳特拉执导，乔丹·韦斯编剧。该片由华特迪士尼影业制作，是《怪异星期五》（Freaky Friday，2003年）的续集，该片本身根据玛丽·罗杰斯1972年的小说改编，也是该系列中的第七部完整电影。杰米·李·柯蒂斯、林赛·罗韩、马克·哈蒙、查德·迈克尔·默里、罗莎琳德·赵、瑞安·马尔加里尼、克里斯蒂娜·维达尔·米切尔、海莉·哈德森、斯蒂芬·托博洛斯基和露西尔·宋重新演绎了原电影中各自的角色，朱莉娅·巴特斯、索菲亚·哈蒙斯出演了她的故事片处女作，曼尼·哈辛托也加入了演员阵容。   
+
+阅读延伸[73773500]: [https://en.wikipedia.org/wiki/Freakier_Friday](https://en.wikipedia.org/wiki/Freakier_Friday)   
+
+## 阿纳斯_谢里夫   
+Anas Jamal Mahmoud Al-Sharif was a Palestinian journalist and videographer for Al Jazeera Arabic, widely recognized for his frontline reporting from northern Gaza during the Gaza war. In 2024, Al-Sharif's Reuters team was awarded a Pulitzer Prize for Breaking News Photography for their "raw and urgent" photos documenting the Gaza war.   
+
+阿纳斯·贾迈勒·马哈茂德·谢里夫（Anas Jamal Mahmoud Al-Sharif）是一名巴勒斯坦记者和阿拉伯半岛电视台的摄像师，因其在加沙战争期间从加沙北部进行的前线报道而受到广泛认可。2024年，谢里夫的路透社团队因记录加沙战争的“原始而紧急”照片而荣获普利策突发新闻摄影奖。   
+
+阅读延伸[80708292]: [https://en.wikipedia.org/wiki/Anas_Al-Sharif](https://en.wikipedia.org/wiki/Anas_Al-Sharif)   
+
+## Mahavatar_Narsimha   
+Mahavatar Narsimha is a 2025 Indian animated epic mythological action film directed by Ashwin Kumar in his directorial debut, written by Jayapurna Das, produced by Kleem Productions, and presented by Hombale Films. The film is the first instalment in the planned animated seven-part Mahavatar Cinematic Universe, based on the ten avatars of Bhagavan Vishnu.   
+
+《Mahavatar Narsimha》是一部2025年印度动画史诗神话动作电影，由Ashwin Kumar执导，执导处女作由Jayapurna Das编剧，Kleem Productions制作，Hombale Films放映。这部电影是计划中的七集动画《马哈瓦塔电影宇宙》的第一部，该动画改编自薄伽梵的十个化身。   
+
+阅读延伸[80433625]: [https://en.wikipedia.org/wiki/Mahavatar_Narsimha](https://en.wikipedia.org/wiki/Mahavatar_Narsimha)   
 
 ## 侏罗纪_世界_重生   
 Jurassic World Rebirth is a 2025 American science fiction action film directed by Gareth Edwards and written by David Koepp. A standalone sequel to Jurassic World Dominion (2022), it is the fourth Jurassic World film and the seventh installment overall in the Jurassic Park franchise. The film stars Scarlett Johansson, Mahershala Ali, Jonathan Bailey, Rupert Friend, Manuel Garcia-Rulfo, and Ed Skrein. In the film, the world's dinosaurs now live around the equator, which provides the last viable climate for them to survive. A team travels to a former island research facility where the three largest prehistoric animals reside, with the goal of extracting samples that are vital for a heart disease treatment. The team also rescues a shipwrecked family, and both groups struggle to survive after becoming stranded on the island.   
@@ -131,11 +138,4 @@ Jurassic World Rebirth is a 2025 American science fiction action film directed b
 侏罗纪世界重生是一部2025年美国科幻动作片，由加雷斯·爱德华兹执导，大卫·科普编剧。这是《侏罗纪世界统治》（2022）的独立续集，是《侏罗纪世界》的第四部电影，也是《侏罗纪公园》系列的第七部。这部电影由斯嘉丽·约翰逊、马赫沙拉·阿里、乔纳森·贝利、鲁珀特·弗兰德、曼努埃尔·加西亚-鲁尔福和埃德·斯克雷恩主演。在影片中，世界上的恐龙现在生活在赤道周围，这为它们生存提供了最后的可行气候。一个团队前往三种最大的史前动物居住的前岛屿研究设施，目标是提取对心脏病治疗至关重要的样本。该团队还拯救了一个海难家庭，两个群体在被困在岛上后都在努力生存。   
 
 阅读延伸[75884495]: [https://en.wikipedia.org/wiki/Jurassic_World_Rebirth](https://en.wikipedia.org/wiki/Jurassic_World_Rebirth)   
-
-## 苏莱曼_奥贝德   
-Suleiman Obeid, also spelled Sulaiman Al-Obaid, was a Palestinian international footballer who played as a forward and winger. He scored his first international goal during the 2010 West Asian Football Federation Championship, and represented the national team during the 2012 AFC Challenge Cup qualification and the 2014 World Cup qualifying. Obeid was also known as the "Palestinian Pelé", after the Brazilian footballer.   
-
-苏莱曼·奥贝德（Suleiman Obeed），也拼写苏莱曼·奥贝德（Sulaiman Al-Obaid），是一名巴勒斯坦国际足球运动员，担任前锋和边锋。他在2010年西亚足协锦标赛期间攻入了自己的第一个国际进球，并代表国家队参加了2012年亚足联挑战杯预选赛和2014年世界杯预选赛。奥贝德也被称为“巴勒斯坦贝利”，以巴西足球运动员的名字命名。   
-
-阅读延伸[32672808]: [https://en.wikipedia.org/wiki/Suleiman_Obeid](https://en.wikipedia.org/wiki/Suleiman_Obeid)   
 
