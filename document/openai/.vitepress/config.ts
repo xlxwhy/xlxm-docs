@@ -151,12 +151,12 @@ function articles(): DefaultTheme.SidebarItem[] {
       text: 'GPT-OSS',
       collapsed: false,
       items: [ 
-        { text: 'handle-raw-cot', link: 'handle-raw-cot' },
-        { text: 'run-locally-lmstudio', link: 'run-locally-lmstudio' },
-        { text: 'run-locally-ollama', link: 'run-locally-ollama' },
-        { text: 'run-transformers', link: 'run-transformers' },
-        { text: 'run-vllm', link: 'run-vllm' },
-        { text: 'verifying-implementations', link: 'verifying-implementations' }, 
+        { text: 'handle-raw-cot', link: 'gpt-oss/handle-raw-cot' },
+        { text: 'run-locally-lmstudio', link: 'gpt-oss/run-locally-lmstudio' },
+        { text: 'run-locally-ollama', link: 'gpt-oss/run-locally-ollama' },
+        { text: 'run-transformers', link: 'gpt-oss/run-transformers' },
+        { text: 'run-vllm', link: 'gpt-oss/run-vllm' },
+        { text: 'verifying-implementations', link: 'gpt-oss/verifying-implementations' }, 
 
       ]
     },
