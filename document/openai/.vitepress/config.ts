@@ -79,6 +79,7 @@ export default defineConfig({
 
     sidebar: {
       '/document/': { base: `${BASEURL}/document/`, items: document() },
+      '/articles/': { base: `${BASEURL}/articles/`, items: articles() },
       // '/api-reference/': { base: '/api-reference/', items: sidebarReference() }
     },
 
@@ -115,6 +116,11 @@ function nav(): DefaultTheme.NavItem[] {
       link: '/document/introduction',
       activeMatch: '/document/'
     },
+    {
+      text: 'Articles',
+      link: '/articles/how_to_work_with_large_language_models',
+      activeMatch: '/articles/'
+    },
     // {
     //   text: 'API Reference',
     //   link: '/reference/site-config',
@@ -123,7 +129,39 @@ function nav(): DefaultTheme.NavItem[] {
   ]
 }
 
+  
+function articles(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: 'Articles',
+      collapsed: false,
+      items: [
+        { text: 'how_to_work_with_large_language_models', link: 'how_to_work_with_large_language_models' },
+        { text: 'openai-harmony', link: 'openai-harmony' },
+        { text: 'related_resources', link: 'related_resources' },
+        { text: 'techniques_to_improve_reliability', link: 'techniques_to_improve_reliability' },
+        { text: 'text_comparison_examples', link: 'text_comparison_examples' },
+        { text: 'what_is_new_with_dalle_3', link: 'what_is_new_with_dalle_3' },
+        { text: 'what_makes_documentation_good', link: 'what_makes_documentation_good' },
  
+
+      ]
+    },
+    {
+      text: 'GPT-OSS',
+      collapsed: false,
+      items: [ 
+        { text: 'handle-raw-cot', link: 'handle-raw-cot' },
+        { text: 'run-locally-lmstudio', link: 'run-locally-lmstudio' },
+        { text: 'run-locally-ollama', link: 'run-locally-ollama' },
+        { text: 'run-transformers', link: 'run-transformers' },
+        { text: 'run-vllm', link: 'run-vllm' },
+        { text: 'verifying-implementations', link: 'verifying-implementations' }, 
+
+      ]
+    },
+  ]
+}
  
 function document(): DefaultTheme.SidebarItem[] {
   return [
