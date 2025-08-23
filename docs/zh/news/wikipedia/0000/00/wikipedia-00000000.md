@@ -1,10 +1,17 @@
 # 最新资讯  
-## 弗兰克_卡普里奥   
-Frank Caprio was an American judge and politician who served as the chief judge of the municipal court of Providence, Rhode Island, and chairman of the Rhode Island Board of Governors for Higher Education. His judicial work was televised on the program Caught in Providence. He also made appearances in the series Parking Wars, adjudicating several cases of traffic violations. The Caught in Providence YouTube channel has 2.92 million subscribers.   
+## 约翰_博尔顿   
+John Robert Bolton is an American attorney, diplomat, Republican consultant, and political commentator. He served as the 25th United States ambassador to the United Nations from 2005 to 2006, and as the 26th United States national security advisor from 2018 to 2019.   
 
-弗兰克·卡普里奥是一位美国法官和政治家，曾担任罗德岛州普罗维登斯市法院首席法官和罗德岛州高等教育理事会主席。他的司法工作在电视节目《被困在普罗维登斯》中播出。他还出现在系列《停车大战》中，裁决了多起交通违规案件。Catght in Providence YouTube频道拥有292万订阅者。   
+约翰·罗伯特·博尔顿是一位美国律师、外交官、共和党顾问和政治评论员。2005年至2006年，他担任第25任美国驻联合国大使，2018年至2019年，他担任第26任美国国家安全顾问。   
 
-阅读延伸[6044291]: [https://en.wikipedia.org/wiki/Frank_Caprio](https://en.wikipedia.org/wiki/Frank_Caprio)   
+阅读延伸[997107]: [https://en.wikipedia.org/wiki/John_Bolton](https://en.wikipedia.org/wiki/John_Bolton)   
+
+## 贾斯温德_巴拉   
+ Jaswinder Bhalla was an Indian actor and comedian who worked in Punjabi cinema. He started his professional career as a comedian in 1988 with Chhankata 88 and became an actor with film Dulla Bhatti (1998). He was best known for his comedy series Chhankata and comedy roles in various Punjabi films. He also performed in stage acts and has done tours of Canada and Australia for his stage show Naughty Baba in Town.   
+
+ 贾斯温德·巴拉（Jaswinder Bhalla）是一位印度演员和喜剧演员，曾在旁遮普电影院工作。1988年，他凭借Chhankata 88开始了喜剧演员的职业生涯，并凭借电影Dulla Bhatti（1998）成为演员。他因其喜剧系列Chhankata和在各种旁遮普电影中的喜剧角色而闻名。他还参加了舞台表演，并为他的舞台剧《顽皮巴巴镇》巡演了加拿大和澳大利亚。   
+
+阅读延伸[26502040]: [https://en.wikipedia.org/wiki/Jaswinder_Bhalla](https://en.wikipedia.org/wiki/Jaswinder_Bhalla)   
 
 ## 酷利_（2025年_电影）   
 Coolie is an upcoming Indian Tamil-language action thriller film directed by Lokesh Kanagaraj and produced by Kalanithi Maran under Sun Pictures. The film stars Rajinikanth, Nagarjuna, Soubin Shahir, Upendra, Shruti Haasan, Sathyaraj, and Aamir Khan in the lead roles. Rachita Ram, Reba Monica John, Junior MGR, Kanna Ravi, Monisha Blessy, Kaali Venkat, and Charle appear in supporting roles. In the film, a mysterious man stands up to a corrupt syndicate that exploits and abuses the coolies in a coastal port town.   
@@ -13,12 +20,19 @@ Coolie is an upcoming Indian Tamil-language action thriller film directed by Lok
 
 阅读延伸[74795535]: [https://en.wikipedia.org/wiki/Coolie_(2025_film)](https://en.wikipedia.org/wiki/Coolie_(2025_film))   
 
-## 布伦特_海因兹   
-William Brent Hinds was an American musician best known as the lead guitarist of the Atlanta heavy metal band Mastodon, in which he shared guitar duties with Bill Kelliher and vocal duties with Troy Sanders and Brann Dailor.   
+## 莱尔和埃里克·梅嫩德斯   
+Joseph Lyle Menéndez and Erik Galen Menéndez are American brothers who were convicted in 1996 of the murders of their parents, José and Mary Louise "Kitty" Menéndez.   
 
-威廉·布伦特·海因兹（William Brent Hinds）是一位美国音乐家，最出名的是亚特兰大重金属乐队Mastodon的主吉他手，他与比尔·凯利赫（Bill Kelliher）共同担任吉他职务，并与特洛伊·桑德斯（Troy Sanders）和布兰恩·戴勒（Brann Dailor）共同担任声乐职务。   
+约瑟夫·莱尔·梅嫩德斯（Joseph Lyle Menéndez）和埃里克·盖伦·梅嫩德斯（Erik Galen Menéndez）是美国兄弟，他们于1996年因谋杀父母何塞·路易丝·梅嫩德斯（José）和玛丽·路易丝·“基蒂”·梅嫩德斯（Mary Louise ' Kitty ' Menéndez）而被定罪。   
 
-阅读延伸[8057177]: [https://en.wikipedia.org/wiki/Brent_Hinds](https://en.wikipedia.org/wiki/Brent_Hinds)   
+阅读延伸[663704]: [https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez](https://en.wikipedia.org/wiki/Lyle_and_Erik_Men%C3%A9ndez)   
+
+## 弗兰克_卡普里奥   
+Frank Caprio was an American judge and politician who served as the chief judge of the municipal court of Providence, Rhode Island, and chairman of the Rhode Island Board of Governors for Higher Education. His judicial work was televised on the program Caught in Providence. He also made appearances in the series Parking Wars, adjudicating several cases of traffic violations. The Caught in Providence YouTube channel has 2.92 million subscribers.   
+
+弗兰克·卡普里奥是一位美国法官和政治家，曾担任罗德岛州普罗维登斯市法院首席法官和罗德岛州高等教育理事会主席。他的司法工作在电视节目《被困在普罗维登斯》中播出。他还出现在系列《停车大战》中，裁决了多起交通违规案件。Catght in Providence YouTube频道拥有292万订阅者。   
+
+阅读延伸[6044291]: [https://en.wikipedia.org/wiki/Frank_Caprio](https://en.wikipedia.org/wiki/Frank_Caprio)   
 
 ## 詹姆斯_多布森   
 James Clayton Dobson Jr.
@@ -29,33 +43,19 @@ James Clayton Dobson Jr.
 
 阅读延伸[46230]: [https://en.wikipedia.org/wiki/James_Dobson](https://en.wikipedia.org/wiki/James_Dobson)   
 
+## 布伦特_海因兹   
+William Brent Hinds was an American musician best known as the lead guitarist of the Atlanta heavy metal band Mastodon, in which he shared guitar duties with Bill Kelliher and vocal duties with Troy Sanders and Brann Dailor.   
+
+威廉·布伦特·海因兹（William Brent Hinds）是一位美国音乐家，最出名的是亚特兰大重金属乐队Mastodon的主吉他手，他与比尔·凯利赫（Bill Kelliher）共同担任吉他职务，并与特洛伊·桑德斯（Troy Sanders）和布兰恩·戴勒（Brann Dailor）共同担任声乐职务。   
+
+阅读延伸[8057177]: [https://en.wikipedia.org/wiki/Brent_Hinds](https://en.wikipedia.org/wiki/Brent_Hinds)   
+
 ## War_2_（电影）   
 War 2 is a 2025 Indian Hindi-language action thriller film directed by Ayan Mukerji and produced by Aditya Chopra under Yash Raj Films. Based on a script written by Shridhar Raghavan and Abbas Tyrewala, from an original story by Chopra, it is the sixth instalment in the YRF Spy Universe and sequel to War (2019). The film stars Hrithik Roshan, N. T. Rama Rao Jr. and Kiara Advani in the lead roles alongside Ashutosh Rana and Anil Kapoor.   
 
 《战争2》是一部2025年印度印地语动作惊悚电影，由阿扬·穆克吉执导，亚什·拉吉影业旗下阿迪亚·乔普拉制作。该剧改编自Shridhar Raghavan和Abbas Tyrewala撰写的剧本，来自乔普拉的原创故事，是YRF Spy Universe的第六部，也是《战争》（War）（2019）的续集。这部电影由北卡罗来纳州赫里西克·罗尚主演。T.小拉马·拉奥基亚拉·阿德瓦尼（Kiara Advani）与阿舒托什·拉纳（Ashutosh Rana）和阿尼尔·卡普尔（Anil Kapoor）一起主演。   
 
 阅读延伸[80090562]: [https://en.wikipedia.org/wiki/War_2_(film)](https://en.wikipedia.org/wiki/War_2_(film))   
-
-## 阿曼达_诺克斯   
-Amanda Marie Knox is an American author, activist, and journalist. She spent almost four years incarcerated in Italy after her wrongful conviction in the 2007 murder of Meredith Kercher, a fellow exchange student, with whom she shared an apartment in Perugia. In 2015, Knox was definitively acquitted by the Italian Supreme Court of Cassation. In 2024, an Italian appellate court upheld Amanda Knox's slander conviction for falsely accusing Patrick Lumumba of murdering Meredith Kercher.   
-
-阿曼达·玛丽·诺克斯是一位美国作家、活动家和记者。2007年，她因谋杀交换生梅雷迪思·克尔彻（Meredith Kercher）而被错误定罪，在意大利被监禁了近四年，她与梅雷迪思·克尔彻（Meredith Kercher）合住一套公寓。2015年，诺克斯被意大利最高上诉法院明确宣告无罪。2024年，意大利上诉法院维持了阿曼达·诺克斯（Amanda Knox）的诽谤定罪，罪名是诬告帕特里克·卢蒙巴（Patrick Lumumba）谋杀梅雷迪思·克尔彻（Meredith Kercher）。   
-
-阅读延伸[14116726]: [https://en.wikipedia.org/wiki/Amanda_Knox](https://en.wikipedia.org/wiki/Amanda_Knox)   
-
-## 埃贝里奇_埃泽   
-Eberechi Oluchi Eze is an English professional footballer who plays as an attacking midfielder or winger for Premier League club Crystal Palace and the England national team.   
-
-埃贝雷奇·奥卢奇·埃泽是一名英国职业足球运动员，在英超俱乐部水晶宫和英格兰国家队担任攻击型中场或边锋。   
-
-阅读延伸[52923407]: [https://en.wikipedia.org/wiki/Eberechi_Eze](https://en.wikipedia.org/wiki/Eberechi_Eze)   
-
-## 死亡_in_2025   
-The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
-
-以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
-
-阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
 
 ## 米莉_鲍比_布朗   
 Millie Bobby Brown Bongiovi is a British actress. She gained recognition for playing Eleven in the Netflix science fiction series Stranger Things (2016–present), for which she received nominations for two Primetime Emmy Awards. Brown has starred in the monster film Godzilla: King of the Monsters (2019) and its sequel Godzilla vs. Kong (2021). She also starred in and produced the Netflix films Enola Holmes (2020), its 2022 sequel, and Damsel (2024).   
@@ -64,19 +64,26 @@ Millie Bobby Brown Bongiovi is a British actress. She gained recognition for pla
 
 阅读延伸[51137169]: [https://en.wikipedia.org/wiki/Millie_Bobby_Brown](https://en.wikipedia.org/wiki/Millie_Bobby_Brown)   
 
-## 泰森_BAgent   
-Tyson Jacob Bagent is an American professional football quarterback for the Chicago Bears of the National Football League (NFL). He played college football for the Shepherd Rams.   
+## 死亡_in_2025   
+The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
 
-泰森·雅各布·贝特尔是美国国家橄榄球联盟（NFL）芝加哥熊队的美国职业橄榄球四分卫。他为牧羊人公羊队踢大学橄榄球。   
+以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
 
-阅读延伸[71763684]: [https://en.wikipedia.org/wiki/Tyson_Bagent](https://en.wikipedia.org/wiki/Tyson_Bagent)   
+阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
 
-## 杰夫_巴埃纳   
-Jeffrey Baena was an American screenwriter and film director. He wrote and directed Life After Beth (2014), Joshy (2016), The Little Hours (2017), Horse Girl (2020), and Spin Me Round (2022), and co-wrote I Heart Huckabees (2004). He was known for his frequent collaborations with actresses Alison Brie, with whom he co-wrote Horse Girl and Spin Me Round, Molly Shannon, and his wife, Aubrey Plaza.   
+## 阿曼达_诺克斯   
+Amanda Marie Knox is an American author, activist, and journalist. She spent almost four years incarcerated in Italy after her wrongful conviction in the 2007 murder of Meredith Kercher, a fellow exchange student, with whom she shared an apartment in Perugia. In 2015, Knox was definitively acquitted by the Italian Supreme Court of Cassation. In 2024, an Italian appellate court upheld Amanda Knox's slander conviction for falsely accusing Patrick Lumumba of murdering Meredith Kercher.   
 
-杰弗里·巴埃纳是一位美国编剧和电影导演。他编剧并执导了《贝丝之后的生活》（Life After Beth）（2014）、《乔希》（Joshy）（2016）、《小时光》（The Little Hours）（2017）、《马女孩》（2020）和《旋转我》（Spin Me Round）（2022），并与人合著了《我心哈克比》（I Heart Huckabees）（2004）。他因与女演员艾莉森·布里（Alison Brie）的频繁合作而闻名，他与她合写了《马女孩》和《旋转我》（Spin Me Round）、莫莉·香农（Molly Shannon）以及他的妻子奥布里·普拉塔（Aubrey Plaza）。   
+阿曼达·玛丽·诺克斯是一位美国作家、活动家和记者。2007年，她因谋杀交换生梅雷迪思·克尔彻（Meredith Kercher）而被错误定罪，在意大利被监禁了近四年，她与梅雷迪思·克尔彻（Meredith Kercher）合住一套公寓。2015年，诺克斯被意大利最高上诉法院明确宣告无罪。2024年，意大利上诉法院维持了阿曼达·诺克斯（Amanda Knox）的诽谤定罪，罪名是诬告帕特里克·卢蒙巴（Patrick Lumumba）谋杀梅雷迪思·克尔彻（Meredith Kercher）。   
 
-阅读延伸[51495916]: [https://en.wikipedia.org/wiki/Jeff_Baena](https://en.wikipedia.org/wiki/Jeff_Baena)   
+阅读延伸[14116726]: [https://en.wikipedia.org/wiki/Amanda_Knox](https://en.wikipedia.org/wiki/Amanda_Knox)   
+
+## 杰克_邦乔维   
+Jacob Hurley Bongiovi is an American model and actor. He is the son of rock musician Jon Bon Jovi.   
+
+雅各布·赫尔利·邦乔维（Jacob Hurley Bongiovi）是一位美国模特和演员。他是摇滚音乐家乔恩·邦·乔维（Jon Bon Jovi）的儿子。   
+
+阅读延伸[73522926]: [https://en.wikipedia.org/wiki/Jake_Bongiovi](https://en.wikipedia.org/wiki/Jake_Bongiovi)   
 
 ## 他妈   
 Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
@@ -99,45 +106,38 @@ Superman is an upcoming American superhero film based on DC Comics featuring the
 
 阅读延伸[57255388]: [https://en.wikipedia.org/wiki/Superman_(2025_film)](https://en.wikipedia.org/wiki/Superman_(2025_film))   
 
-## The_Summer_I_Turning_Pretty_（电视剧）   
-The Summer I Turned Pretty is an American coming-of-age romantic drama television series created by author Jenny Han for Amazon Prime Video, and it is based on her novel trilogy of the same name. Lola Tung stars as Belly Conklin, a teenager involved in a love triangle with brothers Conrad and Jeremiah, played by Christopher Briney and Gavin Casalegno, respectively.   
+## 海葵_（电影）   
+Anemone is an upcoming drama film directed by Ronan Day-Lewis, in his feature directorial debut, from a screenplay he co-wrote with his father, Daniel Day-Lewis. It features the latter's return to acting for the first time since Phantom Thread in 2017, alongside Sean Bean, Samuel Bottomley, Safia Oakley-Green and Samantha Morton.   
 
-《我变漂亮的夏天》是一部美国成长浪漫电视剧，由作家Jenny Han为Amazon Prime Video创作，改编自她的同名小说三部曲。劳拉·东（Lola Tung）饰演贝利·康克林（Belly Conklin），一名青少年与康拉德和耶利米兄弟陷入三角恋，克里斯托弗·布林（Christopher Briney）和加文·卡萨莱诺（Gavin Casalegno）分别饰演。   
+《海葵》是一部即将上映的剧情片，由罗南·戴·刘易斯执导，这是他的导演处女作，来自他与父亲丹尼尔·戴·刘易斯合著的剧本。这是后者自2017年Phantom Thread以来首次回归表演，与Sean Bean，Samuel Bottomley，Safia Oakley-Green和Samantha Morton一起。   
 
-阅读延伸[66131981]: [https://en.wikipedia.org/wiki/The_Summer_I_Turned_Pretty_(TV_series)](https://en.wikipedia.org/wiki/The_Summer_I_Turned_Pretty_(TV_series))   
+阅读延伸[78019256]: [https://en.wikipedia.org/wiki/Anemone_(film)](https://en.wikipedia.org/wiki/Anemone_(film))   
 
-## 乳齿象_（乐队）   
-Mastodon is an American heavy metal band from Atlanta, Georgia. Formed in 2000, the band's lineup of Troy Sanders (bass/vocals), Brent Hinds, Bill Kelliher, and Brann Dailor (drums/vocals) remained unchanged for 24 years, until Hinds's departure in March 2025. Mastodon has released eight studio albums, as well as a number of other releases.   
+## Big Brother_27_（美国_赛季）   
+Big Brother 27 is the twenty-seventh season of the American reality television program Big Brother. The program is an adaptation of the franchise created in 1999 by John de Mol. The season features a murder mystery hotel theme. It premiered on CBS on July 10, 2025, with filming beginning two days prior and running for 83 days, concluding on September 28, 2025. The season also celebrates the 25-year anniversary of the series as a whole.   
 
-Mastodon是一支来自佐治亚州亚特兰大的美国重金属乐队。乐队成立于2000年，Troy Sanders（贝斯/主唱）、Brent Hinds、Bill Kelliher和Brann Dailor（鼓/主唱）阵容24年来一直保持不变，直到Hinds于2025年3月离开。Mastodon发行了八张录音室专辑，以及许多其他专辑。   
+《老大哥27》是美国真人秀电视节目《老大哥》的第二十七季。该节目改编自John de Mol于1999年创建的系列节目。本季以谋杀神秘酒店为主题。该片于2025年7月10日在哥伦比亚广播公司（CBS）首播，拍摄前两天开始，历时83天，于2025年9月28日结束。本季还庆祝整个系列问世25周年。   
 
-阅读延伸[1428801]: [https://en.wikipedia.org/wiki/Mastodon_(band)](https://en.wikipedia.org/wiki/Mastodon_(band))   
+阅读延伸[79970331]: [https://en.wikipedia.org/wiki/Big_Brother_27_(American_season)](https://en.wikipedia.org/wiki/Big_Brother_27_(American_season))   
 
-## 外星人：_地球   
-Alien: Earth is an American science fiction horror television series created by Noah Hawley, based on the Alien franchise. It serves as a prequel set in 2120, two years before the events of the original 1979 film Alien. It stars Sydney Chandler, Alex Lawther, Essie Davis, Samuel Blenkin, Babou Ceesay, Adarsh Gourav, and Timothy Olyphant.   
+## 饼干_桶   
+Cracker Barrel Old Country Store, Inc., doing business as Cracker Barrel, is an American chain of restaurant and gift stores with a Southern country theme. The company's headquarters are in Lebanon, Tennessee, where Cracker Barrel was founded by Dan Evins and Tommy Lowe in 1969. The chain's early locations were positioned near Interstate Highway exits in the Southeastern and Midwestern United States, but expanded across the country during the 1990s and 2000s. As of August 10, 2023, the company operates 660 stores in 45 states.   
 
-《异形：地球》是一部美国科幻恐怖电视剧，由诺亚·霍利根据《异形》系列作品创作。它是一部以2120年为背景的前传，比1979年原版电影《异形》的事件早了两年。该剧由西德尼·钱德勒、亚历克斯·劳瑟、埃西·戴维斯、塞缪尔·布伦金、巴布·塞塞、阿达什·古拉夫和蒂莫西·奥利芬特主演。   
+饼干桶Old Country Store，Inc.，Cracker Barrel是一家以南方乡村为主题的美国连锁餐厅和礼品店。该公司总部位于田纳西州黎巴嫩，Cracker Barrel由Dan Evins和Tommy Lowe于1969年在那里创立。该连锁店的早期地点位于美国东南部和中西部州际高速公路出口附近，但在20世纪90年代和2000年代扩展到全国各地。截至2023年8月10日，该公司在45个州经营着660家商店。   
 
-阅读延伸[72989974]: [https://en.wikipedia.org/wiki/Alien%3A_Earth](https://en.wikipedia.org/wiki/Alien%3A_Earth)   
+阅读延伸[47818563]: [https://en.wikipedia.org/wiki/Cracker_Barrel](https://en.wikipedia.org/wiki/Cracker_Barrel)   
 
-## 奥布里_广场   
-Aubrey Christina Plaza is an American actress, comedian, and producer. She began acting in local theater productions as a teenager and performed improv and sketch comedy at the Upright Citizens Brigade Theatre. After graduating from New York University Tisch School of the Arts, Plaza made her feature film debut in Mystery Team (2009) and gained wide recognition for her role as April Ludgate on the NBC political satire sitcom Parks and Recreation (2009–2015).   
+## 克里斯托弗_华尔兹   
+Christoph Waltz is an Austrian and German actor. Primarily active in the United States, he gained international recognition for his portrayal of villainous and supporting roles in English-language films. His accolades include two Academy Awards, two Golden Globe Awards, two BAFTA Awards, two Screen Actors Guild Awards, two Critics' Choice Movie Awards in addition to nomination for an Emmy Award.   
 
-奥布里·克里斯蒂娜·普拉亚（Aubrey Christina Plaza）是一位美国女演员、喜剧演员和制片人。十几岁时，她开始在当地剧院演出，并在直立公民旅剧院表演即兴表演和小品喜剧。从纽约大学蒂施艺术学院毕业后，普拉亚在《神秘团队》（Mystery Team）中首次亮相故事片，并因在NBC政治讽刺情景喜剧《公园与娱乐》（Parks and Recreation）中饰演阿普丽尔·卢盖特（April Ludgate）而获得广泛认可。   
+克里斯托弗·华尔兹是奥地利和德国演员。他主要活跃在美国，因在英语电影中扮演邪恶和配角而获得国际认可。除了艾美奖提名外，他还获得了两项奥斯卡金像奖、两项金球奖、两项英国电影和电视艺术学院奖、两项美国演员工会奖、两项评论家选择电影奖。   
 
-阅读延伸[20213373]: [https://en.wikipedia.org/wiki/Aubrey_Plaza](https://en.wikipedia.org/wiki/Aubrey_Plaza)   
+阅读延伸[8104201]: [https://en.wikipedia.org/wiki/Christoph_Waltz](https://en.wikipedia.org/wiki/Christoph_Waltz)   
 
-## 杰克_邦乔维   
-Jacob Hurley Bongiovi is an American model and actor. He is the son of rock musician Jon Bon Jovi.   
+## 约翰·马尔科维奇   
+John Gavin Malkovich is an American actor. He is the recipient of several accolades, including a Primetime Emmy Award, in addition to nominations for two Academy Awards, a BAFTA Award, two Screen Actors Guild Awards, and three Golden Globe Awards.   
 
-雅各布·赫尔利·邦乔维（Jacob Hurley Bongiovi）是一位美国模特和演员。他是摇滚音乐家乔恩·邦·乔维（Jon Bon Jovi）的儿子。   
+约翰·加文·马尔科维奇是一位美国演员。他获得了多项荣誉，包括黄金时段艾美奖，此外还获得了两项奥斯卡奖、一项英国电影和电视艺术学院奖、两项演员工会奖和三项金球奖的提名。   
 
-阅读延伸[73522926]: [https://en.wikipedia.org/wiki/Jake_Bongiovi](https://en.wikipedia.org/wiki/Jake_Bongiovi)   
-
-## 梅雷迪思·克尔彻谋杀案   
-Meredith Susanna Cara Kercher was a British student on exchange from the University of Leeds who was murdered at the age of 21 in Perugia, Italy. Kercher was found dead on the floor of her room. By the time the bloodstained fingerprints at the scene were identified as belonging to Rudy Guede, an Ivorian migrant, police had charged Kercher's American roommate, Amanda Knox, and Knox's Italian boyfriend, Raffaele Sollecito. The subsequent prosecutions of Knox and Sollecito received international publicity, with forensic experts and jurists taking a critical view of the evidence supporting the initial guilty verdicts.   
-
-梅雷迪思·苏珊娜·卡拉·克尔彻（Meredith Susanna Cara Kercher）是利兹大学交换生，21岁时在意大利佩鲁贾被谋杀。克尔彻被发现死在她房间的地板上。当现场沾满血迹的指纹被确定属于科特迪瓦移民鲁迪·盖德时，警方已对克尔彻的美国室友阿曼达·诺克斯和诺克斯的意大利男友拉斐尔·索莱西托提出指控。随后对诺克斯和索莱西托的起诉引起了国际关注，法医专家和法学家对支持最初有罪判决的证据持批评态度。   
-
-阅读延伸[27358278]: [https://en.wikipedia.org/wiki/Murder_of_Meredith_Kercher](https://en.wikipedia.org/wiki/Murder_of_Meredith_Kercher)   
+阅读延伸[175431]: [https://en.wikipedia.org/wiki/John_Malkovich](https://en.wikipedia.org/wiki/John_Malkovich)   
 
