@@ -1,17 +1,31 @@
 # 最新资讯  
-## 米迦_帕森斯   
-Micah Aaron Parsons is an American professional football defensive end for the Green Bay Packers of the National Football League (NFL). Parsons played college football for the Penn State Nittany Lions, where he was named a consensus All-American, Big Ten Linebacker of the Year and the Cotton Bowl Defensive MVP as a sophomore in 2019. He was selected by the Dallas Cowboys in the first round of the 2021 NFL draft, and was named the NFL's Defensive Rookie of the Year.   
+## 阿奇_曼宁   
+Elisha Archibald Manning V(born April 27, 2005) is an American football quarterback for the Texas Longhorns. He is a member of the Manning family.   
 
-米卡·亚伦·帕森斯（Micah Aaron Parsons）是美国国家橄榄球联盟（NFL）绿湾包装工队的美国职业橄榄球防守端。帕森斯曾在宾夕法尼亚州立大学尼塔尼雄狮队踢大学橄榄球，2019年，他在大二时被评为全美最佳球员、年度十大线卫和棉花碗防守MVP。他在2021年NFL选秀第一轮中被达拉斯牛仔队选中，并被评为NFL年度最佳防守新秀。   
+伊莱沙·阿奇博尔德·曼宁V（Elisha Archibald Manning V，2005年4月27日出生）是德克萨斯长角队的美式橄榄球四分卫。他是曼宁家族的成员。   
 
-阅读延伸[56098088]: [https://en.wikipedia.org/wiki/Micah_Parsons](https://en.wikipedia.org/wiki/Micah_Parsons)   
+阅读延伸[65490215]: [https://en.wikipedia.org/wiki/Arch_Manning](https://en.wikipedia.org/wiki/Arch_Manning)   
 
-## 哈维_西蒙斯   
-Xavi Quentin Shay Simons is a Dutch professional footballer who plays as an attacking midfielder or winger for Premier League club Tottenham Hotspur and the Netherlands national team.   
+## Lee_Corso   
+Lee Richard Corso is an American former college football coach and analyst. He is best known for appearing on ESPN's College GameDay program from its inception in 1987 until his retirement in 2025.   
 
-哈维·昆汀·谢伊·西蒙斯（Xavi Quentin Shay Simons）是一名荷兰职业足球运动员，在英超俱乐部托特纳姆热刺队和荷兰国家队担任攻击型中场或边锋。   
+李·理查德·科索（Lee Richard Corso）是美国前大学橄榄球教练和分析师。他最出名的是参加ESPN的大学游戏日计划，从1987年成立到2025年退休。   
 
-阅读延伸[63879136]: [https://en.wikipedia.org/wiki/Xavi_Simons](https://en.wikipedia.org/wiki/Xavi_Simons)   
+阅读延伸[36049287]: [https://en.wikipedia.org/wiki/Lee_Corso](https://en.wikipedia.org/wiki/Lee_Corso)   
+
+## 唐纳德_特朗普   
+Donald John Trump is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021.   
+
+唐纳德·约翰·特朗普是一位美国政治家、媒体人物和商人，曾于2017年至2021年担任美国第45任总统。   
+
+阅读延伸[4848272]: [https://en.wikipedia.org/wiki/Donald_Trump](https://en.wikipedia.org/wiki/Donald_Trump)   
+
+## 库珀_曼宁   
+Elisha Archibald Manning IV is an American entrepreneur and television personality who is the host of the television show The Manning Hour for Fox Sports as well as principal and senior managing director of investor relations for AJ Capital Partners. He is the eldest son of former professional football quarterback Archie Manning, and the older brother of former professional football quarterbacks Peyton Manning and Eli Manning.   
+
+Elisha Archibald Manning IV是一位美国企业家和电视名人，是福克斯体育电视节目《曼宁时刻》的主持人，也是AJ Capital Partners投资者关系首席兼高级董事总经理。他是前职业足球四分卫阿奇·曼宁的长子，也是前职业足球四分卫佩顿·曼宁和伊莱·曼宁的哥哥。   
+
+阅读延伸[5211271]: [https://en.wikipedia.org/wiki/Cooper_Manning](https://en.wikipedia.org/wiki/Cooper_Manning)   
 
 ## _星期四_谋杀_俱乐部_（电影）   
 The Thursday Murder Club is a 2025 crime comedy film directed by Chris Columbus from a screenplay by Katy Brand and Suzanne Heathcote, based on the 2020 novel by Richard Osman. The film stars Helen Mirren, Pierce Brosnan, Ben Kingsley, and Celia Imrie with David Tennant, Jonathan Pryce, Naomi Ackie, Daniel Mays, Henry Lloyd-Hughes, Richard E. Grant, Tom Ellis, Geoff Bell, Paul Freeman, Sarah Niles, and Ingrid Oliver in supporting roles. Its plot follows a group of elderly amateur sleuths who attempt to solve a murder.   
@@ -20,19 +34,12 @@ The Thursday Murder Club is a 2025 crime comedy film directed by Chris Columbus 
 
 阅读延伸[76276562]: [https://en.wikipedia.org/wiki/The_Thursday_Murder_Club_(film)](https://en.wikipedia.org/wiki/The_Thursday_Murder_Club_(film))   
 
-## 死亡_in_2025   
-The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
+## 法拉隆_群岛   
+The Farallon Islands, or Farallones, are a group of islands and sea stacks in the Gulf of the Farallones, off the coast of San Francisco, California, United States. The islands are also sometimes referred to by mariners as the Devil's Teeth Islands, in reference to the many treacherous underwater shoals in their vicinity. The islands lie 30 miles (48 km) outside the Golden Gate and 20 miles (32 km) south of Point Reyes, and are visible from the mainland on clear days. The islands are part of the City and County of San Francisco. The only inhabited portion of the islands is on Southeast Farallon Island (SEFI), where researchers from Point Blue Conservation Science and the U.S. Fish and Wildlife Service stay. The islands are closed to the public.   
 
-以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
+法拉隆群岛（Farallon Islands）或法拉隆群岛（Farallones）是位于美国加利福尼亚州旧金山海岸附近的法拉隆湾的一组岛屿和海堆。这些岛屿有时也被水手称为魔鬼牙齿群岛，指的是其附近许多危险的水下浅滩。这些岛屿位于金门外30英里（48公里）、雷耶斯角以南20英里（32公里）处，在晴朗的日子里可以从大陆看到。这些岛屿是旧金山市和县的一部分。这些岛屿上唯一有人居住的部分位于东南法拉隆岛（SEFI），来自Point Blue Conservation Science和美国鱼类和野生动物管理局的研究人员就住在那里。这些岛屿不对公众开放。   
 
-阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
-
-## 布戈尼亚_（电影）   
-Bugonia is a 2025 science fiction dark comedy film directed by Yorgos Lanthimos from a screenplay by Will Tracy. It is an English-language remake of the 2003 South Korean film Save the Green Planet! by Jang Joon-hwan. It stars Emma Stone, Jesse Plemons, Aidan Delbis, Stavros Halkias, and Alicia Silverstone. A co-production of Ireland, South Korea, and the United States, the film focuses on two young men who kidnap a powerful CEO (Stone), suspecting that she is secretly an alien who wants to destroy Earth.   
-
-布戈尼亚是一部2025年科幻黑色喜剧电影，由Yorgos Lanthimos执导，改编自威尔·特雷西的剧本。这是2003年韩国电影《拯救绿色星球！》的英文翻拍版作者：张俊焕。该片由艾玛·斯通、杰西·普莱蒙斯、艾丹·德尔比斯、斯塔夫罗斯·哈尔基亚斯和艾丽西亚·西尔弗斯通主演。这部电影由爱尔兰、韩国和美国联合制作，讲述了两名年轻人绑架了一位有权势的首席执行官（斯通饰），怀疑她秘密是一个想要摧毁地球的外星人。   
-
-阅读延伸[76136533]: [https://en.wikipedia.org/wiki/Bugonia_(film)](https://en.wikipedia.org/wiki/Bugonia_(film))   
+阅读延伸[1232665]: [https://en.wikipedia.org/wiki/Farallon_Islands](https://en.wikipedia.org/wiki/Farallon_Islands)   
 
 ## Lokah_Chapter_1：_Chandra   
 Lokah Chapter: 1 Chandra is a 2025 Indian Malayalam-language superhero film directed by Dominic Arun and produced by Dulquer Salmaan under his banner Wayfarer Films. Set as the first installment in the planned Wayfarer Cinematic Universe, the film stars Kalyani Priyadarshan, Naslen and Sandy, alongside Arun Kurian, Chandu Salimkumar, Nishanth Sagar, Raghunath Paleri, Vijayaraghavan, Nithya Shri and Sarath Sabha in supporting roles.   
@@ -41,89 +48,26 @@ Lokah Chapter: 1 Chandra is a 2025 Indian Malayalam-language superhero film dire
 
 阅读延伸[80228787]: [https://en.wikipedia.org/wiki/Lokah_Chapter_1%3A_Chandra](https://en.wikipedia.org/wiki/Lokah_Chapter_1%3A_Chandra)   
 
-## 1xBet   
-1xBet is an online gambling company licensed by Curaçao eGaming License. The company was founded in 2007 and is headquartered in Cyprus. 1xBet is one of the world's largest online casinos and according to Sports Illustrated "probably the biggest sportsbook on the planet". The company sponsors major professional football teams such as Spain's FC Barcelona, Ecuador's Barcelona S.C., France's Paris Saint-Germain and major Esports teams such as OG Esports, Team Spirit, Made in Brazil and Tundra Esports.   
+## 死亡_in_2025   
+The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
 
-1xBet是一家获得Curaçao eGaming许可证许可的在线赌博公司。该公司成立于2007年，总部位于塞浦路斯。1xBet是世界上最大的在线赌场之一，根据《体育画报》的说法，“可能是地球上最大的体育博彩”。该公司赞助西班牙巴塞罗那足球俱乐部、厄瓜多尔巴塞罗那足球俱乐部、法国巴黎圣日耳曼队和OG Esports、Team Spirit、Made in Brazil和Tundra Esports等主要电子竞技球队。   
+以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
 
-阅读延伸[66207654]: [https://en.wikipedia.org/wiki/1xBet](https://en.wikipedia.org/wiki/1xBet)   
+阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
 
-## 男人的_最好的_朋友_（Sabrina_Carpenter_专辑）   
-Man's Best Friend is the seventh studio album by the American singer Sabrina Carpenter. It was released on August 29, 2025, by Island Records. Carpenter produced the album with Jack Antonoff and John Ryan, who also produced tracks on her previous studio album, Short n' Sweet (2024). The album's lead single, "Manchild", charted at number one in Ireland, the United Kingdom, and the United States. Carpenter selected "Tears" as the second single, released concurrently with the album.   
+## 泰勒_汤森   
+Taylor Townsend is an American professional tennis player. She is the current WTA world No. 1 in doubles, achieved on 28 July 2025. Townsend has won two major doubles titles, at the 2024 Wimbledon Championships and the 2025 Australian Open, both with Kateřina Siniaková. In addition, she has won eight WTA Tour titles and also reached two other major finals, the 2022 US Open and the 2023 French Open. Townsend has a career-high singles ranking of No. 46, achieved on 19 August 2024.   
 
-《Man ' s Best Friend》是美国歌手Sabrina Carpenter的第七张录音室专辑。它于2025年8月29日由Island Records发行。卡彭特与杰克·安东诺夫（Jack Antonoff）和约翰·瑞安（John Ryan）合作制作了这张专辑，后者还为她上一张录音室专辑《Short n ' Sweet》（2024）制作了曲目。该专辑的主打单曲《Manchild》在爱尔兰、英国和美国排名第一。卡彭特选择《Tears》作为第二首单曲，与专辑同时发行。   
+泰勒·汤森是一位美国职业网球运动员。她是目前WTA双打世界第一，于2025年7月28日获得。汤森在2024年温布尔登锦标赛和2025年澳大利亚网球公开赛上赢得了两项主要双打冠军，两项冠军均与凯特娜·西尼亚科娃（Kateguina Siniaková）合作。此外，她还赢得了八项WTA巡回赛冠军，并进入了另外两项主要决赛，即2022年美国公开赛和2023年法国公开赛。汤森（Townsend）于2024年8月19日创下职业生涯最高单曲排名第46位。   
 
-阅读延伸[80189935]: [https://en.wikipedia.org/wiki/Man's_Best_Friend_(Sabrina_Carpenter_album)](https://en.wikipedia.org/wiki/Man's_Best_Friend_(Sabrina_Carpenter_album))   
+阅读延伸[32944686]: [https://en.wikipedia.org/wiki/Taylor_Townsend](https://en.wikipedia.org/wiki/Taylor_Townsend)   
 
-## 肯尼_克拉克_（防守_铲球）   
-Kenneth Duane Clark Jr. is an American professional football defensive tackle for the Dallas Cowboys of the National Football League (NFL). Playing college football for the UCLA Bruins, he was named a third-team All-American as a junior in 2015, when he also earned his second all-conference selection in the Pac-12. He was selected by the Packers in the first round of the 2016 NFL draft, with the 27th overall pick.   
+## 巴黎冲突   
+Clash in Paris is an upcoming 2025 professional wrestling pay-per-view (PPV) and livestreaming event produced by the American company WWE. It will be the third Clash event, truncated from the previous "Clash at the Castle" name used in 2022 and 2024. The event will take place on Sunday, August 31, 2025, at the Paris La Défense Arena in Nanterre, France, and will be held for wrestlers from the promotion's Raw and SmackDown brand divisions. This marks WWE's second PPV and livestreaming event held in France after Backlash in May 2024, and the first in the Paris metropolitan area.   
 
-小肯尼思·杜安·克拉克是美国国家橄榄球联盟（NFL）达拉斯牛仔队的美国职业橄榄球防守铲球。他在加州大学洛杉矶分校熊队踢大学橄榄球，2015年，他在大三时被评为全美第三队，当时他还在Pac-12中获得了第二次全联盟入选。他在2016年NFL选秀第一轮被包装工队选中，总顺位第27顺位。   
+《巴黎冲突》是由美国WWE公司制作的2025年职业摔跤按次付费（PPV）和直播活动。这将是第三次冲突事件，从2022年和2024年使用的“城堡冲突”名称中删除。该活动将于2025年8月31日星期日在法国南特的巴黎拉德芳斯竞技场举行，为促销活动旗下Raw和SmackDown品牌部门的摔跤手举办。这标志着WWE继2024年5月Backlash之后在法国举办的第二次PPV和直播活动，也是巴黎大都市区的第一次。   
 
-阅读延伸[48156098]: [https://en.wikipedia.org/wiki/Kenny_Clark_(defensive_tackle)](https://en.wikipedia.org/wiki/Kenny_Clark_(defensive_tackle))   
-
-## 2025- 26_欧足联_比利时_联赛   
-The 2025–26 UEFA Champions League is the 71st season of Europe's premier club football tournament organised by UEFA, and the 34th season since it was rebranded from the European Cup to the UEFA Champions League. Paris Saint-Germain are the defending champions, having secured their maiden title the previous season.   
-
-2025-26年欧洲冠军联赛是欧足联组织的欧洲顶级俱乐部足球锦标赛的第71个赛季，也是从欧洲杯更名为欧洲冠军联赛以来的第34个赛季。巴黎圣日耳曼队是卫冕冠军，上赛季获得了首个冠军。   
-
-阅读延伸[74127997]: [https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League](https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League)   
-
-## 酷利_（2025年_电影）   
-Coolie is an upcoming Indian Tamil-language action thriller film directed by Lokesh Kanagaraj and produced by Kalanithi Maran under Sun Pictures. The film stars Rajinikanth, Nagarjuna, Soubin Shahir, Upendra, Shruti Haasan, Sathyaraj, and Aamir Khan in the lead roles. Rachita Ram, Reba Monica John, Junior MGR, Kanna Ravi, Monisha Blessy, Kaali Venkat, and Charle appear in supporting roles. In the film, a mysterious man stands up to a corrupt syndicate that exploits and abuses the coolies in a coastal port town.   
-
-《酷里》是一部即将上映的印度泰米尔语动作惊悚电影，由洛克什·卡纳加拉吉执导，由太阳影业旗下卡拉尼蒂·马兰制作。这部电影由Rajinikanth、Nagarjuna、Soubin Shahir、Upendra、Shruti Haasan、Sathyaraj和Aamir Khan主演。Rachita Ram、Reba Monica John、Junior MGR、Kanna Ravi、Monisha Blessy、Kaali Venkat和Charle担任配角。在影片中，一名神秘男子反抗一个剥削和虐待沿海港口小镇的工人的腐败集团。   
-
-阅读延伸[74795535]: [https://en.wikipedia.org/wiki/Coolie_(2025_film)](https://en.wikipedia.org/wiki/Coolie_(2025_film))   
-
-## 特拉维斯_凯尔斯   
-Travis Michael Kelce is an American professional football tight end for the Kansas City Chiefs of the National Football League (NFL). He was selected by the Chiefs in the third round of the 2013 NFL draft and later won Super Bowls LIV, LVII, and LVIII with the team. He played college football for the Cincinnati Bearcats.   
-
-特拉维斯·迈克尔·凯尔斯（Travis Michael Kelce）是美国国家橄榄球联盟（NFL）堪萨斯城酋长队的美国职业足球中坚力量。他在2013年NFL选秀第三轮中被酋长队选中，后来随球队赢得了超级碗LIV、LVII和LVIII。他在辛辛那提小熊队踢大学橄榄球。   
-
-阅读延伸[38384954]: [https://en.wikipedia.org/wiki/Travis_Kelce](https://en.wikipedia.org/wiki/Travis_Kelce)   
-
-## Nick_Woltemade   
-Nick Woltemade is a German professional footballer who plays as a forward or attacking midfielder for Bundesliga club VfB Stuttgart and the Germany national team.   
-
-尼克·沃尔特梅德（Nick Woltemade）是一名德国职业足球运动员，在德甲俱乐部斯图加特（VfB Stuttgart）和德国国家队担任前锋或攻击型中场球员。   
-
-阅读延伸[62998187]: [https://en.wikipedia.org/wiki/Nick_Woltemade](https://en.wikipedia.org/wiki/Nick_Woltemade)   
-
-## 他妈   
-Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
-
-Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词或表达蔑视。虽然它的起源并不清楚，但通常被认为是在1475年左右首次得到证实的。在现代使用中，fuck一词及其衍生词被用作名词、动词、形容词、中词、感叹词或副词。有许多常用短语使用该词，以及包含该词的复合词，例如muddermuses和fuck off。   
-
-阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
-
-## 布鲁斯_威利斯   
-Walter Bruce Willis is a retired American actor. He achieved fame with a leading role on the comedy-drama series Moonlighting (1985–1989) and has appeared in over one hundred films, gaining recognition as an action hero for his portrayal of John McClane in the Die Hard franchise (1988–2013).   
-
-沃尔特·布鲁斯·威利斯是一位退休的美国演员。他因在喜剧剧集《月光男孩》（1985-1989）中担任主角而声名鹊起，并出演了一百多部电影，并因在《虎胆龙威》系列中饰演约翰·麦克莱恩而被公认为动作英雄（1988-2013）。   
-
-阅读延伸[64673]: [https://en.wikipedia.org/wiki/Bruce_Willis](https://en.wikipedia.org/wiki/Bruce_Willis)   
-
-## 艾德·盖恩   
-Edward Theodore Gein, also known as "the Butcher of Plainfield" or "the Plainfield Ghoul", was an American murderer, suspected serial killer and body snatcher. Gein's crimes, committed around his hometown of Plainfield, Wisconsin, gathered widespread notoriety in 1957 after authorities discovered that he had exhumed corpses from local graveyards and fashioned keepsakes from their bones and skin. He also confessed to killing two women: tavern owner Mary Hogan in 1954, and hardware store owner Bernice Worden in 1957.   
-
-爱德华·西奥多·盖恩（Edward Theodore Gein），又名“普兰菲尔德屠夫”或“普兰菲尔德食尸鬼”，是一名美国杀人犯、疑似连环杀手和尸体抢夺者。吉恩的罪行发生在他的家乡威斯康星州普兰菲尔德附近，1957年当局发现他从当地墓地挖掘尸体并用尸体的骨头和皮肤制作纪念品后，他的罪行引起了广泛的恶名。他还承认杀害了两名女性：1954年的酒馆老板玛丽·霍根（Mary Hogan）和1957年的五金店老板伯尼斯·沃登（Bernice Worden）。   
-
-阅读延伸[71376]: [https://en.wikipedia.org/wiki/Ed_Gein](https://en.wikipedia.org/wiki/Ed_Gein)   
-
-## 鲍勃_卡特   
-Robert Bellarmine Carl Katter is an Australian politician who has served as the member of parliament (MP) for the Queensland division of Kennedy since 1993 and father of the House since 2022. He was active in Queensland state politics from 1974 to 1992 and was a member of the National Party until 2001, after which he left to sit as an independent until he formed Katter's Australian Party as his own party in 2011.   
-
-罗伯特·贝拉明·卡尔·卡特（Robert Bellarmine Carl Katter）是一位澳大利亚政治家，自1993年以来一直担任肯尼迪昆士兰分部的议员（MP），并自2022年以来一直担任众议院议员。1974年至1992年，他活跃在昆士兰州政治中，并在2001年之前一直是国家党的成员，此后他以独立人士身份离开，直到2011年组建卡特领导的澳大利亚党作为自己的政党。   
-
-阅读延伸[571222]: [https://en.wikipedia.org/wiki/Bob_Katter](https://en.wikipedia.org/wiki/Bob_Katter)   
-
-## 泰勒_斯威夫特   
-Taylor Alison Swift is an American singer-songwriter. Known for her autobiographical songwriting, artistic reinventions, and cultural impact, Swift is a leading figure in popular music and the subject of widespread public interest.   
-
-泰勒·艾莉森·斯威夫特（Taylor Alison Swift）是一位美国创作型歌手。斯威夫特以自传体歌曲创作、艺术重塑和文化影响而闻名，是流行音乐领域的领军人物，也是公众广泛关注的主题。   
-
-阅读延伸[5422144]: [https://en.wikipedia.org/wiki/Taylor_Swift](https://en.wikipedia.org/wiki/Taylor_Swift)   
+阅读延伸[79042580]: [https://en.wikipedia.org/wiki/Clash_in_Paris](https://en.wikipedia.org/wiki/Clash_in_Paris)   
 
 ## KPop_恶魔_猎人   
 KPop Demon Hunters is a 2025 American animated musical fantasy film produced by Sony Pictures Animation and released by Netflix. It was directed by Maggie Kang and Chris Appelhans from a screenplay they co-wrote with the writing team of Danya Jimenez and Hannah McMechan, based on a story conceived by Kang. The film stars the voices of Arden Cho, Ahn Hyo-seop, May Hong, Ji-young Yoo, Yunjin Kim, Daniel Dae Kim, Ken Jeong, and Lee Byung-hun. It follows a K-pop girl group, Huntr/x, who lead double lives as demon hunters; they face off against a rival boy band, the Saja Boys, whose members are secretly demons.   
@@ -132,10 +76,66 @@ KPop《恶魔猎人》是一部2025年美国动画音乐奇幻电影，由索尼
 
 阅读延伸[67104864]: [https://en.wikipedia.org/wiki/KPop_Demon_Hunters](https://en.wikipedia.org/wiki/KPop_Demon_Hunters)   
 
-## 2025- 26_欧足联_欧洲_联赛   
-The 2025–26 UEFA Europa League is the 55th season of Europe's secondary club football tournament organised by UEFA, and the 17th season since it was renamed from the UEFA Cup to the UEFA Europa League.   
+## 他妈   
+Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
 
-2025-26年欧足联欧罗巴联赛是欧足联举办的欧洲二级俱乐部足球锦标赛的第55个赛季，也是从欧足联杯更名为欧足联欧罗巴联赛以来的第17个赛季。   
+Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词或表达蔑视。虽然它的起源并不清楚，但通常被认为是在1475年左右首次得到证实的。在现代使用中，fuck一词及其衍生词被用作名词、动词、形容词、中词、感叹词或副词。有许多常用短语使用该词，以及包含该词的复合词，例如muddermuses和fuck off。   
 
-阅读延伸[78224540]: [https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Europa_League](https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Europa_League)   
+阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
+
+## 年龄和健康问题关于唐纳德·特朗普   
+At 79 years old, Donald Trump, the 47th and previously 45th president of the United States, is the oldest person in American history to be inaugurated as president for the second time. He previously became the oldest major-party presidential nominee in July 2024, five weeks after his 78th birthday. Should he serve as president until August 15, 2028, he would be the oldest sitting president in American history. On January 20, 2029, the end of his second term, he would be 82 years, seven months, and six days old.   
+
+唐纳德·特朗普现年79岁，是美国第47任总统，此前也是第45任总统，是美国历史上第二次就任总统的最年长人士。此前，他于2024年7月（即他78岁生日五周后）成为最年长的主要政党总统候选人。如果他担任总统至2028年8月15日，他将成为美国历史上最年长的现任总统。2029年1月20日，他的第二个任期结束，他就82岁零7个月零6天了。   
+
+阅读延伸[80033598]: [https://en.wikipedia.org/wiki/Age_and_health_concerns_about_Donald_Trump](https://en.wikipedia.org/wiki/Age_and_health_concerns_about_Donald_Trump)   
+
+## 酷利_（2025年_电影）   
+Coolie is an upcoming Indian Tamil-language action thriller film directed by Lokesh Kanagaraj and produced by Kalanithi Maran under Sun Pictures. The film stars Rajinikanth, Nagarjuna, Soubin Shahir, Upendra, Shruti Haasan, Sathyaraj, and Aamir Khan in the lead roles. Rachita Ram, Reba Monica John, Junior MGR, Kanna Ravi, Monisha Blessy, Kaali Venkat, and Charle appear in supporting roles. In the film, a mysterious man stands up to a corrupt syndicate that exploits and abuses the coolies in a coastal port town.   
+
+《酷里》是一部即将上映的印度泰米尔语动作惊悚电影，由洛克什·卡纳加拉吉执导，由太阳影业旗下卡拉尼蒂·马兰制作。这部电影由Rajinikanth、Nagarjuna、Soubin Shahir、Upendra、Shruti Haasan、Sathyaraj和Aamir Khan主演。Rachita Ram、Reba Monica John、Junior MGR、Kanna Ravi、Monisha Blessy、Kaali Venkat和Charle担任配角。在影片中，一名神秘男子反抗一个剥削和虐待沿海港口小镇的工人的腐败集团。   
+
+阅读延伸[74795535]: [https://en.wikipedia.org/wiki/Coolie_(2025_film)](https://en.wikipedia.org/wiki/Coolie_(2025_film))   
+
+## 阿奇_曼宁   
+Elisha Archibald Manning III is an American former professional football player who was a quarterback in the National Football League (NFL) for 14 seasons, primarily with the New Orleans Saints from 1971 to 1982. He also had brief stints with the Houston Oilers and the Minnesota Vikings. He played college football for the Ole Miss Rebels and was inducted into the College Football Hall of Fame in 1989. Manning is the patriarch of the Manning football dynasty, having preceded sons Peyton and Eli as a successful NFL quarterback.   
+
+伊莱沙·阿奇博尔德·曼宁三世（Elisha Archibald Manning III）是一位美国前职业足球运动员，曾在国家橄榄球联盟（NFL）担任四分卫14个赛季，主要在1971年至1982年效力于新奥尔良圣徒队。他还曾在休斯顿石油人队和明尼苏达维京人队短暂效力。他曾为Ole Miss Rebels队踢大学橄榄球，并于1989年入选大学橄榄球名人堂。曼宁是曼宁足球王朝的族长，在儿子佩顿和伊莱之前都是一名成功的NFL四分卫。   
+
+阅读延伸[640658]: [https://en.wikipedia.org/wiki/Archie_Manning](https://en.wikipedia.org/wiki/Archie_Manning)   
+
+## Param_Sundari_（电影）   
+Param Sundari is 2025 Indian Hindi-language romantic comedy film directed by Tushar Jalota and produced by Dinesh Vijan under Maddock Films. The film stars Sidharth Malhotra and Janhvi Kapoor in lead roles. The story follows Param, a North Indian boy from Delhi, who searches for his soulmate through an AI app, which leads him to Sundari, a South Indian girl from Kerala.   
+
+帕拉姆·桑达里（Param Sundari）是2025年印度印地语浪漫喜剧电影，由图沙尔·贾洛塔（Tushar Jalota）执导，马多克电影公司（Maddock Films）旗下迪内什·维扬（Dinesh Vijan）制作。这部电影由西德哈斯·马尔霍特拉（Sidharth Malhotra）和扬维·卡普尔（Janhvi Kapoor）主演。故事讲述了来自德里的北印度男孩帕拉姆通过人工智能应用程序寻找他的灵魂伴侣，并找到了来自喀拉拉邦的南印度女孩桑达里（Sundari）。   
+
+阅读延伸[79864629]: [https://en.wikipedia.org/wiki/Param_Sundari_(film)](https://en.wikipedia.org/wiki/Param_Sundari_(film))   
+
+## 泰勒_斯威夫特   
+Taylor Alison Swift is an American singer-songwriter. Known for her autobiographical songwriting, artistic reinventions, and cultural impact, Swift is a leading figure in popular music and the subject of widespread public interest.   
+
+泰勒·艾莉森·斯威夫特（Taylor Alison Swift）是一位美国创作型歌手。斯威夫特以自传体歌曲创作、艺术重塑和文化影响而闻名，是流行音乐领域的领军人物，也是公众广泛关注的主题。   
+
+阅读延伸[5422144]: [https://en.wikipedia.org/wiki/Taylor_Swift](https://en.wikipedia.org/wiki/Taylor_Swift)   
+
+## 布戈尼亚_（电影）   
+Bugonia is a 2025 science fiction dark comedy film directed by Yorgos Lanthimos from a screenplay by Will Tracy. It is an English-language remake of the 2003 South Korean film Save the Green Planet! by Jang Joon-hwan. It stars Emma Stone, Jesse Plemons, Aidan Delbis, Stavros Halkias, and Alicia Silverstone. A co-production of Ireland, South Korea, and the United States, the film focuses on two young men who kidnap a powerful CEO (Stone), suspecting that she is secretly an alien who wants to destroy Earth.   
+
+布戈尼亚是一部2025年科幻黑色喜剧电影，由Yorgos Lanthimos执导，改编自威尔·特雷西的剧本。这是2003年韩国电影《拯救绿色星球！》的英文翻拍版作者：张俊焕。该片由艾玛·斯通、杰西·普莱蒙斯、艾丹·德尔比斯、斯塔夫罗斯·哈尔基亚斯和艾丽西亚·西尔弗斯通主演。这部电影由爱尔兰、韩国和美国联合制作，讲述了两名年轻人绑架了一位有权势的首席执行官（斯通饰），怀疑她秘密是一个想要摧毁地球的外星人。   
+
+阅读延伸[76136533]: [https://en.wikipedia.org/wiki/Bugonia_(film)](https://en.wikipedia.org/wiki/Bugonia_(film))   
+
+## 朱利安_赛因   
+Julian Sayin is an American football quarterback for the Ohio State Buckeyes. He is a former five-star recruit who began his career as an early enrollee for the Alabama Crimson Tide before transferring to Ohio State.   
+
+朱利安·赛因是俄亥俄州立七叶树队的美式橄榄球四分卫。他是一名前五星级新兵，在转学到俄亥俄州立大学之前，他的职业生涯始于阿拉巴马州深红潮汐队的早期报名者。   
+
+阅读延伸[74770012]: [https://en.wikipedia.org/wiki/Julian_Sayin](https://en.wikipedia.org/wiki/Julian_Sayin)   
+
+## 托马斯_卡斯特利亚诺斯   
+Thomas Castellanos is an American football quarterback for the Florida State Seminoles. He previously played for the Boston College Eagles and the UCF Knights.   
+
+托马斯·卡斯特利亚诺斯是佛罗里达州立塞米诺尔队的美式橄榄球四分卫。他此前曾效力于波士顿学院老鹰队和UCF骑士队。   
+
+阅读延伸[74838076]: [https://en.wikipedia.org/wiki/Thomas_Castellanos](https://en.wikipedia.org/wiki/Thomas_Castellanos)   
 
