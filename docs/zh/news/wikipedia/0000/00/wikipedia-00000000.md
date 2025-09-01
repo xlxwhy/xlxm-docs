@@ -1,59 +1,17 @@
 # 最新资讯  
-## 阿奇_曼宁   
-Elisha Archibald Manning V(born April 27, 2005) is an American football quarterback for the Texas Longhorns. He is a member of the Manning family.   
+## 巴黎冲突   
+Clash in Paris is an upcoming 2025 professional wrestling pay-per-view (PPV) and livestreaming event produced by the American company WWE. It will be the third Clash event, truncated from the previous "Clash at the Castle" name used in 2022 and 2024. The event will take place on Sunday, August 31, 2025, at the Paris La Défense Arena in Nanterre, France, and will be held for wrestlers from the promotion's Raw and SmackDown brand divisions. This marks WWE's second PPV and livestreaming event held in France after Backlash in May 2024, and the first in the Paris metropolitan area.   
 
-伊莱沙·阿奇博尔德·曼宁V（Elisha Archibald Manning V，2005年4月27日出生）是德克萨斯长角队的美式橄榄球四分卫。他是曼宁家族的成员。   
+《巴黎冲突》是由美国WWE公司制作的2025年职业摔跤按次付费（PPV）和直播活动。这将是第三次冲突事件，从2022年和2024年使用的“城堡冲突”名称中删除。该活动将于2025年8月31日星期日在法国南特的巴黎拉德芳斯竞技场举行，为促销活动旗下Raw和SmackDown品牌部门的摔跤手举办。这标志着WWE继2024年5月Backlash之后在法国举办的第二次PPV和直播活动，也是巴黎大都市区的第一次。   
 
-阅读延伸[65490215]: [https://en.wikipedia.org/wiki/Arch_Manning](https://en.wikipedia.org/wiki/Arch_Manning)   
+阅读延伸[79042580]: [https://en.wikipedia.org/wiki/Clash_in_Paris](https://en.wikipedia.org/wiki/Clash_in_Paris)   
 
-## Lee_Corso   
-Lee Richard Corso is an American former college football coach and analyst. He is best known for appearing on ESPN's College GameDay program from its inception in 1987 until his retirement in 2025.   
+## 普里亚_侯爵   
+Priya Marathe was an Indian actress who was best known for her roles as Varsha in the television series Pavitra Rishta, Priya Mohite in Tu Tithe Me and Monica Kamat in Tuzech Mi Geet Gaat Aahe.   
 
-李·理查德·科索（Lee Richard Corso）是美国前大学橄榄球教练和分析师。他最出名的是参加ESPN的大学游戏日计划，从1987年成立到2025年退休。   
+普里亚·马奎斯是一位印度女演员，她最着名的角色是电视连续剧Pavitra Rishta中的Varsha，Tu Tithe Me中的Priya Mohite和Tuzech Mi Geet Gaat Aahe中的Monica Kamat。   
 
-阅读延伸[36049287]: [https://en.wikipedia.org/wiki/Lee_Corso](https://en.wikipedia.org/wiki/Lee_Corso)   
-
-## 唐纳德_特朗普   
-Donald John Trump is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021.   
-
-唐纳德·约翰·特朗普是一位美国政治家、媒体人物和商人，曾于2017年至2021年担任美国第45任总统。   
-
-阅读延伸[4848272]: [https://en.wikipedia.org/wiki/Donald_Trump](https://en.wikipedia.org/wiki/Donald_Trump)   
-
-## 库珀_曼宁   
-Elisha Archibald Manning IV is an American entrepreneur and television personality who is the host of the television show The Manning Hour for Fox Sports as well as principal and senior managing director of investor relations for AJ Capital Partners. He is the eldest son of former professional football quarterback Archie Manning, and the older brother of former professional football quarterbacks Peyton Manning and Eli Manning.   
-
-Elisha Archibald Manning IV是一位美国企业家和电视名人，是福克斯体育电视节目《曼宁时刻》的主持人，也是AJ Capital Partners投资者关系首席兼高级董事总经理。他是前职业足球四分卫阿奇·曼宁的长子，也是前职业足球四分卫佩顿·曼宁和伊莱·曼宁的哥哥。   
-
-阅读延伸[5211271]: [https://en.wikipedia.org/wiki/Cooper_Manning](https://en.wikipedia.org/wiki/Cooper_Manning)   
-
-## _星期四_谋杀_俱乐部_（电影）   
-The Thursday Murder Club is a 2025 crime comedy film directed by Chris Columbus from a screenplay by Katy Brand and Suzanne Heathcote, based on the 2020 novel by Richard Osman. The film stars Helen Mirren, Pierce Brosnan, Ben Kingsley, and Celia Imrie with David Tennant, Jonathan Pryce, Naomi Ackie, Daniel Mays, Henry Lloyd-Hughes, Richard E. Grant, Tom Ellis, Geoff Bell, Paul Freeman, Sarah Niles, and Ingrid Oliver in supporting roles. Its plot follows a group of elderly amateur sleuths who attempt to solve a murder.   
-
-《星期四谋杀俱乐部》是一部2025年的犯罪喜剧电影，由克里斯·哥伦布执导，改编自凯蒂·布兰德和苏珊娜·希思科特的剧本，改编自理查德·奥斯曼2020年的小说。这部电影由海伦·米伦、皮尔斯·布鲁斯南、本·金斯利和西莉亚·伊姆里主演，大卫·田纳特、乔纳森·普赖斯、娜奥米·阿基、丹尼尔·梅斯、亨利·劳埃德-休斯、理查德·E·E·格兰特、汤姆·埃利斯、杰夫·贝尔、保罗·弗里曼、莎拉·奈尔斯和英格丽德·奥利弗担任配角。故事讲述了一群年长的业余侦探试图侦破一起谋杀案的故事。   
-
-阅读延伸[76276562]: [https://en.wikipedia.org/wiki/The_Thursday_Murder_Club_(film)](https://en.wikipedia.org/wiki/The_Thursday_Murder_Club_(film))   
-
-## 法拉隆_群岛   
-The Farallon Islands, or Farallones, are a group of islands and sea stacks in the Gulf of the Farallones, off the coast of San Francisco, California, United States. The islands are also sometimes referred to by mariners as the Devil's Teeth Islands, in reference to the many treacherous underwater shoals in their vicinity. The islands lie 30 miles (48 km) outside the Golden Gate and 20 miles (32 km) south of Point Reyes, and are visible from the mainland on clear days. The islands are part of the City and County of San Francisco. The only inhabited portion of the islands is on Southeast Farallon Island (SEFI), where researchers from Point Blue Conservation Science and the U.S. Fish and Wildlife Service stay. The islands are closed to the public.   
-
-法拉隆群岛（Farallon Islands）或法拉隆群岛（Farallones）是位于美国加利福尼亚州旧金山海岸附近的法拉隆湾的一组岛屿和海堆。这些岛屿有时也被水手称为魔鬼牙齿群岛，指的是其附近许多危险的水下浅滩。这些岛屿位于金门外30英里（48公里）、雷耶斯角以南20英里（32公里）处，在晴朗的日子里可以从大陆看到。这些岛屿是旧金山市和县的一部分。这些岛屿上唯一有人居住的部分位于东南法拉隆岛（SEFI），来自Point Blue Conservation Science和美国鱼类和野生动物管理局的研究人员就住在那里。这些岛屿不对公众开放。   
-
-阅读延伸[1232665]: [https://en.wikipedia.org/wiki/Farallon_Islands](https://en.wikipedia.org/wiki/Farallon_Islands)   
-
-## Lokah_Chapter_1：_Chandra   
-Lokah Chapter: 1 Chandra is a 2025 Indian Malayalam-language superhero film directed by Dominic Arun and produced by Dulquer Salmaan under his banner Wayfarer Films. Set as the first installment in the planned Wayfarer Cinematic Universe, the film stars Kalyani Priyadarshan, Naslen and Sandy, alongside Arun Kurian, Chandu Salimkumar, Nishanth Sagar, Raghunath Paleri, Vijayaraghavan, Nithya Shri and Sarath Sabha in supporting roles.   
-
-洛卡章：1 Chandra是一部2025年印度马来语超级英雄电影，由Dominic Arun执导，Dulquer Salmaan以Wayfarer Films的名义制作。这部电影是计划中的《Wayfarer Cinematic Universe》的第一部，由卡利亚尼·普里亚达山（Kalyani Priyadarshan）、纳斯伦（Naslen）和桑迪（Sandy）主演，以及阿伦·库里（Arun Kurian）、阿卢乌·萨利姆库马尔（Thomu Salimkumar）、尼尚思·萨加尔（Nishanthh Sagar）、拉古纳特·帕莱里（Raghunath Paleri）、维贾亚·拉加万（Vijayaraghavan）、尼蒂亚·什里（Nithya Shri）和萨拉特·萨巴（Sarath Sabha）担任配角。   
-
-阅读延伸[80228787]: [https://en.wikipedia.org/wiki/Lokah_Chapter_1%3A_Chandra](https://en.wikipedia.org/wiki/Lokah_Chapter_1%3A_Chandra)   
-
-## 死亡_in_2025   
-The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
-
-以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
-
-阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
+阅读延伸[37981669]: [https://en.wikipedia.org/wiki/Priya_Marathe](https://en.wikipedia.org/wiki/Priya_Marathe)   
 
 ## 泰勒_汤森   
 Taylor Townsend is an American professional tennis player. She is the current WTA world No. 1 in doubles, achieved on 28 July 2025. Townsend has won two major doubles titles, at the 2024 Wimbledon Championships and the 2025 Australian Open, both with Kateřina Siniaková. In addition, she has won eight WTA Tour titles and also reached two other major finals, the 2022 US Open and the 2023 French Open. Townsend has a career-high singles ranking of No. 46, achieved on 19 August 2024.   
@@ -62,19 +20,47 @@ Taylor Townsend is an American professional tennis player. She is the current WT
 
 阅读延伸[32944686]: [https://en.wikipedia.org/wiki/Taylor_Townsend](https://en.wikipedia.org/wiki/Taylor_Townsend)   
 
-## 巴黎冲突   
-Clash in Paris is an upcoming 2025 professional wrestling pay-per-view (PPV) and livestreaming event produced by the American company WWE. It will be the third Clash event, truncated from the previous "Clash at the Castle" name used in 2022 and 2024. The event will take place on Sunday, August 31, 2025, at the Paris La Défense Arena in Nanterre, France, and will be held for wrestlers from the promotion's Raw and SmackDown brand divisions. This marks WWE's second PPV and livestreaming event held in France after Backlash in May 2024, and the first in the Paris metropolitan area.   
+## Lokah_Chapter_1：_Chandra   
+Lokah Chapter: 1 Chandra is a 2025 Indian Malayalam-language superhero film directed by Dominic Arun and produced by Dulquer Salmaan under his banner Wayfarer Films. Set as the first installment in the planned Wayfarer Cinematic Universe, the film stars Kalyani Priyadarshan, Naslen and Sandy, alongside Arun Kurian, Chandu Salimkumar, Nishanth Sagar, Raghunath Paleri, Vijayaraghavan, Nithya Shri and Sarath Sabha in supporting roles.   
 
-《巴黎冲突》是由美国WWE公司制作的2025年职业摔跤按次付费（PPV）和直播活动。这将是第三次冲突事件，从2022年和2024年使用的“城堡冲突”名称中删除。该活动将于2025年8月31日星期日在法国南特的巴黎拉德芳斯竞技场举行，为促销活动旗下Raw和SmackDown品牌部门的摔跤手举办。这标志着WWE继2024年5月Backlash之后在法国举办的第二次PPV和直播活动，也是巴黎大都市区的第一次。   
+洛卡章：1 Chandra是一部2025年印度马来语超级英雄电影，由Dominic Arun执导，Dulquer Salmaan以Wayfarer Films的名义制作。这部电影是计划中的《Wayfarer Cinematic Universe》的第一部，由卡利亚尼·普里亚达山（Kalyani Priyadarshan）、纳斯伦（Naslen）和桑迪（Sandy）主演，以及阿伦·库里（Arun Kurian）、阿卢乌·萨利姆库马尔（Thomu Salimkumar）、尼尚思·萨加尔（Nishanthh Sagar）、拉古纳特·帕莱里（Raghunath Paleri）、维贾亚·拉加万（Vijayaraghavan）、尼蒂亚·什里（Nithya Shri）和萨拉特·萨巴（Sarath Sabha）担任配角。   
 
-阅读延伸[79042580]: [https://en.wikipedia.org/wiki/Clash_in_Paris](https://en.wikipedia.org/wiki/Clash_in_Paris)   
+阅读延伸[80228787]: [https://en.wikipedia.org/wiki/Lokah_Chapter_1%3A_Chandra](https://en.wikipedia.org/wiki/Lokah_Chapter_1%3A_Chandra)   
 
-## KPop_恶魔_猎人   
-KPop Demon Hunters is a 2025 American animated musical fantasy film produced by Sony Pictures Animation and released by Netflix. It was directed by Maggie Kang and Chris Appelhans from a screenplay they co-wrote with the writing team of Danya Jimenez and Hannah McMechan, based on a story conceived by Kang. The film stars the voices of Arden Cho, Ahn Hyo-seop, May Hong, Ji-young Yoo, Yunjin Kim, Daniel Dae Kim, Ken Jeong, and Lee Byung-hun. It follows a K-pop girl group, Huntr/x, who lead double lives as demon hunters; they face off against a rival boy band, the Saja Boys, whose members are secretly demons.   
+## 唐纳德_特朗普   
+Donald John Trump is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021.   
 
-KPop《恶魔猎人》是一部2025年美国动画音乐奇幻电影，由索尼影业动画制作，Netflix发行。该片由玛吉·康（Maggie Kang）和克里斯·阿佩尔汉斯（Chris Appelhans）执导，改编自他们与丹雅·希门尼斯（Danya Jimenez）和汉娜·麦克梅钦（Hannah McMechan）的编剧团队共同编写的剧本，改编自康构思的故事。这部电影由Arden Cho、Ahn Hyo-seop、May Hong、Ji-young Yoo、Yunjin Kim、Daniel Dae Kim、Ken Jeong和Lee Byung-hun配音。故事讲述了韩国流行音乐女子组合Huntra/x作为恶魔猎人过着双重生活的故事;她们与对手男孩乐队Saja Boys对峙，该乐队的成员秘密是恶魔。   
+唐纳德·约翰·特朗普是一位美国政治家、媒体人物和商人，曾于2017年至2021年担任美国第45任总统。   
 
-阅读延伸[67104864]: [https://en.wikipedia.org/wiki/KPop_Demon_Hunters](https://en.wikipedia.org/wiki/KPop_Demon_Hunters)   
+阅读延伸[4848272]: [https://en.wikipedia.org/wiki/Donald_Trump](https://en.wikipedia.org/wiki/Donald_Trump)   
+
+## _星期四_谋杀_俱乐部_（电影）   
+The Thursday Murder Club is a 2025 crime comedy film directed by Chris Columbus from a screenplay by Katy Brand and Suzanne Heathcote, based on the 2020 novel by Richard Osman. The film stars Helen Mirren, Pierce Brosnan, Ben Kingsley, and Celia Imrie with David Tennant, Jonathan Pryce, Naomi Ackie, Daniel Mays, Henry Lloyd-Hughes, Richard E. Grant, Tom Ellis, Geoff Bell, Paul Freeman, Sarah Niles, and Ingrid Oliver in supporting roles. Its plot follows a group of elderly amateur sleuths who attempt to solve a murder.   
+
+《星期四谋杀俱乐部》是一部2025年的犯罪喜剧电影，由克里斯·哥伦布执导，改编自凯蒂·布兰德和苏珊娜·希思科特的剧本，改编自理查德·奥斯曼2020年的小说。这部电影由海伦·米伦、皮尔斯·布鲁斯南、本·金斯利和西莉亚·伊姆里主演，大卫·田纳特、乔纳森·普赖斯、娜奥米·阿基、丹尼尔·梅斯、亨利·劳埃德-休斯、理查德·E·E·格兰特、汤姆·埃利斯、杰夫·贝尔、保罗·弗里曼、莎拉·奈尔斯和英格丽德·奥利弗担任配角。故事讲述了一群年长的业余侦探试图侦破一起谋杀案的故事。   
+
+阅读延伸[76276562]: [https://en.wikipedia.org/wiki/The_Thursday_Murder_Club_(film)](https://en.wikipedia.org/wiki/The_Thursday_Murder_Club_(film))   
+
+## 死亡_in_2025   
+The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
+
+以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
+
+阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
+
+## Lee_Corso   
+Lee Richard Corso is an American former college football coach and analyst. He is best known for appearing on ESPN's College GameDay program from its inception in 1987 until his retirement in 2025.   
+
+李·理查德·科索（Lee Richard Corso）是美国前大学橄榄球教练和分析师。他最出名的是参加ESPN的大学游戏日计划，从1987年成立到2025年退休。   
+
+阅读延伸[36049287]: [https://en.wikipedia.org/wiki/Lee_Corso](https://en.wikipedia.org/wiki/Lee_Corso)   
+
+## 阿奇_曼宁   
+Elisha Archibald Manning V(born April 27, 2005) is an American football quarterback for the Texas Longhorns. He is a member of the Manning family.   
+
+伊莱沙·阿奇博尔德·曼宁V（Elisha Archibald Manning V，2005年4月27日出生）是德克萨斯长角队的美式橄榄球四分卫。他是曼宁家族的成员。   
+
+阅读延伸[65490215]: [https://en.wikipedia.org/wiki/Arch_Manning](https://en.wikipedia.org/wiki/Arch_Manning)   
 
 ## 他妈   
 Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
@@ -83,12 +69,26 @@ Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词�
 
 阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
 
-## 年龄和健康问题关于唐纳德·特朗普   
-At 79 years old, Donald Trump, the 47th and previously 45th president of the United States, is the oldest person in American history to be inaugurated as president for the second time. He previously became the oldest major-party presidential nominee in July 2024, five weeks after his 78th birthday. Should he serve as president until August 15, 2028, he would be the oldest sitting president in American history. On January 20, 2029, the end of his second term, he would be 82 years, seven months, and six days old.   
+## KPop_恶魔_猎人   
+KPop Demon Hunters is a 2025 American animated musical fantasy film produced by Sony Pictures Animation and released by Netflix. It was directed by Maggie Kang and Chris Appelhans from a screenplay they co-wrote with the writing team of Danya Jimenez and Hannah McMechan, based on a story conceived by Kang. The film stars the voices of Arden Cho, Ahn Hyo-seop, May Hong, Ji-young Yoo, Yunjin Kim, Daniel Dae Kim, Ken Jeong, and Lee Byung-hun. It follows a K-pop girl group, Huntr/x, who lead double lives as demon hunters; they face off against a rival boy band, the Saja Boys, whose members are secretly demons.   
 
-唐纳德·特朗普现年79岁，是美国第47任总统，此前也是第45任总统，是美国历史上第二次就任总统的最年长人士。此前，他于2024年7月（即他78岁生日五周后）成为最年长的主要政党总统候选人。如果他担任总统至2028年8月15日，他将成为美国历史上最年长的现任总统。2029年1月20日，他的第二个任期结束，他就82岁零7个月零6天了。   
+KPop《恶魔猎人》是一部2025年美国动画音乐奇幻电影，由索尼影业动画制作，Netflix发行。该片由玛吉·康（Maggie Kang）和克里斯·阿佩尔汉斯（Chris Appelhans）执导，改编自他们与丹雅·希门尼斯（Danya Jimenez）和汉娜·麦克梅钦（Hannah McMechan）的编剧团队共同编写的剧本，改编自康构思的故事。这部电影由Arden Cho、Ahn Hyo-seop、May Hong、Ji-young Yoo、Yunjin Kim、Daniel Dae Kim、Ken Jeong和Lee Byung-hun配音。故事讲述了韩国流行音乐女子组合Huntra/x作为恶魔猎人过着双重生活的故事;她们与对手男孩乐队Saja Boys对峙，该乐队的成员秘密是恶魔。   
 
-阅读延伸[80033598]: [https://en.wikipedia.org/wiki/Age_and_health_concerns_about_Donald_Trump](https://en.wikipedia.org/wiki/Age_and_health_concerns_about_Donald_Trump)   
+阅读延伸[67104864]: [https://en.wikipedia.org/wiki/KPop_Demon_Hunters](https://en.wikipedia.org/wiki/KPop_Demon_Hunters)   
+
+## 伊萨克_哈贾尔   
+Isack Alexandre Hadjar is a French racing driver who competes under the French flag in Formula One for Racing Bulls.   
+
+伊萨克·亚历山大·哈贾尔（Isack Alexandre Hadjar）是一位法国赛车手，在法国国旗下代表公牛队参加一级方程式赛车比赛。   
+
+阅读延伸[66494574]: [https://en.wikipedia.org/wiki/Isack_Hadjar](https://en.wikipedia.org/wiki/Isack_Hadjar)   
+
+## 詹姆斯_米尔纳   
+James Philip Milner is an English professional footballer who plays as a midfielder for Premier League club Brighton & Hove Albion. A versatile player, Milner has played in multiple positions, including on either wing, in midfield and at full back.   
+
+詹姆斯·菲利普·米尔纳是一位英国职业足球运动员，在英超俱乐部布莱顿霍夫阿尔比恩担任中场球员。米尔纳是一名多才多艺的球员，曾踢过多个位置，包括两翼、中场和边后卫。   
+
+阅读延伸[161459]: [https://en.wikipedia.org/wiki/James_Milner](https://en.wikipedia.org/wiki/James_Milner)   
 
 ## 酷利_（2025年_电影）   
 Coolie is an upcoming Indian Tamil-language action thriller film directed by Lokesh Kanagaraj and produced by Kalanithi Maran under Sun Pictures. The film stars Rajinikanth, Nagarjuna, Soubin Shahir, Upendra, Shruti Haasan, Sathyaraj, and Aamir Khan in the lead roles. Rachita Ram, Reba Monica John, Junior MGR, Kanna Ravi, Monisha Blessy, Kaali Venkat, and Charle appear in supporting roles. In the film, a mysterious man stands up to a corrupt syndicate that exploits and abuses the coolies in a coastal port town.   
@@ -97,13 +97,6 @@ Coolie is an upcoming Indian Tamil-language action thriller film directed by Lok
 
 阅读延伸[74795535]: [https://en.wikipedia.org/wiki/Coolie_(2025_film)](https://en.wikipedia.org/wiki/Coolie_(2025_film))   
 
-## 阿奇_曼宁   
-Elisha Archibald Manning III is an American former professional football player who was a quarterback in the National Football League (NFL) for 14 seasons, primarily with the New Orleans Saints from 1971 to 1982. He also had brief stints with the Houston Oilers and the Minnesota Vikings. He played college football for the Ole Miss Rebels and was inducted into the College Football Hall of Fame in 1989. Manning is the patriarch of the Manning football dynasty, having preceded sons Peyton and Eli as a successful NFL quarterback.   
-
-伊莱沙·阿奇博尔德·曼宁三世（Elisha Archibald Manning III）是一位美国前职业足球运动员，曾在国家橄榄球联盟（NFL）担任四分卫14个赛季，主要在1971年至1982年效力于新奥尔良圣徒队。他还曾在休斯顿石油人队和明尼苏达维京人队短暂效力。他曾为Ole Miss Rebels队踢大学橄榄球，并于1989年入选大学橄榄球名人堂。曼宁是曼宁足球王朝的族长，在儿子佩顿和伊莱之前都是一名成功的NFL四分卫。   
-
-阅读延伸[640658]: [https://en.wikipedia.org/wiki/Archie_Manning](https://en.wikipedia.org/wiki/Archie_Manning)   
-
 ## Param_Sundari_（电影）   
 Param Sundari is 2025 Indian Hindi-language romantic comedy film directed by Tushar Jalota and produced by Dinesh Vijan under Maddock Films. The film stars Sidharth Malhotra and Janhvi Kapoor in lead roles. The story follows Param, a North Indian boy from Delhi, who searches for his soulmate through an AI app, which leads him to Sundari, a South Indian girl from Kerala.   
 
@@ -111,31 +104,38 @@ Param Sundari is 2025 Indian Hindi-language romantic comedy film directed by Tus
 
 阅读延伸[79864629]: [https://en.wikipedia.org/wiki/Param_Sundari_(film)](https://en.wikipedia.org/wiki/Param_Sundari_(film))   
 
-## 泰勒_斯威夫特   
-Taylor Alison Swift is an American singer-songwriter. Known for her autobiographical songwriting, artistic reinventions, and cultural impact, Swift is a leading figure in popular music and the subject of widespread public interest.   
+## 武器_（2025_电影）   
+Weapons is an upcoming American mystery horror film written, produced, and directed by Zach Cregger. The film stars Josh Brolin, Julia Garner, Alden Ehrenreich, Austin Abrams, Cary Christopher, Benedict Wong, and Amy Madigan. Its plot follows the case of seventeen kids from the same classroom who mysteriously disappear overnight at the exact same time.   
 
-泰勒·艾莉森·斯威夫特（Taylor Alison Swift）是一位美国创作型歌手。斯威夫特以自传体歌曲创作、艺术重塑和文化影响而闻名，是流行音乐领域的领军人物，也是公众广泛关注的主题。   
+《武器》是一部即将上映的美国悬疑恐怖电影，由扎克·克雷格编剧、制作和导演。这部电影由乔什·布罗林、朱莉娅·加纳、奥尔登·埃斯珀赖希、奥斯汀·艾布拉姆斯、卡里·克里斯托弗、本尼迪克特·黄和艾米·马迪根主演。它的情节讲述了同一个教室的十七个孩子在同一时间一夜之间神秘失踪的故事。   
 
-阅读延伸[5422144]: [https://en.wikipedia.org/wiki/Taylor_Swift](https://en.wikipedia.org/wiki/Taylor_Swift)   
+阅读延伸[73248680]: [https://en.wikipedia.org/wiki/Weapons_(2025_film)](https://en.wikipedia.org/wiki/Weapons_(2025_film))   
 
-## 布戈尼亚_（电影）   
-Bugonia is a 2025 science fiction dark comedy film directed by Yorgos Lanthimos from a screenplay by Will Tracy. It is an English-language remake of the 2003 South Korean film Save the Green Planet! by Jang Joon-hwan. It stars Emma Stone, Jesse Plemons, Aidan Delbis, Stavros Halkias, and Alicia Silverstone. A co-production of Ireland, South Korea, and the United States, the film focuses on two young men who kidnap a powerful CEO (Stone), suspecting that she is secretly an alien who wants to destroy Earth.   
+## 杰基_米切尔   
+Virne Beatrice "Jackie" Mitchell Gilbert was one of the first female American pitchers in professional baseball history. She was 17 years old when she pitched for the Chattanooga Lookouts Class AA minor league baseball team in an exhibition game against the New York Yankees, and struck out Babe Ruth and Lou Gehrig in succession.   
 
-布戈尼亚是一部2025年科幻黑色喜剧电影，由Yorgos Lanthimos执导，改编自威尔·特雷西的剧本。这是2003年韩国电影《拯救绿色星球！》的英文翻拍版作者：张俊焕。该片由艾玛·斯通、杰西·普莱蒙斯、艾丹·德尔比斯、斯塔夫罗斯·哈尔基亚斯和艾丽西亚·西尔弗斯通主演。这部电影由爱尔兰、韩国和美国联合制作，讲述了两名年轻人绑架了一位有权势的首席执行官（斯通饰），怀疑她秘密是一个想要摧毁地球的外星人。   
+Virne Beatrice“Jackie”Mitchell Gilbert是职业棒球历史上最早的美国女投手之一。17岁时，她代表查塔努加瞭望台AA级小联盟棒球队在一场对阵纽约洋基队的表演赛中投球，并连续击败贝比·露丝和卢·格里克。   
 
-阅读延伸[76136533]: [https://en.wikipedia.org/wiki/Bugonia_(film)](https://en.wikipedia.org/wiki/Bugonia_(film))   
+阅读延伸[17499253]: [https://en.wikipedia.org/wiki/Jackie_Mitchell](https://en.wikipedia.org/wiki/Jackie_Mitchell)   
 
-## 朱利安_赛因   
-Julian Sayin is an American football quarterback for the Ohio State Buckeyes. He is a former five-star recruit who began his career as an early enrollee for the Alabama Crimson Tide before transferring to Ohio State.   
+## 年龄和健康问题关于唐纳德·特朗普   
+At 79 years old, Donald Trump, the 47th and previously 45th president of the United States, is the oldest person in American history to be inaugurated as president for the second time. He previously became the oldest major-party presidential nominee in July 2024, five weeks after his 78th birthday. Should he serve as president until August 15, 2028, he would be the oldest sitting president in American history. On January 20, 2029, the end of his second term, he would be 82 years, seven months, and six days old.   
 
-朱利安·赛因是俄亥俄州立七叶树队的美式橄榄球四分卫。他是一名前五星级新兵，在转学到俄亥俄州立大学之前，他的职业生涯始于阿拉巴马州深红潮汐队的早期报名者。   
+唐纳德·特朗普现年79岁，是美国第47任总统，此前也是第45任总统，是美国历史上第二次就任总统的最年长人士。此前，他于2024年7月（即他78岁生日五周后）成为最年长的主要政党总统候选人。如果他担任总统至2028年8月15日，他将成为美国历史上最年长的现任总统。2029年1月20日，他的第二个任期结束，他就82岁零7个月零6天了。   
 
-阅读延伸[74770012]: [https://en.wikipedia.org/wiki/Julian_Sayin](https://en.wikipedia.org/wiki/Julian_Sayin)   
+阅读延伸[80033598]: [https://en.wikipedia.org/wiki/Age_and_health_concerns_about_Donald_Trump](https://en.wikipedia.org/wiki/Age_and_health_concerns_about_Donald_Trump)   
 
-## 托马斯_卡斯特利亚诺斯   
-Thomas Castellanos is an American football quarterback for the Florida State Seminoles. He previously played for the Boston College Eagles and the UCF Knights.   
+## 雷电 *   
+Thunderbolts* is an upcoming American superhero film based on the Marvel Comics team Thunderbolts. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is intended to be the 36th film in the Marvel Cinematic Universe (MCU). The film is directed by Jake Schreier and written by Eric Pearson, Lee Sung Jin, and Joanna Calo. It stars an ensemble cast featuring David Harbour, Hannah John-Kamen, Julia Louis-Dreyfus, Sebastian Stan, Wyatt Russell, Geraldine Viswanathan, Lewis Pullman, Olga Kurylenko, and Florence Pugh. In the film, a group of antiheroes goes on missions for the government.   
 
-托马斯·卡斯特利亚诺斯是佛罗里达州立塞米诺尔队的美式橄榄球四分卫。他此前曾效力于波士顿学院老鹰队和UCF骑士队。   
+Thunderbolts* 是一部即将上映的美国超级英雄电影，根据漫威漫画团队Thunderbolts改编。该片由漫威工作室制作，华特迪士尼工作室电影公司发行，预计将成为漫威电影宇宙（MCU）的第36部电影。这部电影由杰克·施赖尔执导，埃里克·皮尔森、李成真和乔安娜·卡洛编剧。该剧由大卫·哈伯（David Harbour）、汉娜·约翰-卡门（Hannah John-Kamen）、朱莉娅·路易斯-德雷福斯（Julia Louis-Dreyfus）、塞巴斯蒂安·斯坦（Sebastian Stan）、怀亚特·拉塞尔（Wyatt Russell）、杰拉尔丁·维斯瓦纳坦（Geraldine Viswanathan）、刘易斯·普尔曼（Lewis Pullman）、奥尔加·库里连科（Olga Kurylenko）和弗洛伦斯·普格（Florence Pugh）主演。在影片中，一群反英雄为政府执行任务。   
 
-阅读延伸[74838076]: [https://en.wikipedia.org/wiki/Thomas_Castellanos](https://en.wikipedia.org/wiki/Thomas_Castellanos)   
+阅读延伸[67647660]: [https://en.wikipedia.org/wiki/Thunderbolts*](https://en.wikipedia.org/wiki/Thunderbolts*)   
+
+## 布鲁斯_威利斯   
+Walter Bruce Willis is a retired American actor. He achieved fame with a leading role on the comedy-drama series Moonlighting (1985–1989) and has appeared in over one hundred films, gaining recognition as an action hero for his portrayal of John McClane in the Die Hard franchise (1988–2013).   
+
+沃尔特·布鲁斯·威利斯是一位退休的美国演员。他因在喜剧剧集《月光男孩》（1985-1989）中担任主角而声名鹊起，并出演了一百多部电影，并因在《虎胆龙威》系列中饰演约翰·麦克莱恩而被公认为动作英雄（1988-2013）。   
+
+阅读延伸[64673]: [https://en.wikipedia.org/wiki/Bruce_Willis](https://en.wikipedia.org/wiki/Bruce_Willis)   
 
