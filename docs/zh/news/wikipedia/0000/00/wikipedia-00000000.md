@@ -1,38 +1,89 @@
 # 最新资讯  
-## 酷利_（2025年_电影）   
-Coolie is an upcoming Indian Tamil-language action thriller film directed by Lokesh Kanagaraj and produced by Kalanithi Maran under Sun Pictures. The film stars Rajinikanth, Nagarjuna, Soubin Shahir, Upendra, Shruti Haasan, Sathyaraj, and Aamir Khan in the lead roles. Rachita Ram, Reba Monica John, Junior MGR, Kanna Ravi, Monisha Blessy, Kaali Venkat, and Charle appear in supporting roles. In the film, a mysterious man stands up to a corrupt syndicate that exploits and abuses the coolies in a coastal port town.   
+## 阿琳娜_萨巴伦卡   
+Aryna Siarhiejeŭna Sabalenka is a Belarusian professional tennis player. She is a former world No. 1 in both singles and doubles by the Women's Tennis Association (WTA). Sabalenka has won two major singles titles, at the 2023 and 2024 Australian Opens, and two major doubles titles, at the 2019 US Open and the 2021 Australian Open, both partnering with Elise Mertens. She has won 21 career titles in total, 15 in singles and six in doubles.Sabalenka was relatively unknown until 2017, when together with Aliaksandra Sasnovich they led the Belarus Fed Cup team to a runner-up finish, despite both of them being ranked outside the top 75 at the time. She finished both 2018 and 2019 ranked No. 11 in the world in singles. Following two major singles semifinal appearances in 2021, Sabalenka peaked at the world No. 2 ranking, but struggled to consistently maintain that success in 2022. In 2023, she won her first major singles title at the Australian Open, reached the semifinals at all four major tournaments, and obtained the world No. 1 ranking, being named the ITF World Champion for the season.Sabalenka also began playing doubles regularly in 2019. With Mertens as her partner, she completed the Sunshine Double by winning the two Premier Mandatory tournaments in March, the Indian Wells Open and the Miami Open. After the US Open doubles title later in the year, she also qualified for the WTA Finals for the first time. With the 2021 Australian Open doubles title, she became the world No. 1 in the discipline.Sabalenka has a very aggressive style of play, often accumulating high numbers of winners and unforced errors. With her height, she also has a very powerful serve.   
 
-《酷里》是一部即将上映的印度泰米尔语动作惊悚电影，由洛克什·卡纳加拉吉执导，由太阳影业旗下卡拉尼蒂·马兰制作。这部电影由Rajinikanth、Nagarjuna、Soubin Shahir、Upendra、Shruti Haasan、Sathyaraj和Aamir Khan主演。Rachita Ram、Reba Monica John、Junior MGR、Kanna Ravi、Monisha Blessy、Kaali Venkat和Charle担任配角。在影片中，一名神秘男子反抗一个剥削和虐待沿海港口小镇的工人的腐败集团。   
+Aryna Siarhiejeŭna Sabalenka是白俄罗斯职业网球运动员。她是前女子网球协会(WTA)单打和双打世界排名第一的选手。萨巴伦卡在2023年和2024年澳大利亚网球公开赛上赢得了两次主要单打冠军，在2019年美国网球公开赛和2021年澳大利亚网球公开赛上赢得了两次主要双打冠军，这两次都是与埃莉斯·默滕斯合作。萨巴伦卡总共赢得了21个职业生涯冠军，其中15个是单打冠军，6个是双打冠军。直到2017年，萨巴伦卡还相对默默无闻，当时他们与阿利亚克桑德拉·萨斯诺维奇一起带领白俄罗斯联邦杯球队获得亚军，尽管他们当时都排在前75名之外。她在2018年和2019年的单打世界排名都是第11位。在2021年两次出现在单打半决赛之后，萨巴伦卡在世界排名第二的位置上达到了顶峰，但在2022年一直难以保持这一成功。2023年，她在澳大利亚网球公开赛上赢得了自己的第一个大单打冠军，在所有四大赛事中都进入了半决赛，并获得了世界排名第一，被评为ITF当季世界冠军。萨巴伦卡也从2019年开始定期打双打。与默滕斯搭档，她完成了阳光双打，赢得了3月份的两项顶级强制性锦标赛，印第安威尔斯公开赛和迈阿密公开赛。在今年晚些时候获得美国网球公开赛双打冠军后，她也第一次获得了进入WTA总决赛的资格。凭借2021年澳大利亚网球公开赛双打冠军，萨巴伦卡成为该项目的世界排名第一。萨巴伦卡的打法非常咄咄逼人，经常积累大量的获胜者和非受迫性失误。以她的身高，她的发球也非常有力。   
 
-阅读延伸[74795535]: [https://en.wikipedia.org/wiki/Coolie_(2025_film)](https://en.wikipedia.org/wiki/Coolie_(2025_film))   
+阅读延伸[50222577]: [https://en.wikipedia.org/wiki/Aryna_Sabalenka](https://en.wikipedia.org/wiki/Aryna_Sabalenka)   
 
-## 杰夫_巴埃纳   
-Jeffrey Baena was an American screenwriter and film director. He wrote and directed Life After Beth (2014), Joshy (2016), The Little Hours (2017), Horse Girl (2020), and Spin Me Round (2022), and co-wrote I Heart Huckabees (2004). He was known for his frequent collaborations with actresses Alison Brie, with whom he co-wrote Horse Girl and Spin Me Round, Molly Shannon, and his wife, Aubrey Plaza.   
+## 阿曼达_阿尼西莫娃   
+Amanda Kay Victoria Anisimova is an American professional tennis player. She has a career-high singles ranking of world No. 7, achieved on 14 July 2025. Anisimova has won three WTA Tour titles, including a WTA 1000 event at the Qatar Ladies Open. Her best performance at the majors is a runner-up finish at the 2025 Wimbledon Championships.   
 
-杰弗里·巴埃纳是一位美国编剧和电影导演。他编剧并执导了《贝丝之后的生活》（Life After Beth）（2014）、《乔希》（Joshy）（2016）、《小时光》（The Little Hours）（2017）、《马女孩》（2020）和《旋转我》（Spin Me Round）（2022），并与人合著了《我心哈克比》（I Heart Huckabees）（2004）。他因与女演员艾莉森·布里（Alison Brie）的频繁合作而闻名，他与她合写了《马女孩》和《旋转我》（Spin Me Round）、莫莉·香农（Molly Shannon）以及他的妻子奥布里·普拉塔（Aubrey Plaza）。   
+阿曼达·凯·维多利亚·阿尼西莫娃是一位美国职业网球运动员。她于2025年7月14日获得了职业生涯最高的单打排名，世界排名第七。阿尼西莫娃赢得了三项WTA巡回赛冠军，其中包括卡塔尔女子公开赛的WTA 1000赛事。她在大满贯赛事中的最佳表现是在2025年温布尔登锦标赛上获得亚军。   
 
-阅读延伸[51495916]: [https://en.wikipedia.org/wiki/Jeff_Baena](https://en.wikipedia.org/wiki/Jeff_Baena)   
+阅读延伸[50729960]: [https://en.wikipedia.org/wiki/Amanda_Anisimova](https://en.wikipedia.org/wiki/Amanda_Anisimova)   
 
-## 弗兰克_卡普里奥   
-Frank Caprio was an American judge and politician who served as the chief judge of the municipal court of Providence, Rhode Island, and chairman of the Rhode Island Board of Governors for Higher Education. His judicial work was televised on the program Caught in Providence. He also made appearances in the series Parking Wars, adjudicating several cases of traffic violations. The Caught in Providence YouTube channel has 2.92 million subscribers.   
+## AJ_Lee   
+April Jeanette Mendez is an American professional wrestler, author and screenwriter. As of September 2025, she is signed to WWE, where she performs on the Raw brand under the ring name AJ Lee.   
 
-弗兰克·卡普里奥是一位美国法官和政治家，曾担任罗德岛州普罗维登斯市法院首席法官和罗德岛州高等教育理事会主席。他的司法工作在电视节目《被困在普罗维登斯》中播出。他还出现在系列《停车大战》中，裁决了多起交通违规案件。Catght in Providence YouTube频道拥有292万订阅者。   
+阿普丽尔·珍妮特·门德斯是一位美国职业摔跤手、作家和编剧。截至2025年9月，她与WWE签约，以AJ Lee的戒指名称在Raw品牌上表演。   
 
-阅读延伸[6044291]: [https://en.wikipedia.org/wiki/Frank_Caprio](https://en.wikipedia.org/wiki/Frank_Caprio)   
+阅读延伸[36618625]: [https://en.wikipedia.org/wiki/AJ_Lee](https://en.wikipedia.org/wiki/AJ_Lee)   
 
-## War_2_（电影）   
-War 2 is a 2025 Indian Hindi-language action thriller film directed by Ayan Mukerji and produced by Aditya Chopra under Yash Raj Films. Based on a script written by Shridhar Raghavan and Abbas Tyrewala, from an original story by Chopra, it is the sixth instalment in the YRF Spy Universe and sequel to War (2019). The film stars Hrithik Roshan, N. T. Rama Rao Jr. and Kiara Advani in the lead roles alongside Ashutosh Rana and Anil Kapoor.   
+## 凯瑟琳，肯特郡公爵夫人   
+Katharine, Duchess of Kent, was a member of the British royal family. She was married to Prince Edward, Duke of Kent, a grandson of King George V.   
 
-《战争2》是一部2025年印度印地语动作惊悚电影，由阿扬·穆克吉执导，亚什·拉吉影业旗下阿迪亚·乔普拉制作。该剧改编自Shridhar Raghavan和Abbas Tyrewala撰写的剧本，来自乔普拉的原创故事，是YRF Spy Universe的第六部，也是《战争》（War）（2019）的续集。这部电影由北卡罗来纳州赫里西克·罗尚主演。T.小拉马·拉奥基亚拉·阿德瓦尼（Kiara Advani）与阿舒托什·拉纳（Ashutosh Rana）和阿尼尔·卡普尔（Anil Kapoor）一起主演。   
+肯特公爵夫人凯瑟琳是英国王室成员。她嫁给了乔治五世国王的孙子肯特公爵爱德华王子。   
 
-阅读延伸[80090562]: [https://en.wikipedia.org/wiki/War_2_(film)](https://en.wikipedia.org/wiki/War_2_(film))   
+阅读延伸[381923]: [https://en.wikipedia.org/wiki/Katharine%2C_Duchess_of_Kent](https://en.wikipedia.org/wiki/Katharine%2C_Duchess_of_Kent)   
 
-## 奥布里_广场   
-Aubrey Christina Plaza is an American actress, comedian, and producer. She began acting in local theater productions as a teenager and performed improv and sketch comedy at the Upright Citizens Brigade Theatre. After graduating from New York University Tisch School of the Arts, Plaza made her feature film debut in Mystery Team (2009) and gained wide recognition for her role as April Ludgate on the NBC political satire sitcom Parks and Recreation (2009–2015).   
+## _招魂：_最后_仪式   
+The Conjuring: Last Rites is a 2025 American supernatural horror film directed by Michael Chaves and written by Ian Goldberg, Richard Naing, and David Leslie Johnson-McGoldrick. Based on the true-life investigations of the Smurl haunting made by the Warrens through an original story co-authored by James Wan and Johnson-McGoldrick, the film stars Patrick Wilson and Vera Farmiga, who reprise their roles as paranormal investigators and authors Ed and Lorraine Warren, along with Mia Tomlinson and Ben Hardy. It is the sequel to The Conjuring: The Devil Made Me Do It (2021), and is the ninth and final installment of the first phase of The Conjuring Universe. Chaves returns as director from the previous film, and James Wan and Peter Safran return to produce.   
 
-奥布里·克里斯蒂娜·普拉亚（Aubrey Christina Plaza）是一位美国女演员、喜剧演员和制片人。十几岁时，她开始在当地剧院演出，并在直立公民旅剧院表演即兴表演和小品喜剧。从纽约大学蒂施艺术学院毕业后，普拉亚在《神秘团队》（Mystery Team）中首次亮相故事片，并因在NBC政治讽刺情景喜剧《公园与娱乐》（Parks and Recreation）中饰演阿普丽尔·卢盖特（April Ludgate）而获得广泛认可。   
+招魂：《最后的仪式》是一部2025年的美国超自然恐怖电影，由迈克尔·查韦斯执导，伊恩·戈德堡、理查德·纳恩和大卫·莱斯利·约翰逊-麦戈德里克编剧。电影明星帕特里克·威尔逊和维拉·法米加根据沃伦夫妇通过詹姆斯·万和约翰逊-麦戈德里克共同创作的原创故事对蓝精灵闹鬼的真实生活调查，他们再次扮演超自然现象调查员和作家埃德和洛林·沃伦，以及米娅·汤姆林森和本·哈迪。这是《招魂：魔鬼让我这么做》（2021年）的续集，也是《招魂宇宙》第一阶段的第九部也是最后一部。查韦斯从上一部电影中回归导演，詹姆斯·万和彼得·萨夫兰回归制片。   
 
-阅读延伸[20213373]: [https://en.wikipedia.org/wiki/Aubrey_Plaza](https://en.wikipedia.org/wiki/Aubrey_Plaza)   
+阅读延伸[67894157]: [https://en.wikipedia.org/wiki/The_Conjuring%3A_Last_Rites](https://en.wikipedia.org/wiki/The_Conjuring%3A_Last_Rites)   
+
+## 肯特公爵爱德华王子   
+Prince Edward, Duke of Kent, is a member of the British royal family. The elder son of Prince George, Duke of Kent, and Princess Marina of Greece and Denmark, he is a grandson of King George V, nephew of Kings Edward VIII and George VI, and first cousin of Queen Elizabeth II. Edward's mother was also a first cousin of Prince Philip, Duke of Edinburgh, Elizabeth's husband, making him both a second cousin and first cousin once removed to King Charles III. He is 42nd in the line of succession to the British throne. Following the death of his wife, Katharine, Duchess of Kent, in September 2025, Edward became the oldest living member of the British royal family.    
+
+肯特公爵爱德华王子是英国王室成员。他是肯特公爵乔治王子、希腊和丹麦玛丽娜公主的长子，国王乔治五世的孙子，国王爱德华八世和乔治六世的侄子，伊丽莎白二世女王的表弟。爱德华的母亲也是伊丽莎白丈夫爱丁堡公爵菲利普亲王的表弟，这使得他在被国王查理三世移交给后既是二表弟又是表弟。他是英国王位继承人中的第42位。2025年9月，他的妻子肯特公爵夫人凯瑟琳去世后，爱德华成为英国王室在世最年长的成员。   
+
+阅读延伸[280893]: [https://en.wikipedia.org/wiki/Prince_Edward%2C_Duke_of_Kent](https://en.wikipedia.org/wiki/Prince_Edward%2C_Duke_of_Kent)   
+
+## 詹尼克_罪人   
+Jannik Sinner is an Italian professional tennis player. He is currently ranked as the World No. 1 in singles by the Association of Tennis Professionals (ATP).
+Sinner has won 15 singles titles on the ATP Tour, including a Grand Slam title at the 2024 Australian Open and three Masters 1000 titles.   
+
+Jannik Sinner是一位意大利职业网球运动员。目前，他被职业网球协会（ATP）评为世界单打第一。
+Sinner在ATP巡回赛中赢得了15个单打冠军，其中包括2024年澳大利亚网球公开赛的大满贯冠军和三个大师赛1000冠军。   
+
+阅读延伸[60061043]: [https://en.wikipedia.org/wiki/Jannik_Sinner](https://en.wikipedia.org/wiki/Jannik_Sinner)   
+
+## 巴吉_4   
+Baaghi 4 is a 2025 Indian Hindi-language action thriller film directed by A. Harsha in his Hindi film debut, and produced by Sajid Nadiadwala under Nadiadwala Grandson Entertainment. The film stars Tiger Shroff, Sanjay Dutt, Sonam Bajwa and Harnaaz Sandhu. It is the fourth installment in the Baaghi film series. It is an unofficial remake of the 2013 Tamil film Ainthu Ainthu Ainthu.   
+
+《巴吉4》是一部2025年印度印地语动作惊悚电影，由A. Harsha在印地语电影处女作中，由Nadiadwala Grandson Entertainment旗下的Sajid Nadiadwala制作。这部电影由泰格·谢洛夫、桑杰·杜特、索纳姆·巴杰瓦和哈纳兹·桑杜主演。这是巴吉电影系列的第四部。这是2013年泰米尔电影《Ainthu Ainthu Ainthu》的非官方翻拍版。   
+
+阅读延伸[78494249]: [https://en.wikipedia.org/wiki/Baaghi_4](https://en.wikipedia.org/wiki/Baaghi_4)   
+
+## 菲利克斯_奥格-阿利亚西姆   
+Félix Auger-Aliassime is a Canadian professional tennis player. He has a career-high singles ranking of No. 6, which he achieved on November 7, 2022, making him the second-highest-ranked Canadian man in ATP rankings history and the fourth-highest-ranked Canadian player in history. He has a career-high doubles ranking of No. 60, attained on November 1, 2021.   
+
+菲利克斯·奥格-阿利亚西姆是加拿大职业网球运动员。他于2022年11月7日获得了职业生涯最高的单打排名，成为ATP排名历史上排名第二的加拿大球员和历史上排名第四的加拿大球员。他于2021年11月1日获得了职业生涯最高的双打排名第60位。   
+
+阅读延伸[47705626]: [https://en.wikipedia.org/wiki/F%C3%A9lix_Auger-Aliassime](https://en.wikipedia.org/wiki/F%C3%A9lix_Auger-Aliassime)   
+
+## Lokah_Chapter_1：_Chandra   
+Lokah Chapter: 1 Chandra is a 2025 Indian Malayalam-language superhero film directed by Dominic Arun and produced by Dulquer Salmaan under his banner Wayfarer Films. Set as the first installment in the planned Wayfarer Cinematic Universe, the film stars Kalyani Priyadarshan, Naslen and Sandy, alongside Arun Kurian, Chandu Salimkumar, Nishanth Sagar, Raghunath Paleri, Vijayaraghavan, Nithya Shri and Sarath Sabha in supporting roles.   
+
+洛卡章：1 Chandra是一部2025年印度马来语超级英雄电影，由Dominic Arun执导，Dulquer Salmaan以Wayfarer Films的名义制作。这部电影是计划中的《Wayfarer Cinematic Universe》的第一部，由卡利亚尼·普里亚达山（Kalyani Priyadarshan）、纳斯伦（Naslen）和桑迪（Sandy）主演，以及阿伦·库里（Arun Kurian）、阿卢乌·萨利姆库马尔（Thomu Salimkumar）、尼尚思·萨加尔（Nishanthh Sagar）、拉古纳特·帕莱里（Raghunath Paleri）、维贾亚·拉加万（Vijayaraghavan）、尼蒂亚·什里（Nithya Shri）和萨拉特·萨巴（Sarath Sabha）担任配角。   
+
+阅读延伸[80228787]: [https://en.wikipedia.org/wiki/Lokah_Chapter_1%3A_Chandra](https://en.wikipedia.org/wiki/Lokah_Chapter_1%3A_Chandra)   
+
+## 星期三_（电视剧）   
+Wednesday is an American supernatural mystery comedy television series based on the character Wednesday Addams by Charles Addams. Created by Alfred Gough and Miles Millar, it stars Jenna Ortega as the titular character, with Gwendoline Christie, Riki Lindhome, Jamie McShane, Hunter Doohan, Percy Hynes White, Emma Myers, Joy Sunday, Georgie Farmer, Naomi J. Ogawa, Christina Ricci, and Moosa Mostafa appearing in supporting roles. Four out of the eight episodes of the first season were directed by Tim Burton, who also serves as executive producer. The first season revolves around Wednesday Addams, who attempts to solve a murder mystery at her new school.   
+
+《星期三》是一部美国超自然悬疑喜剧电视剧，根据查尔斯·亚当斯的《星期三·亚当斯》角色改编。该剧由阿尔弗雷德·高夫（Alfred Gough）和迈尔斯·米勒（Miles Millar）创作，珍娜·奥尔特加（Jenna Ortega）饰演名义角色，格温多琳·克里斯蒂（Gwendoline Christie）、里基·林德霍姆（Riki Lindhomome）、杰米·麦克肖恩（Jamie McShane）、亨特·杜汉（Hunter Doohan）、珀西·海因斯·怀特（Percy Hynes White）、艾玛·迈尔斯（Emma Myers）、乔伊·桑迪（Joy Sunday）、乔吉·法默（Georgie Farmer）、娜奥米·J·Ogawa、克里斯蒂娜·里奇（Christina Ricci）和穆萨·穆斯塔法（Moosa Mostafa）担任配角。第一季的八集中有四集由蒂姆·伯顿执导，他也担任执行制片人。第一季围绕周三·亚当斯展开，她试图在新学校解开谋杀案之谜。   
+
+阅读延伸[66740629]: [https://en.wikipedia.org/wiki/Wednesday_(TV_series)](https://en.wikipedia.org/wiki/Wednesday_(TV_series))   
+
+## 卡洛_Acutis   
+Carlo Acutis was a British-born Italian student celebrated for his devotion to the Eucharist and his use of digital media to promote Catholic devotion. Born in London and raised in Milan, he created a website documenting Eucharistic miracles and Marian apparitions. Diagnosed with leukemia, he died at age fifteen. Beatified by the Catholic Church in 2020, he is regarded as a model for young believers and is scheduled to be canonized as a saint on 7 September 2025. Acutis is often referred to as the "first millennial saint".   
+
+卡洛·阿库蒂斯（Carlo Acutis）是一名出生于英国的意大利学生，因对圣餐的奉献和使用数字媒体促进天主教奉献而闻名。他出生于伦敦，在米兰长大，创建了一个记录圣餐奇迹和玛丽安幽灵的网站。他被诊断出患有白血病，于十五岁去世。他于2020年受到天主教会的祝福，被视为年轻信徒的典范，并计划于2025年9月7日被封为圣人。阿库蒂斯经常被称为“第一个千年圣人”。   
+
+阅读延伸[53974686]: [https://en.wikipedia.org/wiki/Carlo_Acutis](https://en.wikipedia.org/wiki/Carlo_Acutis)   
 
 ## 死亡_in_2025   
 The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
@@ -41,101 +92,52 @@ The following notable deaths occurred in 2025. Names are reported under the date
 
 阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
 
-## 阿曼达_诺克斯   
-Amanda Marie Knox is an American author, activist, and journalist. She spent almost four years incarcerated in Italy after her wrongful conviction in the 2007 murder of Meredith Kercher, a fellow exchange student, with whom she shared an apartment in Perugia. In 2015, Knox was definitively acquitted by the Italian Supreme Court of Cassation. In 2024, an Italian appellate court upheld Amanda Knox's slander conviction for falsely accusing Patrick Lumumba of murdering Meredith Kercher.   
+## 乔治·阿玛尼   
+Giorgio Armani was an Italian fashion designer, known best for his eponymous company Armani. Initially gaining prominence for his work with fashion house Cerruti 1881, he established his own company Armani in 1975, and it subsequently diversified into music, sport, and luxury hotels. By 2001, Armani had achieved widespread acclaim as the most successful designer of Italian origin, and he was widely credited with pioneering red carpet fashion. At the time of his death, his empire was valued at more than $12.1 billion.   
 
-阿曼达·玛丽·诺克斯是一位美国作家、活动家和记者。2007年，她因谋杀交换生梅雷迪思·克尔彻（Meredith Kercher）而被错误定罪，在意大利被监禁了近四年，她与梅雷迪思·克尔彻（Meredith Kercher）合住一套公寓。2015年，诺克斯被意大利最高上诉法院明确宣告无罪。2024年，意大利上诉法院维持了阿曼达·诺克斯（Amanda Knox）的诽谤定罪，罪名是诬告帕特里克·卢蒙巴（Patrick Lumumba）谋杀梅雷迪思·克尔彻（Meredith Kercher）。   
+Giorgio Armani是一位意大利时装设计师，以其著名的Armani公司而闻名。最初，他因与Cerruti 1881时装公司的合作而声名鹊起，1975年，他成立了自己的公司Armani，随后涉足音乐、运动和豪华酒店。到2001年，阿玛尼已经获得了广泛的赞誉，成为意大利最成功的设计师，他被广泛认为是红地毯时尚的先驱。在他去世时，他的帝国价值超过121亿美元。   
 
-阅读延伸[14116726]: [https://en.wikipedia.org/wiki/Amanda_Knox](https://en.wikipedia.org/wiki/Amanda_Knox)   
+阅读延伸[406617]: [https://en.wikipedia.org/wiki/Giorgio_Armani](https://en.wikipedia.org/wiki/Giorgio_Armani)   
 
-## 外星人：_地球   
-Alien: Earth is an American science fiction horror television series created by Noah Hawley, based on the Alien franchise. It serves as a prequel set in 2120, two years before the events of the original 1979 film Alien. It stars Sydney Chandler, Alex Lawther, Essie Davis, Samuel Blenkin, Babou Ceesay, Adarsh Gourav, and Timothy Olyphant.   
+## 斯威士兰   
+Eswatini, formally the Kingdom of Eswatini, also known by its former official names Swaziland and the Kingdom of Swaziland, is a landlocked country in Southern Africa. It is bordered by South Africa on all sides except the northeast, where it shares a border with Mozambique. At no more than 200 km (120 mi) north to south and 130 km (81 mi) east to west, Eswatini is one of the smallest countries in Africa; despite this, its climate and topography are diverse, ranging from a cool and mountainous highveld to a hot and dry lowveld. The executive capital and largest city is Mbabane, and the legislative and second capital is Lobamba.   
 
-《异形：地球》是一部美国科幻恐怖电视剧，由诺亚·霍利根据《异形》系列作品创作。它是一部以2120年为背景的前传，比1979年原版电影《异形》的事件早了两年。该剧由西德尼·钱德勒、亚历克斯·劳瑟、埃西·戴维斯、塞缪尔·布伦金、巴布·塞塞、阿达什·古拉夫和蒂莫西·奥利芬特主演。   
+埃斯瓦蒂尼，原名埃斯瓦蒂尼王国，也以其前官方名称斯威士兰和斯威士兰王国而闻名，是南部非洲的一个内陆国家。除东北部外，它与南非接壤，东北部与莫桑比克接壤。斯威士兰岛南北不超过200公里（120英里），东西不超过130公里（81英里），是非洲最小的国家之一;尽管如此，其气候和地形却多种多样，从凉爽的山地高原到炎热干燥的低地。行政首都和最大城市是姆巴巴内，立法首都和第二首都是洛班巴。   
 
-阅读延伸[72989974]: [https://en.wikipedia.org/wiki/Alien%3A_Earth](https://en.wikipedia.org/wiki/Alien%3A_Earth)   
+阅读延伸[27451]: [https://en.wikipedia.org/wiki/Eswatini](https://en.wikipedia.org/wiki/Eswatini)   
 
-## 武器_（2025_电影）   
-Weapons is an upcoming American mystery horror film written, produced, and directed by Zach Cregger. The film stars Josh Brolin, Julia Garner, Alden Ehrenreich, Austin Abrams, Cary Christopher, Benedict Wong, and Amy Madigan. Its plot follows the case of seventeen kids from the same classroom who mysteriously disappear overnight at the exact same time.   
+## 美国战争部   
+The United States Department of War, also called the War Department, was the United States Cabinet department originally responsible for the operation and maintenance of the United States Army, also bearing responsibility for naval affairs until the establishment of the Navy Department in 1798, and for most land-based air forces until the creation of the Department of the Air Force on September 18, 1947.   
 
-《武器》是一部即将上映的美国悬疑恐怖电影，由扎克·克雷格编剧、制作和导演。这部电影由乔什·布罗林、朱莉娅·加纳、奥尔登·埃斯珀赖希、奥斯汀·艾布拉姆斯、卡里·克里斯托弗、本尼迪克特·黄和艾米·马迪根主演。它的情节讲述了同一个教室的十七个孩子在同一时间一夜之间神秘失踪的故事。   
+美国战争部，也称为战争部，是美国内阁部门，最初负责美国陆军的运营和维护，在1798年海军部成立之前还负责海军事务，并负责大多数陆地空军，直到1947年9月18日空军部成立。   
 
-阅读延伸[73248680]: [https://en.wikipedia.org/wiki/Weapons_(2025_film)](https://en.wikipedia.org/wiki/Weapons_(2025_film))   
+阅读延伸[373962]: [https://en.wikipedia.org/wiki/United_States_Department_of_War](https://en.wikipedia.org/wiki/United_States_Department_of_War)   
 
-## 流通货币列表   
-There are 180 currencies recognized as legal tender in United Nations (UN) member states, UN General Assembly non-member observer states, partially recognized or unrecognized states, and their dependencies. However, excluding the pegged currencies, there are only 130 currencies that are independent or pegged to a currency basket. Dependencies and unrecognized states are listed here only if another currency is used on their territory that is different from the one of the state that administers them or has jurisdiction over them.   
+## 肯_德莱顿   
+Kenneth Wayne Dryden was a Canadian professional ice hockey goaltender, politician, lawyer, businessman, and author. He played for the Montreal Canadiens of the National Hockey League (NHL) from 1971 to 1979, winning the Stanley Cup six times, the Vezina Trophy as the goaltender on the team allowing the fewest goals five times, and the Conn Smythe Trophy along with the Calder Memorial Trophy as the most valuable player of the playoffs and rookie of the year respectively over the course of his rookie campaign. He was elected as member of the Hockey Hall of Fame in 1983. Thereafter, Dryden served as a Liberal Member of Parliament from 2004 to 2011 and was appointed Minister of Social Development from 2004 to 2006 for which he named as an Officer of the Order of Canada. In 2017, the NHL commemorated him as one of the league's 100 Greatest Players. He received the Order of Hockey in Canada in 2020.   
 
-联合国（UN）成员国、联合国大会非成员观察员国、部分承认或未承认的国家及其属地有180种货币被公认为法定货币。然而，不包括挂钩货币，只有130种货币独立或与货币篮子挂钩。只有当属地和未被承认的国家在其领土上使用与管理它们或对其拥有管辖权的国家不同的另一种货币时，才会在此处列出。   
+肯尼思·韦恩·德莱顿（Kenneth Wayne Dryden）是加拿大职业冰球守门员、政治家、律师、商人和作家。1971年至1979年，他为国家曲棍球联盟（NHL）蒙特利尔加拿大人队效力，六次赢得斯坦利杯，五次作为球队中进球最少的守门员赢得维齐纳杯，并获得康恩·斯迈特杯和考尔德纪念杯，分别作为季后赛最有价值球员和年度最佳新秀在他的新秀赛季。1983年，他当选为曲棍球名人堂成员。此后，德莱顿于2004年至2011年担任自由党议员，并于2004年至2006年被任命为社会发展部长，并因此被任命为加拿大勋章官员。2017年，NHL将他评为联盟最伟大的100名球员之一。他于2020年在加拿大获得曲棍球勋章。   
 
-阅读延伸[1315426]: [https://en.wikipedia.org/wiki/List_of_circulating_currencies](https://en.wikipedia.org/wiki/List_of_circulating_currencies)   
+阅读延伸[274752]: [https://en.wikipedia.org/wiki/Ken_Dryden](https://en.wikipedia.org/wiki/Ken_Dryden)   
 
-## 他妈   
-Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
+## 马达拉西   
+Madharaasi is a 2025 Indian Tamil-language psychological action thriller film written and directed by A. R. Murugadoss. Produced by Sri Lakshmi Movies, the film stars Sivakarthikeyan, Rukmini Vasanth, Vidyut Jammwal, Biju Menon, Vikranth and Shabeer Kallarakkal in the lead roles. In the film, a patient with fregoli delusion becomes involved in an operation to stop a syndicate from North India from distributing guns across Tamil Nadu.   
 
-Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词或表达蔑视。虽然它的起源并不清楚，但通常被认为是在1475年左右首次得到证实的。在现代使用中，fuck一词及其衍生词被用作名词、动词、形容词、中词、感叹词或副词。有许多常用短语使用该词，以及包含该词的复合词，例如muddermuses和fuck off。   
+《Madharaasi》是一部2025年印度泰米尔语心理动作惊悚电影，由A.编剧和导演。R.穆鲁加多斯。这部电影由Sri Lakshmi Movies制作，由Sivakarthikeyan、Rukmini Vasanth、Vidyut Jammwal、Biju Menon、Vikranth和Shabeer Kallarakkal主演。在影片中，一名患有弗雷戈里妄想症的患者参与了一项行动，以阻止来自北印度的一个集团在泰米尔纳德邦各地分发枪支。   
 
-阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
+阅读延伸[74905616]: [https://en.wikipedia.org/wiki/Madharaasi](https://en.wikipedia.org/wiki/Madharaasi)   
 
-## 钟奎   
-Zhong Kui (Chinese: 鍾馗; pinyin: Zhōng Kuí is a Taoist deity in Chinese mythology, traditionally regarded as a vanquisher of ghosts and evil beings. He is depicted as a large man with a big black beard, bulging eyes, and a wrathful expression. Zhong Kui is able to command 80,000 demons to do his bidding and is often associated with the five bats of fortune. Worship and iconography of Zhong Kui later spread to other East Asian countries.   
+## UFC_Fight_Night：_Imavov_vs._博拉柳   
+UFC Fight Night: Imavov vs. Borralho was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on September 6, 2025, at the Accor Arena in Paris, France.   
 
-钟魁（中文：;：钟魁是中国神话中的道教神灵，传统上被视为驱魔人。他被描绘成一个身材魁梧的男人，留着大大的黑色胡须，凸出的眼睛，表情愤怒。钟魁能够指挥8万只恶魔执行他的命令，经常与五只幸运蝙蝠联系在一起。对钟的崇拜和肖像后来传播到其他东亚国家。   
+UFC战斗之夜：Imavov vs. Borralho是由终极格斗锦标赛制作的一项综合武术赛事，于2025年9月6日在法国巴黎雅高竞技场举行。   
 
-阅读延伸[1604169]: [https://en.wikipedia.org/wiki/Zhong_Kui](https://en.wikipedia.org/wiki/Zhong_Kui)   
+阅读延伸[79551939]: [https://en.wikipedia.org/wiki/UFC_Fight_Night%3A_Imavov_vs._Borralho](https://en.wikipedia.org/wiki/UFC_Fight_Night%3A_Imavov_vs._Borralho)   
 
-## 超人_（2025年_电影）   
-Superman is an upcoming American superhero film based on DC Comics featuring the eponymous character. Produced by DC Studios and to be distributed by Warner Bros. Pictures, it will be the first film in the DC Universe (DCU) and a reboot of the Superman film series. The film is written and directed by James Gunn and stars David Corenswet as Clark Kent / Superman, alongside Rachel Brosnahan, Nicholas Hoult, Edi Gathegi, Anthony Carrigan, Nathan Fillion, Isabela Merced, Skyler Gisondo, Sara Sampaio, María Gabriela de Faría, Wendell Pierce, Alan Tudyk, Pruitt Taylor Vince, and Neva Howell. In the film, Superman's journey to reconcile his alien heritage with his human family is explored.   
+## 美国国防部   
+The United States Department of Defense (DoD), secondarily but unofficially named the United States Department of War (DoW), is an executive department of the U.S. federal government charged with coordinating and supervising the U.S. Armed Forces—the Army, Navy, Marines, Air Force, Space Force, and, for some purposes, the Coast Guard—and related functions and agencies. Headquartered at the Pentagon in Arlington County, Virginia, just outside Washington, D.C., the Department of Defense's stated mission is "to provide the military forces needed to deter war and ensure our nation's security". The current secretary of defense is Pete Hegseth.   
 
-超人是一部即将上映的美国超级英雄电影，改编自DC漫画，主角是同名角色。该片由DC Studios制作，华纳兄弟影业发行，将成为DC宇宙（DCU）的第一部电影，也是超人系列电影的重启。这部电影由詹姆斯·冈恩编剧和导演，大卫·科伦斯韦特饰演克拉克·肯特/超人，与雷切尔·布罗斯纳汉、尼古拉斯·霍尔特、埃迪·加特吉、安东尼·卡里根、内森·菲利安、伊莎贝尔·默塞德、斯凯勒·吉松多、萨拉·桑帕约、玛丽亚·加布里埃拉·德·法利亚、温德尔·皮尔斯、艾伦·图迪克、普鲁特·泰勒·文斯和涅瓦·豪厄尔一起。在电影中，探索了超人将其外星血统与人类家庭调和起来的旅程。   
+美国国防部（DoD），次要但非正式名称为美国战争部（DoW），是美国联邦政府的一个执行部门，负责协调和监督美国武装部队（陆军、海军、海军陆战队、空军、太空部队，以及出于某些目的，海岸警卫队）以及相关职能和机构。总部位于华盛顿特区郊外弗吉尼亚州阿灵顿县的五角大楼，国防部的既定使命是“提供阻止战争并确保我们国家安全所需的军事力量”。现任国防部长是皮特·赫格塞斯。   
 
-阅读延伸[57255388]: [https://en.wikipedia.org/wiki/Superman_(2025_film)](https://en.wikipedia.org/wiki/Superman_(2025_film))   
-
-## The_Summer_I_Turning_Pretty_（电视剧）   
-The Summer I Turned Pretty is an American coming-of-age romantic drama television series created by author Jenny Han for Amazon Prime Video, and it is based on her novel trilogy of the same name. Lola Tung stars as Belly Conklin, a teenager involved in a love triangle with brothers Conrad and Jeremiah, played by Christopher Briney and Gavin Casalegno, respectively.   
-
-《我变漂亮的夏天》是一部美国成长浪漫电视剧，由作家Jenny Han为Amazon Prime Video创作，改编自她的同名小说三部曲。劳拉·东（Lola Tung）饰演贝利·康克林（Belly Conklin），一名青少年与康拉德和耶利米兄弟陷入三角恋，克里斯托弗·布林（Christopher Briney）和加文·卡萨莱诺（Gavin Casalegno）分别饰演。   
-
-阅读延伸[66131981]: [https://en.wikipedia.org/wiki/The_Summer_I_Turned_Pretty_(TV_series)](https://en.wikipedia.org/wiki/The_Summer_I_Turned_Pretty_(TV_series))   
-
-## Jean_Pormanove   
-Raphaël Graven, also known by the pseudonym Jean Pormanove or JP, was a French streamer, videographer, influencer and comedian.   
-
-拉斐尔·格雷文（Raphaël Graven），化名Jean Pormanove或JP，是一位法国主播、摄像师、影响者和喜剧演员。   
-
-阅读延伸[80793832]: [https://en.wikipedia.org/wiki/Jean_Pormanove](https://en.wikipedia.org/wiki/Jean_Pormanove)   
-
-## KPop_恶魔_猎人   
-KPop Demon Hunters is a 2025 American animated musical fantasy film produced by Sony Pictures Animation and released by Netflix. It was directed by Maggie Kang and Chris Appelhans from a screenplay they co-wrote with the writing team of Danya Jimenez and Hannah McMechan, based on a story conceived by Kang. The film stars the voices of Arden Cho, Ahn Hyo-seop, May Hong, Ji-young Yoo, Yunjin Kim, Daniel Dae Kim, Ken Jeong, and Lee Byung-hun. It follows a K-pop girl group, Huntr/x, who lead double lives as demon hunters; they face off against a rival boy band, the Saja Boys, whose members are secretly demons.   
-
-KPop《恶魔猎人》是一部2025年美国动画音乐奇幻电影，由索尼影业动画制作，Netflix发行。该片由玛吉·康（Maggie Kang）和克里斯·阿佩尔汉斯（Chris Appelhans）执导，改编自他们与丹雅·希门尼斯（Danya Jimenez）和汉娜·麦克梅钦（Hannah McMechan）的编剧团队共同编写的剧本，改编自康构思的故事。这部电影由Arden Cho、Ahn Hyo-seop、May Hong、Ji-young Yoo、Yunjin Kim、Daniel Dae Kim、Ken Jeong和Lee Byung-hun配音。故事讲述了韩国流行音乐女子组合Huntra/x作为恶魔猎人过着双重生活的故事;她们与对手男孩乐队Saja Boys对峙，该乐队的成员秘密是恶魔。   
-
-阅读延伸[67104864]: [https://en.wikipedia.org/wiki/KPop_Demon_Hunters](https://en.wikipedia.org/wiki/KPop_Demon_Hunters)   
-
-## 埃贝里奇_埃泽   
-Eberechi Oluchi Eze is an English professional footballer who plays as an attacking midfielder or winger for Premier League club Crystal Palace and the England national team.   
-
-埃贝雷奇·奥卢奇·埃泽是一名英国职业足球运动员，在英超俱乐部水晶宫和英格兰国家队担任攻击型中场或边锋。   
-
-阅读延伸[52923407]: [https://en.wikipedia.org/wiki/Eberechi_Eze](https://en.wikipedia.org/wiki/Eberechi_Eze)   
-
-## 梅雷迪思·克尔彻谋杀案   
-Meredith Susanna Cara Kercher was a British student on exchange from the University of Leeds who was murdered at the age of 21 in Perugia, Italy. Kercher was found dead on the floor of her room. By the time the bloodstained fingerprints at the scene were identified as belonging to Rudy Guede, an Ivorian migrant, police had charged Kercher's American roommate, Amanda Knox, and Knox's Italian boyfriend, Raffaele Sollecito. The subsequent prosecutions of Knox and Sollecito received international publicity, with forensic experts and jurists taking a critical view of the evidence supporting the initial guilty verdicts.   
-
-梅雷迪思·苏珊娜·卡拉·克尔彻（Meredith Susanna Cara Kercher）是利兹大学交换生，21岁时在意大利佩鲁贾被谋杀。克尔彻被发现死在她房间的地板上。当现场沾满血迹的指纹被确定属于科特迪瓦移民鲁迪·盖德时，警方已对克尔彻的美国室友阿曼达·诺克斯和诺克斯的意大利男友拉斐尔·索莱西托提出指控。随后对诺克斯和索莱西托的起诉引起了国际关注，法医专家和法学家对支持最初有罪判决的证据持批评态度。   
-
-阅读延伸[27358278]: [https://en.wikipedia.org/wiki/Murder_of_Meredith_Kercher](https://en.wikipedia.org/wiki/Murder_of_Meredith_Kercher)   
-
-## 北哨兵岛   
-North Sentinel Island is one of the Andaman Islands, an Indian archipelago in the Bay of Bengal which also includes South Sentinel Island. The island is a protected area of India. It is home to the Sentinelese, an indigenous tribe in voluntary isolation who have defended, often by force, their protected isolation from the outside world. The island is about eight kilometres long and seven kilometres wide, and its area is approximately 60 square kilometres (23 sq mi).   
-
-北哨兵岛是安达曼群岛之一，安达曼群岛是孟加拉湾的印度群岛，还包括南哨兵岛。该岛是印度的保护区。它是Sentinelese的家园，Sentinelese是一个自愿与世隔绝的土著部落，他们经常通过武力捍卫自己与外界的受保护的隔离。该岛长约8公里，宽约7公里，面积约60平方公里（23平方英里）。   
-
-阅读延伸[1333518]: [https://en.wikipedia.org/wiki/North_Sentinel_Island](https://en.wikipedia.org/wiki/North_Sentinel_Island)   
-
-## 加文_纽瑟姆   
-Gavin Christopher Newsom is an American politician and businessman serving as the 40th governor of California since 2019. A member of the Democratic Party, he served as the 49th lieutenant governor of California from 2011 to 2019 and as the 42nd mayor of San Francisco from 2004 to 2011.   
-
-加文·克里斯托弗·纽瑟姆（Gavin Christopher Newsom）是一位美国政治家和商人，自2019年以来担任第40任加州州长。作为民主党成员，他于2011年至2019年担任加州第49任副州长，并于2004年至2011年担任旧金山第42任市长。   
-
-阅读延伸[418947]: [https://en.wikipedia.org/wiki/Gavin_Newsom](https://en.wikipedia.org/wiki/Gavin_Newsom)   
+阅读延伸[7279897]: [https://en.wikipedia.org/wiki/United_States_Department_of_Defense](https://en.wikipedia.org/wiki/United_States_Department_of_Defense)   
 
