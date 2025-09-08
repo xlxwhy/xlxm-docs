@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: .js$
+Sitemap: https://xlxm.cn/sitemap.xml
+Sitemap: https://xlxm.cn/document/openai/sitemap.xml
+Sitemap: https://xlxm.cn/document/akshare/sitemap.xml
+Sitemap: https://xlxm.cn/document/vitepress/sitemap.xml
+Sitemap: https://xlxm.cn/document/vitejs/sitemap.xml
