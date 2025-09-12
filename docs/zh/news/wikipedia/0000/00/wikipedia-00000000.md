@@ -34,19 +34,19 @@ Turning Point USA（tpUSA）是一家美国非营利组织，在高中、大学�
 
 阅读延伸[48160271]: [https://en.wikipedia.org/wiki/Turning_Point_USA](https://en.wikipedia.org/wiki/Turning_Point_USA)   
 
-## 拉里_埃里森   
-Lawrence Joseph Ellison is an American businessman, who has been the wealthiest person in the world in the world since 2025. He is also an entrepreneur who co-founded software company Oracle Corporation. He was Oracle's chief executive officer from 1977 to 2014 and is now its chief technology officer and executive chairman.   
+## 梅丽莎_霍特曼   
+Melissa Anne Hortman was an American politician and lawyer who served as the 61st speaker of the Minnesota House of Representatives from 2019 to 2025. A member of the Democratic–Farmer–Labor Party, she represented northern parts of the Twin Cities metropolitan area in the Minnesota House of Representatives from 2005 until her assassination in 2025, serving as the House minority leader from 2017 to 2019 and as speaker from 2019 to January 2025. During her tenure, she advocated for transportation, environmental rights, abortion rights, police reform, and gun control policies. She was also the chief author of the state's solar energy standard.   
 
-劳伦斯·约瑟夫·埃里森（Lawrence Joseph Ellison）是一位美国商人，自2025年以来一直是全球最富有的人。他也是一位企业家，共同创立了软件公司Oracle Corporation。他于1977年至2014年担任甲骨文首席执行官，现任首席技术官兼执行董事长。   
+梅丽莎·安妮·霍特曼（Melissa Anne Hortman）是一位美国政治家和律师，曾于2019年至2025年担任明尼苏达州众议院第61任议长。作为民主-农民-工党的成员，她从2005年起在明尼苏达州众议院代表双子城大都市区北部地区，直到2025年遇刺，并于2017年至2019年担任众议院少数党领袖，并于2019年至2025年1月担任议长。任职期间，她倡导交通、环境权利、堕胎权、警察改革和枪支管制政策。她也是该州太阳能标准的主要作者。   
 
-阅读延伸[172395]: [https://en.wikipedia.org/wiki/Larry_Ellison](https://en.wikipedia.org/wiki/Larry_Ellison)   
+阅读延伸[6892027]: [https://en.wikipedia.org/wiki/Melissa_Hortman](https://en.wikipedia.org/wiki/Melissa_Hortman)   
 
-## 尼泊尔   
-Nepal, officially the Federal Democratic Republic of Nepal, is a landlocked country in South Asia. It is mainly situated in the Himalayas, but also includes parts of the Indo-Gangetic Plain. It borders the Tibet Autonomous Region of China to the north, and India to the south, east, and west, while it is narrowly separated from Bangladesh by the Siliguri Corridor, and from Bhutan by the Indian state of Sikkim. Nepal has a diverse geography, including fertile plains, subalpine forested hills, and eight of the world's ten tallest mountains, including Mount Everest, the highest point on Earth. Kathmandu is the nation's capital and its largest city. Nepal is a multi-ethnic, multi-lingual, multi-religious, and multi-cultural state, with Nepali as the official language.   
+## 9月11日_袭击   
+The September 11 attacks, commonly known as 9/11, were four coordinated Islamist terrorist suicide attacks carried out by al-Qaeda against the United States in 2001. On that morning, 19 terrorists hijacked four commercial airliners scheduled to travel from the East Coast to California. The hijackers crashed the first two planes into the Twin Towers of the World Trade Center in New York City and aimed the next two flights toward targets in or near Washington, D.C., in an attack on the nation's capital. The third team succeeded in striking the Pentagon, the headquarters of the U.S. Department of Defense in Arlington County, Virginia, while the fourth plane crashed in rural Pennsylvania during a passenger revolt. The September 11 attacks killed 2,977 people, making it the deadliest terrorist attack in history. In response to the attacks, the United States waged the multi-decade global war on terror to eliminate hostile groups deemed terrorist organizations, as well as the foreign governments purported to support them, in Afghanistan, Iraq, Syria, and several other countries.   
 
-尼泊尔，正式名称尼泊尔联邦民主共和国，是南亚的一个内陆国家。它主要位于喜马拉雅山，但也包括印度-恒河平原的部分地区。它北与中国西藏自治区接壤，南、东、西与印度接壤，与孟加拉国隔着西里古里走廊，与不丹隔着印度锡金邦。尼泊尔地理位置多样化，包括肥沃的平原、亚高山森林丘陵以及世界十大最高山峰中的八座，其中包括地球最高点珠穆朗玛峰。加德满都是该国首都和最大城市。尼泊尔是一个多民族、多语言、多宗教、多文化的国家，尼泊尔语为官方语言。   
+9·11袭击，俗称9·11，是基地组织2001年对美国发动的四次有组织的伊斯兰恐怖主义自杀式袭击。当天上午，19名恐怖分子劫持了四架原定从东海岸飞往加利福尼亚州的商业客机。劫机者将前两架飞机撞向纽约世贸中心双子塔，并将接下来的两架飞机对准华盛顿特区或附近的目标，对美国首都发动袭击。第三小队成功袭击了位于弗吉尼亚州阿灵顿县的美国国防部总部五角大楼，而第四架飞机在一次乘客叛乱中在宾夕法尼亚州农村地区坠毁。9·11恐怖袭击造成2977人死亡，成为历史上死亡人数最多的恐怖袭击。作为对袭击的回应，美国在阿富汗、伊拉克、叙利亚和其他几个国家发动了长达数十年的全球反恐战争，以消灭被视为恐怖组织的敌对组织，以及据称支持这些组织的外国政府。   
 
-阅读延伸[171166]: [https://en.wikipedia.org/wiki/Nepal](https://en.wikipedia.org/wiki/Nepal)   
+阅读延伸[5058690]: [https://en.wikipedia.org/wiki/September_11_attacks](https://en.wikipedia.org/wiki/September_11_attacks)   
 
 ## 2025年_枪击事件_of_明尼苏达州_立法者   
 On June 14, 2025, Minnesota state representative Melissa Hortman was assassinated in a shooting at her home in Brooklyn Park, Minnesota, United States. Hortman, the leader of the state House Democratic caucus, was killed alongside her husband, Mark. Earlier that morning, state senator John Hoffman and his wife, Yvette, were shot in their home in nearby Champlin and hospitalized. Police responding to the attack on the Hoffmans checked on the Hortmans' home, where a man fired at them. The shooter escaped, sparking the most extensive manhunt in Minnesota history.   
@@ -55,12 +55,54 @@ On June 14, 2025, Minnesota state representative Melissa Hortman was assassinate
 
 阅读延伸[80209838]: [https://en.wikipedia.org/wiki/2025_shootings_of_Minnesota_legislators](https://en.wikipedia.org/wiki/2025_shootings_of_Minnesota_legislators)   
 
+## 马修·多德   
+Matthew John Dowd is an American political pundit and consultant. He was the chief strategist for the Bush–Cheney 2004 presidential campaign and was a political analyst from ABC News and MSNBC.   
+
+马修·约翰·多德是一位美国政治评论家和顾问。他是2004年布什-切尼总统竞选的首席策略师，也是ABC新闻和MSNBC的政治分析师。   
+
+阅读延伸[10401273]: [https://en.wikipedia.org/wiki/Matthew_Dowd](https://en.wikipedia.org/wiki/Matthew_Dowd)   
+
+## 拉里_埃里森   
+Lawrence Joseph Ellison is an American businessman, who has been the wealthiest person in the world in the world since 2025. He is also an entrepreneur who co-founded software company Oracle Corporation. He was Oracle's chief executive officer from 1977 to 2014 and is now its chief technology officer and executive chairman.   
+
+劳伦斯·约瑟夫·埃里森（Lawrence Joseph Ellison）是一位美国商人，自2025年以来一直是全球最富有的人。他也是一位企业家，共同创立了软件公司Oracle Corporation。他于1977年至2014年担任甲骨文首席执行官，现任首席技术官兼执行董事长。   
+
+阅读延伸[172395]: [https://en.wikipedia.org/wiki/Larry_Ellison](https://en.wikipedia.org/wiki/Larry_Ellison)   
+
+## 彼得_曼德尔森   
+Peter Benjamin Mandelson, Baron Mandelson, is a British politician, lobbyist and diplomat who has served as British Ambassador to the United States since February 2025.   
+
+彼得·本杰明·曼德尔森（Peter Benjamin Mandelson），曼德尔森男爵，英国政治家、说客和外交官，自2025年2月起担任英国驻美国大使。   
+
+阅读延伸[216970]: [https://en.wikipedia.org/wiki/Peter_Mandelson](https://en.wikipedia.org/wiki/Peter_Mandelson)   
+
+## 托马斯_马修_克鲁克斯   
+Thomas Matthew Crooks was an American man who attempted to assassinate then-former U.S. president Donald Trump, who at the time was the presumptive Republican Party nominee for the 2024 presidential election.   
+
+托马斯·马修·克鲁克斯（Thomas Matthew Crooks）是一名美国男子，他试图暗杀时任美国前总统唐纳德·特朗普（Donald Trump），特朗普当时是共和党2024年总统选举的推定提名人。   
+
+阅读延伸[77351350]: [https://en.wikipedia.org/wiki/Thomas_Matthew_Crooks](https://en.wikipedia.org/wiki/Thomas_Matthew_Crooks)   
+
+## 霍斯特_韦塞尔   
+Horst Ludwig Georg Erich Wessel was a member of the Sturmabteilung (SA), the paramilitary wing of the Nazi Party, who became a propaganda symbol in Nazi Germany following his murder in 1930 by two members of the Communist Party of Germany (KPD). After his death, Nazi Propaganda Minister Joseph Goebbels elevated him into a martyr for the Nazi Party.   
+
+霍斯特·路德维希·格奥尔格·埃里希·韦塞尔（Horst Ludwig Georg Erich Wessel）是纳粹党准军事派别Sturmabteilung（SA）的成员，他于1930年被两名德国共产党（KPD）成员谋杀后成为纳粹德国的宣传象征。他去世后，纳粹宣传部长约瑟夫·戈培尔将他提升为纳粹党的烈士。   
+
+阅读延伸[618184]: [https://en.wikipedia.org/wiki/Horst_Wessel](https://en.wikipedia.org/wiki/Horst_Wessel)   
+
 ## 犹他州_山谷_大学   
 Utah Valley University (UVU) is a public university in Orem, Utah, United States. UVU offers master's, bachelor's, associate degrees, and certificates. Previously called Utah Valley State College, the school attained university status in July 2008. With an enrollment of over 46,000 students as of fall 2024, UVU is the largest university by enrollment in Utah and one of the largest in the Rocky Mountain region of the United States.   
 
 犹他谷大学（UVU）是位于美国犹他州奥雷姆的一所公立大学。UVU提供硕士、学士、副学士和证书。该学校以前被称为犹他谷州立学院，于2008年7月获得大学地位。截至2024年秋季，弗吉尼亚大学的招生人数超过46，000人，是犹他州招生人数最多的大学，也是美国落基山地区最大的大学之一。   
 
 阅读延伸[819227]: [https://en.wikipedia.org/wiki/Utah_Valley_University](https://en.wikipedia.org/wiki/Utah_Valley_University)   
+
+## 比尔_蒙哥马利_（活动家）   
+William Thomas Montgomery was an American businessman and conservative activist. He co-founded the conservative political organization Turning Point USA with Charlie Kirk; Montgomery became Kirk's mentor and worked behind the scenes during the organization's early formation. He died of complications from COVID-19 on July 28, 2020.   
+
+威廉·托马斯·蒙哥马利（William Thomas Montgomery）是一位美国商人和保守派活动家。他与查理·柯克共同创立了保守派政治组织“转折点美国”;蒙哥马利成为柯克的导师，并在该组织早期形成期间在幕后工作。彼于二零二零年七月二十八日死于COVID-19并发症。   
+
+阅读延伸[64703242]: [https://en.wikipedia.org/wiki/Bill_Montgomery_(activist)](https://en.wikipedia.org/wiki/Bill_Montgomery_(activist))   
 
 ## 死亡_in_2025   
 The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
@@ -69,20 +111,6 @@ The following notable deaths occurred in 2025. Names are reported under the date
 
 阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
 
-## 2026年_FIFA_World_Cup_资格赛   
-The 2026 FIFA World Cup qualification will decide the 45 teams that will join hosts Canada, Mexico, and the United States at the 2026 FIFA World Cup.   
-
-2026年FIFA世界杯预选赛将决定与东道主加拿大、墨西哥和美国一起参加2026年FIFA世界杯的45支球队。   
-
-阅读延伸[49459509]: [https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_qualification](https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_qualification)   
-
-## 哈珀_学院   
-William Rainey Harper College is a public community college in Palatine, Illinois. It was established by referendum in 1965 and opened in September 1967. It is named for William Rainey Harper, a pioneer in the junior college movement in the United States and the first president of the University of Chicago.   
-
-威廉·雷尼·哈珀学院（William Rainey Harper College）是伊利诺伊州帕拉丁市的一所公立社区学院。它于1965年通过公投成立，并于1967年9月开放。它以美国大专运动先驱、芝加哥大学首任校长威廉·雷尼·哈珀（William Rainey Harper）命名。   
-
-阅读延伸[1286007]: [https://en.wikipedia.org/wiki/Harper_College](https://en.wikipedia.org/wiki/Harper_College)   
-
 ## 查理_辛   
 Carlos Irwin Estévez, known professionally as Charlie Sheen, is an American actor. He is known as a leading man in film and television. Sheen has received numerous accolades including a Golden Globe Award as well as nominations for four Primetime Emmy Awards and three Screen Actors Guild Awards. In 1994, he received a star on the Hollywood Walk of Fame.   
 
@@ -90,26 +118,12 @@ Carlos Irwin Estévez, known professionally as Charlie Sheen, is an American act
 
 阅读延伸[278119]: [https://en.wikipedia.org/wiki/Charlie_Sheen](https://en.wikipedia.org/wiki/Charlie_Sheen)   
 
-## 2026年国际足联世界杯   
-The 2026 FIFA World Cup, marketed as FIFA World Cup 26, will be the 23rd FIFA World Cup, the quadrennial international men's soccer championship contested by the national teams of the member associations of FIFA. The tournament will take place from June 11 to July 19, 2026. It will be jointly hosted by 16 cities in three North American countries; the main host country of matches is the United States, while Canada and Mexico will be the auxiliary hosts. The tournament will be the first to be hosted by three nations.   
+## Polly_Holliday   
+Polly Dean Holliday was an American actress who appeared on stage, television, and in film. She was best known for her portrayal of sassy waitress Florence Jean "Flo" Castleberry on the 1970s sitcom Alice, a role for which she earned two Golden Globe Awards, and would also later reprise for its short-lived spin-off, Flo. Her character's catchphrase of "Kiss my grits!" remains the most memorable line associated with the series Alice. In 1984, Holliday won the Saturn Award for Best Supporting Actress for her role as Mrs. Ruby Deagle in Gremlins.   
 
-2026年FIFA世界杯（简称FIFA World Cup 26）将是第23届FIFA世界杯，是四年一度的国际男子足球锦标赛，由国际足联成员协会国家队角逐。赛事将于2026年6月11日至7月19日举行。它将由北美三个国家的16个城市联合举办;比赛的主要主办国是美国，加拿大和墨西哥为辅助主办国。该赛事将是第一次由三个国家主办的赛事。   
+波莉·迪恩·霍利迪是一位出现在舞台、电视和电影中的美国女演员。她因在20世纪70年代情景喜剧《爱丽丝》中饰演时髦的女服务员弗洛伦斯·吉恩·“弗洛”·卡斯尔伯里而闻名，她凭借这个角色获得了两项金球奖，后来还因其短暂的衍生剧《弗洛》而再次出演。她角色的口号是“亲吻我的粗燕麦粉！”仍然是与《爱丽丝》系列相关的最令人难忘的台词。1984年，霍利迪因在《小鬼当家》中饰演鲁比·迪格尔夫人而获得土星奖最佳女配角奖。   
 
-阅读延伸[36581929]: [https://en.wikipedia.org/wiki/2026_FIFA_World_Cup](https://en.wikipedia.org/wiki/2026_FIFA_World_Cup)   
-
-## 2025_尼泊尔_世代_Z_抗议   
-In September 2025, large-scale demonstrations, commonly referred to as the Gen Z protests took place across Nepal, predominantly organized by Gen Z students and young citizens. The protests began following a nationwide ban on many popular social media platforms, but had their origin in the public's frustration with the perceived corruption of and display of wealth by government officials and their families, as well as allegations of mismanagement of public funds. The movement quickly expanded to encompass broader issues of governance, transparency, and political accountability. The protests quickly escalated with violence against public officials and vandalism of government and political buildings taking place throughout the country.   
-
-2025年9月，尼泊尔各地发生了大规模示威活动，通常称为Z世代抗议活动，主要由Z世代学生和年轻公民组织。抗议活动是在全国范围内禁止许多流行社交媒体平台之后开始的，但其根源是公众对政府官员及其家人腐败和炫耀财富的不满，以及对公共资金管理不善的指控。该运动迅速扩大到治理、透明度和政治问责等更广泛的问题。抗议活动迅速升级，全国各地都发生了针对公职人员的暴力事件以及对政府和政治建筑的破坏事件。   
-
-阅读延伸[81013780]: [https://en.wikipedia.org/wiki/2025_Nepalese_Gen_Z_protests](https://en.wikipedia.org/wiki/2025_Nepalese_Gen_Z_protests)   
-
-## C._ P._ Radhakrishnan   
-Chandrapuram Ponnusamy Radhakrishnan is an Indian politician who has served as the governor of Maharashtra since 31 July 2024. He previously served as the governor of Jharkhand from February 2023 to July 2024.   
-
-Chandrapuram Ponnusamy Radhakrishnan是一位印度政治家，自2024年7月31日起担任马哈拉施特拉邦州长。他此前曾于2023年2月至2024年7月担任贾坎德邦州长。   
-
-阅读延伸[41483851]: [https://en.wikipedia.org/wiki/C._P._Radhakrishnan](https://en.wikipedia.org/wiki/C._P._Radhakrishnan)   
+阅读延伸[1418277]: [https://en.wikipedia.org/wiki/Polly_Holliday](https://en.wikipedia.org/wiki/Polly_Holliday)   
 
 ## 他妈   
 Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
@@ -118,24 +132,10 @@ Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词�
 
 阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
 
-## 梅丽莎_霍特曼   
-Melissa Anne Hortman was an American politician and lawyer who served as the 61st speaker of the Minnesota House of Representatives from 2019 to 2025. A member of the Democratic–Farmer–Labor Party, she represented northern parts of the Twin Cities metropolitan area in the Minnesota House of Representatives from 2005 until her assassination in 2025, serving as the House minority leader from 2017 to 2019 and as speaker from 2019 to January 2025. During her tenure, she advocated for transportation, environmental rights, abortion rights, police reform, and gun control policies. She was also the chief author of the state's solar energy standard.   
+## 在宾夕法尼亚州试图暗杀唐纳德·特朗普   
+On July 13, 2024, Donald Trump, then a former president of the United States and presumptive nominee of the Republican Party in the 2024 presidential election, survived an assassination attempt while speaking at an open-air campaign rally near Butler, Pennsylvania. Trump was shot and wounded in his upper right ear by 20-year-old Thomas Matthew Crooks, who fired eight rounds from an AR-15–style rifle from the roof of a nearby building. Crooks also killed one audience member, firefighter Corey Comperatore, and critically injured two others. Four seconds after Crooks began firing, Aaron Zaliponi, a member of the Butler County Emergency Service Unit, shot at him and hit his rifle, preventing him from firing more shots. Twelve seconds later, Crooks was shot and killed by the Counter Sniper Team of the United States Secret Service.   
 
-梅丽莎·安妮·霍特曼（Melissa Anne Hortman）是一位美国政治家和律师，曾于2019年至2025年担任明尼苏达州众议院第61任议长。作为民主-农民-工党的成员，她从2005年起在明尼苏达州众议院代表双子城大都市区北部地区，直到2025年遇刺，并于2017年至2019年担任众议院少数党领袖，并于2019年至2025年1月担任议长。任职期间，她倡导交通、环境权利、堕胎权、警察改革和枪支管制政策。她也是该州太阳能标准的主要作者。   
+2024年7月13日，时任美国前总统、2024年总统选举共和党推定提名人唐纳德·特朗普在宾夕法尼亚州巴特勒附近的露天竞选集会上发表讲话时，在一次暗杀企图中幸存下来。特朗普的右上耳被20岁的托马斯·马修·克鲁克斯（Thomas Matthew Crooks）开枪打伤，后者从附近建筑物的屋顶用AR-15式步枪开了八枪。克鲁克斯还杀死了一名观众、消防员科里·孔佩拉托，并重伤了另外两人。克鲁克斯开始开枪四秒后，巴特勒县紧急服务部门的成员亚伦·佐洛尼（Aaron Zagrononi）向他开枪并击中了他的步枪，阻止他再开枪。十二秒后，克鲁克斯被美国特勤局反狙击队开枪打死。   
 
-阅读延伸[6892027]: [https://en.wikipedia.org/wiki/Melissa_Hortman](https://en.wikipedia.org/wiki/Melissa_Hortman)   
-
-## 外星人：_地球   
-Alien: Earth is an American science fiction horror television series created by Noah Hawley, based on the Alien franchise. It serves as a prequel set in 2120, two years before the events of the original 1979 film Alien. It stars Sydney Chandler, Alex Lawther, Essie Davis, Samuel Blenkin, Babou Ceesay, Adarsh Gourav, and Timothy Olyphant.   
-
-《异形：地球》是一部美国科幻恐怖电视剧，由诺亚·霍利根据《异形》系列作品创作。它是一部以2120年为背景的前传，比1979年原版电影《异形》的事件早了两年。该剧由西德尼·钱德勒、亚历克斯·劳瑟、埃西·戴维斯、塞缪尔·布伦金、巴布·塞塞、阿达什·古拉夫和蒂莫西·奥利芬特主演。   
-
-阅读延伸[72989974]: [https://en.wikipedia.org/wiki/Alien%3A_Earth](https://en.wikipedia.org/wiki/Alien%3A_Earth)   
-
-## 彼得_曼德尔森   
-Peter Benjamin Mandelson, Baron Mandelson, is a British politician, lobbyist and diplomat who has served as British Ambassador to the United States since February 2025.   
-
-彼得·本杰明·曼德尔森（Peter Benjamin Mandelson），曼德尔森男爵，英国政治家、说客和外交官，自2025年2月起担任英国驻美国大使。   
-
-阅读延伸[216970]: [https://en.wikipedia.org/wiki/Peter_Mandelson](https://en.wikipedia.org/wiki/Peter_Mandelson)   
+阅读延伸[77349783]: [https://en.wikipedia.org/wiki/Attempted_assassination_of_Donald_Trump_in_Pennsylvania](https://en.wikipedia.org/wiki/Attempted_assassination_of_Donald_Trump_in_Pennsylvania)   
 
