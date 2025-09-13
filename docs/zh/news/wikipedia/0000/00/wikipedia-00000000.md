@@ -6,6 +6,13 @@ Charles James Kirk was an American right-wing political activist, author, and me
 
 阅读延伸[53245776]: [https://en.wikipedia.org/wiki/Charlie_Kirk](https://en.wikipedia.org/wiki/Charlie_Kirk)   
 
+## 杀死伊琳娜·扎鲁茨卡   
+The killing of Iryna Zarutska occurred on August 22, 2025, at the East/West Boulevard light rail station on the Lynx Blue Line in Charlotte, North Carolina, United States. Iryna Zarutska, a Ukrainian refugee who had fled her country because of the Russian invasion, was fatally stabbed. Her assailant was arrested upon exiting the train and charged with first-degree murder.   
+
+Iryna Zarutska被杀于2025年8月22日，地点在美国北卡罗来纳州夏洛特市Lynx蓝线东/西大道轻轨站。因俄罗斯入侵而逃离祖国的乌克兰难民伊琳娜·扎鲁茨卡（Iryna Zarutska）被刺死。袭击者在下车后被捕，并被指控犯有一级谋杀罪。   
+
+阅读延伸[80994478]: [https://en.wikipedia.org/wiki/Killing_of_Iryna_Zarutska](https://en.wikipedia.org/wiki/Killing_of_Iryna_Zarutska)   
+
 ## 射杀查理·柯克   
 On September 10, 2025, American conservative political activist Charlie Kirk was fatally shot while onstage at Utah Valley University (UVU) in Orem, Utah. Kirk was speaking at an open-air campus event, the first stop on a campaign planned by Turning Point USA, the conservative organization he co-founded.   
 
@@ -20,12 +27,33 @@ Erika Lane Kirk is an American businesswoman, podcaster, and philanthropist. She
 
 阅读延伸[72822336]: [https://en.wikipedia.org/wiki/Erika_Frantzve](https://en.wikipedia.org/wiki/Erika_Frantzve)   
 
-## 杀死伊琳娜·扎鲁茨卡   
-The killing of Iryna Zarutska occurred on August 22, 2025, at the East/West Boulevard light rail station on the Lynx Blue Line in Charlotte, North Carolina, United States. Iryna Zarutska, a Ukrainian refugee who had fled her country because of the Russian invasion, was fatally stabbed. Her assailant was arrested upon exiting the train and charged with first-degree murder.   
+## 格罗里珀斯   
+The Groypers, sometimes called the Groyper Army, are a group of alt-right, white nationalist, and Christian nationalist activists led by Nick Fuentes. Members of the group have attempted to introduce alt-right politics into mainstream conservatism in the United States and participated in the January 6 United States Capitol attack and the protests leading up to it. They have targeted other conservative groups and individuals whose agendas they view as too moderate and insufficiently nationalist. The Groyper movement has been described as white nationalist, homophobic, nativist, fascist, sexist, antisemitic, and an attempt to rebrand the declining alt-right movement.   
 
-Iryna Zarutska被杀于2025年8月22日，地点在美国北卡罗来纳州夏洛特市Lynx蓝线东/西大道轻轨站。因俄罗斯入侵而逃离祖国的乌克兰难民伊琳娜·扎鲁茨卡（Iryna Zarutska）被刺死。袭击者在下车后被捕，并被指控犯有一级谋杀罪。   
+格罗珀家族，有时被称为格罗珀军，是尼克·富恩特斯领导的另类右翼、白人民族主义者和基督教民族主义活动家团体。该组织成员试图将另类右翼政治引入美国主流保守主义，并参与了1月6日美国国会大厦袭击事件以及导致袭击的抗议活动。他们瞄准了其他保守派团体和个人，他们认为他们的议程过于温和且民族主义不够。格罗珀运动被描述为白人民族主义、恐同、本土主义、法西斯主义、性别歧视、反犹太主义，并试图重塑衰落的另类右翼运动的品牌。   
 
-阅读延伸[80994478]: [https://en.wikipedia.org/wiki/Killing_of_Iryna_Zarutska](https://en.wikipedia.org/wiki/Killing_of_Iryna_Zarutska)   
+阅读延伸[64010295]: [https://en.wikipedia.org/wiki/Groypers](https://en.wikipedia.org/wiki/Groypers)   
+
+## 卡什_帕特尔   
+Kashyap Pramod Vinod "Kash" Patel is an American attorney and former government official. He served as a U.S. National Security Council official, senior advisor to the acting Director of National Intelligence, and chief of staff to the acting United States secretary of defense during the Trump presidency. A member of the Republican Party, Patel previously worked as a senior aide to congressman Devin Nunes when he chaired the House Intelligence Committee. He was previously a federal public defender, a federal prosecutor working on national security cases, and a legal liaison to the United States Armed Forces.   
+
+Kashyap Pramod Vinod“Kash”Patel是一名美国律师和前政府官员。特朗普总统任期内，他曾担任美国国家安全委员会官员、代理国家情报总监的高级顾问和美国代理国防部长的幕僚长。帕特尔是共和党成员，此前曾担任国会议员德文·努涅斯（Devin Nunes）众议院情报委员会主席时的高级助手。他曾担任联邦公设辩护人、负责国家安全案件的联邦检察官，以及美国武装部队的法律联络员。   
+
+阅读延伸[62202727]: [https://en.wikipedia.org/wiki/Kash_Patel](https://en.wikipedia.org/wiki/Kash_Patel)   
+
+## 斯宾塞_考克斯   
+Spencer James Cox is an American lawyer and politician serving since 2021 as the 18th governor of Utah. A member of the Republican Party, he served from 2013 to 2021 as the eighth lieutenant governor of Utah. In Fairview, Utah, where Cox lives and was raised, he was elected to the city council in 2004 and then as mayor in 2005. In 2008, he was elected as a Sanpete County commissioner.   
+
+斯宾塞·詹姆斯·考克斯（Spencer James Cox）是一名美国律师和政治家，自2021年起担任犹他州第18任州长。作为共和党成员，他于2013年至2021年担任犹他州第八任副州长。考克斯在犹他州费尔维尤生活和长大，他于2004年当选为市议会议员，并于2005年当选为市长。2008年，他当选为桑佩特县专员。   
+
+阅读延伸[40785284]: [https://en.wikipedia.org/wiki/Spencer_Cox](https://en.wikipedia.org/wiki/Spencer_Cox)   
+
+## 尼克_富恩特斯   
+Nicholas Joseph Fuentes is an American far-right political pundit and live streamer who promotes white supremacist, misogynistic, and antisemitic views. A former YouTuber, his channel was permanently terminated in February 2020 for violating YouTube's hate speech policy. Fuentes has promoted conspiracy theories against Jewish people, denied the Holocaust, and called for a "holy war" against Jews. He has been described as a neo-Nazi by various sources. Fuentes identifies as a member of the incel movement, a supporter of authoritarianism, and as a Catholic integralist and Christian nationalist.   
+
+尼古拉斯·约瑟夫·富恩特斯（Nicholas Joseph Fuentes）是一位美国极右翼政治评论家和现场主播，宣扬白人至上主义、厌恶女性和反犹太主义观点。他的频道曾是YouTuber，因违反YouTube的仇恨言论政策而于2020年2月被永久终止。富恩特斯宣扬针对犹太人的阴谋论，否认大屠杀，并呼吁对犹太人发动“圣战”。各种消息来源将他描述为新纳粹分子。富恩特斯认为自己是incel运动的成员、威权主义的支持者以及天主教整合主义者和基督教民族主义者。   
+
+阅读延伸[62365610]: [https://en.wikipedia.org/wiki/Nick_Fuentes](https://en.wikipedia.org/wiki/Nick_Fuentes)   
 
 ## 转折点_美国   
 Turning Point USA (TPUSA) is an American nonprofit organization that advocates for conservative politics on high school, college, and university campuses. It was founded in 2012 by Charlie Kirk and Bill Montgomery. TPUSA's affiliate groups include Turning Point Endowment, Turning Point Action and TPUSA Faith. TPUSA has been described as the fastest growing organization of campus chapters in America, and according to The Chronicle of Higher Education it is the dominant force in campus conservatism.   
@@ -41,6 +69,20 @@ Melissa Anne Hortman was an American politician and lawyer who served as the 61s
 
 阅读延伸[6892027]: [https://en.wikipedia.org/wiki/Melissa_Hortman](https://en.wikipedia.org/wiki/Melissa_Hortman)   
 
+## 查理_辛   
+Carlos Irwin Estévez, known professionally as Charlie Sheen, is an American actor. He is known as a leading man in film and television. Sheen has received numerous accolades including a Golden Globe Award as well as nominations for four Primetime Emmy Awards and three Screen Actors Guild Awards. In 1994, he received a star on the Hollywood Walk of Fame.   
+
+卡洛斯·欧文·埃斯特维斯（Carlos Irwin Estévez），专业名称查理·辛（Charlie Sheen），是一位美国演员。他被誉为影视界的领军人物。辛获得了众多荣誉，包括金球奖以及四项黄金时段艾美奖和三项美国演员工会奖的提名。1994年，他在好莱坞星光大道上获得了一颗星。   
+
+阅读延伸[278119]: [https://en.wikipedia.org/wiki/Charlie_Sheen](https://en.wikipedia.org/wiki/Charlie_Sheen)   
+
+## 托马斯_马修_克鲁克斯   
+Thomas Matthew Crooks was an American man who attempted to assassinate then-former U.S. president Donald Trump, who at the time was the presumptive Republican Party nominee for the 2024 presidential election.   
+
+托马斯·马修·克鲁克斯（Thomas Matthew Crooks）是一名美国男子，他试图暗杀时任美国前总统唐纳德·特朗普（Donald Trump），特朗普当时是共和党2024年总统选举的推定提名人。   
+
+阅读延伸[77351350]: [https://en.wikipedia.org/wiki/Thomas_Matthew_Crooks](https://en.wikipedia.org/wiki/Thomas_Matthew_Crooks)   
+
 ## 9月11日_袭击   
 The September 11 attacks, commonly known as 9/11, were four coordinated Islamist terrorist suicide attacks carried out by al-Qaeda against the United States in 2001. On that morning, 19 terrorists hijacked four commercial airliners scheduled to travel from the East Coast to California. The hijackers crashed the first two planes into the Twin Towers of the World Trade Center in New York City and aimed the next two flights toward targets in or near Washington, D.C., in an attack on the nation's capital. The third team succeeded in striking the Pentagon, the headquarters of the U.S. Department of Defense in Arlington County, Virginia, while the fourth plane crashed in rural Pennsylvania during a passenger revolt. The September 11 attacks killed 2,977 people, making it the deadliest terrorist attack in history. In response to the attacks, the United States waged the multi-decade global war on terror to eliminate hostile groups deemed terrorist organizations, as well as the foreign governments purported to support them, in Afghanistan, Iraq, Syria, and several other countries.   
 
@@ -55,55 +97,6 @@ On June 14, 2025, Minnesota state representative Melissa Hortman was assassinate
 
 阅读延伸[80209838]: [https://en.wikipedia.org/wiki/2025_shootings_of_Minnesota_legislators](https://en.wikipedia.org/wiki/2025_shootings_of_Minnesota_legislators)   
 
-## 马修·多德   
-Matthew John Dowd is an American political pundit and consultant. He was the chief strategist for the Bush–Cheney 2004 presidential campaign and was a political analyst from ABC News and MSNBC.   
-
-马修·约翰·多德是一位美国政治评论家和顾问。他是2004年布什-切尼总统竞选的首席策略师，也是ABC新闻和MSNBC的政治分析师。   
-
-阅读延伸[10401273]: [https://en.wikipedia.org/wiki/Matthew_Dowd](https://en.wikipedia.org/wiki/Matthew_Dowd)   
-
-## 拉里_埃里森   
-Lawrence Joseph Ellison is an American businessman, who has been the wealthiest person in the world in the world since 2025. He is also an entrepreneur who co-founded software company Oracle Corporation. He was Oracle's chief executive officer from 1977 to 2014 and is now its chief technology officer and executive chairman.   
-
-劳伦斯·约瑟夫·埃里森（Lawrence Joseph Ellison）是一位美国商人，自2025年以来一直是全球最富有的人。他也是一位企业家，共同创立了软件公司Oracle Corporation。他于1977年至2014年担任甲骨文首席执行官，现任首席技术官兼执行董事长。   
-
-阅读延伸[172395]: [https://en.wikipedia.org/wiki/Larry_Ellison](https://en.wikipedia.org/wiki/Larry_Ellison)   
-
-## 彼得_曼德尔森   
-Peter Benjamin Mandelson, Baron Mandelson, is a British politician, lobbyist and diplomat who has served as British Ambassador to the United States since February 2025.   
-
-彼得·本杰明·曼德尔森（Peter Benjamin Mandelson），曼德尔森男爵，英国政治家、说客和外交官，自2025年2月起担任英国驻美国大使。   
-
-阅读延伸[216970]: [https://en.wikipedia.org/wiki/Peter_Mandelson](https://en.wikipedia.org/wiki/Peter_Mandelson)   
-
-## 托马斯_马修_克鲁克斯   
-Thomas Matthew Crooks was an American man who attempted to assassinate then-former U.S. president Donald Trump, who at the time was the presumptive Republican Party nominee for the 2024 presidential election.   
-
-托马斯·马修·克鲁克斯（Thomas Matthew Crooks）是一名美国男子，他试图暗杀时任美国前总统唐纳德·特朗普（Donald Trump），特朗普当时是共和党2024年总统选举的推定提名人。   
-
-阅读延伸[77351350]: [https://en.wikipedia.org/wiki/Thomas_Matthew_Crooks](https://en.wikipedia.org/wiki/Thomas_Matthew_Crooks)   
-
-## 霍斯特_韦塞尔   
-Horst Ludwig Georg Erich Wessel was a member of the Sturmabteilung (SA), the paramilitary wing of the Nazi Party, who became a propaganda symbol in Nazi Germany following his murder in 1930 by two members of the Communist Party of Germany (KPD). After his death, Nazi Propaganda Minister Joseph Goebbels elevated him into a martyr for the Nazi Party.   
-
-霍斯特·路德维希·格奥尔格·埃里希·韦塞尔（Horst Ludwig Georg Erich Wessel）是纳粹党准军事派别Sturmabteilung（SA）的成员，他于1930年被两名德国共产党（KPD）成员谋杀后成为纳粹德国的宣传象征。他去世后，纳粹宣传部长约瑟夫·戈培尔将他提升为纳粹党的烈士。   
-
-阅读延伸[618184]: [https://en.wikipedia.org/wiki/Horst_Wessel](https://en.wikipedia.org/wiki/Horst_Wessel)   
-
-## 犹他州_山谷_大学   
-Utah Valley University (UVU) is a public university in Orem, Utah, United States. UVU offers master's, bachelor's, associate degrees, and certificates. Previously called Utah Valley State College, the school attained university status in July 2008. With an enrollment of over 46,000 students as of fall 2024, UVU is the largest university by enrollment in Utah and one of the largest in the Rocky Mountain region of the United States.   
-
-犹他谷大学（UVU）是位于美国犹他州奥雷姆的一所公立大学。UVU提供硕士、学士、副学士和证书。该学校以前被称为犹他谷州立学院，于2008年7月获得大学地位。截至2024年秋季，弗吉尼亚大学的招生人数超过46，000人，是犹他州招生人数最多的大学，也是美国落基山地区最大的大学之一。   
-
-阅读延伸[819227]: [https://en.wikipedia.org/wiki/Utah_Valley_University](https://en.wikipedia.org/wiki/Utah_Valley_University)   
-
-## 比尔_蒙哥马利_（活动家）   
-William Thomas Montgomery was an American businessman and conservative activist. He co-founded the conservative political organization Turning Point USA with Charlie Kirk; Montgomery became Kirk's mentor and worked behind the scenes during the organization's early formation. He died of complications from COVID-19 on July 28, 2020.   
-
-威廉·托马斯·蒙哥马利（William Thomas Montgomery）是一位美国商人和保守派活动家。他与查理·柯克共同创立了保守派政治组织“转折点美国”;蒙哥马利成为柯克的导师，并在该组织早期形成期间在幕后工作。彼于二零二零年七月二十八日死于COVID-19并发症。   
-
-阅读延伸[64703242]: [https://en.wikipedia.org/wiki/Bill_Montgomery_(activist)](https://en.wikipedia.org/wiki/Bill_Montgomery_(activist))   
-
 ## 死亡_in_2025   
 The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
 
@@ -111,19 +104,29 @@ The following notable deaths occurred in 2025. Names are reported under the date
 
 阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
 
-## 查理_辛   
-Carlos Irwin Estévez, known professionally as Charlie Sheen, is an American actor. He is known as a leading man in film and television. Sheen has received numerous accolades including a Golden Globe Award as well as nominations for four Primetime Emmy Awards and three Screen Actors Guild Awards. In 1994, he received a star on the Hollywood Walk of Fame.   
+## 苏希拉_Karki   
+Sushila Karki is a Nepalese jurist and politician who is serving as the interim prime minister of Nepal since 12 September 2025, following the Gen Z protests in the country. The first woman to head the Government of Nepal, she previously served as the Chief Justice of the Supreme Court of Nepal from 11 July 2016 to 6 June 2017, and was also the first woman in that role.   
 
-卡洛斯·欧文·埃斯特维斯（Carlos Irwin Estévez），专业名称查理·辛（Charlie Sheen），是一位美国演员。他被誉为影视界的领军人物。辛获得了众多荣誉，包括金球奖以及四项黄金时段艾美奖和三项美国演员工会奖的提名。1994年，他在好莱坞星光大道上获得了一颗星。   
+苏希拉·卡尔基（Sushila Karki）是一位尼泊尔法学家和政治家，在该国发生Z世代抗议活动后，自2025年9月12日起担任尼泊尔临时总理。作为尼泊尔政府首位女性领导人，她曾于2016年7月11日至2017年6月6日担任尼泊尔最高法院首席大法官，也是首位担任该职位的女性。   
 
-阅读延伸[278119]: [https://en.wikipedia.org/wiki/Charlie_Sheen](https://en.wikipedia.org/wiki/Charlie_Sheen)   
+阅读延伸[50200885]: [https://en.wikipedia.org/wiki/Sushila_Karki](https://en.wikipedia.org/wiki/Sushila_Karki)   
 
-## Polly_Holliday   
-Polly Dean Holliday was an American actress who appeared on stage, television, and in film. She was best known for her portrayal of sassy waitress Florence Jean "Flo" Castleberry on the 1970s sitcom Alice, a role for which she earned two Golden Globe Awards, and would also later reprise for its short-lived spin-off, Flo. Her character's catchphrase of "Kiss my grits!" remains the most memorable line associated with the series Alice. In 1984, Holliday won the Saturn Award for Best Supporting Actress for her role as Mrs. Ruby Deagle in Gremlins.   
+## 泰勒_罗宾逊   
+Tyler Robinson may refer to:Tyler Robinson, co-founder of The Tyler Robinson Foundation
+Tyler Robinson (singer), contestant on The Voice 
+Tyler Robinson, member of the 2011 Kentucky Wildcats football team
+Tyler Robinson, participated in the 1986 CFL Draft
+Tyler Robinson, won the ADG Excellence in Production Design Award for the Portlandia episode Missionaries
+   
 
-波莉·迪恩·霍利迪是一位出现在舞台、电视和电影中的美国女演员。她因在20世纪70年代情景喜剧《爱丽丝》中饰演时髦的女服务员弗洛伦斯·吉恩·“弗洛”·卡斯尔伯里而闻名，她凭借这个角色获得了两项金球奖，后来还因其短暂的衍生剧《弗洛》而再次出演。她角色的口号是“亲吻我的粗燕麦粉！”仍然是与《爱丽丝》系列相关的最令人难忘的台词。1984年，霍利迪因在《小鬼当家》中饰演鲁比·迪格尔夫人而获得土星奖最佳女配角奖。   
+泰勒·罗宾逊可能指：泰勒·罗宾逊，泰勒·罗宾逊基金会联合创始人
+泰勒·罗宾逊（歌手），《好声音》参赛者 
+泰勒·罗宾逊（Tyler Robinson），2011年肯塔基野猫队成员
+泰勒·罗宾逊（Tyler Robinson），参加了1986年NFL选秀
+泰勒·罗宾逊（Tyler Robinson）凭借《波特兰迪亚》剧集《传教士》荣获ADG优秀制作设计奖
+   
 
-阅读延伸[1418277]: [https://en.wikipedia.org/wiki/Polly_Holliday](https://en.wikipedia.org/wiki/Polly_Holliday)   
+阅读延伸[42017396]: [https://en.wikipedia.org/wiki/Tyler_Robinson](https://en.wikipedia.org/wiki/Tyler_Robinson)   
 
 ## 他妈   
 Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
@@ -132,10 +135,17 @@ Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词�
 
 阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
 
-## 在宾夕法尼亚州试图暗杀唐纳德·特朗普   
-On July 13, 2024, Donald Trump, then a former president of the United States and presumptive nominee of the Republican Party in the 2024 presidential election, survived an assassination attempt while speaking at an open-air campaign rally near Butler, Pennsylvania. Trump was shot and wounded in his upper right ear by 20-year-old Thomas Matthew Crooks, who fired eight rounds from an AR-15–style rifle from the roof of a nearby building. Crooks also killed one audience member, firefighter Corey Comperatore, and critically injured two others. Four seconds after Crooks began firing, Aaron Zaliponi, a member of the Butler County Emergency Service Unit, shot at him and hit his rifle, preventing him from firing more shots. Twelve seconds later, Crooks was shot and killed by the Counter Sniper Team of the United States Secret Service.   
+## The_Long_Walk_（2025_电影）   
+The Long Walk is a 2025 American dystopian survival thriller film co-produced and directed by Francis Lawrence from a screenplay by JT Mollner. It is based on the 1979 novel of the same name by Stephen King. The film stars Cooper Hoffman, David Jonsson, Garrett Wareing, Tut Nyuot, Charlie Plummer, Ben Wang, Roman Griffin Davis, Jordan Gonzalez, Josh Hamilton, Judy Greer, and Mark Hamill.   
 
-2024年7月13日，时任美国前总统、2024年总统选举共和党推定提名人唐纳德·特朗普在宾夕法尼亚州巴特勒附近的露天竞选集会上发表讲话时，在一次暗杀企图中幸存下来。特朗普的右上耳被20岁的托马斯·马修·克鲁克斯（Thomas Matthew Crooks）开枪打伤，后者从附近建筑物的屋顶用AR-15式步枪开了八枪。克鲁克斯还杀死了一名观众、消防员科里·孔佩拉托，并重伤了另外两人。克鲁克斯开始开枪四秒后，巴特勒县紧急服务部门的成员亚伦·佐洛尼（Aaron Zagrononi）向他开枪并击中了他的步枪，阻止他再开枪。十二秒后，克鲁克斯被美国特勤局反狙击队开枪打死。   
+《漫漫长路》是一部2025年美国反乌托邦生存惊悚电影，由弗朗西斯·劳伦斯联合制作和导演，改编自JT Mollner的剧本。它改编自斯蒂芬·金1979年的同名小说。这部电影由库珀·霍夫曼、大卫·琼森、加勒特·瓦林、图特·纽奥特、查理·普卢默、本·王、罗曼·格里芬·戴维斯、乔丹·冈萨雷斯、乔什·汉密尔顿、朱迪·格里尔和马克·哈米尔主演。   
 
-阅读延伸[77349783]: [https://en.wikipedia.org/wiki/Attempted_assassination_of_Donald_Trump_in_Pennsylvania](https://en.wikipedia.org/wiki/Attempted_assassination_of_Donald_Trump_in_Pennsylvania)   
+阅读延伸[77134430]: [https://en.wikipedia.org/wiki/The_Long_Walk_(2025_film)](https://en.wikipedia.org/wiki/The_Long_Walk_(2025_film))   
+
+## 2025_尼泊尔_世代_Z_抗议   
+In September 2025, large-scale demonstrations, commonly referred to as the Gen Z protests took place across Nepal, predominantly organized by Gen Z students and young citizens. The protests began following a nationwide ban on many popular social media platforms, but had their origin in the public's frustration with the perceived corruption of and display of wealth by government officials and their families, as well as allegations of mismanagement of public funds. The movement quickly expanded to encompass broader issues of governance, transparency, and political accountability. The protests quickly escalated with violence against public officials and vandalism of government and political buildings taking place throughout the country.   
+
+2025年9月，尼泊尔各地发生了大规模示威活动，通常称为Z世代抗议活动，主要由Z世代学生和年轻公民组织。抗议活动是在全国范围内禁止许多流行社交媒体平台之后开始的，但其根源是公众对政府官员及其家人腐败和炫耀财富的不满，以及对公共资金管理不善的指控。该运动迅速扩大到治理、透明度和政治问责等更广泛的问题。抗议活动迅速升级，全国各地都发生了针对公职人员的暴力事件以及对政府和政治建筑的破坏事件。   
+
+阅读延伸[81013780]: [https://en.wikipedia.org/wiki/2025_Nepalese_Gen_Z_protests](https://en.wikipedia.org/wiki/2025_Nepalese_Gen_Z_protests)   
 
