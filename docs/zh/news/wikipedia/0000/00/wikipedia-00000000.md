@@ -13,47 +13,12 @@ Charles James Kirk was an American right-wing political activist, author, and me
 
 阅读延伸[53245776]: [https://en.wikipedia.org/wiki/Charlie_Kirk](https://en.wikipedia.org/wiki/Charlie_Kirk)   
 
-## 克劳迪娅_红雀   
-Claude Joséphine Rose "Claudia" Cardinale was an Italian actress.   
+## 一场接一场的战斗   
+One Battle After Another is a 2025 American epic action thriller film written, produced, and directed by Paul Thomas Anderson. It is inspired by the 1990 novel Vineland by Thomas Pynchon. The film stars Leonardo DiCaprio, Sean Penn, Benicio del Toro, Regina Hall, Teyana Taylor, and Chase Infiniti, and follows an ex-revolutionary (DiCaprio) who must rescue his daughter (Infiniti) from a corrupt military official (Penn).   
 
-克劳德·约瑟芬·罗斯·“克劳迪娅”·卡迪纳尔是一位意大利女演员。   
+一场又一场的战斗是一部2025年美国史诗动作惊悚电影，由保罗·托马斯·安德森编剧、制作和导演。它的灵感来自托马斯·品钦（Thomas Pynchon）1990年的小说《葡萄园》。这部电影由莱昂纳多·迪卡普里奥、肖恩·潘、贝尼西奥·德尔·托罗、雷吉娜·霍尔、泰亚娜·泰勒和蔡斯·英菲尼迪主演，讲述了一位前革命家（迪卡普里奥饰）必须从腐败的军官（潘饰）手中救出女儿（英菲尼迪饰）的故事。   
 
-阅读延伸[235307]: [https://en.wikipedia.org/wiki/Claudia_Cardinale](https://en.wikipedia.org/wiki/Claudia_Cardinale)   
-
-## 埃里卡_弗朗茨维   
-Erika Lane Kirk is an American businesswoman, podcaster, and philanthropist. She is known for winning Miss Arizona USA in 2012. She founded Everyday Heroes Like You, a nonprofit supporting under-recognized charities, and hosts the Midweek Rise Up podcast.   
-
-埃里卡·莱恩·柯克（Erika Lane Kirk）是一位美国女商人、播客和慈善家。她因赢得2012年美国亚利桑那小姐而闻名。她创立了Everyday Heroes Like You，这是一家支持未被认可的慈善机构的非营利组织，并主持了Midweek Rise Up播客。   
-
-阅读延伸[72822336]: [https://en.wikipedia.org/wiki/Erika_Frantzve](https://en.wikipedia.org/wiki/Erika_Frantzve)   
-
-## 吉米_基梅尔   
-James Christian Kimmel is an American television host and comedian. He is best known as the host and executive producer of Jimmy Kimmel Live!. Kimmel has hosted the Primetime Emmy Awards three times, in 2012, 2016 and 2020, and the Academy Awards four times, in 2017, 2018, 2023, and 2024.   
-
-James Christian Kimmel是一位美国电视主持人和喜剧演员。他是最有名的主持人和执行制片人吉米Kimmel现场！Kimmel曾于2012年、2016年和2020年三次主持黄金时段艾美奖，并于2017年、2018年、2023年和2024年四次主持奥斯卡奖。   
-
-阅读延伸[385290]: [https://en.wikipedia.org/wiki/Jimmy_Kimmel](https://en.wikipedia.org/wiki/Jimmy_Kimmel)   
-
-## 外星人：_地球   
-Alien: Earth is an American science fiction horror television series created by Noah Hawley, based on the Alien franchise. It serves as a prequel set in 2120, two years before the events of the original 1979 film Alien. It stars Sydney Chandler, Alex Lawther, Essie Davis, Samuel Blenkin, Babou Ceesay, Adarsh Gourav, and Timothy Olyphant.   
-
-《异形：地球》是一部美国科幻恐怖电视剧，由诺亚·霍利根据《异形》系列作品创作。它是一部以2120年为背景的前传，比1979年原版电影《异形》的事件早了两年。该剧由西德尼·钱德勒、亚历克斯·劳瑟、埃西·戴维斯、塞缪尔·布伦金、巴布·塞塞、阿达什·古拉夫和蒂莫西·奥利芬特主演。   
-
-阅读延伸[72989974]: [https://en.wikipedia.org/wiki/Alien%3A_Earth](https://en.wikipedia.org/wiki/Alien%3A_Earth)   
-
-## 詹姆斯_范_德_贝克   
-James David Van Der Beek is an American actor. Known for his portrayal of Dawson Leery on The WB's Dawson's Creek (1998–2003), he also played a fictionalized version of himself on the cult ABC sitcom Don't Trust the B---- in Apartment 23 (2012–2013), starred on CSI: Cyber as FBI Agent Elijah Mundo (2015–2016), and appeared as Matt Bromley on the first season of the FX drama Pose (2018).   
-
-詹姆斯·大卫·范德贝克是一位美国演员。因在WB的《道森溪》中饰演道森·利里而闻名（1998-2003年），他还在ABC热门情景喜剧《23号公寓》中扮演了虚构版本的自己（2012-2013），主演《犯罪现场调查》：Cyber饰演FBI特工Elijah Mundo（2015-2016），并在FX电视剧《Pose》（2018）第一季中饰演Matt Bromley。   
-
-阅读延伸[600595]: [https://en.wikipedia.org/wiki/James_Van_Der_Beek](https://en.wikipedia.org/wiki/James_Van_Der_Beek)   
-
-## Zubeen_Garg   
-Zubeen Garg (born Zubeen Borthakur was an Indian musician who primarily worked and sang in the Assamese, Bengali, and Hindi-language film and music industries. He had also sung in 40 other languages and dialects, including Bishnupriya Manipuri, Adi, Boro, English, Goalpariya, Kannada, Karbi, Malayalam, Marathi, Mising, Nepali, Odia, Sanskrit, Sindhi, Tamil, Telugu, and Tiwa.   
-
-Zubeen Garg（原名Zubeen Borthakur）是一位印度音乐家，主要在阿萨姆语、孟加拉语和印度语电影和音乐行业工作和演唱。他还用其他40种语言和方言演唱，包括Bishnupriya Manipuri、Adi、Boro、英语、Goalpariya、Kannada、Karbi、Malayalam、Marathi、Mising、尼泊尔语、Odia、梵文、Sindhi、泰米尔语、泰卢固语和Tiwa。   
-
-阅读延伸[5528352]: [https://en.wikipedia.org/wiki/Zubeen_Garg](https://en.wikipedia.org/wiki/Zubeen_Garg)   
+阅读延伸[73258137]: [https://en.wikipedia.org/wiki/One_Battle_After_Another](https://en.wikipedia.org/wiki/One_Battle_After_Another)   
 
 ## 死亡_in_2025   
 The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
@@ -69,19 +34,26 @@ Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词�
 
 阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
 
-## 与星共舞_（美国电视剧）_第34季   
-The thirty-fourth season of Dancing with the Stars premiered on ABC and Disney+ on September 16, 2025. This season, marking the twentieth anniversary of the series, is the third to air live on both networks simultaneously, and was the first of ABC's unscripted programs to earn an official renewal for their 2025–26 schedule. Alfonso Ribeiro returns to host the season, while former professional dancer and judge Julianne Hough returns as co-host.   
+## 他们_称_他_OG   
+They Call Him OG is a 2025 Indian Telugu-language action crime film, written and directed by Sujeeth, and produced by D. V. V. Danayya. The film stars Pawan Kalyan as the retired gangster OG, who returns to Bombay in 1993 after a ten year disappearance to confront the rival crime-lord Omi Bhau, played by Emraan Hashmi. The supporting cast includes Priyanka Mohan, Arjun Das, Sriya Reddy and Prakash Raj.   
 
-《与星共舞》第三十四季于2025年9月16日在ABC和Disney+首播。本季是该系列播出二十周年，是第三部在两个电视台同时直播的剧集，也是ABC第一部获得2025-26年节目表正式续订的无剧本节目。阿方索·里贝罗（Alfonso Ribeiro）回归主持本季，而前职业舞者兼评委朱丽安·霍夫（Julianne Hough）回归担任联合主持人。   
+他们叫他OG是一部2025年印度泰卢固语动作犯罪电影，由Sujeeth编剧和导演，D. V. V. Danayya。这部电影由帕万·卡利安（Pawan Kalyan）主演，饰演退休黑帮OG，他在失踪十年后于1993年返回孟买，与埃姆兰·哈希米（Emraan Hashmi）饰演的竞争对手犯罪头目奥米·巴乌（Omi Bhau）对峙。配角包括Priyanka Mohan、Arjun Das、Samar Reddy和Prakash Raj。   
 
-阅读延伸[79782170]: [https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_34](https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_34)   
+阅读延伸[74208606]: [https://en.wikipedia.org/wiki/They_Call_Him_OG](https://en.wikipedia.org/wiki/They_Call_Him_OG)   
 
-## 杀死阿吉克·欧文斯   
-On June 2, 2023, in Ocala, Florida, 35-year-old Ajike "AJ" Shantrell Owens was shot and killed by her neighbor, 58-year-old Susan Lorincz. Owens was knocking on Lorincz's door after altercations occurred between Owens' children and Lorincz in a field nearby. Lorincz shot Owens through the door. Police were already responding to "a trespassing call" when they received another 911 call about a shooting at the same address. They found Owens injured and took her to the hospital where she was pronounced dead.   
+## 蛇眼_（1998年_电影）   
+Snake Eyes is a 1998 American mystery thriller film directed and produced by Brian De Palma. The film stars Nicolas Cage as a detective investigating a political assassination at a boxing match in Atlantic City, with supporting roles played by Gary Sinise, Carla Gugino, John Heard, Stan Shaw, Kevin Dunn, Joel Fabiani and Luis Guzmán. De Palma also devised the story with David Koepp, who was the sole writer of the screenplay. The musical score was composed by Ryuichi Sakamoto.   
 
-2023年6月2日，在佛罗里达州奥卡拉，35岁的阿吉克·“AJ”·尚特雷尔·欧文斯被她的邻居、58岁的苏珊·洛林茨开枪打死。欧文斯的孩子们和洛林茨在附近的一块地里发生争吵后，欧文斯敲了洛林茨的门。Lorincz隔着门向Owens开枪。当警方接到另一个911报警电话时，他们已经对“非法侵入电话”做出了回应。他们发现欧文斯受伤，并将她送往医院，并宣布她死亡。   
+《蛇眼》（英语：Snake Eyes）是一部1998年的美国惊悚片，由布莱恩·德·帕尔马执导和制作。电影由尼古拉斯·凯奇主演，他是一名侦探，负责调查大西洋城一场拳击比赛中的政治暗杀事件，配角有加里·辛尼斯、卡拉·古奇诺、约翰·赫德、斯坦·肖、凯文·邓恩、乔尔·法比亚尼和路易斯·古兹曼。德帕尔马还与大卫·科普一起设计了这个故事，他是电影剧本的唯一作者。音乐由Ryuichi Sakamoto组成。   
 
-阅读延伸[73979949]: [https://en.wikipedia.org/wiki/Killing_of_Ajike_Owens](https://en.wikipedia.org/wiki/Killing_of_Ajike_Owens)   
+阅读延伸[1556078]: [https://en.wikipedia.org/wiki/Snake_Eyes_(1998_film)](https://en.wikipedia.org/wiki/Snake_Eyes_(1998_film))   
+
+## 埃里卡_弗朗茨维   
+Erika Lane Kirk is an American businesswoman, podcaster, and philanthropist. She is known for winning Miss Arizona USA in 2012. She founded Everyday Heroes Like You, a nonprofit supporting under-recognized charities, and hosts the Midweek Rise Up podcast.   
+
+埃里卡·莱恩·柯克（Erika Lane Kirk）是一位美国女商人、播客和慈善家。她因赢得2012年美国亚利桑那小姐而闻名。她创立了Everyday Heroes Like You，这是一家支持未被认可的慈善机构的非营利组织，并主持了Midweek Rise Up播客。   
+
+阅读延伸[72822336]: [https://en.wikipedia.org/wiki/Erika_Frantzve](https://en.wikipedia.org/wiki/Erika_Frantzve)   
 
 ## 漫威_僵尸_（迷你剧）   
 Marvel Zombies is a 2025 adult animated television miniseries created by Bryan Andrews and Zeb Wells for the streaming service Disney+, based on the Marvel Comics series of the same name. It is intended to be the 16th television series in the Marvel Cinematic Universe (MCU) from Marvel Studios and is produced by Marvel Studios Animation. The series is set in the alternate timeline introduced in the "What If... Zombies?!" (2021) episode of the animated series What If...? (2021–2024). Continuing from that episode, Marvel Zombies follows a group of survivors as they risk their lives fighting superpowered zombies to save the world. Andrews served as showrunner and director, with Wells as head writer.   
@@ -90,6 +62,27 @@ Marvel Zombies is a 2025 adult animated television miniseries created by Bryan A
 
 阅读延伸[69254571]: [https://en.wikipedia.org/wiki/Marvel_Zombies_(miniseries)](https://en.wikipedia.org/wiki/Marvel_Zombies_(miniseries))   
 
+## 蕾哈娜   
+Robyn Rihanna Fenty is a Barbadian singer, businesswoman, and actress. Known for her musical versatility and artistic reinventions, she is an influential figure in both music and fashion. Rihanna is one of the best-selling music artists of all time, with estimated sales of over 250 million records.   
+
+罗宾·蕾哈娜·芬蒂（Robyn Rihanna Fenty）是巴巴多斯歌手、女商人和女演员。她以其音乐多才多艺和艺术重塑而闻名，是音乐和时尚界的一位有影响力的人物。蕾哈娜是有史以来最畅销的音乐艺术家之一，估计销量超过2.5亿张唱片。   
+
+阅读延伸[2110323]: [https://en.wikipedia.org/wiki/Rihanna](https://en.wikipedia.org/wiki/Rihanna)   
+
+## 骑自行车和女权主义   
+The bicycle had a significant impact on the lives of women in a variety of areas. The greatest impact the bicycle had on the societal role of women occurred in the 1890s during the bicycle craze that swept American and European society. During this time, the primary achievement the bicycle gained for the women's movement was that it gave women a greater amount of social mobility. The feminist Annie Londonderry accomplished her around-the-globe bicycle trip as the first woman in this time. Due to the price and the various payment plans offered by American bicycle companies, the bicycle was affordable to the majority of people. However, the bicycle impacted upper and middle class white women the most. This transformed their role in society from remaining in the private or domestic sphere as caregivers, wives, and mothers to one of greater public appearance and involvement in the community. In the 21st century bicycling remains a contentious issue addressed by feminists in countries such as Saudi Arabia and Iran.   
+
+自行车对各个领域女性的生活产生了重大影响。自行车对女性社会角色产生的最大影响发生在1890年代席卷美国和欧洲社会的自行车热潮期间。在此期间，自行车为妇女运动获得的主要成就是它为妇女提供了更大的社会流动性。女权主义者安妮·伦敦德里（Annie London Derry）作为这一时期的第一位女性完成了她的环球自行车旅行。由于美国自行车公司提供的价格和各种付款计划，大多数人都能负担得起自行车。然而，自行车对上层和中产阶级白人女性的影响最大。这改变了她们在社会中的角色，从作为照顾者、妻子和母亲的私人或家庭角色转变为更多地公开露面和参与社区的角色。在21世纪，骑自行车仍然是沙特阿拉伯和伊朗等国女权主义者提出的一个有争议的问题。   
+
+阅读延伸[42767013]: [https://en.wikipedia.org/wiki/Bicycling_and_feminism](https://en.wikipedia.org/wiki/Bicycling_and_feminism)   
+
+## 吉尼斯之家   
+House of Guinness is an historical drama television series about the Guinness family created by Steven Knight. It premiered on 25 September 2025 on Netflix.   
+
+《吉尼斯之家》是史蒂文·奈特创作的一部关于吉尼斯家族的历史电视剧。该剧于2025年9月25日在Netflix首播。   
+
+阅读延伸[76361782]: [https://en.wikipedia.org/wiki/House_of_Guinness](https://en.wikipedia.org/wiki/House_of_Guinness)   
+
 ## 宝莱坞的_BA**ds_   
 The Ba***ds of Bollywood is an Indian Hindi-language satirical comedy drama streaming television series created by debut writer and director Aryan Khan for Netflix which was released on 18 September 2025. Gauri Khan serves as the producer under Red Chillies Entertainment. The series features Lakshya Lalwani, Sahher Bambba, Bobby Deol, Raghav Juyal, Anya Singh, Mona Singh, Gautami Kapoor, Manoj Pahwa, Rajat Bedi, Manish Chaudhari, Arshad Warsi, Vijayant Kohli, Nishant Kkhanduja and Rohit Gill.   
 
@@ -97,33 +90,33 @@ The Ba***ds of Bollywood is an Indian Hindi-language satirical comedy drama stre
 
 阅读延伸[79120851]: [https://en.wikipedia.org/wiki/The_Ba***ds_of_Bollywood](https://en.wikipedia.org/wiki/The_Ba***ds_of_Bollywood)   
 
-## 科里_费尔德曼   
-Corey Scott Feldman is an American actor and musician. As a youth, he became well known for his roles in popular 1980s films such as Friday the 13th: The Final Chapter (1984), Gremlins (1984), The Goonies (1985) and Stand by Me (1986). Feldman collaborated with Corey Haim starring in numerous films such as the comedy horror The Lost Boys (1987), the teen comedy License to Drive (1988) and the romantic comedy Dream a Little Dream (1989). They reunited for the A&E reality series The Two Coreys, which ran from 2007 to 2008.   
+## 尼古拉_萨科齐   
+Nicolas Paul Stéphane Sarközy de Nagy-Bocsa is a French politician and convicted criminal who served as President of France from 2007 to 2012. In 2021, he was found guilty of having tried to bribe a judge in 2014 to obtain information and spending beyond legal campaign funding limits during his 2012 reelection campaign. In September 2025 he was found guilty of "criminal conspiracy" over a pact with the Gaddafi regime, in Libya.   
 
-科里·斯科特·费尔德曼是一位美国演员和音乐家。年轻时，他因在20世纪80年代热门电影中扮演的角色而闻名，例如《十三号星期五：最后一章》（1984）、《小鬼》（1984）、《七宝奇谋》（1985）和《支持我》（1986）。费尔德曼与科里·海姆（Corey Haim）合作主演了多部电影，例如喜剧恐怖片《迷失的男孩》（The Lost Boys）（1987）、青少年喜剧《驾驶执照》（1988）和浪漫喜剧《梦想一个小梦想》（1989）。他们在2007年至2008年播出的A & E真人秀系列剧《两个科雷》中重聚。   
+尼古拉斯·保罗·斯特凡·萨尔科齐·德纳吉-博萨是一位法国政治家和被定罪的罪犯，曾于2007年至2012年担任法国总统。2021年，他因在2014年试图贿赂一名法官，以获取超过法定竞选资金限额的信息和支出而被判有罪。2025年9月，他因与利比亚卡扎菲政权达成协议而被判犯有“共谋犯罪”罪。   
 
-阅读延伸[90141]: [https://en.wikipedia.org/wiki/Corey_Feldman](https://en.wikipedia.org/wiki/Corey_Feldman)   
+阅读延伸[557007]: [https://en.wikipedia.org/wiki/Nicolas_Sarkozy](https://en.wikipedia.org/wiki/Nicolas_Sarkozy)   
 
-## 一场接一场的战斗   
-One Battle After Another is a 2025 American epic action thriller film written, produced, and directed by Paul Thomas Anderson. It is inspired by the 1990 novel Vineland by Thomas Pynchon. The film stars Leonardo DiCaprio, Sean Penn, Benicio del Toro, Regina Hall, Teyana Taylor, and Chase Infiniti, and follows an ex-revolutionary (DiCaprio) who must rescue his daughter (Infiniti) from a corrupt military official (Penn).   
+## 杰西卡_桑切斯   
+Jessica Elizabeth Sanchez is an American singer-songwriter. She rose to prominence following as the runner-up on the eleventh season of American Idol. Her debut studio album, Me, You & the Music, peaked at number twenty-six on the US Billboard 200. In 2025, Sanchez won the twentieth season of America's Got Talent after winning the golden buzzer from Sofía Vergara in the audition round.   
 
-一场又一场的战斗是一部2025年美国史诗动作惊悚电影，由保罗·托马斯·安德森编剧、制作和导演。它的灵感来自托马斯·品钦（Thomas Pynchon）1990年的小说《葡萄园》。这部电影由莱昂纳多·迪卡普里奥、肖恩·潘、贝尼西奥·德尔·托罗、雷吉娜·霍尔、泰亚娜·泰勒和蔡斯·英菲尼迪主演，讲述了一位前革命家（迪卡普里奥饰）必须从腐败的军官（潘饰）手中救出女儿（英菲尼迪饰）的故事。   
+杰西卡·伊丽莎白·桑切斯是一位美国创作型歌手。她在《美国偶像》第十一季获得亚军后声名鹊起。她的首张录音室专辑《Me，You & the Music》在美国公告牌200强中排名第26位。2025年，桑切斯在试镜中赢得索菲亚·维加拉（Sofía Vergara）的金哨响后，赢得了《美国达人秀》第二十季的冠军。   
 
-阅读延伸[73258137]: [https://en.wikipedia.org/wiki/One_Battle_After_Another](https://en.wikipedia.org/wiki/One_Battle_After_Another)   
+阅读延伸[34952134]: [https://en.wikipedia.org/wiki/Jessica_Sanchez](https://en.wikipedia.org/wiki/Jessica_Sanchez)   
 
-## 泰诺_（品牌）   
-Tylenol is a brand of medication, advertised for reducing pain, reducing fever, and relieving the symptoms of allergies, cold, cough, headache, and influenza. The active ingredient of its original flagship product is paracetamol, an analgesic and antipyretic. Like the words paracetamol and acetaminophen, the brand name Tylenol is derived from a chemical name for the compound, N-acetyl-para-aminophenol (APAP). The brand name is owned by Kenvue.   
+## 亚洲杯   
+The Men's Asia Cup is the biennial cricket tournament organised by the Asian Cricket Council. The competition is contested by Asian members' senior men's national cricket teams, determining the continental champion of Asia. It was established in 1983 when the Asian Cricket Council was founded as a measure to promote goodwill between Asian countries, making it the only continental championship in cricket in which the winning team becomes the champion of Asia. India boycotted the 1986 tournament due to strained cricketing relations with Sri Lanka. Pakistan boycotted the 1990–91 tournament due to strained political relations with India and the 1993 tournament was cancelled for the same reason. The ACC announced that the tournament would be held biennially from 2009 onwards. The ICC has ruled that all games played in the Asia Cup have official ODI status.   
 
-泰诺是一个药物品牌，宣传用于减轻疼痛、退烧以及缓解过敏、感冒、咳嗽、头痛和流感症状。其原始旗舰产品的活性成分是扑热息痛，一种止痛药和退烧药。与扑热息痛和扑热息痛一样，泰诺的品牌名称也源自该化合物的化学名称N-乙基-对氨酚（APAP）。该品牌名称由Kenvue所有。   
+男子亚洲杯是由亚洲板球理事会组织的两年一度的板球锦标赛。该比赛由亚洲会员的高级男子国家板球队参加，决出亚洲大陆冠军。它成立于1983年，当时亚洲板球理事会成立，是为了促进亚洲国家之间的善意，使其成为唯一一个获胜球队成为亚洲冠军的板球大陆锦标赛。由于与斯里兰卡的板球关系紧张，印度抵制了1986年的锦标赛。由于与印度的政治关系紧张，巴基斯坦抵制了1990-91年的世界杯，1993年的世界杯也因同样的原因被取消。ACC宣布，该赛事将从2009年起每两年举办一次。国际刑事法院裁定，亚洲杯上的所有比赛都具有官方ODI地位。   
 
-阅读延伸[83407]: [https://en.wikipedia.org/wiki/Tylenol_(brand)](https://en.wikipedia.org/wiki/Tylenol_(brand))   
+阅读延伸[512257]: [https://en.wikipedia.org/wiki/Asia_Cup](https://en.wikipedia.org/wiki/Asia_Cup)   
 
-## D4 VD   
-David Anthony Burke, known professionally as d4vd, is an American singer and songwriter. Burke began making music at his mother's recommendation to avoid receiving copyright strikes on his YouTube videos. In 2022, he released the singles "Here with Me" and "Romantic Homicide", which became viral hits on TikTok and led to his signing with Darkroom and Interscope Records.   
+## Zubeen_Garg   
+Zubeen Garg (born Zubeen Borthakur was an Indian musician who primarily worked and sang in the Assamese, Bengali, and Hindi-language film and music industries. He had also sung in 40 other languages and dialects, including Bishnupriya Manipuri, Adi, Boro, English, Goalpariya, Kannada, Karbi, Malayalam, Marathi, Mising, Nepali, Odia, Sanskrit, Sindhi, Tamil, Telugu, and Tiwa.   
 
-大卫·安东尼·伯克（David Anthony Burke），专业名称d4 VD，是一位美国歌手和词曲作者。伯克在母亲的建议下开始制作音乐，以避免他的YouTube视频受到版权侵犯。2022年，他发行了单曲《Here with Me》和《Romantic Homicide》，这两首单曲在TikTok上走红，并导致他与Darkroom和Interscope Records签约。   
+Zubeen Garg（原名Zubeen Borthakur）是一位印度音乐家，主要在阿萨姆语、孟加拉语和印度语电影和音乐行业工作和演唱。他还用其他40种语言和方言演唱，包括Bishnupriya Manipuri、Adi、Boro、英语、Goalpariya、Kannada、Karbi、Malayalam、Marathi、Mising、尼泊尔语、Odia、梵文、Sindhi、泰米尔语、泰卢固语和Tiwa。   
 
-阅读延伸[71802019]: [https://en.wikipedia.org/wiki/D4vd](https://en.wikipedia.org/wiki/D4vd)   
+阅读延伸[5528352]: [https://en.wikipedia.org/wiki/Zubeen_Garg](https://en.wikipedia.org/wiki/Zubeen_Garg)   
 
 ## 6-7_（模因）   
 The 6-7 meme ( ) is an internet meme and slang term that emerged in early 2025 on TikTok and Instagram Reels. It originated from the repeated lyric "6-7" in the song "Doot Doot " by Skrilla, which was used on social media in video edits of professional basketball players such as LaMelo Ball who is 6 feet 7 inches tall. The term "6-7" spread as slang among Generation Alpha and Generation Z. As the meme's reach expanded in August of 2025, one child became known as the "6-7 Kid" after a viral video showed him saying the term while moving his hands up and down at an Amateur Athletic Union basketball game. It is often compared to 41, a meme of similar origin, where rapper Blizzi Boi in his song "41 Song " repeats the number "41" throughout.   
@@ -132,10 +125,17 @@ The 6-7 meme ( ) is an internet meme and slang term that emerged in early 2025 o
 
 阅读延伸[80838096]: [https://en.wikipedia.org/wiki/6-7_(meme)](https://en.wikipedia.org/wiki/6-7_(meme))   
 
-## 狂喜   
-The Rapture is an eschatological position held by some Christians, particularly those of American evangelicalism, consisting of an end-time event when all dead Christian believers will be resurrected and, joined with Christians who are still alive, together will rise "in the clouds, to meet the Lord in the air." This view of eschatology is typically part of dispensational premillennialism, a form of futurism that considers various prophecies in the Bible as remaining unfulfilled and occurring in the future.   
+## 1989年_天安门_广场_抗议_和_屠杀   
+The Tiananmen Square protests, known within China as the June Fourth Incident, were student-led demonstrations held in Tiananmen Square in Beijing, China, lasting from 15 April to 4 June 1989. After weeks of unsuccessful attempts between the demonstrators and the Chinese government to find a peaceful resolution, the Chinese government deployed troops to occupy the square on the night of 3 June in what is referred to as the Tiananmen Square massacre. The events are sometimes called the '89 Democracy Movement, the Tiananmen Square Incident, or the Tiananmen uprising.   
 
-被提是一些基督徒，尤其是美国福音派基督徒所持的末世立场，包括一个末日事件，届时所有死去的基督教信徒都将复活，并与仍然活着的基督徒一起升起“在云中，在空中与主相遇”。“这种末世论的观点通常是时代论前千禧年主义的一部分，这是一种未来主义的形式，认为圣经中的各种预言尚未实现并在未来发生。   
+天安门广场抗议活动在中国境内被称为“六·四事件”，是学生领导的在中国北京天安门广场举行的示威活动，持续时间为1989年4月15日至6月4日。在示威者与中国政府试图找到和平解决方案数周失败后，中国政府于6月3日晚部署军队占领广场，引发了所谓的天安门广场大屠杀。这些事件有时被称为“89民主运动”、“天安门事件”或“天安门起义”。   
 
-阅读延伸[66196]: [https://en.wikipedia.org/wiki/Rapture](https://en.wikipedia.org/wiki/Rapture)   
+阅读延伸[44534]: [https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre)   
+
+## 吉米_基梅尔   
+James Christian Kimmel is an American television host and comedian. He is best known as the host and executive producer of Jimmy Kimmel Live!. Kimmel has hosted the Primetime Emmy Awards three times, in 2012, 2016 and 2020, and the Academy Awards four times, in 2017, 2018, 2023, and 2024.   
+
+James Christian Kimmel是一位美国电视主持人和喜剧演员。他是最有名的主持人和执行制片人吉米Kimmel现场！Kimmel曾于2012年、2016年和2020年三次主持黄金时段艾美奖，并于2017年、2018年、2023年和2024年四次主持奥斯卡奖。   
+
+阅读延伸[385290]: [https://en.wikipedia.org/wiki/Jimmy_Kimmel](https://en.wikipedia.org/wiki/Jimmy_Kimmel)   
 
