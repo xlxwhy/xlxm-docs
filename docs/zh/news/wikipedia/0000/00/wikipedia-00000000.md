@@ -6,12 +6,12 @@ Dame Jane Morris Goodall, formerly Baroness Jane van Lawick-Goodall, was an Engl
 
 阅读延伸[45397]: [https://en.wikipedia.org/wiki/Jane_Goodall](https://en.wikipedia.org/wiki/Jane_Goodall)   
 
-## 美国政府关闭   
-In the United States, government shutdowns occur when funding legislation required to finance the federal government is not enacted before the next fiscal year begins. In a shutdown, the federal government curtails agency activities and services, ceases non-essential operations, furloughs non-essential workers, and retains only essential employees in departments that protect human life or property. Shutdowns can also disrupt state, territorial, and local levels of government.   
+## 赎罪日_基普普尔   
+Yom Kippur is the holiest day of the year in Judaism. It occurs annually on the 10th of Tishrei, corresponding to a date in late September or early October.   
 
-在美国，当为联邦政府提供资金所需的资金立法在下一财年开始之前没有颁布时，就会发生政府关闭。在政府关门时，联邦政府会减少机构活动和服务，停止非必要业务，让非必要工人休假，并只保留保护人类生命或财产的部门的必要员工。关闭还可能扰乱州、地区和地方各级政府。   
+赎罪日是犹太教一年中最神圣的日子。它每年发生在Tisheri 10日，相当于9月底或10月初的日期。   
 
-阅读延伸[2150997]: [https://en.wikipedia.org/wiki/Government_shutdowns_in_the_United_States](https://en.wikipedia.org/wiki/Government_shutdowns_in_the_United_States)   
+阅读延伸[34382]: [https://en.wikipedia.org/wiki/Yom_Kippur](https://en.wikipedia.org/wiki/Yom_Kippur)   
 
 ## Google_Chrome   
 Google Chrome is a web browser developed by Google. It was first released in 2008 for Microsoft Windows, built with free software components from Apple WebKit and Mozilla Firefox. Versions were later released for Linux, macOS, iOS, iPadOS, and also for Android, where it is the default browser. The browser is also the main component of ChromeOS, where it serves as the platform for web applications.   
@@ -19,6 +19,20 @@ Google Chrome is a web browser developed by Google. It was first released in 200
 Google Chrome是谷歌开发的网络浏览器。它于2008年首次在Microsoft Windows上发布，采用Apple WebKit和Firefox的免费软件组件构建。后来发布了适用于Linux、macOS、iOS、iPadOS以及Android（它是默认浏览器）的版本。该浏览器也是ChromeOS的主要组件，它充当Web应用程序的平台。   
 
 阅读延伸[19133401]: [https://en.wikipedia.org/wiki/Google_Chrome](https://en.wikipedia.org/wiki/Google_Chrome)   
+
+## 坎塔拉：_第1章   
+Kantara: Chapter 1 is a 2025 Indian Kannada-language period mythological action drama film written and directed by Rishab Shetty, and produced by Vijay Kiragandur and Chaluve Gowda under Hombale Films. A prequel to the 2022 film Kantara, the story delves deeper into the origins of the mythological tradition and ancestral conflict introduced in the first film.   
+
+坎塔拉：《第一章》是一部2025年印度卡纳达语时期神话动作片，由Rishab Shetty编剧和导演，Hombale Films旗下的Vijay Kiragandur和Chaluve Gowda制作。作为2022年电影《坎塔拉》的前传，故事更深入地探讨了第一部电影中引入的神话传统和祖先冲突的起源。   
+
+阅读延伸[74654227]: [https://en.wikipedia.org/wiki/Kantara%3A_Chapter_1](https://en.wikipedia.org/wiki/Kantara%3A_Chapter_1)   
+
+## 美国政府关闭   
+In the United States, government shutdowns occur when funding legislation required to finance the federal government is not enacted before the next fiscal year begins. In a shutdown, the federal government curtails agency activities and services, ceases non-essential operations, furloughs non-essential workers, and retains only essential employees in departments that protect human life or property. Shutdowns can also disrupt state, territorial, and local levels of government.   
+
+在美国，当为联邦政府提供资金所需的资金立法在下一财年开始之前没有颁布时，就会发生政府关闭。在政府关门时，联邦政府会减少机构活动和服务，停止非必要业务，让非必要工人休假，并只保留保护人类生命或财产的部门的必要员工。关闭还可能扰乱州、地区和地方各级政府。   
+
+阅读延伸[2150997]: [https://en.wikipedia.org/wiki/Government_shutdowns_in_the_United_States](https://en.wikipedia.org/wiki/Government_shutdowns_in_the_United_States)   
 
 ## 皮特_赫格塞斯   
 Peter Brian Hegseth is an American television presenter, author, and Army National Guard officer who is to be the nominee for United States Secretary of Defense in Donald Trump's second cabinet. A political commentator for Fox News since 2014 and co-host of Fox & Friends Weekend from 2017 to 2024, he was previously the executive director of Vets for Freedom and Concerned Veterans for America.   
@@ -41,13 +55,6 @@ One Battle After Another is a 2025 American epic action thriller film written, p
 
 阅读延伸[73258137]: [https://en.wikipedia.org/wiki/One_Battle_After_Another](https://en.wikipedia.org/wiki/One_Battle_After_Another)   
 
-## 坏_兔子   
-Benito Antonio Martínez Ocasio, known professionally as Bad Bunny, is a Puerto Rican rapper, singer, and record producer. Dubbed the "King of Latin Trap", Bad Bunny is credited with helping Spanish-language rap music achieve mainstream popularity in the worldwide market. He is considered one of the best Latin rappers of all time.   
-
-贝尼托·安东尼奥·马丁内斯·奥卡西奥（Benito Antonio Martínez Ocasio），专业绰号“坏兔子”，是一位波多黎各说唱歌手、歌手和唱片制作人。Bad Bunny被称为“拉丁陷阱之王”，因帮助西班牙语说唱音乐在全球市场上获得主流流行而闻名。他被认为是有史以来最好的拉丁说唱歌手之一。   
-
-阅读延伸[55943877]: [https://en.wikipedia.org/wiki/Bad_Bunny](https://en.wikipedia.org/wiki/Bad_Bunny)   
-
 ## 死亡_in_2025   
 The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
 
@@ -55,12 +62,12 @@ The following notable deaths occurred in 2025. Names are reported under the date
 
 阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
 
-## 与星共舞_（美国电视剧）_第34季   
-The thirty-fourth season of Dancing with the Stars premiered on ABC and Disney+ on September 16, 2025. This season, marking the twentieth anniversary of the series, is the third to air live on both networks simultaneously, and was the first of ABC's unscripted programs to earn an official renewal for their 2025–26 schedule. Alfonso Ribeiro returns to host the season, while former professional dancer and judge Julianne Hough returns as co-host.   
+## 坏_兔子   
+Benito Antonio Martínez Ocasio, known professionally as Bad Bunny, is a Puerto Rican rapper, singer, and record producer. Dubbed the "King of Latin Trap", Bad Bunny is credited with helping Spanish-language rap music achieve mainstream popularity in the worldwide market. He is considered one of the best Latin rappers of all time.   
 
-《与星共舞》第三十四季于2025年9月16日在ABC和Disney+首播。本季是该系列播出二十周年，是第三部在两个电视台同时直播的剧集，也是ABC第一部获得2025-26年节目表正式续订的无剧本节目。阿方索·里贝罗（Alfonso Ribeiro）回归主持本季，而前职业舞者兼评委朱丽安·霍夫（Julianne Hough）回归担任联合主持人。   
+贝尼托·安东尼奥·马丁内斯·奥卡西奥（Benito Antonio Martínez Ocasio），专业绰号“坏兔子”，是一位波多黎各说唱歌手、歌手和唱片制作人。Bad Bunny被称为“拉丁陷阱之王”，因帮助西班牙语说唱音乐在全球市场上获得主流流行而闻名。他被认为是有史以来最好的拉丁说唱歌手之一。   
 
-阅读延伸[79782170]: [https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_34](https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_34)   
+阅读延伸[55943877]: [https://en.wikipedia.org/wiki/Bad_Bunny](https://en.wikipedia.org/wiki/Bad_Bunny)   
 
 ## 他妈   
 Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
@@ -69,19 +76,26 @@ Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词�
 
 阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
 
-## 赎罪日_基普普尔   
-Yom Kippur is the holiest day of the year in Judaism. It occurs annually on the 10th of Tishrei, corresponding to a date in late September or early October.   
+## 艾德·盖恩   
+Edward Theodore Gein, also known as "the Butcher of Plainfield" or "the Plainfield Ghoul", was an American murderer, suspected serial killer and body snatcher. Gein's crimes, committed around his hometown of Plainfield, Wisconsin, gathered widespread notoriety in 1957 after authorities discovered that he had exhumed corpses from local graveyards and fashioned keepsakes from their bones and skin. He also confessed to killing two women: tavern owner Mary Hogan in 1954, and hardware store owner Bernice Worden in 1957.   
 
-赎罪日是犹太教一年中最神圣的日子。它每年发生在Tisheri 10日，相当于9月底或10月初的日期。   
+爱德华·西奥多·盖恩（Edward Theodore Gein），又名“普兰菲尔德屠夫”或“普兰菲尔德食尸鬼”，是一名美国杀人犯、疑似连环杀手和尸体抢夺者。吉恩的罪行发生在他的家乡威斯康星州普兰菲尔德附近，1957年当局发现他从当地墓地挖掘尸体并用尸体的骨头和皮肤制作纪念品后，他的罪行引起了广泛的恶名。他还承认杀害了两名女性：1954年的酒馆老板玛丽·霍根（Mary Hogan）和1957年的五金店老板伯尼斯·沃登（Bernice Worden）。   
 
-阅读延伸[34382]: [https://en.wikipedia.org/wiki/Yom_Kippur](https://en.wikipedia.org/wiki/Yom_Kippur)   
+阅读延伸[71376]: [https://en.wikipedia.org/wiki/Ed_Gein](https://en.wikipedia.org/wiki/Ed_Gein)   
 
-## 妮可_基德曼   
-Nicole Mary Kidman is an Australian and American actress and producer. Known for her work in film and television productions across many genres, she has consistently ranked among the world's highest-paid actresses since the late 1990s. Her accolades include an Academy Award, a BAFTA Award, two Primetime Emmy Awards, six Golden Globe Awards and the Volpi Cup for Best Actress. She became the first Australian actor to receive the AFI Life Achievement Award honor in 2024.   
+## 帕特里克_默里_（演员）   
+Patrick N. Murray was a British actor who had roles in ITV Playhouse (1977), Scum and Quadrophenia (1979), Breaking Glass (1980), Curse of the Pink Panther (1983), Bergerac (1983), Dempsey and Makepeace (1986), and The Firm (1989). He was most notable for his role as Mickey Pearce in Only Fools and Horses from 1983 to 2003.   
 
-妮可·玛丽·基德曼是澳大利亚和美国女演员兼制片人。她因在许多类型的电影和电视制作中的工作而闻名，自20世纪90年代末以来一直跻身世界收入最高的女演员之列。她获得的荣誉包括奥斯卡金像奖、英国电影和电视艺术学院奖、两项黄金时段艾美奖、六项金球奖和沃尔皮杯最佳女主角。2024年，她成为第一位获得AFI终身成就奖的澳大利亚演员。   
+帕特里克·N默里是一名英国演员，曾在ITV Playhouse（1977），Scum and Quadrophenia（1979），Breaking Glass（1980），Curse of the Pink Panther（1983），Bergerac（1983），Dempsey and Makepeace（1986）和The Firm（1989）中扮演角色。1983年至2003年，他在《傻瓜和马》中扮演米奇·皮尔斯。   
 
-阅读延伸[21504]: [https://en.wikipedia.org/wiki/Nicole_Kidman](https://en.wikipedia.org/wiki/Nicole_Kidman)   
+阅读延伸[487993]: [https://en.wikipedia.org/wiki/Patrick_Murray_(actor)](https://en.wikipedia.org/wiki/Patrick_Murray_(actor))   
+
+## 1xBet   
+1xBet is an online gambling company licensed by Curaçao eGaming License. The company was founded in 2007 and is headquartered in Cyprus. 1xBet is one of the world's largest online casinos and according to Sports Illustrated "probably the biggest sportsbook on the planet". The company sponsors major professional football teams such as Spain's FC Barcelona, Ecuador's Barcelona S.C., France's Paris Saint-Germain and major Esports teams such as OG Esports, Team Spirit, Made in Brazil and Tundra Esports.   
+
+1xBet是一家获得Curaçao eGaming许可证许可的在线赌博公司。该公司成立于2007年，总部位于塞浦路斯。1xBet是世界上最大的在线赌场之一，根据《体育画报》的说法，“可能是地球上最大的体育博彩”。该公司赞助西班牙巴塞罗那足球俱乐部、厄瓜多尔巴塞罗那足球俱乐部、法国巴黎圣日耳曼队和OG Esports、Team Spirit、Made in Brazil和Tundra Esports等主要电子竞技球队。   
+
+阅读延伸[66207654]: [https://en.wikipedia.org/wiki/1xBet](https://en.wikipedia.org/wiki/1xBet)   
 
 ## 任性_（迷你剧）   
 Wayward is a limited series from Mae Martin for Netflix. It was released on Netflix on September 25, 2025.   
@@ -90,19 +104,19 @@ Wayward是Mae Martin为Netflix制作的限量系列。于2025年9月25日在Netf
 
 阅读延伸[76574133]: [https://en.wikipedia.org/wiki/Wayward_(miniseries)](https://en.wikipedia.org/wiki/Wayward_(miniseries))   
 
-## 蒂莉_诺伍德   
-Tilly Norwood is an artificial intelligence-generated character marketed as an actress. Created in 2025 by Xicoia, the AI division of the production company Particle6, she has appeared in the AI-generated comedy sketch "AI Commissioner" and in various promotional and social media content. Her creation and potential representation by talent agencies have attracted attention and criticism from media outlets and members of the acting community.   
+## 雨果·范·劳克   
+Hugo Arndt Rodolf, Baron van Lawick was a Dutch wildlife filmmaker and photographer.   
 
-蒂莉·诺伍德（Tilly Norwood）是一个人工智能生成的角色，以女演员的身份销售。她于2025年由制片公司Particle6的人工智能部门Xicoia创建，曾出现在人工智能生成的喜剧小品《AI专员》以及各种宣传和社交媒体内容中。她的创作和经纪公司的潜在代表性引起了媒体和演艺界成员的关注和批评。   
+雨果·阿恩特·鲁道夫（Hugo Arndt Rodolf），范·劳克男爵（Baron van Lawick）是一位荷兰野生动物电影制片人和摄影师。   
 
-阅读延伸[81219703]: [https://en.wikipedia.org/wiki/Tilly_Norwood](https://en.wikipedia.org/wiki/Tilly_Norwood)   
+阅读延伸[5970833]: [https://en.wikipedia.org/wiki/Hugo_van_Lawick](https://en.wikipedia.org/wiki/Hugo_van_Lawick)   
 
-## 艾德·盖恩   
-Edward Theodore Gein, also known as "the Butcher of Plainfield" or "the Plainfield Ghoul", was an American murderer, suspected serial killer and body snatcher. Gein's crimes, committed around his hometown of Plainfield, Wisconsin, gathered widespread notoriety in 1957 after authorities discovered that he had exhumed corpses from local graveyards and fashioned keepsakes from their bones and skin. He also confessed to killing two women: tavern owner Mary Hogan in 1954, and hardware store owner Bernice Worden in 1957.   
+## 马克_克尔_（战斗机）   
+Mark Kerr is an American former wrestler and mixed martial artist. During his MMA career, he was a two-time UFC Heavyweight Tournament Champion, World Vale Tudo Championship tournament winner, and a PRIDE FC competitor. In collegiate wrestling, Kerr was an NCAA Division I champion. In freestyle wrestling, he won gold and silver medals at the World Cup and silver at the Pan American Games. In submission wrestling, Kerr is a four-time ADCC World Champion, winning his weightclass twice along with the absolute division and the Superfight Championship.   
 
-爱德华·西奥多·盖恩（Edward Theodore Gein），又名“普兰菲尔德屠夫”或“普兰菲尔德食尸鬼”，是一名美国杀人犯、疑似连环杀手和尸体抢夺者。吉恩的罪行发生在他的家乡威斯康星州普兰菲尔德附近，1957年当局发现他从当地墓地挖掘尸体并用尸体的骨头和皮肤制作纪念品后，他的罪行引起了广泛的恶名。他还承认杀害了两名女性：1954年的酒馆老板玛丽·霍根（Mary Hogan）和1957年的五金店老板伯尼斯·沃登（Bernice Worden）。   
+马克·科尔（Mark Kerr）是美国前摔跤手和综合武术家。在他的MMA职业生涯中，他曾两届UFC重量级锦标赛冠军、世界Vale Tudo锦标赛冠军和PRIDE FC的竞争者。在大学摔跤比赛中，克尔是NCAA I组冠军。在自由式摔跤比赛中，他在世界杯上获得金牌和银牌，在泛美运动会上获得银牌。在屈服摔跤中，科尔四届ADCC世界冠军，两次赢得举重级别冠军，并获得绝对分区冠军和超级格斗锦标赛冠军。   
 
-阅读延伸[71376]: [https://en.wikipedia.org/wiki/Ed_Gein](https://en.wikipedia.org/wiki/Ed_Gein)   
+阅读延伸[2270615]: [https://en.wikipedia.org/wiki/Mark_Kerr_(fighter)](https://en.wikipedia.org/wiki/Mark_Kerr_(fighter))   
 
 ## 6-7_（模因）   
 The 6-7 meme ( ) is an internet meme and slang term that emerged in early 2025 on TikTok and Instagram Reels. It originated from the repeated lyric "6-7" in the song "Doot Doot " by Skrilla, which was used on social media in video edits of professional basketball players such as LaMelo Ball who is 6 feet 7 inches tall. The term "6-7" spread as slang among Generation Alpha and Generation Z. As the meme's reach expanded in August of 2025, one child became known as the "6-7 Kid" after a viral video showed him saying the term while moving his hands up and down at an Amateur Athletic Union basketball game. It is often compared to 41, a meme of similar origin, where rapper Blizzi Boi in his song "41 Song " repeats the number "41" throughout.   
@@ -111,31 +125,17 @@ The 6-7 meme ( ) is an internet meme and slang term that emerged in early 2025 o
 
 阅读延伸[80838096]: [https://en.wikipedia.org/wiki/6-7_(meme)](https://en.wikipedia.org/wiki/6-7_(meme))   
 
-## 吉尼斯之家   
-House of Guinness is an historical drama television series about the Guinness family created by Steven Knight. It premiered on 25 September 2025 on Netflix.   
+## 全球_Sumud_船队   
+The Global Sumud Flotilla, sometimes referred to as the Global Freedom Flotilla, was an international, civil society-led maritime initiative launched in mid-2025, which attempted to break the Israeli blockade of the Gaza Strip but was thwarted through being intercepted by Israeli forces. It is named from ṣumūd, Arabic for 'steadfastness' or 'resilience'. The initiative emerged in July 2025, organised by the Freedom Flotilla Coalition, Global Movement to Gaza, Maghreb Sumud Flotilla and Sumud Nusantara, during the Gaza war. The flotilla comprised over 40 vessels with 500 participants from more than 44 countries, making it the largest civilian-led convoy of its kind in history. Some attempts to break the Israeli blockade were successful before 2010, but since then ships have been intercepted or attacked by Israeli forces, including an attack by drones in May 2025 and interceptions in international waters in June and July 2025. As of 1 October 2025, flotilla convoys had reported drone attacks, naval vessels had been dispatched to provide assistance, and Israel began intercepting vessels of the flotilla.   
 
-《吉尼斯之家》是史蒂文·奈特创作的一部关于吉尼斯家族的历史电视剧。该剧于2025年9月25日在Netflix首播。   
+全球萨穆德船队，有时被称为全球自由船队，是一项由民间社会主导的国际海上倡议，于2025年中期发起，试图打破以色列对加沙地带的封锁，但因被以色列军队拦截而受挫。它的名字取自阿拉伯语“坚定”或“坚韧”的意思。该倡议于2025年7月在加沙战争期间由自由舰队联盟、全球加沙运动、马格里布萨穆德舰队和萨穆德·努桑塔拉组织发起。该船队由来自44个国家的40多艘船只和500名参与者组成，成为历史上最大的共和党领导的船队。2010年之前，一些打破以色列封锁的尝试取得了成功，但此后船只一直遭到以色列军队的拦截或袭击，包括2025年5月的无人机袭击以及2025年6月和7月在国际水域的拦截。截至2025年10月1日，船队已报告无人机袭击，海军舰艇已被派遣提供援助，以色列开始拦截船队的船只。   
 
-阅读延伸[76361782]: [https://en.wikipedia.org/wiki/House_of_Guinness](https://en.wikipedia.org/wiki/House_of_Guinness)   
+阅读延伸[80704925]: [https://en.wikipedia.org/wiki/Global_Sumud_Flotilla](https://en.wikipedia.org/wiki/Global_Sumud_Flotilla)   
 
-## 阿罗迪斯_查普曼   
-Albertín Aroldis Chapman de la Cruz is a Cuban-born American professional baseball relief pitcher for the Boston Red Sox of Major League Baseball (MLB). He has previously played in MLB for the Cincinnati Reds, New York Yankees, Chicago Cubs, Kansas City Royals, Texas Rangers, and Pittsburgh Pirates and in the Cuban National Series for Holguín. Chapman bats and throws left-handed, and is nicknamed "the Cuban Missile", due to his high fastball velocity. A member of the 300 save club, Chapman is the all-time leader in strikeouts for left-handed relievers.   
+## XXX   
+XXX may refer to:   
 
-阿尔贝托·阿罗迪斯·查普曼·德拉·克鲁兹（Albertín Aroldis Chapman de la Cruz）是一位出生于古巴的美国职业棒球救援投手，效力于美国职业棒球大联盟（MLB）波士顿红袜队。他此前曾在美国职业棒球大联盟效力于辛辛那提红人队、纽约洋基队、芝加哥小熊队、堪萨斯城皇家队、德克萨斯游骑兵队和匹兹堡海盗队，并代表奥尔金参加过古巴国家系列赛。查普曼左手击球和投掷，因其快速球速度高而被昵称为“古巴导弹”。查普曼是300扑救俱乐部的成员，是左撇子中继投手三振的历史领先者。   
+XXX可能指：   
 
-阅读延伸[22003289]: [https://en.wikipedia.org/wiki/Aroldis_Chapman](https://en.wikipedia.org/wiki/Aroldis_Chapman)   
-
-## 他们_称_他_OG   
-They Call Him OG is a 2025 Indian Telugu-language action crime film, written and directed by Sujeeth, and produced by D. V. V. Danayya. The film stars Pawan Kalyan as the retired gangster OG, who returns to Bombay in 1993 after a ten year disappearance to confront the rival crime-lord Omi Bhau, played by Emraan Hashmi. The supporting cast includes Priyanka Mohan, Arjun Das, Sriya Reddy and Prakash Raj.   
-
-他们叫他OG是一部2025年印度泰卢固语动作犯罪电影，由Sujeeth编剧和导演，D. V. V. Danayya。这部电影由帕万·卡利安（Pawan Kalyan）主演，饰演退休黑帮OG，他在失踪十年后于1993年返回孟买，与埃姆兰·哈希米（Emraan Hashmi）饰演的竞争对手犯罪头目奥米·巴乌（Omi Bhau）对峙。配角包括Priyanka Mohan、Arjun Das、Samar Reddy和Prakash Raj。   
-
-阅读延伸[74208606]: [https://en.wikipedia.org/wiki/They_Call_Him_OG](https://en.wikipedia.org/wiki/They_Call_Him_OG)   
-
-## 查理_柯克   
-Charles James Kirk was an American right-wing political activist, author, and media personality. He co-founded the conservative organization Turning Point USA (TPUSA) in 2012 and was its executive director. He was the chief executive officer (CEO) of Turning Point Action and a member of the Council for National Policy. The Washington Post described him as "one of the most prominent voices on the right" in his later years.   
-
-查尔斯·詹姆斯·柯克是美国右翼政治活动家、作家和媒体人物。2012年，他与人共同创立了保守派组织Turning Point USA（tpUSA），并担任该组织的执行董事。他是Turning Point Action的首席执行官（CEO）和国家政策委员会成员。《华盛顿邮报》将他描述为晚年“右翼最杰出的声音之一”。   
-
-阅读延伸[53245776]: [https://en.wikipedia.org/wiki/Charlie_Kirk](https://en.wikipedia.org/wiki/Charlie_Kirk)   
+阅读延伸[34210]: [https://en.wikipedia.org/wiki/XXX](https://en.wikipedia.org/wiki/XXX)   
 
