@@ -6,6 +6,13 @@ Edward Theodore Gein, also known as "the Butcher of Plainfield" or "the Plainfie
 
 阅读延伸[71376]: [https://en.wikipedia.org/wiki/Ed_Gein](https://en.wikipedia.org/wiki/Ed_Gein)   
 
+## Google_Chrome   
+Google Chrome is a web browser developed by Google. It was first released in 2008 for Microsoft Windows, built with free software components from Apple WebKit and Mozilla Firefox. Versions were later released for Linux, macOS, iOS, iPadOS, and also for Android, where it is the default browser. The browser is also the main component of ChromeOS, where it serves as the platform for web applications.   
+
+Google Chrome是谷歌开发的网络浏览器。它于2008年首次在Microsoft Windows上发布，采用Apple WebKit和Firefox的免费软件组件构建。后来发布了适用于Linux、macOS、iOS、iPadOS以及Android（它是默认浏览器）的版本。该浏览器也是ChromeOS的主要组件，它充当Web应用程序的平台。   
+
+阅读延伸[19133401]: [https://en.wikipedia.org/wiki/Google_Chrome](https://en.wikipedia.org/wiki/Google_Chrome)   
+
 ## 怪物：_The_Ed_Gein_Story   
 Monster: The Ed Gein Story is the third season of the American biographical crime drama anthology series Monster, created by Ian Brennan for Netflix. The season focuses on convicted serial killer Ed Gein. Other main characters include Gein's mother, Augusta, film director Alfred Hitchcock and Hitchcock's wife, screenwriter and film editor Alma Reville. It was released on October 3, 2025.   
 
@@ -13,26 +20,12 @@ Monster: The Ed Gein Story is the third season of the American biographical crim
 
 阅读延伸[77893990]: [https://en.wikipedia.org/wiki/Monster%3A_The_Ed_Gein_Story](https://en.wikipedia.org/wiki/Monster%3A_The_Ed_Gein_Story)   
 
-## 拉明_亚马尔   
-Lamine Yamal Nasraoui Ebana is a Spanish professional footballer who plays as a winger for La Liga club Barcelona and the Spain national team. Known for his flair, chance creation, and long-distance curling goals, he is regarded as one of the best players in the world.   
-
-拉明·亚马尔·纳斯拉维·埃巴纳（Lamine Yamal Nasraoui Ebana）是一名西班牙职业足球运动员，在西甲俱乐部巴塞罗那和西班牙国家队担任边锋。他以天赋、创造机会和长距离冰壶进球而闻名，被认为是世界上最好的球员之一。   
-
-阅读延伸[71691936]: [https://en.wikipedia.org/wiki/Lamine_Yamal](https://en.wikipedia.org/wiki/Lamine_Yamal)   
-
 ## 坎塔拉：_第1章   
 Kantara: Chapter 1 is a 2025 Indian Kannada-language period mythological action drama film written and directed by Rishab Shetty, and produced by Vijay Kiragandur and Chaluve Gowda under Hombale Films. A prequel to the 2022 film Kantara, the story delves deeper into the origins of the mythological tradition and ancestral conflict introduced in the first film.   
 
 坎塔拉：《第一章》是一部2025年印度卡纳达语时期神话动作片，由Rishab Shetty编剧和导演，Hombale Films旗下的Vijay Kiragandur和Chaluve Gowda制作。作为2022年电影《坎塔拉》的前传，故事更深入地探讨了第一部电影中引入的神话传统和祖先冲突的起源。   
 
 阅读延伸[74654227]: [https://en.wikipedia.org/wiki/Kantara%3A_Chapter_1](https://en.wikipedia.org/wiki/Kantara%3A_Chapter_1)   
-
-## Google_Chrome   
-Google Chrome is a web browser developed by Google. It was first released in 2008 for Microsoft Windows, built with free software components from Apple WebKit and Mozilla Firefox. Versions were later released for Linux, macOS, iOS, iPadOS, and also for Android, where it is the default browser. The browser is also the main component of ChromeOS, where it serves as the platform for web applications.   
-
-Google Chrome是谷歌开发的网络浏览器。它于2008年首次在Microsoft Windows上发布，采用Apple WebKit和Firefox的免费软件组件构建。后来发布了适用于Linux、macOS、iOS、iPadOS以及Android（它是默认浏览器）的版本。该浏览器也是ChromeOS的主要组件，它充当Web应用程序的平台。   
-
-阅读延伸[19133401]: [https://en.wikipedia.org/wiki/Google_Chrome](https://en.wikipedia.org/wiki/Google_Chrome)   
 
 ## 伊尔莎_科赫   
 Ilse Koch was a German war criminal who committed atrocities while her husband Karl-Otto Koch was commandant at Buchenwald. Though Ilse Koch had no official position in the Nazi state, she became one of the most infamous Nazi figures at the war's end and was referred to as the "Kommandeuse of Buchenwald".   
@@ -48,13 +41,6 @@ Anthony Perkins was an American actor. Born in Manhattan, he began his acting ca
 
 阅读延伸[167595]: [https://en.wikipedia.org/wiki/Anthony_Perkins](https://en.wikipedia.org/wiki/Anthony_Perkins)   
 
-## UFC_320   
-UFC 320: Ankalaev vs. Pereira 2 was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on October 4, 2025, at the T-Mobile Arena in Paradise, Nevada, part of the Las Vegas Valley, United States.   
-
-UFC 320：Ankalaev vs. Pereira 2是由终极格斗锦标赛制作的一项综合武术赛事，于2025年10月4日在美国拉斯维加斯谷内华达州天堂T-Mobile竞技场举行。   
-
-阅读延伸[79585862]: [https://en.wikipedia.org/wiki/UFC_320](https://en.wikipedia.org/wiki/UFC_320)   
-
 ## 理查德_斯佩克   
 Richard Benjamin Speck was an American mass murderer who killed eight student nurses in their South Deering, Chicago, residence via stabbing, strangling, slashing their throats, or a combination of the three on the night of July 13–14, 1966. Speck also raped one victim before killing her. A ninth potential victim, student nurse Corazon Amurao, survived by hiding beneath a bed.   
 
@@ -62,19 +48,26 @@ Richard Benjamin Speck was an American mass murderer who killed eight student nu
 
 阅读延伸[700374]: [https://en.wikipedia.org/wiki/Richard_Speck](https://en.wikipedia.org/wiki/Richard_Speck)   
 
-## 亚历克斯_佩雷拉   
-Alex Sandro Silva Pereira is a Brazilian professional mixed martial artist and former kickboxer. He currently competes in the Light Heavyweight division of the Ultimate Fighting Championship (UFC), where he is the current UFC Light Heavyweight Champion and a former UFC Middleweight Champion. As of 2 July 2024, he is #2 in the UFC men's pound-for-pound rankings.   
+## Jilly_Cooper   
+Dame Jilly Cooper was an English author and journalist, best known for her long-running Rutshire Chronicles series. She began her career in journalism and published several works of non-fiction, including books on class, animals, and marriage, before turning to fiction. Her first romance novel appeared in 1975, and she went on to become a prominent figure in British popular literature, noted for her witty social commentary and depictions of upper-middle-class life.   
 
-亚历克斯·桑德罗·席尔瓦·佩雷拉（Alex Sandro Silva Pereira）是一位巴西职业综合武术家，曾担任跆拳道运动员。他目前参加终极格斗锦标赛（UFC）的轻重量级组比赛，现任UFC轻重量级冠军和前UFC中量级冠军。截至2024年7月2日，他在UFC男子磅比磅排名中排名第二。   
+吉莉·库珀女爵士是一位英国作家和记者，以其长期出版的《鲁特郡编年史》系列而闻名。她开始了自己的新闻职业生涯，并出版了几部非小说类作品，包括有关阶级、动物和婚姻的书籍，然后转向小说。她的第一部爱情小说于1975年出版，她后来成为英国流行文学中的杰出人物，以机智的社会评论和对中上层生活的描述而闻名。   
 
-阅读延伸[42031348]: [https://en.wikipedia.org/wiki/Alex_Pereira](https://en.wikipedia.org/wiki/Alex_Pereira)   
+阅读延伸[928610]: [https://en.wikipedia.org/wiki/Jilly_Cooper](https://en.wikipedia.org/wiki/Jilly_Cooper)   
 
-## 坏_兔子   
-Benito Antonio Martínez Ocasio, known professionally as Bad Bunny, is a Puerto Rican rapper, singer, and record producer. Dubbed the "King of Latin Trap", Bad Bunny is credited with helping Spanish-language rap music achieve mainstream popularity in the worldwide market. He is considered one of the best Latin rappers of all time.   
+## Cyndi_Lauper   
+Cynthia Ann Stephanie Lauper is an American singer, songwriter and actress. Known for her distinctive image, featuring a variety of hair colors and eccentric clothing, and for her powerful four-octave vocal range, Lauper has sold over 50 million records worldwide. She has also been celebrated for her humanitarian work, particularly as an advocate for LGBTQ rights in the United States.   
 
-贝尼托·安东尼奥·马丁内斯·奥卡西奥（Benito Antonio Martínez Ocasio），专业绰号“坏兔子”，是一位波多黎各说唱歌手、歌手和唱片制作人。Bad Bunny被称为“拉丁陷阱之王”，因帮助西班牙语说唱音乐在全球市场上获得主流流行而闻名。他被认为是有史以来最好的拉丁说唱歌手之一。   
+辛西娅·安·斯蒂芬妮·劳珀是一位美国歌手、词曲作者和女演员。Lauper以其独特的形象、各种发色和古怪的服装以及强大的四八度音域而闻名，在全球售出了超过5000万张唱片。她还因其人道主义工作而受到赞誉，特别是作为美国LGBTQ权利的倡导者。   
 
-阅读延伸[55943877]: [https://en.wikipedia.org/wiki/Bad_Bunny](https://en.wikipedia.org/wiki/Bad_Bunny)   
+阅读延伸[85226]: [https://en.wikipedia.org/wiki/Cyndi_Lauper](https://en.wikipedia.org/wiki/Cyndi_Lauper)   
+
+## Drake_Maye   
+Drake Lee Maye is an American professional football quarterback for the New England Patriots of the National Football League (NFL). He played college football for the North Carolina Tar Heels, winning ACC Football Player of the Year in 2022 after leading the NCAA in total yards and setting single-season school records in passing yards and touchdowns. Maye was selected third overall by the Patriots in the 2024 NFL draft and earned Pro Bowl honors during his rookie season.   
+
+德雷克·李·梅（Drake Lee Maye）是美国国家橄榄球联盟（NFL）新英格兰爱国者队的美国职业橄榄球四分卫。他曾为北卡罗来纳州焦油高跟鞋队踢大学橄榄球，在总码数领先NCAA并创下传球码数和达阵单赛季学校纪录后，于2022年荣获ACC年度最佳足球运动员。梅耶在2024年NFL选秀中被爱国者队选为第三名，并在新秀赛季中赢得了职业碗荣誉。   
+
+阅读延伸[71423949]: [https://en.wikipedia.org/wiki/Drake_Maye](https://en.wikipedia.org/wiki/Drake_Maye)   
 
 ## 查理_汉南   
 Charles Matthew Hunnam is an English actor. He portrayed Jax Teller in the FX drama series Sons of Anarchy (2008–2014), for which he was twice nominated for the Critics' Choice Television Award for Best Actor.   
@@ -83,12 +76,33 @@ Charles Matthew Hunnam is an English actor. He portrayed Jax Teller in the FX dr
 
 阅读延伸[1524606]: [https://en.wikipedia.org/wiki/Charlie_Hunnam](https://en.wikipedia.org/wiki/Charlie_Hunnam)   
 
-## 特雷_耶萨维奇   
-Trey David Yesavage is an American professional baseball pitcher for the Toronto Blue Jays of Major League Baseball (MLB). He played college baseball for the East Carolina Pirates, and was selected by the Blue Jays in the first round of the 2024 MLB draft. He made his MLB debut in 2025.   
+## 仲秋_节日   
+The Mid-Autumn Festival, also known as the Moon Festival or Mooncake Festival, is a harvest festival celebrated in Chinese culture. It is held on the 15th day of the 8th month of the Chinese lunisolar calendar with a full moon at night, corresponding to mid-September to early October of the Gregorian calendar. On this day, the Chinese believe that the moon is at its brightest and fullest size, coinciding with harvest time in the middle of autumn.   
 
-特雷·大卫·耶萨维奇（Trey David Yesavage）是美国职业棒球大联盟（MLB）多伦多蓝鸟队的美国职业棒球投手。他曾为东卡罗来纳海盗队打大学棒球，并在2024年MLB选秀第一轮中被蓝鸟队选中。他于2025年首次亮相MLB。   
+仲秋节，也称为月亮节或月亮节，是中国文化中庆祝的丰收节日。它于农历八月十五日举行，晚上满月，相当于农历九月中旬至十月上旬。中国人相信这一天月亮最明亮、最丰满，恰逢仲秋的收获季节。   
 
-阅读延伸[76861766]: [https://en.wikipedia.org/wiki/Trey_Yesavage](https://en.wikipedia.org/wiki/Trey_Yesavage)   
+阅读延伸[311934]: [https://en.wikipedia.org/wiki/Mid-Autumn_Festival](https://en.wikipedia.org/wiki/Mid-Autumn_Festival)   
+
+## 马克_桑切斯   
+Mark Travis John Sanchez is an American former professional football player who was a quarterback in the National Football League (NFL) for 10 seasons. He played college football for the USC Trojans and was selected by the New York Jets in the first round of the 2009 NFL draft. Sanchez is currently a color analyst for NFL coverage on Fox and Fox Sports 1.   
+
+马克·特拉维斯·约翰·桑切斯（Mark Travis John Sanchez）是一位美国前职业足球运动员，曾在国家橄榄球联盟（NFL）担任四分卫10个赛季。他曾为南加州大学特洛伊人队踢大学橄榄球，并在2009年NFL选秀第一轮中被纽约喷气机队选中。桑切斯目前是NFL对福克斯和福克斯体育1台报道的颜色分析师。   
+
+阅读延伸[4913435]: [https://en.wikipedia.org/wiki/Mark_Sanchez](https://en.wikipedia.org/wiki/Mark_Sanchez)   
+
+## Stefon_Diggs   
+Stefon Marsean Diggs is an American professional football wide receiver for the New England Patriots of the National Football League (NFL). He played college football for the Maryland Terrapins and was selected by the Minnesota Vikings in the fifth round of the 2015 NFL draft.   
+
+斯特凡·马赛·迪格斯（Stefon Marsean Diggs）是美国国家橄榄球联盟（NFL）新英格兰爱国者队的美国职业橄榄球接球手。他曾为马里兰龟队踢大学橄榄球，并在2015年NFL选秀第五轮中被明尼苏达维京人队选中。   
+
+阅读延伸[37766544]: [https://en.wikipedia.org/wiki/Stefon_Diggs](https://en.wikipedia.org/wiki/Stefon_Diggs)   
+
+## 死亡_in_2025   
+The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
+
+以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
+
+阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
 
 ## 歌舞女郎的生活   
 The Life of a Showgirl is the upcoming twelfth studio album by the American singer-songwriter Taylor Swift. It is scheduled for release through Republic Records, and has been made available for pre-order on Swift's website. According to the interpretation of Swift's Easter eggs by fans and media outlets, the album is showgirl-themed, features an orange and mint visual aesthetic, and involves the Swedish producers Max Martin and Shellback. 
@@ -98,34 +112,6 @@ The Life of a Showgirl是美国创作歌手泰勒·斯威夫特即将发行的�
 这张专辑是在美国橄榄球运动员特拉维斯和杰森·凯尔斯的播客上宣布的。   
 
 阅读延伸[80720346]: [https://en.wikipedia.org/wiki/The_Life_of_a_Showgirl](https://en.wikipedia.org/wiki/The_Life_of_a_Showgirl)   
-
-## 一场接一场的战斗   
-One Battle After Another is a 2025 American epic action thriller film written, produced, and directed by Paul Thomas Anderson. It is inspired by the 1990 novel Vineland by Thomas Pynchon. The film stars Leonardo DiCaprio, Sean Penn, Benicio del Toro, Regina Hall, Teyana Taylor, and Chase Infiniti, and follows an ex-revolutionary (DiCaprio) who must rescue his daughter (Infiniti) from a corrupt military official (Penn).   
-
-一场又一场的战斗是一部2025年美国史诗动作惊悚电影，由保罗·托马斯·安德森编剧、制作和导演。它的灵感来自托马斯·品钦（Thomas Pynchon）1990年的小说《葡萄园》。这部电影由莱昂纳多·迪卡普里奥、肖恩·潘、贝尼西奥·德尔·托罗、雷吉娜·霍尔、泰亚娜·泰勒和蔡斯·英菲尼迪主演，讲述了一位前革命家（迪卡普里奥饰）必须从腐败的军官（潘饰）手中救出女儿（英菲尼迪饰）的故事。   
-
-阅读延伸[73258137]: [https://en.wikipedia.org/wiki/One_Battle_After_Another](https://en.wikipedia.org/wiki/One_Battle_After_Another)   
-
-## 马克_桑切斯   
-Mark Travis John Sanchez is an American former professional football player who was a quarterback in the National Football League (NFL) for 10 seasons. He played college football for the USC Trojans and was selected by the New York Jets in the first round of the 2009 NFL draft. Sanchez is currently a color analyst for NFL coverage on Fox and Fox Sports 1.   
-
-马克·特拉维斯·约翰·桑切斯（Mark Travis John Sanchez）是一位美国前职业足球运动员，曾在国家橄榄球联盟（NFL）担任四分卫10个赛季。他曾为南加州大学特洛伊人队踢大学橄榄球，并在2009年NFL选秀第一轮中被纽约喷气机队选中。桑切斯目前是NFL对福克斯和福克斯体育1台报道的颜色分析师。   
-
-阅读延伸[4913435]: [https://en.wikipedia.org/wiki/Mark_Sanchez](https://en.wikipedia.org/wiki/Mark_Sanchez)   
-
-## 《惊魂记》_（1960_电影）   
-Psycho is a 1960 American horror film produced and directed by Alfred Hitchcock. The screenplay, written by Joseph Stefano, was based on the 1959 novel of the same name by Robert Bloch. The film stars Anthony Perkins, Janet Leigh, Vera Miles, John Gavin and Martin Balsam. The plot centers on an encounter between on-the-run embezzler Marion Crane (Leigh), shy motel proprietor Norman Bates (Perkins) and his disturbed mother. A private investigator (Balsam), Marion's lover Sam Loomis (Gavin) and her sister Lila (Miles) investigate her disappearance.   
-
-《惊魂记》是一部1960年的美国恐怖电影，由阿尔弗雷德·希区柯克制作和导演。该剧本由约瑟夫·斯特凡诺（Joseph Stefano）编剧，改编自罗伯特·布洛赫（Robert Bloch）1959年的同名小说。这部电影由安东尼·帕金斯、珍妮特·利、维拉·迈尔斯、约翰·加文和马丁·巴尔萨姆主演。情节以在逃的贪污犯玛丽昂·克兰（利饰）、害羞的汽车旅馆老板诺曼·贝茨（帕金斯饰）和他精神错乱的母亲之间的邂逅为中心。私家侦探（巴尔萨姆饰）、马里恩的情人萨姆·卢米斯（加文饰）和她的妹妹莉拉（迈尔斯饰）调查她的失踪。   
-
-阅读延伸[23880]: [https://en.wikipedia.org/wiki/Psycho_(1960_film)](https://en.wikipedia.org/wiki/Psycho_(1960_film))   
-
-## Magomed_Ankalaev   
-Magomed Alibulatovich Ankalaev is a Russian professional mixed martial artist. He currently competes in the Ultimate Fighting Championship (UFC), where he is the former UFC Light Heavyweight Champion. As of July 1, 2025, he is #7 in the UFC men's pound-for-pound rankings.   
-
-Magomed AliBulatovich Ankalaev是一位俄罗斯职业综合武术家。他目前参加终极格斗锦标赛（UFC），是前UFC轻重量级冠军。截至2025年7月1日，他在UFC男子磅比磅排名中排名第7。   
-
-阅读延伸[55885618]: [https://en.wikipedia.org/wiki/Magomed_Ankalaev](https://en.wikipedia.org/wiki/Magomed_Ankalaev)   
 
 ## 简_古道尔   
 Dame Jane Morris Goodall, formerly Baroness Jane van Lawick-Goodall, was an English zoologist, primatologist and anthropologist. She was considered the world's foremost expert on chimpanzees, having studied the social and family interactions of wild chimpanzees for over 60 years. Goodall first went to Gombe Stream National Park in Tanzania to observe its chimpanzees in 1960.   
@@ -140,4 +126,18 @@ Fuck is profanity in the English language that often refers to the act of sexual
 Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词或表达蔑视。虽然它的起源并不清楚，但通常被认为是在1475年左右首次得到证实的。在现代使用中，fuck一词及其衍生词被用作名词、动词、形容词、中词、感叹词或副词。有许多常用短语使用该词，以及包含该词的复合词，例如muddermuses和fuck off。   
 
 阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
+
+## 刘易斯_穆迪   
+Lewis Walton Moody is an English retired rugby union player. He played for Leicester Tigers and Bath and was part of the 2003 World Cup winning side.   
+
+刘易斯·沃尔顿·穆迪（Lewis Walton Moody）是一位英国退役橄榄球联盟球员。他曾效力于莱斯特老虎队和巴斯队，并且是2003年世界杯冠军球队的一员。   
+
+阅读延伸[769602]: [https://en.wikipedia.org/wiki/Lewis_Moody](https://en.wikipedia.org/wiki/Lewis_Moody)   
+
+## 一场接一场的战斗   
+One Battle After Another is a 2025 American epic action thriller film written, produced, and directed by Paul Thomas Anderson. It is inspired by the 1990 novel Vineland by Thomas Pynchon. The film stars Leonardo DiCaprio, Sean Penn, Benicio del Toro, Regina Hall, Teyana Taylor, and Chase Infiniti, and follows an ex-revolutionary (DiCaprio) who must rescue his daughter (Infiniti) from a corrupt military official (Penn).   
+
+一场又一场的战斗是一部2025年美国史诗动作惊悚电影，由保罗·托马斯·安德森编剧、制作和导演。它的灵感来自托马斯·品钦（Thomas Pynchon）1990年的小说《葡萄园》。这部电影由莱昂纳多·迪卡普里奥、肖恩·潘、贝尼西奥·德尔·托罗、雷吉娜·霍尔、泰亚娜·泰勒和蔡斯·英菲尼迪主演，讲述了一位前革命家（迪卡普里奥饰）必须从腐败的军官（潘饰）手中救出女儿（英菲尼迪饰）的故事。   
+
+阅读延伸[73258137]: [https://en.wikipedia.org/wiki/One_Battle_After_Another](https://en.wikipedia.org/wiki/One_Battle_After_Another)   
 
