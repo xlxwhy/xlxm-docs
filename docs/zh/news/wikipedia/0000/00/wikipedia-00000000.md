@@ -34,13 +34,6 @@ Ilse Koch was a German war criminal who committed atrocities while her husband K
 
 阅读延伸[341299]: [https://en.wikipedia.org/wiki/Ilse_Koch](https://en.wikipedia.org/wiki/Ilse_Koch)   
 
-## 安东尼_帕金斯   
-Anthony Perkins was an American actor. Born in Manhattan, he began his acting career as a teenager in summer stock theatre, and appeared in films prior to his Broadway debut. His first film role was in The Actress (1953). That same year, he debuted on Broadway in Tea and Sympathy, a performance for which he received critical acclaim.   
-
-安东尼·帕金斯是一位美国演员。他出生于曼哈顿，十几岁时在夏季股票剧院开始了他的演艺生涯，并在首次亮相百老汇之前出现在电影中。他的第一个电影角色是在《女演员》（1953年）中。同年，他在百老汇首次亮相《茶与同情》，并获得了评论界的好评。   
-
-阅读延伸[167595]: [https://en.wikipedia.org/wiki/Anthony_Perkins](https://en.wikipedia.org/wiki/Anthony_Perkins)   
-
 ## 理查德_斯佩克   
 Richard Benjamin Speck was an American mass murderer who killed eight student nurses in their South Deering, Chicago, residence via stabbing, strangling, slashing their throats, or a combination of the three on the night of July 13–14, 1966. Speck also raped one victim before killing her. A ninth potential victim, student nurse Corazon Amurao, survived by hiding beneath a bed.   
 
@@ -48,26 +41,26 @@ Richard Benjamin Speck was an American mass murderer who killed eight student nu
 
 阅读延伸[700374]: [https://en.wikipedia.org/wiki/Richard_Speck](https://en.wikipedia.org/wiki/Richard_Speck)   
 
-## Jilly_Cooper   
-Dame Jilly Cooper was an English author and journalist, best known for her long-running Rutshire Chronicles series. She began her career in journalism and published several works of non-fiction, including books on class, animals, and marriage, before turning to fiction. Her first romance novel appeared in 1975, and she went on to become a prominent figure in British popular literature, noted for her witty social commentary and depictions of upper-middle-class life.   
+## 特雷弗_劳伦斯   
+William Trevor Lawrence is an American professional football quarterback for the Jacksonville Jaguars of the National Football League (NFL). Considered among the highest-touted college football prospects, he won the 2019 National Championship Game as a freshman with the Clemson Tigers and set the school's record for quarterback wins. Lawrence was selected first overall by the Jaguars in the 2021 NFL draft.   
 
-吉莉·库珀女爵士是一位英国作家和记者，以其长期出版的《鲁特郡编年史》系列而闻名。她开始了自己的新闻职业生涯，并出版了几部非小说类作品，包括有关阶级、动物和婚姻的书籍，然后转向小说。她的第一部爱情小说于1975年出版，她后来成为英国流行文学中的杰出人物，以机智的社会评论和对中上层生活的描述而闻名。   
+威廉·特雷弗·劳伦斯（英语：William Trevor Lawrence）是美国国家橄榄球联盟（NFL）杰克逊维尔美洲虎队的职业橄榄球四分卫。被认为是最受吹捧的大学足球前景之一，他赢得了2019年全国冠军赛作为一个新生与克莱姆森老虎队，并设置了学校的四分卫胜利的纪录。劳伦斯在2021年NFL选秀中被美洲虎队第一次选中。   
 
-阅读延伸[928610]: [https://en.wikipedia.org/wiki/Jilly_Cooper](https://en.wikipedia.org/wiki/Jilly_Cooper)   
+阅读延伸[55387248]: [https://en.wikipedia.org/wiki/Trevor_Lawrence](https://en.wikipedia.org/wiki/Trevor_Lawrence)   
 
-## Cyndi_Lauper   
-Cynthia Ann Stephanie Lauper is an American singer, songwriter and actress. Known for her distinctive image, featuring a variety of hair colors and eccentric clothing, and for her powerful four-octave vocal range, Lauper has sold over 50 million records worldwide. She has also been celebrated for her humanitarian work, particularly as an advocate for LGBTQ rights in the United States.   
+## 安东尼_帕金斯   
+Anthony Perkins was an American actor. Born in Manhattan, he began his acting career as a teenager in summer stock theatre, and appeared in films prior to his Broadway debut. His first film role was in The Actress (1953). That same year, he debuted on Broadway in Tea and Sympathy, a performance for which he received critical acclaim.   
 
-辛西娅·安·斯蒂芬妮·劳珀是一位美国歌手、词曲作者和女演员。Lauper以其独特的形象、各种发色和古怪的服装以及强大的四八度音域而闻名，在全球售出了超过5000万张唱片。她还因其人道主义工作而受到赞誉，特别是作为美国LGBTQ权利的倡导者。   
+安东尼·帕金斯是一位美国演员。他出生于曼哈顿，十几岁时在夏季股票剧院开始了他的演艺生涯，并在首次亮相百老汇之前出现在电影中。他的第一个电影角色是在《女演员》（1953年）中。同年，他在百老汇首次亮相《茶与同情》，并获得了评论界的好评。   
 
-阅读延伸[85226]: [https://en.wikipedia.org/wiki/Cyndi_Lauper](https://en.wikipedia.org/wiki/Cyndi_Lauper)   
+阅读延伸[167595]: [https://en.wikipedia.org/wiki/Anthony_Perkins](https://en.wikipedia.org/wiki/Anthony_Perkins)   
 
-## Drake_Maye   
-Drake Lee Maye is an American professional football quarterback for the New England Patriots of the National Football League (NFL). He played college football for the North Carolina Tar Heels, winning ACC Football Player of the Year in 2022 after leading the NCAA in total yards and setting single-season school records in passing yards and touchdowns. Maye was selected third overall by the Patriots in the 2024 NFL draft and earned Pro Bowl honors during his rookie season.   
+## 莉齐_博登   
+Lizzie Andrew Borden was an American woman who was tried and acquitted of the August 4, 1892 axe murders of her father and stepmother in Fall River, Massachusetts. No one else was charged in the murders and, despite ostracism from other residents, Borden spent the remainder of her life in Fall River. She died of pneumonia at age 66, just days before the death of her older sister Emma.   
 
-德雷克·李·梅（Drake Lee Maye）是美国国家橄榄球联盟（NFL）新英格兰爱国者队的美国职业橄榄球四分卫。他曾为北卡罗来纳州焦油高跟鞋队踢大学橄榄球，在总码数领先NCAA并创下传球码数和达阵单赛季学校纪录后，于2022年荣获ACC年度最佳足球运动员。梅耶在2024年NFL选秀中被爱国者队选为第三名，并在新秀赛季中赢得了职业碗荣誉。   
+莉齐·安德鲁·博登（Lizzie Andrew Borden）是一名美国妇女，她因1892年8月4日在马萨诸塞州福尔河（Fall River）用斧头谋杀她的父亲和继母而受到审判并被无罪释放。没有其他人被指控谋杀，尽管受到其他居民的排斥，博登还是在福尔河度过了余生。她死于肺炎，享年66岁，就在她姐姐艾玛去世的几天前。   
 
-阅读延伸[71423949]: [https://en.wikipedia.org/wiki/Drake_Maye](https://en.wikipedia.org/wiki/Drake_Maye)   
+阅读延伸[214796]: [https://en.wikipedia.org/wiki/Lizzie_Borden](https://en.wikipedia.org/wiki/Lizzie_Borden)   
 
 ## 查理_汉南   
 Charles Matthew Hunnam is an English actor. He portrayed Jax Teller in the FX drama series Sons of Anarchy (2008–2014), for which he was twice nominated for the Critics' Choice Television Award for Best Actor.   
@@ -76,33 +69,33 @@ Charles Matthew Hunnam is an English actor. He portrayed Jax Teller in the FX dr
 
 阅读延伸[1524606]: [https://en.wikipedia.org/wiki/Charlie_Hunnam](https://en.wikipedia.org/wiki/Charlie_Hunnam)   
 
-## 仲秋_节日   
-The Mid-Autumn Festival, also known as the Moon Festival or Mooncake Festival, is a harvest festival celebrated in Chinese culture. It is held on the 15th day of the 8th month of the Chinese lunisolar calendar with a full moon at night, corresponding to mid-September to early October of the Gregorian calendar. On this day, the Chinese believe that the moon is at its brightest and fullest size, coinciding with harvest time in the middle of autumn.   
-
-仲秋节，也称为月亮节或月亮节，是中国文化中庆祝的丰收节日。它于农历八月十五日举行，晚上满月，相当于农历九月中旬至十月上旬。中国人相信这一天月亮最明亮、最丰满，恰逢仲秋的收获季节。   
-
-阅读延伸[311934]: [https://en.wikipedia.org/wiki/Mid-Autumn_Festival](https://en.wikipedia.org/wiki/Mid-Autumn_Festival)   
-
-## 马克_桑切斯   
-Mark Travis John Sanchez is an American former professional football player who was a quarterback in the National Football League (NFL) for 10 seasons. He played college football for the USC Trojans and was selected by the New York Jets in the first round of the 2009 NFL draft. Sanchez is currently a color analyst for NFL coverage on Fox and Fox Sports 1.   
-
-马克·特拉维斯·约翰·桑切斯（Mark Travis John Sanchez）是一位美国前职业足球运动员，曾在国家橄榄球联盟（NFL）担任四分卫10个赛季。他曾为南加州大学特洛伊人队踢大学橄榄球，并在2009年NFL选秀第一轮中被纽约喷气机队选中。桑切斯目前是NFL对福克斯和福克斯体育1台报道的颜色分析师。   
-
-阅读延伸[4913435]: [https://en.wikipedia.org/wiki/Mark_Sanchez](https://en.wikipedia.org/wiki/Mark_Sanchez)   
-
-## Stefon_Diggs   
-Stefon Marsean Diggs is an American professional football wide receiver for the New England Patriots of the National Football League (NFL). He played college football for the Maryland Terrapins and was selected by the Minnesota Vikings in the fifth round of the 2015 NFL draft.   
-
-斯特凡·马赛·迪格斯（Stefon Marsean Diggs）是美国国家橄榄球联盟（NFL）新英格兰爱国者队的美国职业橄榄球接球手。他曾为马里兰龟队踢大学橄榄球，并在2015年NFL选秀第五轮中被明尼苏达维京人队选中。   
-
-阅读延伸[37766544]: [https://en.wikipedia.org/wiki/Stefon_Diggs](https://en.wikipedia.org/wiki/Stefon_Diggs)   
-
 ## 死亡_in_2025   
 The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
 
 以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
 
 阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
+
+## 他妈   
+Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
+
+Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词或表达蔑视。虽然它的起源并不清楚，但通常被认为是在1475年左右首次得到证实的。在现代使用中，fuck一词及其衍生词被用作名词、动词、形容词、中词、感叹词或副词。有许多常用短语使用该词，以及包含该词的复合词，例如muddermuses和fuck off。   
+
+阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
+
+## 一场接一场的战斗   
+One Battle After Another is a 2025 American epic action thriller film written, produced, and directed by Paul Thomas Anderson. It is inspired by the 1990 novel Vineland by Thomas Pynchon. The film stars Leonardo DiCaprio, Sean Penn, Benicio del Toro, Regina Hall, Teyana Taylor, and Chase Infiniti, and follows an ex-revolutionary (DiCaprio) who must rescue his daughter (Infiniti) from a corrupt military official (Penn).   
+
+一场又一场的战斗是一部2025年美国史诗动作惊悚电影，由保罗·托马斯·安德森编剧、制作和导演。它的灵感来自托马斯·品钦（Thomas Pynchon）1990年的小说《葡萄园》。这部电影由莱昂纳多·迪卡普里奥、肖恩·潘、贝尼西奥·德尔·托罗、雷吉娜·霍尔、泰亚娜·泰勒和蔡斯·英菲尼迪主演，讲述了一位前革命家（迪卡普里奥饰）必须从腐败的军官（潘饰）手中救出女儿（英菲尼迪饰）的故事。   
+
+阅读延伸[73258137]: [https://en.wikipedia.org/wiki/One_Battle_After_Another](https://en.wikipedia.org/wiki/One_Battle_After_Another)   
+
+## 帕姆·邦迪   
+Pamela Jo Bondi is an American attorney, lobbyist, and politician who served as the 37th Florida attorney general from 2011 to 2019. A member of the Republican Party, she was the first woman elected to the office.   
+
+帕梅拉·乔·邦迪（Pamela Jo Bondi）是一名美国律师、说客和政治家，曾于2011年至2019年担任佛罗里达州第37任总检察长。作为共和党成员，她是第一位当选该职位的女性。   
+
+阅读延伸[4550623]: [https://en.wikipedia.org/wiki/Pam_Bondi](https://en.wikipedia.org/wiki/Pam_Bondi)   
 
 ## 歌舞女郎的生活   
 The Life of a Showgirl is the upcoming twelfth studio album by the American singer-songwriter Taylor Swift. It is scheduled for release through Republic Records, and has been made available for pre-order on Swift's website. According to the interpretation of Swift's Easter eggs by fans and media outlets, the album is showgirl-themed, features an orange and mint visual aesthetic, and involves the Swedish producers Max Martin and Shellback. 
@@ -113,6 +106,20 @@ The Life of a Showgirl是美国创作歌手泰勒·斯威夫特即将发行的�
 
 阅读延伸[80720346]: [https://en.wikipedia.org/wiki/The_Life_of_a_Showgirl](https://en.wikipedia.org/wiki/The_Life_of_a_Showgirl)   
 
+## 《惊魂记》_（1960_电影）   
+Psycho is a 1960 American horror film produced and directed by Alfred Hitchcock. The screenplay, written by Joseph Stefano, was based on the 1959 novel of the same name by Robert Bloch. The film stars Anthony Perkins, Janet Leigh, Vera Miles, John Gavin and Martin Balsam. The plot centers on an encounter between on-the-run embezzler Marion Crane (Leigh), shy motel proprietor Norman Bates (Perkins) and his disturbed mother. A private investigator (Balsam), Marion's lover Sam Loomis (Gavin) and her sister Lila (Miles) investigate her disappearance.   
+
+《惊魂记》是一部1960年的美国恐怖电影，由阿尔弗雷德·希区柯克制作和导演。该剧本由约瑟夫·斯特凡诺（Joseph Stefano）编剧，改编自罗伯特·布洛赫（Robert Bloch）1959年的同名小说。这部电影由安东尼·帕金斯、珍妮特·利、维拉·迈尔斯、约翰·加文和马丁·巴尔萨姆主演。情节以在逃的贪污犯玛丽昂·克兰（利饰）、害羞的汽车旅馆老板诺曼·贝茨（帕金斯饰）和他精神错乱的母亲之间的邂逅为中心。私家侦探（巴尔萨姆饰）、马里恩的情人萨姆·卢米斯（加文饰）和她的妹妹莉拉（迈尔斯饰）调查她的失踪。   
+
+阅读延伸[23880]: [https://en.wikipedia.org/wiki/Psycho_(1960_film)](https://en.wikipedia.org/wiki/Psycho_(1960_film))   
+
+## 马克_桑切斯   
+Mark Travis John Sanchez is an American former professional football player who was a quarterback in the National Football League (NFL) for 10 seasons. He played college football for the USC Trojans and was selected by the New York Jets in the first round of the 2009 NFL draft. Sanchez is currently a color analyst for NFL coverage on Fox and Fox Sports 1.   
+
+马克·特拉维斯·约翰·桑切斯（Mark Travis John Sanchez）是一位美国前职业足球运动员，曾在国家橄榄球联盟（NFL）担任四分卫10个赛季。他曾为南加州大学特洛伊人队踢大学橄榄球，并在2009年NFL选秀第一轮中被纽约喷气机队选中。桑切斯目前是NFL对福克斯和福克斯体育1台报道的颜色分析师。   
+
+阅读延伸[4913435]: [https://en.wikipedia.org/wiki/Mark_Sanchez](https://en.wikipedia.org/wiki/Mark_Sanchez)   
+
 ## 简_古道尔   
 Dame Jane Morris Goodall, formerly Baroness Jane van Lawick-Goodall, was an English zoologist, primatologist and anthropologist. She was considered the world's foremost expert on chimpanzees, having studied the social and family interactions of wild chimpanzees for over 60 years. Goodall first went to Gombe Stream National Park in Tanzania to observe its chimpanzees in 1960.   
 
@@ -120,24 +127,17 @@ Dame Jane Morris Goodall, formerly Baroness Jane van Lawick-Goodall, was an Engl
 
 阅读延伸[45397]: [https://en.wikipedia.org/wiki/Jane_Goodall](https://en.wikipedia.org/wiki/Jane_Goodall)   
 
-## 他妈   
-Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
+## 6-7_（模因）   
+The 6-7 meme ( ) is an internet meme and slang term that emerged in early 2025 on TikTok and Instagram Reels. It originated from the repeated lyric "6-7" in the song "Doot Doot " by Skrilla, which was used on social media in video edits of professional basketball players such as LaMelo Ball who is 6 feet 7 inches tall. The term "6-7" spread as slang among Generation Alpha and Generation Z. As the meme's reach expanded in August of 2025, one child became known as the "6-7 Kid" after a viral video showed him saying the term while moving his hands up and down at an Amateur Athletic Union basketball game. It is often compared to 41, a meme of similar origin, where rapper Blizzi Boi in his song "41 Song " repeats the number "41" throughout.   
 
-Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词或表达蔑视。虽然它的起源并不清楚，但通常被认为是在1475年左右首次得到证实的。在现代使用中，fuck一词及其衍生词被用作名词、动词、形容词、中词、感叹词或副词。有许多常用短语使用该词，以及包含该词的复合词，例如muddermuses和fuck off。   
+6-7模因（）是一个互联网模因和俚语，于2025年初出现在TikTok和Instagram Reels上。它起源于Skrilla歌曲《Doot Doot》中重复的歌词“6-7”，该歌曲在社交媒体上被用于对身高6英尺7英寸的LaMelo Ball等职业篮球运动员进行视频编辑。“6-7”一词在Alpha世代和Z世代之间作为俚语传播。2025年8月，随着这个模因的影响范围扩大，一段广为流传的视频显示，一名孩子在业余田径联盟篮球比赛中上下移动双手时说出了这个词，因此被称为“6-7小子”。它经常被与41进行比较，41是一个起源相似的模因，说唱歌手Blizzi Boi在他的歌曲《41 Song》中自始至终重复了数字“41”。   
 
-阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
+阅读延伸[80838096]: [https://en.wikipedia.org/wiki/6-7_(meme)](https://en.wikipedia.org/wiki/6-7_(meme))   
 
-## 刘易斯_穆迪   
-Lewis Walton Moody is an English retired rugby union player. He played for Leicester Tigers and Bath and was part of the 2003 World Cup winning side.   
+## 泰勒_斯威夫特   
+Taylor Alison Swift is an American singer-songwriter. Known for her autobiographical songwriting, artistic reinventions, and cultural impact, Swift is a leading figure in popular music and the subject of widespread public interest.   
 
-刘易斯·沃尔顿·穆迪（Lewis Walton Moody）是一位英国退役橄榄球联盟球员。他曾效力于莱斯特老虎队和巴斯队，并且是2003年世界杯冠军球队的一员。   
+泰勒·艾莉森·斯威夫特（Taylor Alison Swift）是一位美国创作型歌手。斯威夫特以自传体歌曲创作、艺术重塑和文化影响而闻名，是流行音乐领域的领军人物，也是公众广泛关注的主题。   
 
-阅读延伸[769602]: [https://en.wikipedia.org/wiki/Lewis_Moody](https://en.wikipedia.org/wiki/Lewis_Moody)   
-
-## 一场接一场的战斗   
-One Battle After Another is a 2025 American epic action thriller film written, produced, and directed by Paul Thomas Anderson. It is inspired by the 1990 novel Vineland by Thomas Pynchon. The film stars Leonardo DiCaprio, Sean Penn, Benicio del Toro, Regina Hall, Teyana Taylor, and Chase Infiniti, and follows an ex-revolutionary (DiCaprio) who must rescue his daughter (Infiniti) from a corrupt military official (Penn).   
-
-一场又一场的战斗是一部2025年美国史诗动作惊悚电影，由保罗·托马斯·安德森编剧、制作和导演。它的灵感来自托马斯·品钦（Thomas Pynchon）1990年的小说《葡萄园》。这部电影由莱昂纳多·迪卡普里奥、肖恩·潘、贝尼西奥·德尔·托罗、雷吉娜·霍尔、泰亚娜·泰勒和蔡斯·英菲尼迪主演，讲述了一位前革命家（迪卡普里奥饰）必须从腐败的军官（潘饰）手中救出女儿（英菲尼迪饰）的故事。   
-
-阅读延伸[73258137]: [https://en.wikipedia.org/wiki/One_Battle_After_Another](https://en.wikipedia.org/wiki/One_Battle_After_Another)   
+阅读延伸[5422144]: [https://en.wikipedia.org/wiki/Taylor_Swift](https://en.wikipedia.org/wiki/Taylor_Swift)   
 
