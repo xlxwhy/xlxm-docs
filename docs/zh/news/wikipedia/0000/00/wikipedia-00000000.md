@@ -34,61 +34,19 @@ Ilse Koch was a German war criminal who committed atrocities while her husband K
 
 阅读延伸[341299]: [https://en.wikipedia.org/wiki/Ilse_Koch](https://en.wikipedia.org/wiki/Ilse_Koch)   
 
+## 多莉_帕顿   
+Dolly Rebecca Parton is an American singer, songwriter, actress, philanthropist, and businesswoman. After achieving success as a songwriter for other artists, Parton's debut album, Hello, I'm Dolly, was released in 1967, commencing a career spanning 60 years and 50 studio albums. Referred to as the "Queen of Country", Parton is one of the most-honored female country performers of all time and has received various accolades, including eleven Grammy Awards and three Emmy Awards, as well as nominations for two Academy Awards, six Golden Globe Awards, and a Tony Award.   
+
+多莉·丽贝卡·帕顿（Dolly Rebecca Parton）是一位美国歌手、词曲作者、演员、慈善家和女商人。在作为其他艺术家的词曲作者取得成功后，帕顿的首张专辑《你好，我是多莉》于1967年发行，开始了跨越60年和50张录音室专辑的职业生涯。帕顿被称为“乡村女王”，是有史以来最受尊敬的乡村女演员之一，获得了各种荣誉，包括十一项格莱美奖和三项艾美奖，以及两项奥斯卡奖、六项金球奖和托尼奖的提名。   
+
+阅读延伸[8716]: [https://en.wikipedia.org/wiki/Dolly_Parton](https://en.wikipedia.org/wiki/Dolly_Parton)   
+
 ## 理查德_斯佩克   
 Richard Benjamin Speck was an American mass murderer who killed eight student nurses in their South Deering, Chicago, residence via stabbing, strangling, slashing their throats, or a combination of the three on the night of July 13–14, 1966. Speck also raped one victim before killing her. A ninth potential victim, student nurse Corazon Amurao, survived by hiding beneath a bed.   
 
 理查德·本杰明·斯佩克（Richard Benjamin Speck）是一名美国大屠杀凶手，1966年7月13日至14日晚，他在芝加哥南迪林的住所通过刺伤、勒死、割喉或三者结合的方式杀害了八名学生护士。斯佩克还强奸了一名受害者，然后杀死了她。第九名潜在受害者、学生护士科拉松·阿姆鲁奥（Corazon Amurao）躲在床底下幸存下来。   
 
 阅读延伸[700374]: [https://en.wikipedia.org/wiki/Richard_Speck](https://en.wikipedia.org/wiki/Richard_Speck)   
-
-## 特雷弗_劳伦斯   
-William Trevor Lawrence is an American professional football quarterback for the Jacksonville Jaguars of the National Football League (NFL). Considered among the highest-touted college football prospects, he won the 2019 National Championship Game as a freshman with the Clemson Tigers and set the school's record for quarterback wins. Lawrence was selected first overall by the Jaguars in the 2021 NFL draft.   
-
-威廉·特雷弗·劳伦斯（英语：William Trevor Lawrence）是美国国家橄榄球联盟（NFL）杰克逊维尔美洲虎队的职业橄榄球四分卫。被认为是最受吹捧的大学足球前景之一，他赢得了2019年全国冠军赛作为一个新生与克莱姆森老虎队，并设置了学校的四分卫胜利的纪录。劳伦斯在2021年NFL选秀中被美洲虎队第一次选中。   
-
-阅读延伸[55387248]: [https://en.wikipedia.org/wiki/Trevor_Lawrence](https://en.wikipedia.org/wiki/Trevor_Lawrence)   
-
-## 安东尼_帕金斯   
-Anthony Perkins was an American actor. Born in Manhattan, he began his acting career as a teenager in summer stock theatre, and appeared in films prior to his Broadway debut. His first film role was in The Actress (1953). That same year, he debuted on Broadway in Tea and Sympathy, a performance for which he received critical acclaim.   
-
-安东尼·帕金斯是一位美国演员。他出生于曼哈顿，十几岁时在夏季股票剧院开始了他的演艺生涯，并在首次亮相百老汇之前出现在电影中。他的第一个电影角色是在《女演员》（1953年）中。同年，他在百老汇首次亮相《茶与同情》，并获得了评论界的好评。   
-
-阅读延伸[167595]: [https://en.wikipedia.org/wiki/Anthony_Perkins](https://en.wikipedia.org/wiki/Anthony_Perkins)   
-
-## 莉齐_博登   
-Lizzie Andrew Borden was an American woman who was tried and acquitted of the August 4, 1892 axe murders of her father and stepmother in Fall River, Massachusetts. No one else was charged in the murders and, despite ostracism from other residents, Borden spent the remainder of her life in Fall River. She died of pneumonia at age 66, just days before the death of her older sister Emma.   
-
-莉齐·安德鲁·博登（Lizzie Andrew Borden）是一名美国妇女，她因1892年8月4日在马萨诸塞州福尔河（Fall River）用斧头谋杀她的父亲和继母而受到审判并被无罪释放。没有其他人被指控谋杀，尽管受到其他居民的排斥，博登还是在福尔河度过了余生。她死于肺炎，享年66岁，就在她姐姐艾玛去世的几天前。   
-
-阅读延伸[214796]: [https://en.wikipedia.org/wiki/Lizzie_Borden](https://en.wikipedia.org/wiki/Lizzie_Borden)   
-
-## 查理_汉南   
-Charles Matthew Hunnam is an English actor. He portrayed Jax Teller in the FX drama series Sons of Anarchy (2008–2014), for which he was twice nominated for the Critics' Choice Television Award for Best Actor.   
-
-查尔斯·马修·汉纳姆是一位英国演员。他在FX电视剧《无政府之子》（2008-2014）中饰演贾克斯·特勒，并因此两次获得评论家选择电视奖最佳男主角提名。   
-
-阅读延伸[1524606]: [https://en.wikipedia.org/wiki/Charlie_Hunnam](https://en.wikipedia.org/wiki/Charlie_Hunnam)   
-
-## 死亡_in_2025   
-The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
-
-以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
-
-阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
-
-## 他妈   
-Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
-
-Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词或表达蔑视。虽然它的起源并不清楚，但通常被认为是在1475年左右首次得到证实的。在现代使用中，fuck一词及其衍生词被用作名词、动词、形容词、中词、感叹词或副词。有许多常用短语使用该词，以及包含该词的复合词，例如muddermuses和fuck off。   
-
-阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
-
-## 一场接一场的战斗   
-One Battle After Another is a 2025 American epic action thriller film written, produced, and directed by Paul Thomas Anderson. It is inspired by the 1990 novel Vineland by Thomas Pynchon. The film stars Leonardo DiCaprio, Sean Penn, Benicio del Toro, Regina Hall, Teyana Taylor, and Chase Infiniti, and follows an ex-revolutionary (DiCaprio) who must rescue his daughter (Infiniti) from a corrupt military official (Penn).   
-
-一场又一场的战斗是一部2025年美国史诗动作惊悚电影，由保罗·托马斯·安德森编剧、制作和导演。它的灵感来自托马斯·品钦（Thomas Pynchon）1990年的小说《葡萄园》。这部电影由莱昂纳多·迪卡普里奥、肖恩·潘、贝尼西奥·德尔·托罗、雷吉娜·霍尔、泰亚娜·泰勒和蔡斯·英菲尼迪主演，讲述了一位前革命家（迪卡普里奥饰）必须从腐败的军官（潘饰）手中救出女儿（英菲尼迪饰）的故事。   
-
-阅读延伸[73258137]: [https://en.wikipedia.org/wiki/One_Battle_After_Another](https://en.wikipedia.org/wiki/One_Battle_After_Another)   
 
 ## 帕姆·邦迪   
 Pamela Jo Bondi is an American attorney, lobbyist, and politician who served as the 37th Florida attorney general from 2011 to 2019. A member of the Republican Party, she was the first woman elected to the office.   
@@ -97,47 +55,87 @@ Pamela Jo Bondi is an American attorney, lobbyist, and politician who served as 
 
 阅读延伸[4550623]: [https://en.wikipedia.org/wiki/Pam_Bondi](https://en.wikipedia.org/wiki/Pam_Bondi)   
 
-## 歌舞女郎的生活   
-The Life of a Showgirl is the upcoming twelfth studio album by the American singer-songwriter Taylor Swift. It is scheduled for release through Republic Records, and has been made available for pre-order on Swift's website. According to the interpretation of Swift's Easter eggs by fans and media outlets, the album is showgirl-themed, features an orange and mint visual aesthetic, and involves the Swedish producers Max Martin and Shellback. 
-The album was announced on a podcast with American football players Travis and Jason Kelce.   
+## 露丝_科德   
+Ruth Codd is an Irish actress. She is best known for starring as Anya in Netflix mystery thriller series The Midnight Club (2022) and Juno Usher in the Netflix horror miniseries The Fall of the House of Usher (2023).   
 
-The Life of a Showgirl是美国创作歌手泰勒·斯威夫特即将发行的第十二张录音室专辑。它计划通过Republic Records发行，并已在Swift网站上进行预订。根据歌迷和媒体对斯威夫特复活节彩蛋的解读，这张专辑以歌舞女郎为主题，具有橙色和薄荷的视觉美学，瑞典制作人马克斯·马丁和谢尔巴克参与其中。 
-这张专辑是在美国橄榄球运动员特拉维斯和杰森·凯尔斯的播客上宣布的。   
+露丝·科德是一位爱尔兰女演员。她因在Netflix悬疑惊悚剧《午夜俱乐部》（The Midnight Club）中饰演安雅（Anya）和在Netflix恐怖迷你剧《亚瑟之家的陷落》（The Fall of the House of Usher）中饰演朱诺·亚瑟（Juno Usher）而闻名。   
 
-阅读延伸[80720346]: [https://en.wikipedia.org/wiki/The_Life_of_a_Showgirl](https://en.wikipedia.org/wiki/The_Life_of_a_Showgirl)   
+阅读延伸[73493813]: [https://en.wikipedia.org/wiki/Ruth_Codd](https://en.wikipedia.org/wiki/Ruth_Codd)   
 
-## 《惊魂记》_（1960_电影）   
-Psycho is a 1960 American horror film produced and directed by Alfred Hitchcock. The screenplay, written by Joseph Stefano, was based on the 1959 novel of the same name by Robert Bloch. The film stars Anthony Perkins, Janet Leigh, Vera Miles, John Gavin and Martin Balsam. The plot centers on an encounter between on-the-run embezzler Marion Crane (Leigh), shy motel proprietor Norman Bates (Perkins) and his disturbed mother. A private investigator (Balsam), Marion's lover Sam Loomis (Gavin) and her sister Lila (Miles) investigate her disappearance.   
+## 莉齐_博登   
+Lizzie Andrew Borden was an American woman who was tried and acquitted of the August 4, 1892 axe murders of her father and stepmother in Fall River, Massachusetts. No one else was charged in the murders and, despite ostracism from other residents, Borden spent the remainder of her life in Fall River. She died of pneumonia at age 66, just days before the death of her older sister Emma.   
 
-《惊魂记》是一部1960年的美国恐怖电影，由阿尔弗雷德·希区柯克制作和导演。该剧本由约瑟夫·斯特凡诺（Joseph Stefano）编剧，改编自罗伯特·布洛赫（Robert Bloch）1959年的同名小说。这部电影由安东尼·帕金斯、珍妮特·利、维拉·迈尔斯、约翰·加文和马丁·巴尔萨姆主演。情节以在逃的贪污犯玛丽昂·克兰（利饰）、害羞的汽车旅馆老板诺曼·贝茨（帕金斯饰）和他精神错乱的母亲之间的邂逅为中心。私家侦探（巴尔萨姆饰）、马里恩的情人萨姆·卢米斯（加文饰）和她的妹妹莉拉（迈尔斯饰）调查她的失踪。   
+莉齐·安德鲁·博登（Lizzie Andrew Borden）是一名美国妇女，她因1892年8月4日在马萨诸塞州福尔河（Fall River）用斧头谋杀她的父亲和继母而受到审判并被无罪释放。没有其他人被指控谋杀，尽管受到其他居民的排斥，博登还是在福尔河度过了余生。她死于肺炎，享年66岁，就在她姐姐艾玛去世的几天前。   
 
-阅读延伸[23880]: [https://en.wikipedia.org/wiki/Psycho_(1960_film)](https://en.wikipedia.org/wiki/Psycho_(1960_film))   
+阅读延伸[214796]: [https://en.wikipedia.org/wiki/Lizzie_Borden](https://en.wikipedia.org/wiki/Lizzie_Borden)   
 
-## 马克_桑切斯   
-Mark Travis John Sanchez is an American former professional football player who was a quarterback in the National Football League (NFL) for 10 seasons. He played college football for the USC Trojans and was selected by the New York Jets in the first round of the 2009 NFL draft. Sanchez is currently a color analyst for NFL coverage on Fox and Fox Sports 1.   
+## 死亡_in_2025   
+The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
 
-马克·特拉维斯·约翰·桑切斯（Mark Travis John Sanchez）是一位美国前职业足球运动员，曾在国家橄榄球联盟（NFL）担任四分卫10个赛季。他曾为南加州大学特洛伊人队踢大学橄榄球，并在2009年NFL选秀第一轮中被纽约喷气机队选中。桑切斯目前是NFL对福克斯和福克斯体育1台报道的颜色分析师。   
+以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
 
-阅读延伸[4913435]: [https://en.wikipedia.org/wiki/Mark_Sanchez](https://en.wikipedia.org/wiki/Mark_Sanchez)   
+阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
 
-## 简_古道尔   
-Dame Jane Morris Goodall, formerly Baroness Jane van Lawick-Goodall, was an English zoologist, primatologist and anthropologist. She was considered the world's foremost expert on chimpanzees, having studied the social and family interactions of wild chimpanzees for over 60 years. Goodall first went to Gombe Stream National Park in Tanzania to observe its chimpanzees in 1960.   
+## 与星共舞_（美国电视剧）_第34季   
+The thirty-fourth season of Dancing with the Stars premiered on ABC and Disney+ on September 16, 2025. This season, marking the twentieth anniversary of the series, is the third to air live on both networks simultaneously, and was the first of ABC's unscripted programs to earn an official renewal for their 2025–26 schedule. Alfonso Ribeiro returns to host the season, while former professional dancer and judge Julianne Hough returns as co-host.   
 
-简·莫里斯·古道尔女爵士（英语：Dame Jane Morris Goodall），原名简·范·劳维克-古道尔男爵夫人（英语：Baroness Jane van Lawick-Goodall），是一位英国动物学家、灵长类动物学家和人类学家。她被认为是世界上最重要的黑猩猩专家，研究野生黑猩猩的社会和家庭互动超过60年。古道尔于1960年首次前往坦桑尼亚的贡贝溪国家公园观察黑猩猩。   
+《与星共舞》第三十四季于2025年9月16日在ABC和Disney+首播。本季是该系列播出二十周年，是第三部在两个电视台同时直播的剧集，也是ABC第一部获得2025-26年节目表正式续订的无剧本节目。阿方索·里贝罗（Alfonso Ribeiro）回归主持本季，而前职业舞者兼评委朱丽安·霍夫（Julianne Hough）回归担任联合主持人。   
 
-阅读延伸[45397]: [https://en.wikipedia.org/wiki/Jane_Goodall](https://en.wikipedia.org/wiki/Jane_Goodall)   
+阅读延伸[79782170]: [https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_34](https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_34)   
 
-## 6-7_（模因）   
-The 6-7 meme ( ) is an internet meme and slang term that emerged in early 2025 on TikTok and Instagram Reels. It originated from the repeated lyric "6-7" in the song "Doot Doot " by Skrilla, which was used on social media in video edits of professional basketball players such as LaMelo Ball who is 6 feet 7 inches tall. The term "6-7" spread as slang among Generation Alpha and Generation Z. As the meme's reach expanded in August of 2025, one child became known as the "6-7 Kid" after a viral video showed him saying the term while moving his hands up and down at an Amateur Athletic Union basketball game. It is often compared to 41, a meme of similar origin, where rapper Blizzi Boi in his song "41 Song " repeats the number "41" throughout.   
+## 安东尼_帕金斯   
+Anthony Perkins was an American actor. Born in Manhattan, he began his acting career as a teenager in summer stock theatre, and appeared in films prior to his Broadway debut. His first film role was in The Actress (1953). That same year, he debuted on Broadway in Tea and Sympathy, a performance for which he received critical acclaim.   
 
-6-7模因（）是一个互联网模因和俚语，于2025年初出现在TikTok和Instagram Reels上。它起源于Skrilla歌曲《Doot Doot》中重复的歌词“6-7”，该歌曲在社交媒体上被用于对身高6英尺7英寸的LaMelo Ball等职业篮球运动员进行视频编辑。“6-7”一词在Alpha世代和Z世代之间作为俚语传播。2025年8月，随着这个模因的影响范围扩大，一段广为流传的视频显示，一名孩子在业余田径联盟篮球比赛中上下移动双手时说出了这个词，因此被称为“6-7小子”。它经常被与41进行比较，41是一个起源相似的模因，说唱歌手Blizzi Boi在他的歌曲《41 Song》中自始至终重复了数字“41”。   
+安东尼·帕金斯是一位美国演员。他出生于曼哈顿，十几岁时在夏季股票剧院开始了他的演艺生涯，并在首次亮相百老汇之前出现在电影中。他的第一个电影角色是在《女演员》（1953年）中。同年，他在百老汇首次亮相《茶与同情》，并获得了评论界的好评。   
 
-阅读延伸[80838096]: [https://en.wikipedia.org/wiki/6-7_(meme)](https://en.wikipedia.org/wiki/6-7_(meme))   
+阅读延伸[167595]: [https://en.wikipedia.org/wiki/Anthony_Perkins](https://en.wikipedia.org/wiki/Anthony_Perkins)   
 
-## 泰勒_斯威夫特   
-Taylor Alison Swift is an American singer-songwriter. Known for her autobiographical songwriting, artistic reinventions, and cultural impact, Swift is a leading figure in popular music and the subject of widespread public interest.   
+## 他妈   
+Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
 
-泰勒·艾莉森·斯威夫特（Taylor Alison Swift）是一位美国创作型歌手。斯威夫特以自传体歌曲创作、艺术重塑和文化影响而闻名，是流行音乐领域的领军人物，也是公众广泛关注的主题。   
+Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词或表达蔑视。虽然它的起源并不清楚，但通常被认为是在1475年左右首次得到证实的。在现代使用中，fuck一词及其衍生词被用作名词、动词、形容词、中词、感叹词或副词。有许多常用短语使用该词，以及包含该词的复合词，例如muddermuses和fuck off。   
 
-阅读延伸[5422144]: [https://en.wikipedia.org/wiki/Taylor_Swift](https://en.wikipedia.org/wiki/Taylor_Swift)   
+阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
+
+## 查理_汉南   
+Charles Matthew Hunnam is an English actor. He portrayed Jax Teller in the FX drama series Sons of Anarchy (2008–2014), for which he was twice nominated for the Critics' Choice Television Award for Best Actor.   
+
+查尔斯·马修·汉纳姆是一位英国演员。他在FX电视剧《无政府之子》（2008-2014）中饰演贾克斯·特勒，并因此两次获得评论家选择电视奖最佳男主角提名。   
+
+阅读延伸[1524606]: [https://en.wikipedia.org/wiki/Charlie_Hunnam](https://en.wikipedia.org/wiki/Charlie_Hunnam)   
+
+## 一场接一场的战斗   
+One Battle After Another is a 2025 American epic action thriller film written, produced, and directed by Paul Thomas Anderson. It is inspired by the 1990 novel Vineland by Thomas Pynchon. The film stars Leonardo DiCaprio, Sean Penn, Benicio del Toro, Regina Hall, Teyana Taylor, and Chase Infiniti, and follows an ex-revolutionary (DiCaprio) who must rescue his daughter (Infiniti) from a corrupt military official (Penn).   
+
+一场又一场的战斗是一部2025年美国史诗动作惊悚电影，由保罗·托马斯·安德森编剧、制作和导演。它的灵感来自托马斯·品钦（Thomas Pynchon）1990年的小说《葡萄园》。这部电影由莱昂纳多·迪卡普里奥、肖恩·潘、贝尼西奥·德尔·托罗、雷吉娜·霍尔、泰亚娜·泰勒和蔡斯·英菲尼迪主演，讲述了一位前革命家（迪卡普里奥饰）必须从腐败的军官（潘饰）手中救出女儿（英菲尼迪饰）的故事。   
+
+阅读延伸[73258137]: [https://en.wikipedia.org/wiki/One_Battle_After_Another](https://en.wikipedia.org/wiki/One_Battle_After_Another)   
+
+## 琼·贝内特·肯尼迪   
+Virginia Joan Kennedy was an American socialite, author, and advocate. She was the first wife of U.S. Senator Ted Kennedy. In 1992, she published a guide to classical music and later became associated with mental health awareness, drawing public attention to addiction and recovery through her own experiences.   
+
+弗吉尼亚·琼·肯尼迪是一位美国社交名流、作家和倡导者。她是美国参议员特德·肯尼迪的第一任妻子。1992年，她出版了一本古典音乐指南，后来与心理健康意识联系在一起，通过自己的经历引起了公众对成瘾和康复的关注。   
+
+阅读延伸[1184511]: [https://en.wikipedia.org/wiki/Joan_Bennett_Kennedy](https://en.wikipedia.org/wiki/Joan_Bennett_Kennedy)   
+
+## 奥马尔_M._ Yaghi   
+Omar Mwannes Yaghi is a Palestinian–American–Jordanian chemist known for pioneering reticular chemistry and for the development of metal–organic frameworks (MOFs). He was awarded the 2025 Nobel Prize in Chemistry, shared with Richard Robson and Susumu Kitagawa, for this work. Yaghi is a University Professor and James and Neeltje Tretter Endowed Chair in Chemistry at the University of California, Berkeley. He is also an affiliate scientist at Lawrence Berkeley National Laboratory, founding director of the Berkeley Global Science Institute, and a member of the U.S. National Academy of Sciences and the German National Academy of Sciences Leopoldina. In January 2025, he became the seventh president of the World Cultural Council, an international organization promoting cultural and scientific advancement.   
+
+奥马尔·姆万尼斯·亚吉（Omar Mwannes Yaghi）是一位巴勒斯坦裔美国裔约旦化学家，以开创网状化学和开发金属有机框架（MOF）而闻名。他被授予2025年诺贝尔化学奖，与理查德·罗布森和北川进分享这项工作。Yaghi是加州大学伯克利分校的大学教授，James Tretter和Neeltje Tretter被授予化学系主席。他还是劳伦斯伯克利国家实验室的附属科学家、伯克利全球科学研究所创始所长、美国国家科学院和德国国家科学院莱奥波尔迪纳院士。2025年1月，他成为世界文化理事会第七任主席，世界文化理事会是一个促进文化和科学进步的国际组织。   
+
+阅读延伸[17344326]: [https://en.wikipedia.org/wiki/Omar_M._Yaghi](https://en.wikipedia.org/wiki/Omar_M._Yaghi)   
+
+## 埃贾   
+Kim Eun-jae, known professionally as Ejae, is a South Korean singer, songwriter, and record producer. She is known for her work with Red Velvet, Aespa, Twice, Le Sserafim, and other South Korean artists. In 2025, Ejae garnered global recognition for providing the singing voice for Rumi in the Netflix film KPop Demon Hunters, as well as writing several of the songs on its soundtrack. "Golden", one of the songs she performed and co-wrote for the film, topped the Billboard Hot 100 as well as charts in several other countries.   
+
+Kim Eun-jae，专业名称Ejae，是一位韩国歌手、词曲作者和唱片制作人。她因与Red Velvet、Aespa、Twice、Le Sserafim和其他韩国艺术家的合作而闻名。2025年，Ejae因在Netflix电影KPop恶魔猎人中为Rumi配音并在其配乐中创作了几首歌曲而获得全球认可。《Golden》是她为这部电影表演和共同创作的歌曲之一，在《公告牌》百强单曲榜以及其他几个国家的排行榜上名列前茅。   
+
+阅读延伸[80305279]: [https://en.wikipedia.org/wiki/Ejae](https://en.wikipedia.org/wiki/Ejae)   
+
+## Cat_Burns   
+Catrina Burns-Temison, is a British singer-songwriter who gained prominence with her 2020 single "Go". The song's popularity increased in 2022 through TikTok, eventually reaching number two on the UK singles chart. It was described by Sony Music as a blend of gospel and pop influences with guitar-led indie music,   
+
+Catrina Burns-Temison是一位英国创作型歌手，凭借2020年的单曲《Go》声名鹊起。这首歌的受欢迎程度在2022年通过TikTok上升，最终在英国单曲排行榜上排名第二。索尼音乐将其描述为福音和流行音乐与吉他主导的独立音乐的融合，   
+
+阅读延伸[70260007]: [https://en.wikipedia.org/wiki/Cat_Burns](https://en.wikipedia.org/wiki/Cat_Burns)   
 
