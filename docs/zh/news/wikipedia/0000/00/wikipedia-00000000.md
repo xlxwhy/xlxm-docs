@@ -20,12 +20,12 @@ Monster: The Ed Gein Story is the third season of the American biographical crim
 
 阅读延伸[77893990]: [https://en.wikipedia.org/wiki/Monster%3A_The_Ed_Gein_Story](https://en.wikipedia.org/wiki/Monster%3A_The_Ed_Gein_Story)   
 
-## 坎塔拉：_第1章   
-Kantara: Chapter 1 is a 2025 Indian Kannada-language period mythological action drama film written and directed by Rishab Shetty, and produced by Vijay Kiragandur and Chaluve Gowda under Hombale Films. A prequel to the 2022 film Kantara, the story delves deeper into the origins of the mythological tradition and ancestral conflict introduced in the first film.   
+## 坎塔拉：_A_传奇_-_第1章   
+Kantara: A Legend - Chapter 1 is a 2025 Indian Kannada-language epic period mythological action drama film written and directed by Rishab Shetty, and produced by Vijay Kiragandur and Chaluve Gowda under Hombale Films. The film stars Rishab Shetty along with Jayaram, Rukmini Vasanth, and Gulshan Devaiah. A prequel to the 2022 film Kantara, The story delves deeper into the origins of the tradition and ancestral conflict introduced in the first film.   
 
-坎塔拉：《第一章》是一部2025年印度卡纳达语时期神话动作片，由Rishab Shetty编剧和导演，Hombale Films旗下的Vijay Kiragandur和Chaluve Gowda制作。作为2022年电影《坎塔拉》的前传，故事更深入地探讨了第一部电影中引入的神话传统和祖先冲突的起源。   
+坎塔拉：《传奇-第一章》是一部2025年印度卡纳达语史诗时期的神话动作片，由Rishab Shetty编剧和导演，Hombale Films旗下的Vijay Kiragandur和Chaluve Gowda制作。这部电影由Rishab Shetty、Jayaram、Rukmini Vasanth和Gulshan Devaiah主演。作为2022年电影《坎塔拉》的前传，故事更深入地探讨了第一部电影中引入的传统和祖先冲突的起源。   
 
-阅读延伸[74654227]: [https://en.wikipedia.org/wiki/Kantara%3A_Chapter_1](https://en.wikipedia.org/wiki/Kantara%3A_Chapter_1)   
+阅读延伸[81182447]: [https://en.wikipedia.org/wiki/Kantara%3A_A_Legend_-_Chapter_1](https://en.wikipedia.org/wiki/Kantara%3A_A_Legend_-_Chapter_1)   
 
 ## 伊尔莎_科赫   
 Ilse Koch was a German war criminal who committed atrocities while her husband Karl-Otto Koch was commandant at Buchenwald. Though Ilse Koch had no official position in the Nazi state, she became one of the most infamous Nazi figures at the war's end and was referred to as the "Kommandeuse of Buchenwald".   
