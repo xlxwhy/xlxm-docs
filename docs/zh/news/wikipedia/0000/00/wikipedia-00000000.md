@@ -34,33 +34,12 @@ Ilse Koch was a German war criminal who committed atrocities while her husband K
 
 阅读延伸[341299]: [https://en.wikipedia.org/wiki/Ilse_Koch](https://en.wikipedia.org/wiki/Ilse_Koch)   
 
-## 多莉_帕顿   
-Dolly Rebecca Parton is an American singer, songwriter, actress, philanthropist, and businesswoman. After achieving success as a songwriter for other artists, Parton's debut album, Hello, I'm Dolly, was released in 1967, commencing a career spanning 60 years and 50 studio albums. Referred to as the "Queen of Country", Parton is one of the most-honored female country performers of all time and has received various accolades, including eleven Grammy Awards and three Emmy Awards, as well as nominations for two Academy Awards, six Golden Globe Awards, and a Tony Award.   
+## 拉斯洛_克拉斯纳霍尔凯   
+László Krasznahorkai is a Hungarian novelist and screenwriter. Krasznahorkai is known for his difficult and demanding novels, often labeled postmodern, which explore dystopian and melancholic themes. Several of his works, including his novels Satantango (1985) and The Melancholy of Resistance (1989), have been adapted into feature films by the director Béla Tarr.   
 
-多莉·丽贝卡·帕顿（Dolly Rebecca Parton）是一位美国歌手、词曲作者、演员、慈善家和女商人。在作为其他艺术家的词曲作者取得成功后，帕顿的首张专辑《你好，我是多莉》于1967年发行，开始了跨越60年和50张录音室专辑的职业生涯。帕顿被称为“乡村女王”，是有史以来最受尊敬的乡村女演员之一，获得了各种荣誉，包括十一项格莱美奖和三项艾美奖，以及两项奥斯卡奖、六项金球奖和托尼奖的提名。   
+拉斯洛·克拉斯纳霍凯是匈牙利小说家和编剧。克拉斯纳霍凯以其困难而要求严格的小说而闻名，这些小说通常被贴上后现代的标签，探讨反乌托邦和忧郁的主题。他的几部作品，包括小说《萨坦坦戈》（Satantango，1985）和《抵抗的忧郁》（The Melancholy of Resistance，1989），已被导演贝拉·塔尔改编成故事片。   
 
-阅读延伸[8716]: [https://en.wikipedia.org/wiki/Dolly_Parton](https://en.wikipedia.org/wiki/Dolly_Parton)   
-
-## 理查德_斯佩克   
-Richard Benjamin Speck was an American mass murderer who killed eight student nurses in their South Deering, Chicago, residence via stabbing, strangling, slashing their throats, or a combination of the three on the night of July 13–14, 1966. Speck also raped one victim before killing her. A ninth potential victim, student nurse Corazon Amurao, survived by hiding beneath a bed.   
-
-理查德·本杰明·斯佩克（Richard Benjamin Speck）是一名美国大屠杀凶手，1966年7月13日至14日晚，他在芝加哥南迪林的住所通过刺伤、勒死、割喉或三者结合的方式杀害了八名学生护士。斯佩克还强奸了一名受害者，然后杀死了她。第九名潜在受害者、学生护士科拉松·阿姆鲁奥（Corazon Amurao）躲在床底下幸存下来。   
-
-阅读延伸[700374]: [https://en.wikipedia.org/wiki/Richard_Speck](https://en.wikipedia.org/wiki/Richard_Speck)   
-
-## 帕姆·邦迪   
-Pamela Jo Bondi is an American attorney, lobbyist, and politician who served as the 37th Florida attorney general from 2011 to 2019. A member of the Republican Party, she was the first woman elected to the office.   
-
-帕梅拉·乔·邦迪（Pamela Jo Bondi）是一名美国律师、说客和政治家，曾于2011年至2019年担任佛罗里达州第37任总检察长。作为共和党成员，她是第一位当选该职位的女性。   
-
-阅读延伸[4550623]: [https://en.wikipedia.org/wiki/Pam_Bondi](https://en.wikipedia.org/wiki/Pam_Bondi)   
-
-## 露丝_科德   
-Ruth Codd is an Irish actress. She is best known for starring as Anya in Netflix mystery thriller series The Midnight Club (2022) and Juno Usher in the Netflix horror miniseries The Fall of the House of Usher (2023).   
-
-露丝·科德是一位爱尔兰女演员。她因在Netflix悬疑惊悚剧《午夜俱乐部》（The Midnight Club）中饰演安雅（Anya）和在Netflix恐怖迷你剧《亚瑟之家的陷落》（The Fall of the House of Usher）中饰演朱诺·亚瑟（Juno Usher）而闻名。   
-
-阅读延伸[73493813]: [https://en.wikipedia.org/wiki/Ruth_Codd](https://en.wikipedia.org/wiki/Ruth_Codd)   
+阅读延伸[3794578]: [https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Krasznahorkai](https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Krasznahorkai)   
 
 ## 莉齐_博登   
 Lizzie Andrew Borden was an American woman who was tried and acquitted of the August 4, 1892 axe murders of her father and stepmother in Fall River, Massachusetts. No one else was charged in the murders and, despite ostracism from other residents, Borden spent the remainder of her life in Fall River. She died of pneumonia at age 66, just days before the death of her older sister Emma.   
@@ -69,26 +48,26 @@ Lizzie Andrew Borden was an American woman who was tried and acquitted of the Au
 
 阅读延伸[214796]: [https://en.wikipedia.org/wiki/Lizzie_Borden](https://en.wikipedia.org/wiki/Lizzie_Borden)   
 
+## 2025年_诺贝尔奖_和平奖   
+The 2025 Nobel Peace Prize is an international peace prize established according to Alfred Nobel's will that will be announced on 10 October 2025 by the Norwegian Nobel Committee in Oslo, Norway, and awarded on 10 December 2025.   
+
+2025年诺贝尔和平奖是根据阿尔弗雷德·诺贝尔遗嘱设立的国际和平奖，将于2025年10月10日由位于挪威奥斯陆的挪威诺贝尔委员会宣布，并于2025年12月10日颁发。   
+
+阅读延伸[78880914]: [https://en.wikipedia.org/wiki/2025_Nobel_Peace_Prize](https://en.wikipedia.org/wiki/2025_Nobel_Peace_Prize)   
+
+## 理查德_斯佩克   
+Richard Benjamin Speck was an American mass murderer who killed eight student nurses in their South Deering, Chicago, residence via stabbing, strangling, slashing their throats, or a combination of the three on the night of July 13–14, 1966. Speck also raped one victim before killing her. A ninth potential victim, student nurse Corazon Amurao, survived by hiding beneath a bed.   
+
+理查德·本杰明·斯佩克（Richard Benjamin Speck）是一名美国大屠杀凶手，1966年7月13日至14日晚，他在芝加哥南迪林的住所通过刺伤、勒死、割喉或三者结合的方式杀害了八名学生护士。斯佩克还强奸了一名受害者，然后杀死了她。第九名潜在受害者、学生护士科拉松·阿姆鲁奥（Corazon Amurao）躲在床底下幸存下来。   
+
+阅读延伸[700374]: [https://en.wikipedia.org/wiki/Richard_Speck](https://en.wikipedia.org/wiki/Richard_Speck)   
+
 ## 死亡_in_2025   
 The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
 
 以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
 
 阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
-
-## 与星共舞_（美国电视剧）_第34季   
-The thirty-fourth season of Dancing with the Stars premiered on ABC and Disney+ on September 16, 2025. This season, marking the twentieth anniversary of the series, is the third to air live on both networks simultaneously, and was the first of ABC's unscripted programs to earn an official renewal for their 2025–26 schedule. Alfonso Ribeiro returns to host the season, while former professional dancer and judge Julianne Hough returns as co-host.   
-
-《与星共舞》第三十四季于2025年9月16日在ABC和Disney+首播。本季是该系列播出二十周年，是第三部在两个电视台同时直播的剧集，也是ABC第一部获得2025-26年节目表正式续订的无剧本节目。阿方索·里贝罗（Alfonso Ribeiro）回归主持本季，而前职业舞者兼评委朱丽安·霍夫（Julianne Hough）回归担任联合主持人。   
-
-阅读延伸[79782170]: [https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_34](https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_34)   
-
-## 安东尼_帕金斯   
-Anthony Perkins was an American actor. Born in Manhattan, he began his acting career as a teenager in summer stock theatre, and appeared in films prior to his Broadway debut. His first film role was in The Actress (1953). That same year, he debuted on Broadway in Tea and Sympathy, a performance for which he received critical acclaim.   
-
-安东尼·帕金斯是一位美国演员。他出生于曼哈顿，十几岁时在夏季股票剧院开始了他的演艺生涯，并在首次亮相百老汇之前出现在电影中。他的第一个电影角色是在《女演员》（1953年）中。同年，他在百老汇首次亮相《茶与同情》，并获得了评论界的好评。   
-
-阅读延伸[167595]: [https://en.wikipedia.org/wiki/Anthony_Perkins](https://en.wikipedia.org/wiki/Anthony_Perkins)   
 
 ## 他妈   
 Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
@@ -97,33 +76,47 @@ Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词�
 
 阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
 
-## 查理_汉南   
-Charles Matthew Hunnam is an English actor. He portrayed Jax Teller in the FX drama series Sons of Anarchy (2008–2014), for which he was twice nominated for the Critics' Choice Television Award for Best Actor.   
+## 凯蒂_波特   
+Katherine Moore Porter is an American politician and lawyer who served as a U.S. representative from California from 2019 to 2025. She is a member of the Democratic Party.   
 
-查尔斯·马修·汉纳姆是一位英国演员。他在FX电视剧《无政府之子》（2008-2014）中饰演贾克斯·特勒，并因此两次获得评论家选择电视奖最佳男主角提名。   
+凯瑟琳·摩尔·波特（Katherine Moore Porter）是一位美国政治家和律师，曾于2019年至2025年担任美国加州代表。她是民主党成员。   
 
-阅读延伸[1524606]: [https://en.wikipedia.org/wiki/Charlie_Hunnam](https://en.wikipedia.org/wiki/Charlie_Hunnam)   
+阅读延伸[58713804]: [https://en.wikipedia.org/wiki/Katie_Porter](https://en.wikipedia.org/wiki/Katie_Porter)   
 
-## 一场接一场的战斗   
-One Battle After Another is a 2025 American epic action thriller film written, produced, and directed by Paul Thomas Anderson. It is inspired by the 1990 novel Vineland by Thomas Pynchon. The film stars Leonardo DiCaprio, Sean Penn, Benicio del Toro, Regina Hall, Teyana Taylor, and Chase Infiniti, and follows an ex-revolutionary (DiCaprio) who must rescue his daughter (Infiniti) from a corrupt military official (Penn).   
+## 露丝_科德   
+Ruth Codd is an Irish actress. She is best known for starring as Anya in Netflix mystery thriller series The Midnight Club (2022) and Juno Usher in the Netflix horror miniseries The Fall of the House of Usher (2023).   
 
-一场又一场的战斗是一部2025年美国史诗动作惊悚电影，由保罗·托马斯·安德森编剧、制作和导演。它的灵感来自托马斯·品钦（Thomas Pynchon）1990年的小说《葡萄园》。这部电影由莱昂纳多·迪卡普里奥、肖恩·潘、贝尼西奥·德尔·托罗、雷吉娜·霍尔、泰亚娜·泰勒和蔡斯·英菲尼迪主演，讲述了一位前革命家（迪卡普里奥饰）必须从腐败的军官（潘饰）手中救出女儿（英菲尼迪饰）的故事。   
+露丝·科德是一位爱尔兰女演员。她因在Netflix悬疑惊悚剧《午夜俱乐部》（The Midnight Club）中饰演安雅（Anya）和在Netflix恐怖迷你剧《亚瑟之家的陷落》（The Fall of the House of Usher）中饰演朱诺·亚瑟（Juno Usher）而闻名。   
 
-阅读延伸[73258137]: [https://en.wikipedia.org/wiki/One_Battle_After_Another](https://en.wikipedia.org/wiki/One_Battle_After_Another)   
+阅读延伸[73493813]: [https://en.wikipedia.org/wiki/Ruth_Codd](https://en.wikipedia.org/wiki/Ruth_Codd)   
 
-## 琼·贝内特·肯尼迪   
-Virginia Joan Kennedy was an American socialite, author, and advocate. She was the first wife of U.S. Senator Ted Kennedy. In 1992, she published a guide to classical music and later became associated with mental health awareness, drawing public attention to addiction and recovery through her own experiences.   
+## 创：_战神   
+Tron: Ares is a 2025 American science fiction action film directed by Joachim Rønning from a screenplay by Jesse Wigutow, based on a story by David Digilio and Wigutow. It is the third film in the Tron series and a standalone sequel to Tron: Legacy (2010). It features an ensemble cast including Jared Leto, Greta Lee, Evan Peters, Jodie Turner-Smith, Hasan Minhaj, Arturo Castro, and Gillian Anderson, with Jeff Bridges reprising his role as Kevin Flynn from the previous films.   
 
-弗吉尼亚·琼·肯尼迪是一位美国社交名流、作家和倡导者。她是美国参议员特德·肯尼迪的第一任妻子。1992年，她出版了一本古典音乐指南，后来与心理健康意识联系在一起，通过自己的经历引起了公众对成瘾和康复的关注。   
+创：《战神》是一部2025年的美国科幻动作片，由约阿希姆·罗宁执导，改编自杰西·维古托的剧本，改编自大卫·迪吉利奥和维古托的故事。这是《创世纪》系列的第三部电影，也是《创世纪：遗产》（2010）的独立续集。该剧的演员阵容包括贾里德·莱托、格蕾塔·李、埃文·彼得斯、朱迪·特纳-史密斯、哈桑·明哈吉、阿图罗·卡斯特罗和吉莉安·安德森，杰夫·布里奇斯在之前的电影中重新扮演凯文·弗林。   
 
-阅读延伸[1184511]: [https://en.wikipedia.org/wiki/Joan_Bennett_Kennedy](https://en.wikipedia.org/wiki/Joan_Bennett_Kennedy)   
+阅读延伸[35746417]: [https://en.wikipedia.org/wiki/Tron%3A_Ares](https://en.wikipedia.org/wiki/Tron%3A_Ares)   
 
-## 奥马尔_M._ Yaghi   
-Omar Mwannes Yaghi is a Palestinian–American–Jordanian chemist known for pioneering reticular chemistry and for the development of metal–organic frameworks (MOFs). He was awarded the 2025 Nobel Prize in Chemistry, shared with Richard Robson and Susumu Kitagawa, for this work. Yaghi is a University Professor and James and Neeltje Tretter Endowed Chair in Chemistry at the University of California, Berkeley. He is also an affiliate scientist at Lawrence Berkeley National Laboratory, founding director of the Berkeley Global Science Institute, and a member of the U.S. National Academy of Sciences and the German National Academy of Sciences Leopoldina. In January 2025, he became the seventh president of the World Cultural Council, an international organization promoting cultural and scientific advancement.   
+## 安东尼_帕金斯   
+Anthony Perkins was an American actor. Born in Manhattan, he began his acting career as a teenager in summer stock theatre, and appeared in films prior to his Broadway debut. His first film role was in The Actress (1953). That same year, he debuted on Broadway in Tea and Sympathy, a performance for which he received critical acclaim.   
 
-奥马尔·姆万尼斯·亚吉（Omar Mwannes Yaghi）是一位巴勒斯坦裔美国裔约旦化学家，以开创网状化学和开发金属有机框架（MOF）而闻名。他被授予2025年诺贝尔化学奖，与理查德·罗布森和北川进分享这项工作。Yaghi是加州大学伯克利分校的大学教授，James Tretter和Neeltje Tretter被授予化学系主席。他还是劳伦斯伯克利国家实验室的附属科学家、伯克利全球科学研究所创始所长、美国国家科学院和德国国家科学院莱奥波尔迪纳院士。2025年1月，他成为世界文化理事会第七任主席，世界文化理事会是一个促进文化和科学进步的国际组织。   
+安东尼·帕金斯是一位美国演员。他出生于曼哈顿，十几岁时在夏季股票剧院开始了他的演艺生涯，并在首次亮相百老汇之前出现在电影中。他的第一个电影角色是在《女演员》（1953年）中。同年，他在百老汇首次亮相《茶与同情》，并获得了评论界的好评。   
 
-阅读延伸[17344326]: [https://en.wikipedia.org/wiki/Omar_M._Yaghi](https://en.wikipedia.org/wiki/Omar_M._Yaghi)   
+阅读延伸[167595]: [https://en.wikipedia.org/wiki/Anthony_Perkins](https://en.wikipedia.org/wiki/Anthony_Perkins)   
+
+## 2026年_FIFA_World_Cup_资格赛   
+The 2026 FIFA World Cup qualification will decide the 45 teams that will join hosts Canada, Mexico, and the United States at the 2026 FIFA World Cup.   
+
+2026年FIFA世界杯预选赛将决定与东道主加拿大、墨西哥和美国一起参加2026年FIFA世界杯的45支球队。   
+
+阅读延伸[49459509]: [https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_qualification](https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_qualification)   
+
+## _名人_叛徒   
+The Celebrity Traitors is a spin-off of the British version of the reality television series The Traitors, that premiered on BBC One on 8 October 2025. Claudia Winkleman presented the series.   
+
+《名人叛徒》是真人秀电视剧《叛徒》英国版的衍生剧，该剧于2025年10月8日在BBC One首播。克劳迪娅·温克尔曼（Claudia Winkleman）介绍了该系列。   
+
+阅读延伸[79978289]: [https://en.wikipedia.org/wiki/The_Celebrity_Traitors](https://en.wikipedia.org/wiki/The_Celebrity_Traitors)   
 
 ## 埃贾   
 Kim Eun-jae, known professionally as Ejae, is a South Korean singer, songwriter, and record producer. She is known for her work with Red Velvet, Aespa, Twice, Le Sserafim, and other South Korean artists. In 2025, Ejae garnered global recognition for providing the singing voice for Rumi in the Netflix film KPop Demon Hunters, as well as writing several of the songs on its soundtrack. "Golden", one of the songs she performed and co-wrote for the film, topped the Billboard Hot 100 as well as charts in several other countries.   
@@ -132,10 +125,17 @@ Kim Eun-jae，专业名称Ejae，是一位韩国歌手、词曲作者和唱片�
 
 阅读延伸[80305279]: [https://en.wikipedia.org/wiki/Ejae](https://en.wikipedia.org/wiki/Ejae)   
 
-## Cat_Burns   
-Catrina Burns-Temison, is a British singer-songwriter who gained prominence with her 2020 single "Go". The song's popularity increased in 2022 through TikTok, eventually reaching number two on the UK singles chart. It was described by Sony Music as a blend of gospel and pop influences with guitar-led indie music,   
+## 6-7_（模因）   
+The 6-7 meme ( ) is an internet meme and slang term that emerged in early 2025 on TikTok and Instagram Reels. It originated from the repeated lyric "6-7" in the song "Doot Doot " by Skrilla, which was used on social media in video edits of professional basketball players such as LaMelo Ball who is 6 feet 7 inches tall. The term "6-7" spread as slang among Generation Alpha and Generation Z. As the meme's reach expanded in August of 2025, one child became known as the "6-7 Kid" after a viral video showed him saying the term while moving his hands up and down at an Amateur Athletic Union basketball game. It is often compared to 41, a meme of similar origin, where rapper Blizzi Boi in his song "41 Song " repeats the number "41" throughout.   
 
-Catrina Burns-Temison是一位英国创作型歌手，凭借2020年的单曲《Go》声名鹊起。这首歌的受欢迎程度在2022年通过TikTok上升，最终在英国单曲排行榜上排名第二。索尼音乐将其描述为福音和流行音乐与吉他主导的独立音乐的融合，   
+6-7模因（）是一个互联网模因和俚语，于2025年初出现在TikTok和Instagram Reels上。它起源于Skrilla歌曲《Doot Doot》中重复的歌词“6-7”，该歌曲在社交媒体上被用于对身高6英尺7英寸的LaMelo Ball等职业篮球运动员进行视频编辑。“6-7”一词在Alpha世代和Z世代之间作为俚语传播。2025年8月，随着这个模因的影响范围扩大，一段广为流传的视频显示，一名孩子在业余田径联盟篮球比赛中上下移动双手时说出了这个词，因此被称为“6-7小子”。它经常被与41进行比较，41是一个起源相似的模因，说唱歌手Blizzi Boi在他的歌曲《41 Song》中自始至终重复了数字“41”。   
 
-阅读延伸[70260007]: [https://en.wikipedia.org/wiki/Cat_Burns](https://en.wikipedia.org/wiki/Cat_Burns)   
+阅读延伸[80838096]: [https://en.wikipedia.org/wiki/6-7_(meme)](https://en.wikipedia.org/wiki/6-7_(meme))   
+
+## 查理_汉南   
+Charles Matthew Hunnam is an English actor. He portrayed Jax Teller in the FX drama series Sons of Anarchy (2008–2014), for which he was twice nominated for the Critics' Choice Television Award for Best Actor.   
+
+查尔斯·马修·汉纳姆是一位英国演员。他在FX电视剧《无政府之子》（2008-2014）中饰演贾克斯·特勒，并因此两次获得评论家选择电视奖最佳男主角提名。   
+
+阅读延伸[1524606]: [https://en.wikipedia.org/wiki/Charlie_Hunnam](https://en.wikipedia.org/wiki/Charlie_Hunnam)   
 
