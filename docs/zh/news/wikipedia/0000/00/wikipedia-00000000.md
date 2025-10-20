@@ -41,24 +41,12 @@ On June 2, 2023, in Ocala, Florida, 35-year-old Ajike "AJ" Shantrell Owens was s
 
 阅读延伸[18696]: [https://en.wikipedia.org/wiki/Limp_Bizkit](https://en.wikipedia.org/wiki/Limp_Bizkit)   
 
-## 不_国王   
+## 不_国王_抗议_（2025年6月）   
+The No Kings protests, also known internationally as the No Dictators or No Tyrants protests, is a series of demonstrations, largely in the United States, against what the organizers describe as authoritarian policies of Donald Trump and corruption in his administration. Protests took place on June 14, 2025, on the same day as the U.S. Army 250th Anniversary Parade and Trump's 79th birthday. Further No Kings protests took place on October 18, 2025.   
 
-No Kings may refer to:No Kings protests 
-Free America Weekend, held July 4, 2025
-No Kings protests 
-No Kings (album)
+“无国王”抗议活动，在国际上也被称为“无独裁者”或“无暴君”抗议活动，是一系列示威活动，主要发生在美国，反对组织者所说的唐纳德·特朗普的独裁政策及其政府的腐败。抗议活动于2025年6月14日举行，当天是美国陆军250周年游行和特朗普79岁生日。2025年10月18日，又发生了“无国王”抗议活动。   
 
-   
-
-
-没有国王可以指：没有国王抗议 
-自由美国周末，2025年7月4日举行
-没有国王抗议 
-No Kings（专辑）
-
-   
-
-阅读延伸[80207638]: [https://en.wikipedia.org/wiki/No_Kings](https://en.wikipedia.org/wiki/No_Kings)   
+阅读延伸[80197161]: [https://en.wikipedia.org/wiki/No_Kings_protests_(June_2025)](https://en.wikipedia.org/wiki/No_Kings_protests_(June_2025))   
 
 ## Doug_Martin_（run_back）   
 Douglas Matthewbaran Martin was an American professional football player who was a running back for seven seasons in the National Football League (NFL). He played college football for the Boise State Broncos and was selected by the Tampa Bay Buccaneers in the first round of the 2012 NFL draft. Martin also played for the Oakland Raiders.   
