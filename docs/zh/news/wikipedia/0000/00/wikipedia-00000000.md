@@ -1,17 +1,10 @@
 # 最新资讯  
-## 艾德·盖恩   
-Edward Theodore Gein, also known as "the Butcher of Plainfield" or "the Plainfield Ghoul", was an American murderer, suspected serial killer and body snatcher. Gein's crimes, committed around his hometown of Plainfield, Wisconsin, gathered widespread notoriety in 1957 after authorities discovered that he had exhumed corpses from local graveyards and fashioned keepsakes from their bones and skin. He also confessed to killing two women: tavern owner Mary Hogan in 1954, and hardware store owner Bernice Worden in 1957.   
+## 丹尼尔_纳罗季茨基   
+Daniel Naroditsky, often referred to as Danya, was an American chess grandmaster, author, and commentator. He won the Under 12 section of the World Youth Chess Championship in 2007 and the US Junior Championship in 2013, the same year he was officially awarded the grandmaster title at age 18.   
 
-爱德华·西奥多·盖恩（Edward Theodore Gein），又名“普兰菲尔德屠夫”或“普兰菲尔德食尸鬼”，是一名美国杀人犯、疑似连环杀手和尸体抢夺者。吉恩的罪行发生在他的家乡威斯康星州普兰菲尔德附近，1957年当局发现他从当地墓地挖掘尸体并用尸体的骨头和皮肤制作纪念品后，他的罪行引起了广泛的恶名。他还承认杀害了两名女性：1954年的酒馆老板玛丽·霍根（Mary Hogan）和1957年的五金店老板伯尼斯·沃登（Bernice Worden）。   
+丹尼尔·纳罗季茨基（Daniel Naroditsky），通常被称为丹雅（Danya），是一位美国国际象棋大师、作家和评论员。他于2007年赢得了世界青少年国际象棋锦标赛12岁以下组冠军，并于2013年赢得了美国青少年锦标赛，同年他在18岁时被正式授予大师称号。   
 
-阅读延伸[71376]: [https://en.wikipedia.org/wiki/Ed_Gein](https://en.wikipedia.org/wiki/Ed_Gein)   
-
-## 排灯节   
-Diwali, also called Deepavali, is the Hindu festival of lights, with variations celebrated in other Indian religions such as Jainism and Sikhism. It symbolises the spiritual "victory of light over darkness, good over evil, and knowledge over ignorance". Diwali is celebrated during the Hindu lunisolar months of Ashvin and Kartika—between around mid-September and mid-November. The celebrations generally last five or six days.   
-
-排灯节，也称为Deepavali，是印度教的灯光节，印度其他宗教如斋浦那教和锡克教也有不同的节日。它象征着精神上的“光明战胜黑暗、善战胜邪恶、知识战胜无知”。排灯节是在阿什文和卡蒂卡的印度教斋月期间庆祝的，大约在九月中旬至十一月中旬之间。庆祝活动通常持续五六天。   
-
-阅读延伸[186177]: [https://en.wikipedia.org/wiki/Diwali](https://en.wikipedia.org/wiki/Diwali)   
+阅读延伸[16267840]: [https://en.wikipedia.org/wiki/Daniel_Naroditsky](https://en.wikipedia.org/wiki/Daniel_Naroditsky)   
 
 ## Google_Chrome   
 Google Chrome is a web browser developed by Google. It was first released in 2008 for Microsoft Windows, built with free software components from Apple WebKit and Mozilla Firefox. Versions were later released for Linux, macOS, iOS, iPadOS, and also for Android, where it is the default browser. The browser is also the main component of ChromeOS, where it serves as the platform for web applications.   
@@ -20,19 +13,26 @@ Google Chrome是谷歌开发的网络浏览器。它于2008年首次在Microsoft
 
 阅读延伸[19133401]: [https://en.wikipedia.org/wiki/Google_Chrome](https://en.wikipedia.org/wiki/Google_Chrome)   
 
-## 丹尼尔_纳罗季茨基   
-Daniel Naroditsky, often referred to as Danya, was an American chess grandmaster, author, and commentator. He won the Under 12 section of the World Youth Chess Championship in 2007 and the US Junior Championship in 2013, the same year he was officially awarded the grandmaster title at age 18.   
+## 艾德·盖恩   
+Edward Theodore Gein, also known as "the Butcher of Plainfield" or "the Plainfield Ghoul", was an American murderer, suspected serial killer and body snatcher. Gein's crimes, committed around his hometown of Plainfield, Wisconsin, gathered widespread notoriety in 1957 after authorities discovered that he had exhumed corpses from local graveyards and fashioned keepsakes from their bones and skin. He also confessed to killing two women: tavern owner Mary Hogan in 1954, and hardware store owner Bernice Worden in 1957.   
 
-丹尼尔·纳罗季茨基（Daniel Naroditsky），通常被称为丹雅（Danya），是一位美国国际象棋大师、作家和评论员。他于2007年赢得了世界青少年国际象棋锦标赛12岁以下组冠军，并于2013年赢得了美国青少年锦标赛，同年他在18岁时被正式授予大师称号。   
+爱德华·西奥多·盖恩（Edward Theodore Gein），又名“普兰菲尔德屠夫”或“普兰菲尔德食尸鬼”，是一名美国杀人犯、疑似连环杀手和尸体抢夺者。吉恩的罪行发生在他的家乡威斯康星州普兰菲尔德附近，1957年当局发现他从当地墓地挖掘尸体并用尸体的骨头和皮肤制作纪念品后，他的罪行引起了广泛的恶名。他还承认杀害了两名女性：1954年的酒馆老板玛丽·霍根（Mary Hogan）和1957年的五金店老板伯尼斯·沃登（Bernice Worden）。   
 
-阅读延伸[16267840]: [https://en.wikipedia.org/wiki/Daniel_Naroditsky](https://en.wikipedia.org/wiki/Daniel_Naroditsky)   
+阅读延伸[71376]: [https://en.wikipedia.org/wiki/Ed_Gein](https://en.wikipedia.org/wiki/Ed_Gein)   
 
-## Doug_Martin_（run_back）   
-Douglas Matthewbaran Martin was an American professional football player who was a running back for seven seasons in the National Football League (NFL). He played college football for the Boise State Broncos and was selected by the Tampa Bay Buccaneers in the first round of the 2012 NFL draft. Martin also played for the Oakland Raiders.   
+## 乔治_斯普林格   
+George Chelston Springer III is an American professional baseball outfielder and designated hitter for the Toronto Blue Jays of Major League Baseball (MLB). He played for the Houston Astros from 2014 to 2020. Springer has played primarily in right field and also spent significant time in center field. A native of New Britain, Connecticut, Springer is of Puerto Rican and Panamanian descent.   
 
-道格拉斯·马修斯巴兰·马丁（Douglas Matthewbaran Martin）是一名美国职业足球运动员，曾在国家橄榄球联盟（NFL）担任七个赛季的跑卫。他曾为博伊西州立野马队踢大学橄榄球，并在2012年NFL选秀第一轮中被坦帕湾海盗队选中。马丁还为奥克兰突袭者队效力。   
+乔治·切尔西顿·斯普林格三世是一名美国职业棒球外野手，也是美国职业棒球大联盟（MLB）多伦多蓝鸟队的指定击球手。2014年至2020年，他为休斯顿太空人队效力。施普林格主要在右外野踢球，也在中外野度过了大量时间。斯普林格出生于康涅狄格州新不列颠，有波多黎各和巴拿马血统。   
 
-阅读延伸[34167588]: [https://en.wikipedia.org/wiki/Doug_Martin_(running_back)](https://en.wikipedia.org/wiki/Doug_Martin_(running_back))   
+阅读延伸[34506934]: [https://en.wikipedia.org/wiki/George_Springer](https://en.wikipedia.org/wiki/George_Springer)   
+
+## 排灯节   
+Diwali, also called Deepavali, is the Hindu festival of lights, with variations celebrated in other Indian religions such as Jainism and Sikhism. It symbolises the spiritual "victory of light over darkness, good over evil, and knowledge over ignorance". Diwali is celebrated during the Hindu lunisolar months of Ashvin and Kartika—between around mid-September and mid-November. The celebrations generally last five or six days.   
+
+排灯节，也称为Deepavali，是印度教的灯光节，印度其他宗教如斋浦那教和锡克教也有不同的节日。它象征着精神上的“光明战胜黑暗、善战胜邪恶、知识战胜无知”。排灯节是在阿什文和卡蒂卡的印度教斋月期间庆祝的，大约在九月中旬至十一月中旬之间。庆祝活动通常持续五六天。   
+
+阅读延伸[186177]: [https://en.wikipedia.org/wiki/Diwali](https://en.wikipedia.org/wiki/Diwali)   
 
 ## 1989年_天安门_广场_抗议_和_屠杀   
 The Tiananmen Square protests, known within China as the June Fourth Incident, were student-led demonstrations held in Tiananmen Square in Beijing, China, lasting from 15 April to 4 June 1989. After weeks of unsuccessful attempts between the demonstrators and the Chinese government to find a peaceful resolution, the Chinese government deployed troops to occupy the square on the night of 3 June in what is referred to as the Tiananmen Square massacre. The events are sometimes called the '89 Democracy Movement, the Tiananmen Square Incident, or the Tiananmen uprising.   
@@ -41,12 +41,12 @@ The Tiananmen Square protests, known within China as the June Fourth Incident, w
 
 阅读延伸[44534]: [https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre)   
 
-## 杀死阿吉克·欧文斯   
-On June 2, 2023, in Ocala, Florida, 35-year-old Ajike "AJ" Shantrell Owens was shot and killed by her neighbor, 58-year-old Susan Lorincz. Owens was knocking on Lorincz's door after altercations occurred between Owens' children and Lorincz in a field nearby. Lorincz shot Owens through the door. Police were already responding to "a trespassing call" when they received another 911 call about a shooting at the same address. They found Owens injured and took her to the hospital where she was pronounced dead.   
+## 弗拉基米尔·格雷罗·小   
+Vladimir Guerrero Ramos Jr. is a Canadian-Dominican professional baseball first baseman for the Toronto Blue Jays of Major League Baseball (MLB). He made his MLB debut in 2019, and he bats and throws right-handed. Guerrero is the son of Baseball Hall of Famer Vladimir Guerrero Sr.   
 
-2023年6月2日，在佛罗里达州奥卡拉，35岁的阿吉克·“AJ”·尚特雷尔·欧文斯被她的邻居、58岁的苏珊·洛林茨开枪打死。欧文斯的孩子们和洛林茨在附近的一块地里发生争吵后，欧文斯敲了洛林茨的门。Lorincz隔着门向Owens开枪。当警方接到另一个911报警电话时，他们已经对“非法侵入电话”做出了回应。他们发现欧文斯受伤，并将她送往医院，并宣布她死亡。   
+弗拉基米尔·格雷罗·拉莫斯是美国职业棒球大联盟（MLB）多伦多蓝鸟队的维多利亚-多米尼加职业棒球一垒手。他于2019年首次亮相美国职业棒球大联盟（MLB），击球和投球都是右手。格雷罗是棒球名人堂成员弗拉基米尔·格雷罗的儿子。   
 
-阅读延伸[73979949]: [https://en.wikipedia.org/wiki/Killing_of_Ajike_Owens](https://en.wikipedia.org/wiki/Killing_of_Ajike_Owens)   
+阅读延伸[47395720]: [https://en.wikipedia.org/wiki/Vladimir_Guerrero_Jr.](https://en.wikipedia.org/wiki/Vladimir_Guerrero_Jr.)   
 
 ## 阿斯拉尼   
 Govardhan Asrani, known professionally as Asrani, was an Indian actor and director. His career in Bollywood spanned over five decades, during which he appeared in over 350 Hindi & Gujarati films. Asrani worked in lead, character, comedic, and supporting roles. He is particularly noted for his role as the jailer in Sholay and Amadavad no Rikshavaro and for his appearances in 25 films with Rajesh Khanna as the lead actor between 1972 and 1991.   
@@ -62,33 +62,12 @@ Virginia Louise Giuffre was an American-Australian advocate of justice for survi
 
 阅读延伸[62493394]: [https://en.wikipedia.org/wiki/Virginia_Giuffre](https://en.wikipedia.org/wiki/Virginia_Giuffre)   
 
-## 2025_Louvre_抢劫   
-On 19 October 2025, thieves disguised as workers stole eight pieces of the French Crown Jewels from the Galerie d'Apollon of the Louvre in Paris, France. The robbery took four minutes and happened during regular opening hours. It was the first art theft from the Louvre since the 1998 theft of the painting Le chemin de Sèvres.   
+## 佐江_高市   
+Sanae Takaichi  is a Japanese politician who has served as president of the Liberal Democratic Party since October 2025. She is the first woman to hold the office. A member of the House of Representatives, she held several ministerial posts under Prime Minister Shinzo Abe.   
 
-2025年10月19日，窃贼伪装成工人，从法国巴黎卢浮宫阿波罗画廊偷走了八件法国皇冠珠宝。抢劫案持续了四分钟，发生在正常营业时间。这是自1998年《塞夫勒》画作被盗以来，卢浮宫的首例艺术品盗窃案。   
+高市佐江是日本政治家，自2025年10月起担任自民党总裁。她是第一位担任该职位的女性。作为众议院议员，她曾在首相安倍晋三领导下担任多个部长职位。   
 
-阅读延伸[81376506]: [https://en.wikipedia.org/wiki/2025_Louvre_robbery](https://en.wikipedia.org/wiki/2025_Louvre_robbery)   
-
-## 德马里乌斯_托马斯   
-Demaryius Antwon Thomas was an American professional football player who was a wide receiver for 10 seasons in the National Football League (NFL), primarily with the Denver Broncos. He played college football for the Georgia Tech Yellow Jackets, earning third-team All-American honors in 2009. He was selected by the Broncos in the first round of the 2010 NFL draft. With Denver, Thomas made five Pro Bowls and won Super Bowl 50 against the Carolina Panthers. He was also a member of the Houston Texans, New England Patriots, and New York Jets.   
-
-德马里乌斯·安特旺·托马斯（Demaryius Antwon Thomas）是一名美国职业足球运动员，曾在国家橄榄球联盟（NFL）担任10个赛季的外接手，主要效力于丹佛野马队。他为佐治亚理工学院黄夹克队踢大学橄榄球，并于2009年获得全美三队荣誉。他在2010年NFL选秀第一轮中被野马队选中。在丹佛，托马斯五次进入职业碗，并在对阵卡罗莱纳黑豹队的比赛中赢得了超级碗50强。他还是休斯顿德克萨斯人队、新英格兰爱国者队和纽约喷气机队的成员。   
-
-阅读延伸[23955120]: [https://en.wikipedia.org/wiki/Demaryius_Thomas](https://en.wikipedia.org/wiki/Demaryius_Thomas)   
-
-## 死亡_in_2025   
-The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
-
-以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
-
-阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
-
-## 完美邻居   
-The Perfect Neighbor is a 2025 American documentary film, directed and produced by Geeta Gandbhir. It follows the killing of Ajike Owens, told through police bodycam footage, exploring the disputes that led to the murder.   
-
-《完美邻居》是一部2025年的美国纪录片，由吉塔·甘德比尔执导和制作。通过警方随身摄像机镜头讲述了阿吉克·欧文斯被杀的故事，探讨了导致谋杀的纠纷。   
-
-阅读延伸[78994003]: [https://en.wikipedia.org/wiki/The_Perfect_Neighbor](https://en.wikipedia.org/wiki/The_Perfect_Neighbor)   
+阅读延伸[8125532]: [https://en.wikipedia.org/wiki/Sanae_Takaichi](https://en.wikipedia.org/wiki/Sanae_Takaichi)   
 
 ## 6-7_（模因）   
 The 6-7 meme ( ) is an internet meme and slang term that emerged in early 2025 on TikTok and Instagram Reels. It originated from the repeated lyric "6-7" in the song "Doot Doot " by Skrilla, which was used on social media in video edits of professional basketball players such as LaMelo Ball who is 6 feet 7 inches tall. The term "6-7" spread as slang among Generation Alpha and Generation Z. As the meme's reach expanded in August of 2025, one child became known as the "6-7 Kid" after a viral video showed him saying the term while moving his hands up and down at an Amateur Athletic Union basketball game. It is often compared to 41, a meme of similar origin, where rapper Blizzi Boi in his song "41 Song " repeats the number "41" throughout.   
@@ -97,12 +76,56 @@ The 6-7 meme ( ) is an internet meme and slang term that emerged in early 2025 o
 
 阅读延伸[80838096]: [https://en.wikipedia.org/wiki/6-7_(meme)](https://en.wikipedia.org/wiki/6-7_(meme))   
 
+## 多伦多_蓝鸟   
+The Toronto Blue Jays are a Canadian professional baseball team based in Toronto. The Blue Jays compete in Major League Baseball (MLB) as a member club of the American League (AL) East Division. Since 1989, the team has played its home games primarily at Rogers Centre in downtown Toronto.   
+
+多伦多蓝鸟队是一支总部位于多伦多的加拿大职业棒球队。蓝鸟队作为美国职业棒球大联盟（AL）东区的成员俱乐部参加美国职业棒球大联盟（MLB）比赛。自1989年以来，球队主要在多伦多市中心的罗杰斯中心举行主场比赛。   
+
+阅读延伸[30847]: [https://en.wikipedia.org/wiki/Toronto_Blue_Jays](https://en.wikipedia.org/wiki/Toronto_Blue_Jays)   
+
+## 弗拉基米尔_格雷罗   
+Vladimir Guerrero Alvino, nicknamed "Vlad the Impaler", is a Dominican former professional baseball player who spent 16 seasons in Major League Baseball (MLB) as a right fielder and designated hitter. He played for the Montreal Expos (1996–2003), Anaheim Angels / Los Angeles Angels of Anaheim (2004–2009), Texas Rangers (2010), and Baltimore Orioles (2011).   
+
+弗拉基米尔·格雷罗·阿尔维诺（Vladimir Guerrero Alvino）绰号“刺穿者弗拉德”，是一位多米尼加前职业棒球运动员，曾在美国职业棒球大联盟（MLB）担任右外野手和指定击球手16个赛季。他曾效力于蒙特利尔博览会（1996-2003年）、阿纳海姆天使队/洛杉矶阿纳海姆天使队（2004-2009年）、德克萨斯游骑兵队（2010年）和巴尔的摩金莺队（2011年）。   
+
+阅读延伸[388770]: [https://en.wikipedia.org/wiki/Vladimir_Guerrero](https://en.wikipedia.org/wiki/Vladimir_Guerrero)   
+
+## 塔玛   
+101761052759400.html
+Thamma (transl. Leader) is a 2025 Indian Hindi-language romantic comedy horror film directed by Aditya Sarpotdar. It is written by Niren Bhatt, Suresh Mathew and Arun Falara and produced by Dinesh Vijan and Amar Kaushik. Thamma is the fifth installment in the Maddock Horror Comedy Universe. It stars Ayushmann Khurrana, Rashmika Mandanna, Nawazuddin Siddiqui and Paresh Rawal. The story revolves around a journalist who after encountering a mysterious woman, turns into a vampiric creature called Betal and must save humanity from the bloodlust of an ancient evil.   
+
+101761052759400.html
+Thamma（翻译：Leader）是一部2025年印度印地语浪漫喜剧恐怖电影，由Aditya Sarpotdar执导。该书由尼伦·巴特（Niren Bhatt）、苏雷什·马修（Suresh Mathew）和阿伦·法拉拉（Arun Falara）编剧，由迪内什·维扬（Dinesh Vijan）和阿马尔·考西克（Amar Kaushik）制作。《Thamma》是《马多克恐怖喜剧宇宙》的第五部。由Ayushmann Khurrana、Rashmika Mandanna、Nawazuddin Siddiqui和Paresh Rawal主演。故事围绕一位记者展开，她在遇到一位神秘女子后，变成了一个名为贝塔尔的吸血鬼，必须将人类从古代邪恶的嗜血中拯救出来。   
+
+阅读延伸[79667020]: [https://en.wikipedia.org/wiki/Thamma](https://en.wikipedia.org/wiki/Thamma)   
+
+## 杀死阿吉克·欧文斯   
+On June 2, 2023, in Ocala, Florida, 35-year-old Ajike "AJ" Shantrell Owens was shot and killed by her neighbor, 58-year-old Susan Lorincz. Owens was knocking on Lorincz's door after altercations occurred between Owens' children and Lorincz in a field nearby. Lorincz shot Owens through the door. Police were already responding to "a trespassing call" when they received another 911 call about a shooting at the same address. They found Owens injured and took her to the hospital where she was pronounced dead.   
+
+2023年6月2日，在佛罗里达州奥卡拉，35岁的阿吉克·“AJ”·尚特雷尔·欧文斯被她的邻居、58岁的苏珊·洛林茨开枪打死。欧文斯的孩子们和洛林茨在附近的一块地里发生争吵后，欧文斯敲了洛林茨的门。Lorincz隔着门向Owens开枪。当警方接到另一个911报警电话时，他们已经对“非法侵入电话”做出了回应。他们发现欧文斯受伤，并将她送往医院，并宣布她死亡。   
+
+阅读延伸[73979949]: [https://en.wikipedia.org/wiki/Killing_of_Ajike_Owens](https://en.wikipedia.org/wiki/Killing_of_Ajike_Owens)   
+
+## 死亡_in_2025   
+The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
+
+以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
+
+阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
+
 ## 坎塔拉：_第1章   
 Kantara: Chapter 1 is a 2025 Indian Kannada-language period mythological action drama film written and directed by Rishab Shetty, and produced by Vijay Kiragandur and Chaluve Gowda under Hombale Films. A prequel to the 2022 film Kantara, the story delves deeper into the origins of the mythological tradition and ancestral conflict introduced in the first film.   
 
 坎塔拉：《第一章》是一部2025年印度卡纳达语时期神话动作片，由Rishab Shetty编剧和导演，Hombale Films旗下的Vijay Kiragandur和Chaluve Gowda制作。作为2022年电影《坎塔拉》的前传，故事更深入地探讨了第一部电影中引入的神话传统和祖先冲突的起源。   
 
 阅读延伸[74654227]: [https://en.wikipedia.org/wiki/Kantara%3A_Chapter_1](https://en.wikipedia.org/wiki/Kantara%3A_Chapter_1)   
+
+## 2025_Louvre_抢劫   
+On 19 October 2025, thieves disguised as workers stole eight pieces of the French Crown Jewels from the Galerie d'Apollon of the Louvre in Paris, France. The robbery took four minutes and happened during regular opening hours. It was the first art theft from the Louvre since the 1998 theft of the painting Le chemin de Sèvres.   
+
+2025年10月19日，窃贼伪装成工人，从法国巴黎卢浮宫阿波罗画廊偷走了八件法国皇冠珠宝。抢劫案持续了四分钟，发生在正常营业时间。这是自1998年《塞夫勒》画作被盗以来，卢浮宫的首例艺术品盗窃案。   
+
+阅读延伸[81376506]: [https://en.wikipedia.org/wiki/2025_Louvre_robbery](https://en.wikipedia.org/wiki/2025_Louvre_robbery)   
 
 ## 他妈   
 Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
@@ -111,31 +134,10 @@ Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词�
 
 阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
 
-## 萨姆_里弗斯_（贝斯手）   
-Samuel Robert Rivers was an American musician and singer who served as the bassist, backing vocalist, and co-founder of the nu metal band Limp Bizkit.   
+## 约翰_施奈德_（棒球）   
+John Patrick Schneider is an American professional baseball coach who is the manager of the Toronto Blue Jays of Major League Baseball (MLB). He became a coach for the Blue Jays in 2019 and became interim manager on July 13, 2022. After the 2022 season, the Blue Jays hired him as their permanent manager. Prior to coaching, Schneider played six seasons as a catcher in the Blue Jays minor league organization.   
 
-塞缪尔·罗伯特·里弗斯（英语：Samuel Robert Rivers）是一位美国音乐家和歌手，曾担任低音提琴手、伴唱和新金属乐队Limp Bizkit的联合创始人。   
+约翰·帕特里克·施奈德（John Patrick Schneider）是一位美国职业棒球教练，也是美国职业棒球大联盟（MLB）多伦多蓝鸟队的经理。他于2019年成为蓝鸟队的教练，并于2022年7月13日成为临时主教练。2022赛季结束后，蓝鸟队聘请他作为永久主教练。在执教之前，施奈德在蓝鸟队小联盟组织中担任了六个赛季的接球手。   
 
-阅读延伸[1898817]: [https://en.wikipedia.org/wiki/Sam_Rivers_(bassist)](https://en.wikipedia.org/wiki/Sam_Rivers_(bassist))   
-
-## 老兄_（2025_电影）   
-Dude is a 2025 Tamil-language romantic action comedy film written and directed by Keerthiswaran. Produced by Mythri Movie Makers, the film stars Pradeep Ranganathan and Mamitha Baiju in the lead roles, alongside Neha Shetty, R. Sarathkumar, Hridhu Haroon and Rohini. It is Keerthiswaran's directorial debut, and Mythri Movie Makers' second Tamil production.   
-
-《花花公子》是一部2025年泰米尔语浪漫动作喜剧电影，由Keertiswaran编剧和导演。这部电影由Mythri Movie Makers制作，由Pradeep Ranganathan和Mamitha Baiju主演，与R. Neha Shetty一起主演。Sarathkumar、Hridhu Haroon和Rohini。这是Keertiswaran的导演处女作，也是Mythri Movie Makers的第二部泰米尔作品。   
-
-阅读延伸[78891889]: [https://en.wikipedia.org/wiki/Dude_(2025_film)](https://en.wikipedia.org/wiki/Dude_(2025_film))   
-
-## 丹尼_罗尔   
-Danny Röhl is a German professional football coach and former player who is the head coach of Scottish Premiership club Rangers.   
-
-丹尼·罗尔（Danny Röhl）是一名德国职业足球教练，曾担任苏格兰超级联赛俱乐部流浪者队主教练。   
-
-阅读延伸[75053595]: [https://en.wikipedia.org/wiki/Danny_R%C3%B6hl](https://en.wikipedia.org/wiki/Danny_R%C3%B6hl)   
-
-## 约翰·韦恩·盖西   
-John Wayne Gacy was an American serial killer and sex offender who raped, tortured and murdered at least thirty-three young men and boys between 1972 and 1978 in Norwood Park Township, Illinois, a suburb of Chicago. He became known as the "Killer Clown" due to his public performances as a clown prior to the discovery of his crimes.   
-
-约翰·韦恩·盖西（John Wayne Gacy）是一名美国连环杀手和性犯罪者，他于1972年至1978年间在芝加哥郊区伊利诺伊州诺伍德公园镇强奸、折磨和谋杀了至少三十三名年轻男子和男孩。由于他在罪行被发现之前公开表演小丑，他被称为“杀手小丑”。   
-
-阅读延伸[61279]: [https://en.wikipedia.org/wiki/John_Wayne_Gacy](https://en.wikipedia.org/wiki/John_Wayne_Gacy)   
+阅读延伸[59177766]: [https://en.wikipedia.org/wiki/John_Schneider_(baseball)](https://en.wikipedia.org/wiki/John_Schneider_(baseball))   
 
