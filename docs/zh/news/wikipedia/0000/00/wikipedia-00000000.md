@@ -6,12 +6,12 @@ Google Chrome是谷歌开发的网络浏览器。它于2008年首次在Microsoft
 
 阅读延伸[19133401]: [https://en.wikipedia.org/wiki/Google_Chrome](https://en.wikipedia.org/wiki/Google_Chrome)   
 
-## 1989年_天安门_广场_抗议_和_屠杀   
-The Tiananmen Square protests, known within China as the June Fourth Incident, were student-led demonstrations held in Tiananmen Square in Beijing, China, lasting from 15 April to 4 June 1989. After weeks of unsuccessful attempts between the demonstrators and the Chinese government to find a peaceful resolution, the Chinese government deployed troops to occupy the square on the night of 3 June in what is referred to as the Tiananmen Square massacre. The events are sometimes called the '89 Democracy Movement, the Tiananmen Square Incident, or the Tiananmen uprising.   
+## 萨蒂什_沙阿   
+Satish Ravilal Shah was an Indian actor, best known for his iconic comic roles in films such as Jaane Bhi Do Yaaro (1983), Yeh Jo Hai Zindagi (1984), Sarabhai vs Sarabhai (2004), Main Hoon Na (2004), Kal Ho Naa Ho (2003), Fanaa (2006), and Om Shanti Om (2007).   
 
-天安门广场抗议活动在中国境内被称为“六·四事件”，是学生领导的在中国北京天安门广场举行的示威活动，持续时间为1989年4月15日至6月4日。在示威者与中国政府试图找到和平解决方案数周失败后，中国政府于6月3日晚部署军队占领广场，引发了所谓的天安门广场大屠杀。这些事件有时被称为“89民主运动”、“天安门事件”或“天安门起义”。   
+萨蒂什·拉维拉尔·沙阿（Satish Ravilal Shah）是一位印度演员，以其在电影中的标志性喜剧角色而闻名，包括Jaane Bhi Do Yaaro（1983）、Yeh Jo Hai Zindagi（1984）、Sarabhai vs Sarabhai（2004）、Main Hoon Na（2004）、Kal Ho Naa Ho（2003）、Fanaa（2006）和Om Shanti Om（2007）。   
 
-阅读延伸[44534]: [https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre)   
+阅读延伸[3191732]: [https://en.wikipedia.org/wiki/Satish_Shah](https://en.wikipedia.org/wiki/Satish_Shah)   
 
 ## 艾德·盖恩   
 Edward Theodore Gein, also known as "the Butcher of Plainfield" or "the Plainfield Ghoul", was an American murderer, suspected serial killer and body snatcher. Gein's crimes, committed around his hometown of Plainfield, Wisconsin, gathered widespread notoriety in 1957 after authorities discovered that he had exhumed corpses from local graveyards and fashioned keepsakes from their bones and skin. He also confessed to killing two women: tavern owner Mary Hogan in 1954, and hardware store owner Bernice Worden in 1957.   
@@ -20,19 +20,54 @@ Edward Theodore Gein, also known as "the Butcher of Plainfield" or "the Plainfie
 
 阅读延伸[71376]: [https://en.wikipedia.org/wiki/Ed_Gein](https://en.wikipedia.org/wiki/Ed_Gein)   
 
-## 东翼   
-The East Wing was originally constructed in 1902 as an extension to the White House. It underwent a major expansion and renovation in 1942. In 2025, demolition of the existing structure of the East Wing began, as part of a planned rebuild to accommodate the White House State Ballroom. The building served as office space for the first lady and her staff, including the White House social secretary, correspondence staff, and the White House Graphics and Calligraphy Office, all of which are relocated until the planned modernized East Wing's completion.   
+## UFC_321   
+UFC 321: Aspinall vs. Gane was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on October 25, 2025, at the Etihad Arena in Abu Dhabi, United Arab Emirates.   
 
-东翼最初建于1902年，是白宫的扩建部分。它于1942年进行了大规模扩建和翻新。2025年，东翼现有结构的拆除开始，这是白宫国家宴会厅计划重建的一部分。该建筑是第一夫人及其工作人员的办公空间，包括白宫社会秘书、通讯人员和白宫图文办公室，所有这些工作人员都将搬迁，直到计划中的现代化东翼竣工。   
+UFC 321：阿斯皮纳尔vs甘是终极格斗锦标赛制作的一项综合武术赛事，于2025年10月25日在阿拉伯联合酋长国阿布扎比的阿提哈德竞技场举行。   
 
-阅读延伸[5053667]: [https://en.wikipedia.org/wiki/East_Wing](https://en.wikipedia.org/wiki/East_Wing)   
+阅读延伸[80330203]: [https://en.wikipedia.org/wiki/UFC_321](https://en.wikipedia.org/wiki/UFC_321)   
 
-## 昌西-比卢普斯   
-Chauncey Ray Billups is an American professional basketball coach and former player who is the head coach of the Portland Trail Blazers of the National Basketball Association (NBA). After playing college basketball with the Colorado Buffaloes, he was selected third overall in the 1997 NBA draft by the Boston Celtics. Billups spent the majority of his 17-year basketball career playing for the Detroit Pistons of the National Basketball Association (NBA), where he won the NBA Finals MVP in 2004 after helping the Pistons beat the Los Angeles Lakers in the Finals. He was given the nickname "Mr. Big Shot" for making late-game shots with Detroit. A five-time NBA All-Star, a three-time All-NBA selection and two-time NBA All-Defensive selection, Billups also played for the Celtics, Toronto Raptors, Denver Nuggets, Minnesota Timberwolves, New York Knicks and Los Angeles Clippers during his NBA career. He was elected into the Basketball Hall of Fame in 2024.   
+## 炸药屋   
+A House of Dynamite is a 2025 American apocalyptic political thriller film directed by Kathryn Bigelow and written by Noah Oppenheim. The film features an ensemble cast that includes Idris Elba, Rebecca Ferguson, Gabriel Basso, Jared Harris, Tracy Letts, Anthony Ramos, Moses Ingram, Jonah Hauer-King, Greta Lee, and Jason Clarke. Its plot follows the U.S. government navigating an official response to a single nuclear missile launched by an unidentified enemy.   
 
-昌西·雷·比卢普斯是一位美国职业篮球教练，曾担任美国国家篮球协会（NBA）波特兰开拓者队主教练。在科罗拉多水牛队打大学篮球后，他在1997年NBA选秀中被波士顿凯尔特人队选为第三名。比卢普斯17年篮球生涯的大部分时间都在美国国家篮球协会（NBA）底特律活塞队效力，并在2004年帮助活塞队在总决赛中击败洛杉矶湖人队后，赢得了NBA总决赛MVP。他因在比赛后期与底特律的射门而被赋予“大人物先生”的绰号。比卢普斯五次入选NBA全明星、三次入选NBA全防守球员和两次入选NBA全防守球员，在他的NBA职业生涯中还效力于凯尔特人队、多伦多猛龙队、丹佛掘金队、明尼苏达森林狼队、纽约尼克斯队和洛杉矶快船队。2024年，他入选篮球名人堂。   
+《炸药屋》是一部2025年美国世界末日政治惊悚片，由凯瑟琳·毕格罗执导，诺亚·奥本海姆编剧。这部电影的演员阵容包括伊德里斯·艾尔巴、丽贝卡·弗格森、加布里埃尔·巴索、贾里德·哈里斯、特雷西·莱茨、安东尼·拉莫斯、摩西·英格拉姆、乔纳·哈尔-金、格蕾塔·李和杰森·克拉克。其情节是在美国政府对身份不明的敌人发射的一枚核导弹做出官方回应之后发生的。   
 
-阅读延伸[644551]: [https://en.wikipedia.org/wiki/Chauncey_Billups](https://en.wikipedia.org/wiki/Chauncey_Billups)   
+阅读延伸[77226241]: [https://en.wikipedia.org/wiki/A_House_of_Dynamite](https://en.wikipedia.org/wiki/A_House_of_Dynamite)   
+
+## 1989年_天安门_广场_抗议_和_屠杀   
+The Tiananmen Square protests, known within China as the June Fourth Incident, were student-led demonstrations held in Tiananmen Square in Beijing, China, lasting from 15 April to 4 June 1989. After weeks of unsuccessful attempts between the demonstrators and the Chinese government to find a peaceful resolution, the Chinese government deployed troops to occupy the square on the night of 3 June in what is referred to as the Tiananmen Square massacre. The events are sometimes called the '89 Democracy Movement, the Tiananmen Square Incident, or the Tiananmen uprising.   
+
+天安门广场抗议活动在中国境内被称为“六·四事件”，是学生领导的在中国北京天安门广场举行的示威活动，持续时间为1989年4月15日至6月4日。在示威者与中国政府试图找到和平解决方案数周失败后，中国政府于6月3日晚部署军队占领广场，引发了所谓的天安门广场大屠杀。这些事件有时被称为“89民主运动”、“天安门事件”或“天安门起义”。   
+
+阅读延伸[44534]: [https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre)   
+
+## 六月_洛克哈特   
+June Lockhart was an American actress, beginning a film career in the 1930s and 1940s in films such as A Christmas Carol and Meet Me in St. Louis. She appeared primarily in 1950s and 1960s television and with performances on stage and in film. On two television series, Lassie and Lost in Space, she played mother roles. Lockhart also portrayed Dr. Janet Craig on the CBS television sitcom Petticoat Junction (1968–70). She was a two-time Emmy Award nominee and a Tony Award winner. With a career spanning nearly 90 years, Lockhart was one of the last surviving actors from the Golden Age of Hollywood.   
+
+琼·洛克哈特是一位美国女演员，在20世纪30年代和40年代开始了电影生涯，如《圣诞颂歌》和《在圣路易斯遇见我》。她主要出现在1950年代和1960年代的电视和舞台上的表演和电影。在两部电视剧《Lassie》和《Lost in Space》中，她扮演了母亲的角色。洛克哈特还在哥伦比亚广播公司的电视情景喜剧《衬裙结》（1968-70）中扮演珍妮特·克雷格博士。她曾两次获得艾美奖提名，也是托尼奖获得者。洛克哈特的职业生涯跨越了近90年，是好莱坞黄金时代最后幸存的演员之一。   
+
+阅读延伸[801152]: [https://en.wikipedia.org/wiki/June_Lockhart](https://en.wikipedia.org/wiki/June_Lockhart)   
+
+## 大谷翔平   
+Shohei Ohtani  is a Japanese professional baseball pitcher and designated hitter for the Los Angeles Dodgers of Major League Baseball (MLB). Nicknamed "Shotime", he has previously played in MLB for the Los Angeles Angels and the Hokkaido Nippon-Ham Fighters of Nippon Professional Baseball (NPB). Because of his elite contributions as a hitter and as a pitcher, a rarity as a two-way player, Ohtani's 2021–2024 seasons are considered among the greatest in baseball history, with some comparing them favorably to the early career of Babe Ruth.   
+
+大谷翔平是日本职业棒球投手，也是美国职业棒球大联盟（MLB）洛杉矶道奇队的指定击球手。他绰号“Shottime”，此前曾在美国职业棒球大联盟效力于洛杉矶天使队和日本职业棒球（NPB）的北海道日火腿斗士队。由于大谷作为击球手和投手的精英贡献，作为双向球员是罕见的，因此他的2021-2024赛季被认为是棒球历史上最伟大的赛季之一，一些人将其与贝比·露丝的早期职业生涯进行了比较。   
+
+阅读延伸[37426141]: [https://en.wikipedia.org/wiki/Shohei_Ohtani](https://en.wikipedia.org/wiki/Shohei_Ohtani)   
+
+## 凯瑟琳_康诺利   
+Catherine Martina Ann Connolly is an Irish independent politician who is the president-elect of Ireland, following her election in 2025. She has served as a Teachta Dála (TD) for the Galway West constituency from 2016 until her election as president.   
+
+凯瑟琳·玛蒂娜·安·康诺利（Catherine Martina Ann Connolly）是一位爱尔兰独立政治家，2025年当选爱尔兰总统。从2016年起，她一直担任戈尔韦西选区的Teachta Dála（TD），直到当选总统。   
+
+阅读延伸[25296931]: [https://en.wikipedia.org/wiki/Catherine_Connolly](https://en.wikipedia.org/wiki/Catherine_Connolly)   
+
+## 武器_（2025_电影）   
+Weapons is an upcoming American mystery horror film written, produced, and directed by Zach Cregger. The film stars Josh Brolin, Julia Garner, Alden Ehrenreich, Austin Abrams, Cary Christopher, Benedict Wong, and Amy Madigan. Its plot follows the case of seventeen kids from the same classroom who mysteriously disappear overnight at the exact same time.   
+
+《武器》是一部即将上映的美国悬疑恐怖电影，由扎克·克雷格编剧、制作和导演。这部电影由乔什·布罗林、朱莉娅·加纳、奥尔登·埃斯珀赖希、奥斯汀·艾布拉姆斯、卡里·克里斯托弗、本尼迪克特·黄和艾米·马迪根主演。它的情节讲述了同一个教室的十七个孩子在同一时间一夜之间神秘失踪的故事。   
+
+阅读延伸[73248680]: [https://en.wikipedia.org/wiki/Weapons_(2025_film)](https://en.wikipedia.org/wiki/Weapons_(2025_film))   
 
 ## 死亡_in_2025   
 The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
@@ -41,6 +76,34 @@ The following notable deaths occurred in 2025. Names are reported under the date
 
 阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
 
+## 他妈   
+Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
+
+Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词或表达蔑视。虽然它的起源并不清楚，但通常被认为是在1475年左右首次得到证实的。在现代使用中，fuck一词及其衍生词被用作名词、动词、形容词、中词、感叹词或副词。有许多常用短语使用该词，以及包含该词的复合词，例如muddermuses和fuck off。   
+
+阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
+
+## 特雷_耶萨维奇   
+Trey David Yesavage is an American professional baseball pitcher for the Toronto Blue Jays of Major League Baseball (MLB). He played college baseball for the East Carolina Pirates, and was selected by the Blue Jays in the first round of the 2024 MLB draft. He made his MLB debut in 2025.   
+
+特雷·大卫·耶萨维奇（Trey David Yesavage）是美国职业棒球大联盟（MLB）多伦多蓝鸟队的美国职业棒球投手。他曾为东卡罗来纳海盗队打大学棒球，并在2024年MLB选秀第一轮中被蓝鸟队选中。他于2025年首次亮相MLB。   
+
+阅读延伸[76861766]: [https://en.wikipedia.org/wiki/Trey_Yesavage](https://en.wikipedia.org/wiki/Trey_Yesavage)   
+
+## 麦肯齐_邓恩   
+Mackenzie Lynne Dern is an American and Brazilian professional mixed martial artist and Brazilian Jiu-Jitsu practitioner currently competing in the women's strawweight division of the Ultimate Fighting Championship (UFC), where she is the current UFC Women's Strawweight Champion. She is a former world no. 1 ranked IBJJF competitor, currently ranked 6th among the female divisions. She is an ADCC and no gi BJJ world champion.   
+
+麦肯齐·林恩·邓恩（Mackenzie Lynne Dern）是一位美国和巴西职业综合武术家和巴西柔术练习者，目前参加终极格斗锦标赛（UFC）女子草量级比赛，她是现任UFC女子草量级冠军。她是前IBJJF世界排名第一的竞争对手，目前在女子组中排名第六。她是ADCC，但没有gi BJJ世界冠军。   
+
+阅读延伸[48456306]: [https://en.wikipedia.org/wiki/Mackenzie_Dern](https://en.wikipedia.org/wiki/Mackenzie_Dern)   
+
+## 蒂莫西_梅隆   
+Timothy Mellon is an American businessman, the grandson of Andrew Mellon, and an heir to the Mellon banking fortune. As of June 2024, Forbes estimated the Mellon family's net worth at $14.1 billion. He is a major donor to the Republican Party.   
+
+蒂莫西·梅隆（Timothy Mellon）是一位美国商人，安德鲁·梅隆（Andrew Mellon）的孙子，也是梅隆银行财富的继承人。截至2024年6月，福布斯估计梅隆家族的净资产为141亿美元。他是共和党的主要捐助者。   
+
+阅读延伸[14895190]: [https://en.wikipedia.org/wiki/Timothy_Mellon](https://en.wikipedia.org/wiki/Timothy_Mellon)   
+
 ## 6-7_（模因）   
 The 6-7 meme ( ) is an internet meme and slang term that emerged in early 2025 on TikTok and Instagram Reels. It originated from the repeated lyric "6-7" in the song "Doot Doot " by Skrilla, which was used on social media in video edits of professional basketball players such as LaMelo Ball who is 6 feet 7 inches tall. The term "6-7" spread as slang among Generation Alpha and Generation Z. As the meme's reach expanded in August of 2025, one child became known as the "6-7 Kid" after a viral video showed him saying the term while moving his hands up and down at an Amateur Athletic Union basketball game. It is often compared to 41, a meme of similar origin, where rapper Blizzi Boi in his song "41 Song " repeats the number "41" throughout.   
 
@@ -48,12 +111,12 @@ The 6-7 meme ( ) is an internet meme and slang term that emerged in early 2025 o
 
 阅读延伸[80838096]: [https://en.wikipedia.org/wiki/6-7_(meme)](https://en.wikipedia.org/wiki/6-7_(meme))   
 
-## 他妈   
-Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
+## 坎塔拉：_第1章   
+Kantara: Chapter 1 is a 2025 Indian Kannada-language period mythological action drama film written and directed by Rishab Shetty, and produced by Vijay Kiragandur and Chaluve Gowda under Hombale Films. A prequel to the 2022 film Kantara, the story delves deeper into the origins of the mythological tradition and ancestral conflict introduced in the first film.   
 
-Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词或表达蔑视。虽然它的起源并不清楚，但通常被认为是在1475年左右首次得到证实的。在现代使用中，fuck一词及其衍生词被用作名词、动词、形容词、中词、感叹词或副词。有许多常用短语使用该词，以及包含该词的复合词，例如muddermuses和fuck off。   
+坎塔拉：《第一章》是一部2025年印度卡纳达语时期神话动作片，由Rishab Shetty编剧和导演，Hombale Films旗下的Vijay Kiragandur和Chaluve Gowda制作。作为2022年电影《坎塔拉》的前传，故事更深入地探讨了第一部电影中引入的神话传统和祖先冲突的起源。   
 
-阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
+阅读延伸[74654227]: [https://en.wikipedia.org/wiki/Kantara%3A_Chapter_1](https://en.wikipedia.org/wiki/Kantara%3A_Chapter_1)   
 
 ## 塔玛   
 101761052759400.html
@@ -64,80 +127,17 @@ Thamma（翻译：Leader）是一部2025年印度印地语浪漫喜剧恐怖电�
 
 阅读延伸[79667020]: [https://en.wikipedia.org/wiki/Thamma](https://en.wikipedia.org/wiki/Thamma)   
 
-## 炸药屋   
-A House of Dynamite is a 2025 American apocalyptic political thriller film directed by Kathryn Bigelow and written by Noah Oppenheim. The film features an ensemble cast that includes Idris Elba, Rebecca Ferguson, Gabriel Basso, Jared Harris, Tracy Letts, Anthony Ramos, Moses Ingram, Jonah Hauer-King, Greta Lee, and Jason Clarke. Its plot follows the U.S. government navigating an official response to a single nuclear missile launched by an unidentified enemy.   
+## 艾迪生_巴格   
+Addison Barger is an American professional baseball third baseman and outfielder for the Toronto Blue Jays of Major League Baseball (MLB). He made his MLB debut in 2024.   
 
-《炸药屋》是一部2025年美国世界末日政治惊悚片，由凯瑟琳·毕格罗执导，诺亚·奥本海姆编剧。这部电影的演员阵容包括伊德里斯·艾尔巴、丽贝卡·弗格森、加布里埃尔·巴索、贾里德·哈里斯、特雷西·莱茨、安东尼·拉莫斯、摩西·英格拉姆、乔纳·哈尔-金、格蕾塔·李和杰森·克拉克。其情节是在美国政府对身份不明的敌人发射的一枚核导弹做出官方回应之后发生的。   
+艾迪生·巴格（Addison Barger）是一名美国职业棒球三垒手，也是美国职业棒球大联盟（MLB）多伦多蓝鸟队的外野手。他于2024年首次亮相MLB。   
 
-阅读延伸[77226241]: [https://en.wikipedia.org/wiki/A_House_of_Dynamite](https://en.wikipedia.org/wiki/A_House_of_Dynamite)   
+阅读延伸[71417430]: [https://en.wikipedia.org/wiki/Addison_Barger](https://en.wikipedia.org/wiki/Addison_Barger)   
 
-## 坎塔拉：_第1章   
-Kantara: Chapter 1 is a 2025 Indian Kannada-language period mythological action drama film written and directed by Rishab Shetty, and produced by Vijay Kiragandur and Chaluve Gowda under Hombale Films. A prequel to the 2022 film Kantara, the story delves deeper into the origins of the mythological tradition and ancestral conflict introduced in the first film.   
+## 2025年_爱尔兰_总统_选举   
+The 2025 Irish presidential election took place on Friday, 24 October 2025. Polls opened at 7:00 and closed at 22:00. The election determined the tenth president of Ireland. The incumbent president, Michael D. Higgins, was term-limited, having served the maximum two seven-year terms permitted under the Constitution of Ireland. The balloted candidates in the election were Catherine Connolly, Jim Gavin and Heather Humphreys. The 1990 presidential election had been the last to feature only three candidates.   
 
-坎塔拉：《第一章》是一部2025年印度卡纳达语时期神话动作片，由Rishab Shetty编剧和导演，Hombale Films旗下的Vijay Kiragandur和Chaluve Gowda制作。作为2022年电影《坎塔拉》的前传，故事更深入地探讨了第一部电影中引入的神话传统和祖先冲突的起源。   
+2025年爱尔兰总统选举于2025年10月24日星期五举行。投票于7：00开始，22：00结束。这次选举确定了爱尔兰第十任总统。现任总统迈克尔·D。希金斯的任期受到限制，他已经完成了爱尔兰宪法允许的最多两个七年任期。选举中投票的候选人是凯瑟琳·康诺利、吉姆·加文和希瑟·汉弗莱斯。1990年的总统选举是最后一次只有三名候选人参加的总统选举。   
 
-阅读延伸[74654227]: [https://en.wikipedia.org/wiki/Kantara%3A_Chapter_1](https://en.wikipedia.org/wiki/Kantara%3A_Chapter_1)   
-
-## Ek_Deewane_Ki_Deewaniyat   
-Ek Deewane Ki Deewaniyat is a 2025 Indian Hindi-language romantic drama film directed by Milap Zaveri and written by Milap Zaveri and Mushtaq Shiekh. Produced under the banner Desi Movies Factory, the film stars Harshvardhan Rane and Sonam Bajwa in the lead roles. The film was theatrically released on 21 October 2025, coinciding with Diwali. It received negative reviews from the critics.   
-
-Ek Deewane Ki Deewaniyat是一部2025年印度印地语浪漫剧情电影，由Milap Zaveri执导，Milap Zaveri和Mushtaq Shiekh编剧。这部电影以德西电影工厂（Desi Movies Factory）的名义制作，由哈什瓦尔丹·雷恩（Harshvardhan Rane）和索南·巴杰瓦（Sonam Bajwa）主演。该片于2025年10月21日上映，恰逢排灯节。它受到了批评者的负面评价。   
-
-阅读延伸[80816605]: [https://en.wikipedia.org/wiki/Ek_Deewane_Ki_Deewaniyat](https://en.wikipedia.org/wiki/Ek_Deewane_Ki_Deewaniyat)   
-
-## 佐兰_马姆达尼   
-Zohran Kwame Mamdani is an American politician who has served since 2021 as a member of the New York State Assembly from the 36th district, based in Queens. A member of the Democratic Party and the Democratic Socialists of America, he is the Democratic nominee for mayor of New York City in the 2025 election.   
-
-佐兰·夸梅·马姆达尼（Zohran Kwame Mamdani）是一位美国政治家，自2021年以来一直担任纽约州议会议员，来自皇后区第36选区。他是民主党和美国民主社会主义者的成员，是2025年纽约市市长选举的民主党候选人。   
-
-阅读延伸[64618347]: [https://en.wikipedia.org/wiki/Zohran_Mamdani](https://en.wikipedia.org/wiki/Zohran_Mamdani)   
-
-## 莉莉_艾伦   
-Lily Rose Beatrice Allen is an English singer, songwriter, and actress. Her accolades include a Brit Award, alongside nominations for a Grammy Award and a Laurence Olivier Award.   
-
-莉莉·罗斯·比阿特丽斯·艾伦（Lily Rose Beatrice Allen）是一位英国歌手、词曲作者和演员。她获得的荣誉包括全英音乐奖，以及格莱美奖和劳伦斯·奥利维尔奖的提名。   
-
-阅读延伸[5007334]: [https://en.wikipedia.org/wiki/Lily_Allen](https://en.wikipedia.org/wiki/Lily_Allen)   
-
-## The_Long_Walk_（2025_电影）   
-The Long Walk is a 2025 American dystopian survival thriller film co-produced and directed by Francis Lawrence from a screenplay by JT Mollner. It is based on the 1979 novel of the same name by Stephen King. The film stars Cooper Hoffman, David Jonsson, Garrett Wareing, Tut Nyuot, Charlie Plummer, Ben Wang, Roman Griffin Davis, Jordan Gonzalez, Josh Hamilton, Judy Greer, and Mark Hamill.   
-
-《漫漫长路》是一部2025年美国反乌托邦生存惊悚电影，由弗朗西斯·劳伦斯联合制作和导演，改编自JT Mollner的剧本。它改编自斯蒂芬·金1979年的同名小说。这部电影由库珀·霍夫曼、大卫·琼森、加勒特·瓦林、图特·纽奥特、查理·普卢默、本·王、罗曼·格里芬·戴维斯、乔丹·冈萨雷斯、乔什·汉密尔顿、朱迪·格里尔和马克·哈米尔主演。   
-
-阅读延伸[77134430]: [https://en.wikipedia.org/wiki/The_Long_Walk_(2025_film)](https://en.wikipedia.org/wiki/The_Long_Walk_(2025_film))   
-
-## 杀死阿吉克·欧文斯   
-On June 2, 2023, in Ocala, Florida, 35-year-old Ajike "AJ" Shantrell Owens was shot and killed by her neighbor, 58-year-old Susan Lorincz. Owens was knocking on Lorincz's door after altercations occurred between Owens' children and Lorincz in a field nearby. Lorincz shot Owens through the door. Police were already responding to "a trespassing call" when they received another 911 call about a shooting at the same address. They found Owens injured and took her to the hospital where she was pronounced dead.   
-
-2023年6月2日，在佛罗里达州奥卡拉，35岁的阿吉克·“AJ”·尚特雷尔·欧文斯被她的邻居、58岁的苏珊·洛林茨开枪打死。欧文斯的孩子们和洛林茨在附近的一块地里发生争吵后，欧文斯敲了洛林茨的门。Lorincz隔着门向Owens开枪。当警方接到另一个911报警电话时，他们已经对“非法侵入电话”做出了回应。他们发现欧文斯受伤，并将她送往医院，并宣布她死亡。   
-
-阅读延伸[73979949]: [https://en.wikipedia.org/wiki/Killing_of_Ajike_Owens](https://en.wikipedia.org/wiki/Killing_of_Ajike_Owens)   
-
-## 特里_罗齐尔   
-Terry William Rozier III, nicknamed "Scary Terry", is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA). He played college basketball for the Louisville Cardinals before being selected with the 16th overall pick in the 2015 NBA draft by the Boston Celtics. Rozier spent his first four seasons as a reserve with the Celtics until being traded to the Charlotte Hornets in a sign-and-trade deal. Rozier was a starter for the Hornets for four-and-a-half seasons before being traded to the Heat.   
-
-特里·威廉·罗齐尔三世，绰号“可怕的特里”，是美国国家篮球协会（NBA）迈阿密热火队的美国职业篮球运动员。他曾为路易斯维尔红雀队打大学篮球，随后在2015年NBA选秀中被波士顿凯尔特人队以第16顺位选中。罗齐尔在凯尔特人队担任替补球员的前四个赛季，直到通过签约交易交易被交易到夏洛特黄蜂队。罗齐尔在被交易到热火之前为黄蜂队效力了四个半赛季。   
-
-阅读延伸[46260801]: [https://en.wikipedia.org/wiki/Terry_Rozier](https://en.wikipedia.org/wiki/Terry_Rozier)   
-
-## 丹尼尔_纳罗季茨基   
-Daniel Naroditsky, often referred to as Danya, was an American chess grandmaster, author, and commentator. He won the Under 12 section of the World Youth Chess Championship in 2007 and the US Junior Championship in 2013, the same year he was officially awarded the grandmaster title at age 18.   
-
-丹尼尔·纳罗季茨基（Daniel Naroditsky），通常被称为丹雅（Danya），是一位美国国际象棋大师、作家和评论员。他于2007年赢得了世界青少年国际象棋锦标赛12岁以下组冠军，并于2013年赢得了美国青少年锦标赛，同年他在18岁时被正式授予大师称号。   
-
-阅读延伸[16267840]: [https://en.wikipedia.org/wiki/Daniel_Naroditsky](https://en.wikipedia.org/wiki/Daniel_Naroditsky)   
-
-## Piyush_Pandey   
-Piyush Pandey was an Indian advertising professional and the Chief Creative Officer Worldwide (2019) and Executive Chairman India of Ogilvy. He was the recipient of the LIA Legend Award in 2024, and the Padma Shri award in 2016. Pandey is also credited with shaping a distinct indigenous influence on Indian advertising that was earlier under the influence of western advertising and ideas.   
-
-Piyush Pandey是一位印度广告专业人士，也是奥美全球首席创意官（2019年）和印度执行主席。他是2024年LIA传奇奖和2016年Padma Shri奖的获得者。潘迪还被认为对印度广告产生了独特的本土影响，而这种影响早期受到西方广告和思想的影响。   
-
-阅读延伸[32315186]: [https://en.wikipedia.org/wiki/Piyush_Pandey](https://en.wikipedia.org/wiki/Piyush_Pandey)   
-
-## 2025_Louvre_抢劫   
-On 19 October 2025, thieves disguised as workers stole eight pieces of the French Crown Jewels from the Galerie d'Apollon of the Louvre in Paris, France. The robbery took four minutes and happened during regular opening hours. It was the first art theft from the Louvre since the 1998 theft of the painting Le chemin de Sèvres.   
-
-2025年10月19日，窃贼伪装成工人，从法国巴黎卢浮宫阿波罗画廊偷走了八件法国皇冠珠宝。抢劫案持续了四分钟，发生在正常营业时间。这是自1998年《塞夫勒》画作被盗以来，卢浮宫的首例艺术品盗窃案。   
-
-阅读延伸[81376506]: [https://en.wikipedia.org/wiki/2025_Louvre_robbery](https://en.wikipedia.org/wiki/2025_Louvre_robbery)   
+阅读延伸[75903783]: [https://en.wikipedia.org/wiki/2025_Irish_presidential_election](https://en.wikipedia.org/wiki/2025_Irish_presidential_election)   
 
