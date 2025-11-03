@@ -1,52 +1,10 @@
 # 最新资讯  
-## Google_Chrome   
-Google Chrome is a web browser developed by Google. It was first released in 2008 for Microsoft Windows, built with free software components from Apple WebKit and Mozilla Firefox. Versions were later released for Linux, macOS, iOS, iPadOS, and also for Android, where it is the default browser. The browser is also the main component of ChromeOS, where it serves as the platform for web applications.   
+## 女子板球世界杯   
+The ICC Women's Cricket World Cup is the quadrennial international championship of the One Day International format with 50 overs per team. It is organised by the International Cricket Council.   
 
-Google Chrome是谷歌开发的网络浏览器。它于2008年首次在Microsoft Windows上发布，采用Apple WebKit和Firefox的免费软件组件构建。后来发布了适用于Linux、macOS、iOS、iPadOS以及Android（它是默认浏览器）的版本。该浏览器也是ChromeOS的主要组件，它充当Web应用程序的平台。   
+ICC女子板球世界杯是四年一度的单日国际锦标赛，每队有50场比赛。它由国际板球理事会组织。   
 
-阅读延伸[19133401]: [https://en.wikipedia.org/wiki/Google_Chrome](https://en.wikipedia.org/wiki/Google_Chrome)   
-
-## 艾德·盖恩   
-Edward Theodore Gein, also known as "the Butcher of Plainfield" or "the Plainfield Ghoul", was an American murderer, suspected serial killer and body snatcher. Gein's crimes, committed around his hometown of Plainfield, Wisconsin, gathered widespread notoriety in 1957 after authorities discovered that he had exhumed corpses from local graveyards and fashioned keepsakes from their bones and skin. He also confessed to killing two women: tavern owner Mary Hogan in 1954, and hardware store owner Bernice Worden in 1957.   
-
-爱德华·西奥多·盖恩（Edward Theodore Gein），又名“普兰菲尔德屠夫”或“普兰菲尔德食尸鬼”，是一名美国杀人犯、疑似连环杀手和尸体抢夺者。吉恩的罪行发生在他的家乡威斯康星州普兰菲尔德附近，1957年当局发现他从当地墓地挖掘尸体并用尸体的骨头和皮肤制作纪念品后，他的罪行引起了广泛的恶名。他还承认杀害了两名女性：1954年的酒馆老板玛丽·霍根（Mary Hogan）和1957年的五金店老板伯尼斯·沃登（Bernice Worden）。   
-
-阅读延伸[71376]: [https://en.wikipedia.org/wiki/Ed_Gein](https://en.wikipedia.org/wiki/Ed_Gein)   
-
-## 6-7_（模因）   
-The 6-7 meme ( ) is an internet meme and slang term that emerged in early 2025 on TikTok and Instagram Reels. It originated from the repeated lyric "6-7" in the song "Doot Doot " by Skrilla, which was used on social media in video edits of professional basketball players such as LaMelo Ball who is 6 feet 7 inches tall. The term "6-7" spread as slang among Generation Alpha and Generation Z. As the meme's reach expanded in August of 2025, one child became known as the "6-7 Kid" after a viral video showed him saying the term while moving his hands up and down at an Amateur Athletic Union basketball game. It is often compared to 41, a meme of similar origin, where rapper Blizzi Boi in his song "41 Song " repeats the number "41" throughout.   
-
-6-7模因（）是一个互联网模因和俚语，于2025年初出现在TikTok和Instagram Reels上。它起源于Skrilla歌曲《Doot Doot》中重复的歌词“6-7”，该歌曲在社交媒体上被用于对身高6英尺7英寸的LaMelo Ball等职业篮球运动员进行视频编辑。“6-7”一词在Alpha世代和Z世代之间作为俚语传播。2025年8月，随着这个模因的影响范围扩大，一段广为流传的视频显示，一名孩子在业余田径联盟篮球比赛中上下移动双手时说出了这个词，因此被称为“6-7小子”。它经常被与41进行比较，41是一个起源相似的模因，说唱歌手Blizzi Boi在他的歌曲《41 Song》中自始至终重复了数字“41”。   
-
-阅读延伸[80838096]: [https://en.wikipedia.org/wiki/6-7_(meme)](https://en.wikipedia.org/wiki/6-7_(meme))   
-
-## 欢迎来到德里   
-It: Welcome to Derry is an American supernatural horror television series based on Stephen King's 1986 novel It. Serving as a prequel to the films It (2017) and It Chapter Two (2019), the series was developed by Andy Muschietti, Barbara Muschietti and Jason Fuchs, all of whom were involved in the It films. The series stars Taylour Paige, Jovan Adepo, Chris Chalk, James Remar, Stephen Rider, Clara Stack, Amanda Christine, and Mikkal Karim-Fidler, with Bill Skarsgård reprising his role as Pennywise from the films.   
-
-它：《欢迎来到德里》是一部根据斯蒂芬·金1986年小说《It》改编的美国超自然恐怖电视剧。该剧是电影《It》（2017年）和《It Chapter Two》（2019年）的前传，由安迪·穆斯基耶蒂、芭芭拉·穆斯基耶蒂和杰森·福克斯开发，他们都参与了《It》电影。该剧由泰勒·佩奇、乔万·阿德波、克里斯·乔克、詹姆斯·雷马尔、斯蒂芬·莱德、克拉拉·斯塔克、阿曼达·克里斯汀和米卡尔·卡里姆-菲德勒主演，比尔·斯卡斯加德（Bill Skarsgård）在电影中重新扮演潘尼怀斯（Pennywise）。   
-
-阅读延伸[70439871]: [https://en.wikipedia.org/wiki/It_%E2%80%93_Welcome_to_Derry](https://en.wikipedia.org/wiki/It_%E2%80%93_Welcome_to_Derry)   
-
-## 安德鲁王子   
-Prince Andrew is a member of the British royal family. He is the third child and second son of Queen Elizabeth II and Prince Philip, Duke of Edinburgh, and a younger brother of King Charles III. Andrew was born second in the line of succession to the British throne and is now eighth, and the first person in the line who is not a descendant of the reigning monarch.   
-
-安德鲁王子是英国王室成员。他是伊丽莎白二世女王和爱丁堡公爵菲利普亲王的第三个孩子和次子，也是国王查理三世的弟弟。安德鲁出生于英国王位继承人中的第二位，现在是第八位，也是王位继承人中第一个不是在位君主后裔的人。   
-
-阅读延伸[125267]: [https://en.wikipedia.org/wiki/Prince_Andrew%2C_Duke_of_York](https://en.wikipedia.org/wiki/Prince_Andrew%2C_Duke_of_York)   
-
-## 死者之日   
-The Day of the Dead is a holiday traditionally celebrated on November 1 and 2, though other days, such as October 31 or November 6, may be included depending on the locality. The multi-day holiday involves family and friends gathering to pay respects and remember friends and family members who have died. These celebrations can take a humorous tone, as celebrants remember amusing events and anecdotes about the departed. It is widely observed in Mexico, where it largely developed, and is also observed in other places, especially by people of Mexican heritage. The observance falls during the Christian period of Allhallowtide. Some argue that there are Indigenous Mexican or ancient Aztec influences that account for the custom, and it has become a way to remember those forebears of Mexican culture. The Day of the Dead is largely seen as having a festive characteristic.   
-
-亡灵节是传统上在11月1日和2日庆祝的节日，但根据当地情况，也可能包括其他日子，例如10月31日或11月6日。这个多日的假期包括家人和朋友聚集在一起，向去世的朋友和家人表达敬意和缅怀。这些庆祝活动可以采取幽默的语气，因为庆祝者记住有关死者的有趣事件和轶事。它在墨西哥广泛观察到，在那里它很发达，在其他地方也观察到，特别是墨西哥血统的人。这一庆祝活动发生在基督教的万圣节时期。一些人认为，这种习俗受到墨西哥原住民或古代阿兹特克人的影响，它已成为纪念墨西哥文化祖先的一种方式。亡灵节在很大程度上被视为具有节日特色。   
-
-阅读延伸[52303]: [https://en.wikipedia.org/wiki/Day_of_the_Dead](https://en.wikipedia.org/wiki/Day_of_the_Dead)   
-
-## 他妈   
-Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
-
-Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词或表达蔑视。虽然它的起源并不清楚，但通常被认为是在1475年左右首次得到证实的。在现代使用中，fuck一词及其衍生词被用作名词、动词、形容词、中词、感叹词或副词。有许多常用短语使用该词，以及包含该词的复合词，例如muddermuses和fuck off。   
-
-阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
+阅读延伸[3977980]: [https://en.wikipedia.org/wiki/Women's_Cricket_World_Cup](https://en.wikipedia.org/wiki/Women's_Cricket_World_Cup)   
 
 ## 大谷翔平   
 Shohei Ohtani  is a Japanese professional baseball pitcher and designated hitter for the Los Angeles Dodgers of Major League Baseball (MLB). Nicknamed "Shotime", he has previously played in MLB for the Los Angeles Angels and the Hokkaido Nippon-Ham Fighters of Nippon Professional Baseball (NPB). Because of his elite contributions as a hitter and as a pitcher, a rarity as a two-way player, Ohtani's 2021–2024 seasons are considered among the greatest in baseball history, with some comparing them favorably to the early career of Babe Ruth.   
@@ -55,87 +13,139 @@ Shohei Ohtani  is a Japanese professional baseball pitcher and designated hitter
 
 阅读延伸[37426141]: [https://en.wikipedia.org/wiki/Shohei_Ohtani](https://en.wikipedia.org/wiki/Shohei_Ohtani)   
 
-## 艾琳_沃尔诺斯   
-Aileen Carol Wuornos was an American serial killer. Between 1989 and 1990, while engaging in street prostitution along highways in Florida, Wuornos shot dead and robbed seven of her male clients. She claimed that her victims had either raped or attempted to rape her, and that the homicides were committed in self-defense. Wuornos was sentenced to death for six of the murders and was executed in 2002 after spending more than ten years on Florida's death row.   
+## Yoshinobu_山本   
+Yoshinobu Yamamoto  is a Japanese professional baseball pitcher for the Los Angeles Dodgers of Major League Baseball (MLB). He previously played in Nippon Professional Baseball (NPB) for the Orix Buffaloes, where he became one of the most decorated pitchers in league history. Between 2021 and 2023, Yamamoto won three consecutive Pacific League Most Valuable Player Awards, three Eiji Sawamura Awards, and three Triple Crowns, leading the league in wins, strikeouts, and earned run average in each of those seasons. He also threw two no-hitters and was a key figure in Orix’s 2022 Japan Series championship.   
 
-艾琳·卡罗尔·伍尔诺斯是一名美国连环杀手。1989年至1990年间，沃尔诺斯在佛罗里达州高速公路沿线从事街头卖淫时开枪打死并抢劫了她的七名男性客户。她声称受害者要么强奸了她，要么试图强奸她，而且凶杀案是出于自卫。沃尔诺斯因其中六起谋杀案被判处死刑，并在佛罗里达州死囚牢房服刑十多年后于2002年被处决。   
+山本义信是美国职业棒球大联盟（MLB）洛杉矶道奇队的日本职业棒球投手。他此前曾在日本职业棒球（NPB）效力于欧力士水牛队，成为联盟历史上获得荣誉最多的投手之一。2021年至2023年间，山本连续三次荣获太平洋联盟最有价值球员奖、三次泽村英司奖和三次三冠王，在每个赛季的胜率、三振率和平均分方面均领先联盟。他还投出了两个无安打者，并且是Orix 2022年日本系列赛冠军的关键人物。   
 
-阅读延伸[214928]: [https://en.wikipedia.org/wiki/Aileen_Wuornos](https://en.wikipedia.org/wiki/Aileen_Wuornos)   
+阅读延伸[58563166]: [https://en.wikipedia.org/wiki/Yoshinobu_Yamamoto](https://en.wikipedia.org/wiki/Yoshinobu_Yamamoto)   
 
-## 死亡_in_2025   
-The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
+## 马克斯_Scherzer   
+Maxwell Martin Scherzer, nicknamed "Mad Max", is an American professional baseball pitcher for the Toronto Blue Jays of Major League Baseball (MLB). He has previously played in MLB for the Arizona Diamondbacks, Detroit Tigers, Washington Nationals, Los Angeles Dodgers, New York Mets, and Texas Rangers. A right-handed starting pitcher, Scherzer is an eight-time MLB All-Star, has won three Cy Young Awards, has pitched two no-hitters, and won the World Series with the Nationals in 2019, and the Rangers in 2023. He is regarded as one of the best pitchers in baseball history.   
 
-以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
+麦克斯韦·马丁·舍策（Maxwell Martin Scherzer）绰号“疯狂的麦克斯”，是美国职业棒球大联盟（MLB）多伦多蓝鸟队的美国职业棒球投手。他此前曾在MLB效力于亚利桑那响尾蛇队、底特律老虎队、华盛顿国民队、洛杉矶道奇队、纽约大都会队和德克萨斯游骑兵队。谢尔策是一名右手首发投手，八次入选美国职业棒球大联盟全明星，曾三次获得赛扬奖，投过两名无安打者，并于2019年随国民队和流浪者队赢得了世界大赛冠军。他被认为是棒球史上最好的投手之一。   
 
-阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
+阅读延伸[12760718]: [https://en.wikipedia.org/wiki/Max_Scherzer](https://en.wikipedia.org/wiki/Max_Scherzer)   
 
-## 万圣节   
-Halloween, or Hallowe'en, is a celebration observed in many countries on 31 October, the eve of the Western Christian feast of All Hallows' Day. It is at the beginning of the observance of Allhallowtide, the time in the liturgical year dedicated to remembering the dead, including saints (hallows), martyrs, and all the faithful departed. In popular culture, the day has become a celebration of horror, being associated with the macabre and supernatural.   
+## Google_Chrome   
+Google Chrome is a web browser developed by Google. It was first released in 2008 for Microsoft Windows, built with free software components from Apple WebKit and Mozilla Firefox. Versions were later released for Linux, macOS, iOS, iPadOS, and also for Android, where it is the default browser. The browser is also the main component of ChromeOS, where it serves as the platform for web applications.   
 
-万圣节或万圣节是许多国家在10月31日（西方基督教万圣节前夕）举行的庆祝活动。这是庆祝万圣节的开始，这是礼拜年份中致力于纪念死者，包括圣人（圣人）、烈士和所有死去的忠实信徒。在流行文化中，这一天已成为恐怖的庆祝活动，与恐怖和超自然联系在一起。   
+Google Chrome是谷歌开发的网络浏览器。它于2008年首次在Microsoft Windows上发布，采用Apple WebKit和Firefox的免费软件组件构建。后来发布了适用于Linux、macOS、iOS、iPadOS以及Android（它是默认浏览器）的版本。该浏览器也是ChromeOS的主要组件，它充当Web应用程序的平台。   
 
-阅读延伸[13855]: [https://en.wikipedia.org/wiki/Halloween](https://en.wikipedia.org/wiki/Halloween)   
+阅读延伸[19133401]: [https://en.wikipedia.org/wiki/Google_Chrome](https://en.wikipedia.org/wiki/Google_Chrome)   
 
-## 坎塔拉：_第1章   
-Kantara: Chapter 1 is a 2025 Indian Kannada-language period mythological action drama film written and directed by Rishab Shetty, and produced by Vijay Kiragandur and Chaluve Gowda under Hombale Films. A prequel to the 2022 film Kantara, the story delves deeper into the origins of the mythological tradition and ancestral conflict introduced in the first film.   
+## 世界系列赛冠军名单   
+The World Series is the annual championship series of Major League Baseball (MLB) and concludes the MLB postseason. First played in 1903, the World Series championship is a best-of-seven playoff and is a contest between the champions of baseball's National League (NL) and American League (AL). Often referred to as the "Fall Classic", the modern World Series has been played every year since 1903 with two exceptions: in 1904, when the NL champion New York Giants declined to play the AL champion Boston Americans; and in 1994, when the series was canceled due to the players' strike. The best-of-seven style has been the format of all World Series except in 1903, 1919, 1920, 1921, when the winner was determined through a best-of-nine playoff. Although the large majority of contests have been played entirely during the month of October, a small number of Series have also had games played during September and November. The Series-winning team is awarded the Commissioner's Trophy. Players, coaches and others associated with the team are generally given World Series rings to commemorate their victory; however, they have received other items such as pocket watches and medallions in the past. The winning team is traditionally invited to the White House to meet the President of the United States.   
 
-坎塔拉：《第一章》是一部2025年印度卡纳达语时期神话动作片，由Rishab Shetty编剧和导演，Hombale Films旗下的Vijay Kiragandur和Chaluve Gowda制作。作为2022年电影《坎塔拉》的前传，故事更深入地探讨了第一部电影中引入的神话传统和祖先冲突的起源。   
+世界系列赛是美国职业棒球大联盟(MLB)的年度冠军系列赛，结束了MLB的季后赛。世界系列赛于1903年首次举行，是七局四胜制的季后赛，是棒球国家联盟(NL)和美国联盟(AL)冠军之间的比赛。自1903年以来，现代世界系列赛每年都会举行，但有两个例外：1904年，国联冠军纽约巨人队拒绝与美联冠军波士顿美国队交手；1994年，由于球员罢工，系列赛被取消。除了1903,1919,1920,1921年的世界系列赛，七局四胜制一直是所有世界系列赛的形式，当时通过九局四胜的季后赛决定获胜者。虽然大多数比赛都是在10月份进行的，但也有一小部分系列赛在9月和11月进行了比赛。获得系列赛冠军的球队被授予专员奖杯。球员、教练和其他与球队有关联的人通常会得到世界大赛戒指，以纪念他们的胜利；然而，他们过去也会收到其他物品，如怀表和奖章。获胜的球队传统上会被邀请到白宫会见美国总统。   
 
-阅读延伸[74654227]: [https://en.wikipedia.org/wiki/Kantara%3A_Chapter_1](https://en.wikipedia.org/wiki/Kantara%3A_Chapter_1)   
+阅读延伸[7599168]: [https://en.wikipedia.org/wiki/List_of_World_Series_champions](https://en.wikipedia.org/wiki/List_of_World_Series_champions)   
 
-## 弗吉尼亚州_朱弗尔   
-Virginia Louise Giuffre was an American-Australian advocate of justice for survivors of sex trafficking and one of the most prominent and vocal accusers of child sex offender Jeffrey Epstein. Giuffre created Victims Refuse Silence, a non-profit organization in the United States, in 2015, which was relaunched under the name Speak Out, Act, Reclaim (SOAR) in November 2021. She gave a detailed account to many American and British reporters about her experiences of being trafficked by Epstein and Ghislaine Maxwell.   
+## 威尔_史密斯_（接球手）   
+William Dills Smith is an American professional baseball catcher for the Los Angeles Dodgers of Major League Baseball (MLB). He played college baseball for the Louisville Cardinals. He was selected by the Dodgers in the first round of the 2016 Major League Baseball draft, and made his MLB debut in 2019. Smith is a three-time All-Star and won the World Series with the Dodgers in 2020, 2024, and 2025, securing the latter championship with an 11th-inning home run in Game 7. Internationally, Smith represents the United States.   
 
-弗吉尼亚·路易丝·朱弗尔（Virginia Louise Giuffre）是一位为性交易幸存者伸张正义的美国-澳大利亚倡导者，也是儿童性犯罪者杰弗里·爱泼斯坦（Jeffrey Epstein）最着名和最直言不讳的指控者之一。Giuffre于2015年在美国创建了一个非营利组织Victims Refuse Silence，并于2021年11月以Speak Out，Act，Reclaim（SOAR）的名义重新启动。她向许多美国和英国记者详细讲述了自己被爱泼斯坦和吉斯莱恩·麦克斯韦贩卖的经历。   
+威廉·迪尔斯·史密斯是美国职业棒球大联盟（MLB）洛杉矶道奇队的美国职业棒球接球手。他为路易斯维尔红雀队打大学棒球。他在2016年美国职业棒球大联盟选秀第一轮中被道奇队选中，并于2019年首次亮相美国职业棒球大联盟（MLB）。史密斯是三届全明星球员，并在2020年、2024年和2025年随道奇队赢得了世界大赛冠军，并在第7场比赛中以第11局本垒打夺得了后者的冠军。在国际上，史密斯代表美国。   
 
-阅读延伸[62493394]: [https://en.wikipedia.org/wiki/Virginia_Giuffre](https://en.wikipedia.org/wiki/Virginia_Giuffre)   
+阅读延伸[50770433]: [https://en.wikipedia.org/wiki/Will_Smith_(catcher)](https://en.wikipedia.org/wiki/Will_Smith_(catcher))   
 
-## 刘易斯_科普   
-Lewis Cope is an English actor and dancer. After beginning his career as a child actor appearing in a West End production of Billy Elliot the Musical, he competed in the Sky One dance series Got to Dance, finishing as a runner-up on the third series in 2013. Cope then went on to act in series including Hetty Feather, Doctors and Vera. In 2022, he was cast as Nicky Miligan in the ITV soap opera Emmerdale. After leaving the series in 2024, he is currently appearing as a contestant on the twenty-third series of Strictly Come Dancing.   
+## 洛杉矶_道奇队   
+The Los Angeles Dodgers are an American professional baseball team based in Los Angeles. The Dodgers compete in Major League Baseball (MLB) as a member club of the National League (NL) West Division. Founded in 1883 in Brooklyn, New York, the team joined the NL in 1890 as the Brooklyn Bridegrooms and used other monikers before settling as the Brooklyn Dodgers in 1932. From the 1940s through the mid-1950s, the Dodgers developed a fierce crosstown rivalry with the New York Yankees as the two clubs faced each other in the World Series seven times, with the Dodgers losing the first five matchups before defeating them to win the franchise's first title in 1955. The Dodgers made history by breaking the baseball color line in 1947 with the debut of Jackie Robinson, the first African American to play in the Major Leagues since 1884. Another major milestone was reached in 1956 when Don Newcombe became the first player ever to win both the Cy Young Award and the NL MVP in the same season.   
 
-刘易斯·科普是一位英国演员和舞蹈家。在伦敦西区制作的音乐剧《比利·埃利奥特》中，他以儿童演员的身份开始了自己的职业生涯，随后参加了Sky One舞蹈系列《Got to Dance》，并于2013年在第三季中获得亚军。科普随后继续出演《海蒂·羽毛》、《医生》和《维拉》等系列剧。2022年，他在英国独立电视台肥皂剧《艾默戴尔》中饰演尼基·米利根（Nicky Miligan）。2024年退出该系列后，他目前作为《舞动奇迹》第23季的参赛者出现。   
+洛杉矶道奇队是一支总部位于洛杉矶的美国职业棒球队。道奇队作为国家联盟（NL）西区的成员俱乐部参加美国职业棒球大联盟（MLB）比赛。该球队于1883年在纽约布鲁克林成立，于1890年以布鲁克林伴娘队的身份加入荷兰队，并在1932年以布鲁克林道奇队的身份定居之前使用了其他绰号。从20世纪40年代到20世纪50年代中期，道奇队与纽约洋基队展开了激烈的跨城竞争，两家俱乐部在世界大赛中七次交锋，道奇队在前五场比赛中输掉了比赛，然后击败了他们，赢得了球队的第一个冠军。1955年。1947年，杰基·罗宾逊（Jackie Robinson）首次亮相，道奇队打破了棒球肤色界限，创造了历史，杰基·罗宾逊（Jackie Robinson）是自1884年以来第一位在美国职业棒球大联盟效力的非裔美国人。另一个重要里程碑是在1956年，唐·纽科姆（Don Newcombe）成为第一位在同一赛季同时获得赛扬奖和国家队MVP的球员。   
 
-阅读延伸[79974421]: [https://en.wikipedia.org/wiki/Lewis_Cope](https://en.wikipedia.org/wiki/Lewis_Cope)   
+阅读延伸[18213]: [https://en.wikipedia.org/wiki/Los_Angeles_Dodgers](https://en.wikipedia.org/wiki/Los_Angeles_Dodgers)   
 
-## 炸药屋   
-A House of Dynamite is a 2025 American apocalyptic political thriller film directed by Kathryn Bigelow and written by Noah Oppenheim. The film features an ensemble cast that includes Idris Elba, Rebecca Ferguson, Gabriel Basso, Jared Harris, Tracy Letts, Anthony Ramos, Moses Ingram, Jonah Hauer-King, Greta Lee, and Jason Clarke. Its plot follows the U.S. government navigating an official response to a single nuclear missile launched by an unidentified enemy.   
+## 海湖庄园面孔   
+Mar-a-Lago face is a plastic surgery and fashion trend among American conservative and Republican women to modify their faces with "detectable" surgery, excessive makeup, fake tans, and "fake eyelashes, with dark smokey eyes and full lips".   
 
-《炸药屋》是一部2025年美国世界末日政治惊悚片，由凯瑟琳·毕格罗执导，诺亚·奥本海姆编剧。这部电影的演员阵容包括伊德里斯·艾尔巴、丽贝卡·弗格森、加布里埃尔·巴索、贾里德·哈里斯、特雷西·莱茨、安东尼·拉莫斯、摩西·英格拉姆、乔纳·哈尔-金、格蕾塔·李和杰森·克拉克。其情节是在美国政府对身份不明的敌人发射的一枚核导弹做出官方回应之后发生的。   
+海湖庄园的脸是美国保守派和共和党女性的一种整形手术和时尚潮流，她们通过“可检测”的手术、过度化妆、假晒黑和“假睫毛，深色烟熏眼睛和丰满的嘴唇”来修饰自己的脸。   
 
-阅读延伸[77226241]: [https://en.wikipedia.org/wiki/A_House_of_Dynamite](https://en.wikipedia.org/wiki/A_House_of_Dynamite)   
+阅读延伸[80668235]: [https://en.wikipedia.org/wiki/Mar-a-Lago_face](https://en.wikipedia.org/wiki/Mar-a-Lago_face)   
 
-## 1xBet   
-1xBet is an online gambling company licensed by Curaçao eGaming License. The company was founded in 2007 and is headquartered in Cyprus. 1xBet is one of the world's largest online casinos and according to Sports Illustrated "probably the biggest sportsbook on the planet". The company sponsors major professional football teams such as Spain's FC Barcelona, Ecuador's Barcelona S.C., France's Paris Saint-Germain and major Esports teams such as OG Esports, Team Spirit, Made in Brazil and Tundra Esports.   
+## 克莱顿_克肖   
+Clayton Edward Kershaw is an American professional baseball pitcher for the Los Angeles Dodgers of Major League Baseball (MLB). A left-handed starting pitcher, Kershaw has spent his entire MLB career with the Dodgers since debuting in 2008. He is an 11-time All-Star, three-time National League (NL) Cy Young Award winner, 2014 NL Most Valuable Player, and a World Series champion in 2020. He is one of 20 pitchers, and four left-handers, to be members of the 3,000 strikeout club. He is widely regarded as one of the greatest pitchers in baseball history.   
 
-1xBet是一家获得Curaçao eGaming许可证许可的在线赌博公司。该公司成立于2007年，总部位于塞浦路斯。1xBet是世界上最大的在线赌场之一，根据《体育画报》的说法，“可能是地球上最大的体育博彩”。该公司赞助西班牙巴塞罗那足球俱乐部、厄瓜多尔巴塞罗那足球俱乐部、法国巴黎圣日耳曼队和OG Esports、Team Spirit、Made in Brazil和Tundra Esports等主要电子竞技球队。   
+克莱顿·爱德华·克肖（Clayton Edward Kershaw）是美国职业棒球大联盟（MLB）洛杉矶道奇队的美国职业棒球投手。克肖是一名左撇子首发投手，自2008年首次亮相以来，他的整个MLB职业生涯都在道奇队度过。他是11次全明星、三次获得国家联赛（NL）赛扬奖、2014年国家联赛最有价值球员和2020年世界大赛冠军。他是这个3，000人三振俱乐部的20名投手和4名左撇子之一。他被广泛认为是棒球史上最伟大的投手之一。   
 
-阅读延伸[66207654]: [https://en.wikipedia.org/wiki/1xBet](https://en.wikipedia.org/wiki/1xBet)   
+阅读延伸[9641635]: [https://en.wikipedia.org/wiki/Clayton_Kershaw](https://en.wikipedia.org/wiki/Clayton_Kershaw)   
 
-## 武器_（2025_电影）   
-Weapons is an upcoming American mystery horror film written, produced, and directed by Zach Cregger. The film stars Josh Brolin, Julia Garner, Alden Ehrenreich, Austin Abrams, Cary Christopher, Benedict Wong, and Amy Madigan. Its plot follows the case of seventeen kids from the same classroom who mysteriously disappear overnight at the exact same time.   
+## 艾德·盖恩   
+Edward Theodore Gein, also known as "the Butcher of Plainfield" or "the Plainfield Ghoul", was an American murderer, suspected serial killer and body snatcher. Gein's crimes, committed around his hometown of Plainfield, Wisconsin, gathered widespread notoriety in 1957 after authorities discovered that he had exhumed corpses from local graveyards and fashioned keepsakes from their bones and skin. He also confessed to killing two women: tavern owner Mary Hogan in 1954, and hardware store owner Bernice Worden in 1957.   
 
-《武器》是一部即将上映的美国悬疑恐怖电影，由扎克·克雷格编剧、制作和导演。这部电影由乔什·布罗林、朱莉娅·加纳、奥尔登·埃斯珀赖希、奥斯汀·艾布拉姆斯、卡里·克里斯托弗、本尼迪克特·黄和艾米·马迪根主演。它的情节讲述了同一个教室的十七个孩子在同一时间一夜之间神秘失踪的故事。   
+爱德华·西奥多·盖恩（Edward Theodore Gein），又名“普兰菲尔德屠夫”或“普兰菲尔德食尸鬼”，是一名美国杀人犯、疑似连环杀手和尸体抢夺者。吉恩的罪行发生在他的家乡威斯康星州普兰菲尔德附近，1957年当局发现他从当地墓地挖掘尸体并用尸体的骨头和皮肤制作纪念品后，他的罪行引起了广泛的恶名。他还承认杀害了两名女性：1954年的酒馆老板玛丽·霍根（Mary Hogan）和1957年的五金店老板伯尼斯·沃登（Bernice Worden）。   
 
-阅读延伸[73248680]: [https://en.wikipedia.org/wiki/Weapons_(2025_film)](https://en.wikipedia.org/wiki/Weapons_(2025_film))   
+阅读延伸[71376]: [https://en.wikipedia.org/wiki/Ed_Gein](https://en.wikipedia.org/wiki/Ed_Gein)   
 
-## 海蒂_克鲁姆   
-Heidi Klum is a German and American model, television personality, actress, producer, and businesswoman. She appeared on the cover of the Sports Illustrated Swimsuit Issue in 1998 and was the first German model to become a Victoria's Secret Angel.   
+## 2025年世界系列赛   
+The 2025 World Series was the championship series of Major League Baseball's (MLB) 2025 season. The 121st edition of the World Series was a best-of-seven playoff series between the National League (NL) champion and defending World Series champion Los Angeles Dodgers and the American League (AL) champion Toronto Blue Jays. The series lasted from October 24 to November 1, with the Dodgers defeating the Blue Jays in seven games. Dodgers pitcher Yoshinobu Yamamoto was named the World Series MVP. It was televised by Fox in the United States and by Sportsnet in Canada.   
 
-海蒂·克鲁姆（Heidi Klum）是一位德国和美国模特、电视名人、女演员、制片人和女商人。1998年，她登上了《体育画报》泳装特刊的封面，是第一位成为维多利亚的秘密天使的德国模特。   
+2025年世界大赛是美国职业棒球大联盟（MLB）2025赛季的冠军系列赛。第121届世界职业棒球大赛是国家联赛（NL）冠军和卫冕世界职业棒球大赛冠军洛杉矶道奇队和美国联赛（AL）冠军多伦多蓝鸟队之间的七场两胜季后赛系列赛。该系列赛从10月24日持续到11月1日，道奇队在七场比赛中击败了蓝鸟队。道奇队投手山本义信被评为世界大赛MVP。该节目由美国福克斯电视台和加拿大体育网播出。   
 
-阅读延伸[276356]: [https://en.wikipedia.org/wiki/Heidi_Klum](https://en.wikipedia.org/wiki/Heidi_Klum)   
+阅读延伸[79597307]: [https://en.wikipedia.org/wiki/2025_World_Series](https://en.wikipedia.org/wiki/2025_World_Series)   
 
-## 乌莎_万斯   
-Usha Chilukuri Vance is an American lawyer.   
+## Smriti_Mandhana   
+Smriti Mandhana is an Indian international cricketer and the vice-captain of the national team. She has the joint most international centuries and the second most ODI centuries. Mandhana has the second most runs in T20I and most fifty plus scores in the format. She is the first Indian woman to score a century in all formats. She holds the feat for the fastest ODI ton by an Indian, surpassing Virat Kohli's record.   
 
-乌莎·奇卢库里·万斯（Usha Chilukuri Vance）是一名美国律师。   
+Smriti Mandhana是印度国际板球运动员，也是国家队副队长。她拥有国际化最多的世纪和第二多的ODI世纪。Mandhana在T20 I中得分第二多，在该格式中得分最多50多分。她是第一位在所有形式上都获得百年成绩的印度女性。她保持着印度人ODI最快吨的壮举，超过了Virat Kohli的记录。   
 
-阅读延伸[77361269]: [https://en.wikipedia.org/wiki/Usha_Vance](https://en.wikipedia.org/wiki/Usha_Vance)   
+阅读延伸[42419782]: [https://en.wikipedia.org/wiki/Smriti_Mandhana](https://en.wikipedia.org/wiki/Smriti_Mandhana)   
 
-## 布戈尼亚_（电影）   
-Bugonia is a 2025 science fiction dark comedy film directed by Yorgos Lanthimos from a screenplay by Will Tracy. It is an English-language remake of the 2003 South Korean film Save the Green Planet! by Jang Joon-hwan. It stars Emma Stone, Jesse Plemons, Aidan Delbis, Stavros Halkias, and Alicia Silverstone. A co-production of Ireland, South Korea, and the United States, the film focuses on two young men who kidnap a powerful CEO (Stone), suspecting that she is secretly an alien who wants to destroy Earth.   
+## 多伦多_蓝鸟   
+The Toronto Blue Jays are a Canadian professional baseball team based in Toronto. The Blue Jays compete in Major League Baseball (MLB) as a member club of the American League (AL) East Division. Since 1989, the team has played its home games primarily at Rogers Centre in downtown Toronto.   
 
-布戈尼亚是一部2025年科幻黑色喜剧电影，由Yorgos Lanthimos执导，改编自威尔·特雷西的剧本。这是2003年韩国电影《拯救绿色星球！》的英文翻拍版作者：张俊焕。该片由艾玛·斯通、杰西·普莱蒙斯、艾丹·德尔比斯、斯塔夫罗斯·哈尔基亚斯和艾丽西亚·西尔弗斯通主演。这部电影由爱尔兰、韩国和美国联合制作，讲述了两名年轻人绑架了一位有权势的首席执行官（斯通饰），怀疑她秘密是一个想要摧毁地球的外星人。   
+多伦多蓝鸟队是一支总部位于多伦多的加拿大职业棒球队。蓝鸟队作为美国职业棒球大联盟（AL）东区的成员俱乐部参加美国职业棒球大联盟（MLB）比赛。自1989年以来，球队主要在多伦多市中心的罗杰斯中心举行主场比赛。   
 
-阅读延伸[76136533]: [https://en.wikipedia.org/wiki/Bugonia_(film)](https://en.wikipedia.org/wiki/Bugonia_(film))   
+阅读延伸[30847]: [https://en.wikipedia.org/wiki/Toronto_Blue_Jays](https://en.wikipedia.org/wiki/Toronto_Blue_Jays)   
+
+## 佐兰_马姆达尼   
+Zohran Kwame Mamdani is an American politician who has served since 2021 as a member of the New York State Assembly from the 36th district, based in Queens. A member of the Democratic Party and the Democratic Socialists of America, he is the Democratic nominee for mayor of New York City in the 2025 election.   
+
+佐兰·夸梅·马姆达尼（Zohran Kwame Mamdani）是一位美国政治家，自2021年以来一直担任纽约州议会议员，来自皇后区第36选区。他是民主党和美国民主社会主义者的成员，是2025年纽约市市长选举的民主党候选人。   
+
+阅读延伸[64618347]: [https://en.wikipedia.org/wiki/Zohran_Mamdani](https://en.wikipedia.org/wiki/Zohran_Mamdani)   
+
+## 弗拉基米尔·格雷罗·小   
+Vladimir Guerrero Ramos Jr. is a Canadian-Dominican professional baseball first baseman for the Toronto Blue Jays of Major League Baseball (MLB). He made his MLB debut in 2019, and he bats and throws right-handed. Guerrero is the son of Baseball Hall of Famer Vladimir Guerrero Sr.   
+
+弗拉基米尔·格雷罗·拉莫斯是美国职业棒球大联盟（MLB）多伦多蓝鸟队的维多利亚-多米尼加职业棒球一垒手。他于2019年首次亮相美国职业棒球大联盟（MLB），击球和投球都是右手。格雷罗是棒球名人堂成员弗拉基米尔·格雷罗的儿子。   
+
+阅读延伸[47395720]: [https://en.wikipedia.org/wiki/Vladimir_Guerrero_Jr.](https://en.wikipedia.org/wiki/Vladimir_Guerrero_Jr.)   
+
+## 哈曼普雷特_考尔   
+Harmanpreet Kaur is an Indian cricketer who captains the India women's national team in all formats. Under her leadership, the team won the 2025 Women's Cricket World Cup against South Africa, on home soil and in her first World Cup as captain. She plays as an all-rounder. 
+In 2018, she became the first woman for India to score a century in a T20 International match. Kaur is the only Indian woman cricketer with more than 3,000 runs in T20Is. She is one of only three Indian women to score more than 3,000 runs in Women's ODI. 
+In 2019, during the series against South Africa, she became the first Indian cricketer to play in 100 international Twenty20 matches. In 2023, she became the first Indian cricketer—male or female—to appear in 150 T20 Internationals. She was also the first Indian woman to be named one of Wisden’s Five Cricketers of the Year and was the first Indian woman to be signed by an overseas T20 franchise, joining Sydney Thunder in Australia’s Women’s Big Bash League. 
+Under her captaincy, India achieved several historic victories, including their first bilateral ODI series win in England since 1999 in 2022, their first T20I series win against England in 2025, and their first-ever Test victory over Australia in women's cricket in 2023. 
+She plays for and captains Mumbai Indians in the Women's Premier League and made history by becoming the first captain in Women's Premier League history to lift multiple titles. 
+She was awarded the Arjuna Award in 2017.   
+
+哈曼普雷特·考尔是一名印度板球运动员，担任印度女子国家队所有形式的队长。在她的领导下，球队在主场对阵南非的比赛中赢得了2025年女子板球世界杯冠军，这也是她作为队长的第一次参加世界杯。她扮演的是一名全能球员。 
+2018年，她成为印度第一位在T20国际比赛中获得一个世纪的女性。考尔是唯一一位在T20 I比赛中得分超过3，000次的印度女板球运动员。她是仅有的三名在女子ODI中得分超过3，000分的印度女性之一。 
+2019年，在对阵南非的系列赛中，她成为第一位参加100场Twenty 20国际比赛的印度板球运动员。2023年，她成为第一位出现在150场T20国际比赛中的印度板球运动员（无论男女）。她也是第一位被评为怀斯登年度五名板球运动员之一的印度女性，也是第一位被海外T20球队签约的印度女性，加入了澳大利亚女子大满贯联赛的悉尼雷霆队。 
+在她的队长任期内，印度取得了几场历史性的胜利，包括自1999年以来2022年在英格兰取得的首次双边ODI系列赛胜利、2025年首次T20 I系列赛战胜英格兰队，以及2023年在女子板球比赛中首次战胜澳大利亚队。 
+她在女子超级联赛中效力并担任孟买印第安人队队长，并成为女子超级联赛历史上第一位夺得多个冠军的队长，创造了历史。 
+2017年，她被授予阿诸那奖。   
+
+阅读延伸[23335030]: [https://en.wikipedia.org/wiki/Harmanpreet_Kaur](https://en.wikipedia.org/wiki/Harmanpreet_Kaur)   
+
+## 夏令时   
+Daylight saving time (DST), also referred to as daylight saving(s), daylight savings time, daylight time (United States and Canada), or summer time (United Kingdom, European Union, and others), is the practice of advancing clocks to make better use of the longer daylight available during summer so that darkness falls at a later clock time. The typical implementation of DST is to set clocks forward by one hour in spring or late winter, and to set clocks back by one hour to standard time in the autumn (or fall in North American English, hence the mnemonic: "spring forward and fall back").   
+
+夏令时（DST），也称为夏令时、夏令时（美国和加拿大）或夏令时（英国、欧盟等），是提前时钟以更好地利用夏季可用的较长日光的做法，以便黑暗在较晚的时钟时间降临。DST的典型实现是在春季或冬末将时钟拨快一小时，并在秋季（北美英语中为秋季，因此有助记词：“春季向前并回落”）将时钟拨快一小时至标准时间。   
+
+阅读延伸[47548]: [https://en.wikipedia.org/wiki/Daylight_saving_time](https://en.wikipedia.org/wiki/Daylight_saving_time)   
+
+## Mookie_Betts   
+Markus Lynn "Mookie" Betts is an American professional baseball outfielder and shortstop for the Los Angeles Dodgers of Major League Baseball (MLB). He has previously played in MLB for the Boston Red Sox. He is an eight-time All-Star, a six-time Silver Slugger Award winner, a six-time Gold Glove Award recipient, a three-time World Series champion, and was named the Most Valuable Player in the American League in 2018. He is also second in Wins Above Replacement (WAR) among active position players, behind Mike Trout.   
+
+马库斯·林恩·“穆基”·贝茨是一名美国职业棒球外野手，也是美国职业棒球大联盟（MLB）洛杉矶道奇队的游击手。他此前曾在美国职业棒球大联盟效力于波士顿红袜队。他是八届全明星、六届银棒奖获得者、六届金手套奖获得者、三届世界大赛冠军，并于2018年被评为美国联赛最有价值球员。他在现役位置球员中也排名第二，仅次于迈克·特劳特。   
+
+阅读延伸[39783541]: [https://en.wikipedia.org/wiki/Mookie_Betts](https://en.wikipedia.org/wiki/Mookie_Betts)   
+
+## 米格尔_罗哈斯_（棒球）   
+Miguel Elias Rojas Naidenoff is a Venezuelan professional baseball shortstop who is a free agent. He has previously played in Major League Baseball (MLB) for the Los Angeles Dodgers and Miami Marlins.   
+
+米格尔·埃利亚斯·罗哈斯·纳科诺夫是委内瑞拉职业棒球游击手，也是自由球员。他此前曾在美国职业棒球大联盟（MLB）效力于洛杉矶道奇队和迈阿密马林鱼队。   
+
+阅读延伸[42129962]: [https://en.wikipedia.org/wiki/Miguel_Rojas_(baseball)](https://en.wikipedia.org/wiki/Miguel_Rojas_(baseball))   
 
