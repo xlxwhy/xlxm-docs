@@ -1,32 +1,4 @@
 # 最新资讯  
-## 女子板球世界杯   
-The ICC Women's Cricket World Cup is the quadrennial international championship of the One Day International format with 50 overs per team. It is organised by the International Cricket Council.   
-
-ICC女子板球世界杯是四年一度的单日国际锦标赛，每队有50场比赛。它由国际板球理事会组织。   
-
-阅读延伸[3977980]: [https://en.wikipedia.org/wiki/Women's_Cricket_World_Cup](https://en.wikipedia.org/wiki/Women's_Cricket_World_Cup)   
-
-## 大谷翔平   
-Shohei Ohtani  is a Japanese professional baseball pitcher and designated hitter for the Los Angeles Dodgers of Major League Baseball (MLB). Nicknamed "Shotime", he has previously played in MLB for the Los Angeles Angels and the Hokkaido Nippon-Ham Fighters of Nippon Professional Baseball (NPB). Because of his elite contributions as a hitter and as a pitcher, a rarity as a two-way player, Ohtani's 2021–2024 seasons are considered among the greatest in baseball history, with some comparing them favorably to the early career of Babe Ruth.   
-
-大谷翔平是日本职业棒球投手，也是美国职业棒球大联盟（MLB）洛杉矶道奇队的指定击球手。他绰号“Shottime”，此前曾在美国职业棒球大联盟效力于洛杉矶天使队和日本职业棒球（NPB）的北海道日火腿斗士队。由于大谷作为击球手和投手的精英贡献，作为双向球员是罕见的，因此他的2021-2024赛季被认为是棒球历史上最伟大的赛季之一，一些人将其与贝比·露丝的早期职业生涯进行了比较。   
-
-阅读延伸[37426141]: [https://en.wikipedia.org/wiki/Shohei_Ohtani](https://en.wikipedia.org/wiki/Shohei_Ohtani)   
-
-## Yoshinobu_山本   
-Yoshinobu Yamamoto  is a Japanese professional baseball pitcher for the Los Angeles Dodgers of Major League Baseball (MLB). He previously played in Nippon Professional Baseball (NPB) for the Orix Buffaloes, where he became one of the most decorated pitchers in league history. Between 2021 and 2023, Yamamoto won three consecutive Pacific League Most Valuable Player Awards, three Eiji Sawamura Awards, and three Triple Crowns, leading the league in wins, strikeouts, and earned run average in each of those seasons. He also threw two no-hitters and was a key figure in Orix’s 2022 Japan Series championship.   
-
-山本义信是美国职业棒球大联盟（MLB）洛杉矶道奇队的日本职业棒球投手。他此前曾在日本职业棒球（NPB）效力于欧力士水牛队，成为联盟历史上获得荣誉最多的投手之一。2021年至2023年间，山本连续三次荣获太平洋联盟最有价值球员奖、三次泽村英司奖和三次三冠王，在每个赛季的胜率、三振率和平均分方面均领先联盟。他还投出了两个无安打者，并且是Orix 2022年日本系列赛冠军的关键人物。   
-
-阅读延伸[58563166]: [https://en.wikipedia.org/wiki/Yoshinobu_Yamamoto](https://en.wikipedia.org/wiki/Yoshinobu_Yamamoto)   
-
-## 马克斯_Scherzer   
-Maxwell Martin Scherzer, nicknamed "Mad Max", is an American professional baseball pitcher for the Toronto Blue Jays of Major League Baseball (MLB). He has previously played in MLB for the Arizona Diamondbacks, Detroit Tigers, Washington Nationals, Los Angeles Dodgers, New York Mets, and Texas Rangers. A right-handed starting pitcher, Scherzer is an eight-time MLB All-Star, has won three Cy Young Awards, has pitched two no-hitters, and won the World Series with the Nationals in 2019, and the Rangers in 2023. He is regarded as one of the best pitchers in baseball history.   
-
-麦克斯韦·马丁·舍策（Maxwell Martin Scherzer）绰号“疯狂的麦克斯”，是美国职业棒球大联盟（MLB）多伦多蓝鸟队的美国职业棒球投手。他此前曾在MLB效力于亚利桑那响尾蛇队、底特律老虎队、华盛顿国民队、洛杉矶道奇队、纽约大都会队和德克萨斯游骑兵队。谢尔策是一名右手首发投手，八次入选美国职业棒球大联盟全明星，曾三次获得赛扬奖，投过两名无安打者，并于2019年随国民队和流浪者队赢得了世界大赛冠军。他被认为是棒球史上最好的投手之一。   
-
-阅读延伸[12760718]: [https://en.wikipedia.org/wiki/Max_Scherzer](https://en.wikipedia.org/wiki/Max_Scherzer)   
-
 ## Google_Chrome   
 Google Chrome is a web browser developed by Google. It was first released in 2008 for Microsoft Windows, built with free software components from Apple WebKit and Mozilla Firefox. Versions were later released for Linux, macOS, iOS, iPadOS, and also for Android, where it is the default browser. The browser is also the main component of ChromeOS, where it serves as the platform for web applications.   
 
@@ -34,68 +6,19 @@ Google Chrome是谷歌开发的网络浏览器。它于2008年首次在Microsoft
 
 阅读延伸[19133401]: [https://en.wikipedia.org/wiki/Google_Chrome](https://en.wikipedia.org/wiki/Google_Chrome)   
 
-## 世界系列赛冠军名单   
-The World Series is the annual championship series of Major League Baseball (MLB) and concludes the MLB postseason. First played in 1903, the World Series championship is a best-of-seven playoff and is a contest between the champions of baseball's National League (NL) and American League (AL). Often referred to as the "Fall Classic", the modern World Series has been played every year since 1903 with two exceptions: in 1904, when the NL champion New York Giants declined to play the AL champion Boston Americans; and in 1994, when the series was canceled due to the players' strike. The best-of-seven style has been the format of all World Series except in 1903, 1919, 1920, 1921, when the winner was determined through a best-of-nine playoff. Although the large majority of contests have been played entirely during the month of October, a small number of Series have also had games played during September and November. The Series-winning team is awarded the Commissioner's Trophy. Players, coaches and others associated with the team are generally given World Series rings to commemorate their victory; however, they have received other items such as pocket watches and medallions in the past. The winning team is traditionally invited to the White House to meet the President of the United States.   
+## 女子板球世界杯   
+The ICC Women's Cricket World Cup is the quadrennial international championship of the One Day International format with 50 overs per team. It is organised by the International Cricket Council.   
 
-世界系列赛是美国职业棒球大联盟(MLB)的年度冠军系列赛，结束了MLB的季后赛。世界系列赛于1903年首次举行，是七局四胜制的季后赛，是棒球国家联盟(NL)和美国联盟(AL)冠军之间的比赛。自1903年以来，现代世界系列赛每年都会举行，但有两个例外：1904年，国联冠军纽约巨人队拒绝与美联冠军波士顿美国队交手；1994年，由于球员罢工，系列赛被取消。除了1903,1919,1920,1921年的世界系列赛，七局四胜制一直是所有世界系列赛的形式，当时通过九局四胜的季后赛决定获胜者。虽然大多数比赛都是在10月份进行的，但也有一小部分系列赛在9月和11月进行了比赛。获得系列赛冠军的球队被授予专员奖杯。球员、教练和其他与球队有关联的人通常会得到世界大赛戒指，以纪念他们的胜利；然而，他们过去也会收到其他物品，如怀表和奖章。获胜的球队传统上会被邀请到白宫会见美国总统。   
+ICC女子板球世界杯是四年一度的单日国际锦标赛，每队有50场比赛。它由国际板球理事会组织。   
 
-阅读延伸[7599168]: [https://en.wikipedia.org/wiki/List_of_World_Series_champions](https://en.wikipedia.org/wiki/List_of_World_Series_champions)   
+阅读延伸[3977980]: [https://en.wikipedia.org/wiki/Women's_Cricket_World_Cup](https://en.wikipedia.org/wiki/Women's_Cricket_World_Cup)   
 
-## 威尔_史密斯_（接球手）   
-William Dills Smith is an American professional baseball catcher for the Los Angeles Dodgers of Major League Baseball (MLB). He played college baseball for the Louisville Cardinals. He was selected by the Dodgers in the first round of the 2016 Major League Baseball draft, and made his MLB debut in 2019. Smith is a three-time All-Star and won the World Series with the Dodgers in 2020, 2024, and 2025, securing the latter championship with an 11th-inning home run in Game 7. Internationally, Smith represents the United States.   
+## 黛安_拉德   
+Rose Diane Ladd was an American actress. With a career spanning over 70 years, she appeared in over 200 films and television shows, receiving three Academy Award nominations for her roles in Alice Doesn't Live Here Anymore (1974), Wild at Heart (1990), and Rambling Rose (1991), the first of which won her a BAFTA Award. She was also nominated for three Primetime Emmy Awards and four Golden Globe Awards, winning one for her role in the sitcom Alice (1980–1981).   
 
-威廉·迪尔斯·史密斯是美国职业棒球大联盟（MLB）洛杉矶道奇队的美国职业棒球接球手。他为路易斯维尔红雀队打大学棒球。他在2016年美国职业棒球大联盟选秀第一轮中被道奇队选中，并于2019年首次亮相美国职业棒球大联盟（MLB）。史密斯是三届全明星球员，并在2020年、2024年和2025年随道奇队赢得了世界大赛冠军，并在第7场比赛中以第11局本垒打夺得了后者的冠军。在国际上，史密斯代表美国。   
+罗斯·黛安·拉德是一位美国女演员。她的职业生涯跨越了70多年，出演了200多部电影和电视节目，凭借在《爱丽丝不再住在这里》（Alice Doesnt Live Here Anymore）（1974）、《狂野的心》（Wild at Heart）（1990）和《漫步的玫瑰》（1991）中的角色获得了三项奥斯卡提名，其中第一部为她赢得了英国电影和电视艺术学院奖。她还获得了三项黄金时段艾美奖和四项金球奖提名，其中凭借在情景喜剧《爱丽丝》（Alice，1980-1981）中的角色获得了一项提名。   
 
-阅读延伸[50770433]: [https://en.wikipedia.org/wiki/Will_Smith_(catcher)](https://en.wikipedia.org/wiki/Will_Smith_(catcher))   
-
-## 洛杉矶_道奇队   
-The Los Angeles Dodgers are an American professional baseball team based in Los Angeles. The Dodgers compete in Major League Baseball (MLB) as a member club of the National League (NL) West Division. Founded in 1883 in Brooklyn, New York, the team joined the NL in 1890 as the Brooklyn Bridegrooms and used other monikers before settling as the Brooklyn Dodgers in 1932. From the 1940s through the mid-1950s, the Dodgers developed a fierce crosstown rivalry with the New York Yankees as the two clubs faced each other in the World Series seven times, with the Dodgers losing the first five matchups before defeating them to win the franchise's first title in 1955. The Dodgers made history by breaking the baseball color line in 1947 with the debut of Jackie Robinson, the first African American to play in the Major Leagues since 1884. Another major milestone was reached in 1956 when Don Newcombe became the first player ever to win both the Cy Young Award and the NL MVP in the same season.   
-
-洛杉矶道奇队是一支总部位于洛杉矶的美国职业棒球队。道奇队作为国家联盟（NL）西区的成员俱乐部参加美国职业棒球大联盟（MLB）比赛。该球队于1883年在纽约布鲁克林成立，于1890年以布鲁克林伴娘队的身份加入荷兰队，并在1932年以布鲁克林道奇队的身份定居之前使用了其他绰号。从20世纪40年代到20世纪50年代中期，道奇队与纽约洋基队展开了激烈的跨城竞争，两家俱乐部在世界大赛中七次交锋，道奇队在前五场比赛中输掉了比赛，然后击败了他们，赢得了球队的第一个冠军。1955年。1947年，杰基·罗宾逊（Jackie Robinson）首次亮相，道奇队打破了棒球肤色界限，创造了历史，杰基·罗宾逊（Jackie Robinson）是自1884年以来第一位在美国职业棒球大联盟效力的非裔美国人。另一个重要里程碑是在1956年，唐·纽科姆（Don Newcombe）成为第一位在同一赛季同时获得赛扬奖和国家队MVP的球员。   
-
-阅读延伸[18213]: [https://en.wikipedia.org/wiki/Los_Angeles_Dodgers](https://en.wikipedia.org/wiki/Los_Angeles_Dodgers)   
-
-## 海湖庄园面孔   
-Mar-a-Lago face is a plastic surgery and fashion trend among American conservative and Republican women to modify their faces with "detectable" surgery, excessive makeup, fake tans, and "fake eyelashes, with dark smokey eyes and full lips".   
-
-海湖庄园的脸是美国保守派和共和党女性的一种整形手术和时尚潮流，她们通过“可检测”的手术、过度化妆、假晒黑和“假睫毛，深色烟熏眼睛和丰满的嘴唇”来修饰自己的脸。   
-
-阅读延伸[80668235]: [https://en.wikipedia.org/wiki/Mar-a-Lago_face](https://en.wikipedia.org/wiki/Mar-a-Lago_face)   
-
-## 克莱顿_克肖   
-Clayton Edward Kershaw is an American professional baseball pitcher for the Los Angeles Dodgers of Major League Baseball (MLB). A left-handed starting pitcher, Kershaw has spent his entire MLB career with the Dodgers since debuting in 2008. He is an 11-time All-Star, three-time National League (NL) Cy Young Award winner, 2014 NL Most Valuable Player, and a World Series champion in 2020. He is one of 20 pitchers, and four left-handers, to be members of the 3,000 strikeout club. He is widely regarded as one of the greatest pitchers in baseball history.   
-
-克莱顿·爱德华·克肖（Clayton Edward Kershaw）是美国职业棒球大联盟（MLB）洛杉矶道奇队的美国职业棒球投手。克肖是一名左撇子首发投手，自2008年首次亮相以来，他的整个MLB职业生涯都在道奇队度过。他是11次全明星、三次获得国家联赛（NL）赛扬奖、2014年国家联赛最有价值球员和2020年世界大赛冠军。他是这个3，000人三振俱乐部的20名投手和4名左撇子之一。他被广泛认为是棒球史上最伟大的投手之一。   
-
-阅读延伸[9641635]: [https://en.wikipedia.org/wiki/Clayton_Kershaw](https://en.wikipedia.org/wiki/Clayton_Kershaw)   
-
-## 艾德·盖恩   
-Edward Theodore Gein, also known as "the Butcher of Plainfield" or "the Plainfield Ghoul", was an American murderer, suspected serial killer and body snatcher. Gein's crimes, committed around his hometown of Plainfield, Wisconsin, gathered widespread notoriety in 1957 after authorities discovered that he had exhumed corpses from local graveyards and fashioned keepsakes from their bones and skin. He also confessed to killing two women: tavern owner Mary Hogan in 1954, and hardware store owner Bernice Worden in 1957.   
-
-爱德华·西奥多·盖恩（Edward Theodore Gein），又名“普兰菲尔德屠夫”或“普兰菲尔德食尸鬼”，是一名美国杀人犯、疑似连环杀手和尸体抢夺者。吉恩的罪行发生在他的家乡威斯康星州普兰菲尔德附近，1957年当局发现他从当地墓地挖掘尸体并用尸体的骨头和皮肤制作纪念品后，他的罪行引起了广泛的恶名。他还承认杀害了两名女性：1954年的酒馆老板玛丽·霍根（Mary Hogan）和1957年的五金店老板伯尼斯·沃登（Bernice Worden）。   
-
-阅读延伸[71376]: [https://en.wikipedia.org/wiki/Ed_Gein](https://en.wikipedia.org/wiki/Ed_Gein)   
-
-## 2025年世界系列赛   
-The 2025 World Series was the championship series of Major League Baseball's (MLB) 2025 season. The 121st edition of the World Series was a best-of-seven playoff series between the National League (NL) champion and defending World Series champion Los Angeles Dodgers and the American League (AL) champion Toronto Blue Jays. The series lasted from October 24 to November 1, with the Dodgers defeating the Blue Jays in seven games. Dodgers pitcher Yoshinobu Yamamoto was named the World Series MVP. It was televised by Fox in the United States and by Sportsnet in Canada.   
-
-2025年世界大赛是美国职业棒球大联盟（MLB）2025赛季的冠军系列赛。第121届世界职业棒球大赛是国家联赛（NL）冠军和卫冕世界职业棒球大赛冠军洛杉矶道奇队和美国联赛（AL）冠军多伦多蓝鸟队之间的七场两胜季后赛系列赛。该系列赛从10月24日持续到11月1日，道奇队在七场比赛中击败了蓝鸟队。道奇队投手山本义信被评为世界大赛MVP。该节目由美国福克斯电视台和加拿大体育网播出。   
-
-阅读延伸[79597307]: [https://en.wikipedia.org/wiki/2025_World_Series](https://en.wikipedia.org/wiki/2025_World_Series)   
-
-## Smriti_Mandhana   
-Smriti Mandhana is an Indian international cricketer and the vice-captain of the national team. She has the joint most international centuries and the second most ODI centuries. Mandhana has the second most runs in T20I and most fifty plus scores in the format. She is the first Indian woman to score a century in all formats. She holds the feat for the fastest ODI ton by an Indian, surpassing Virat Kohli's record.   
-
-Smriti Mandhana是印度国际板球运动员，也是国家队副队长。她拥有国际化最多的世纪和第二多的ODI世纪。Mandhana在T20 I中得分第二多，在该格式中得分最多50多分。她是第一位在所有形式上都获得百年成绩的印度女性。她保持着印度人ODI最快吨的壮举，超过了Virat Kohli的记录。   
-
-阅读延伸[42419782]: [https://en.wikipedia.org/wiki/Smriti_Mandhana](https://en.wikipedia.org/wiki/Smriti_Mandhana)   
-
-## 多伦多_蓝鸟   
-The Toronto Blue Jays are a Canadian professional baseball team based in Toronto. The Blue Jays compete in Major League Baseball (MLB) as a member club of the American League (AL) East Division. Since 1989, the team has played its home games primarily at Rogers Centre in downtown Toronto.   
-
-多伦多蓝鸟队是一支总部位于多伦多的加拿大职业棒球队。蓝鸟队作为美国职业棒球大联盟（AL）东区的成员俱乐部参加美国职业棒球大联盟（MLB）比赛。自1989年以来，球队主要在多伦多市中心的罗杰斯中心举行主场比赛。   
-
-阅读延伸[30847]: [https://en.wikipedia.org/wiki/Toronto_Blue_Jays](https://en.wikipedia.org/wiki/Toronto_Blue_Jays)   
+阅读延伸[239664]: [https://en.wikipedia.org/wiki/Diane_Ladd](https://en.wikipedia.org/wiki/Diane_Ladd)   
 
 ## 佐兰_马姆达尼   
 Zohran Kwame Mamdani is an American politician who has served since 2021 as a member of the New York State Assembly from the 36th district, based in Queens. A member of the Democratic Party and the Democratic Socialists of America, he is the Democratic nominee for mayor of New York City in the 2025 election.   
@@ -104,12 +27,12 @@ Zohran Kwame Mamdani is an American politician who has served since 2021 as a me
 
 阅读延伸[64618347]: [https://en.wikipedia.org/wiki/Zohran_Mamdani](https://en.wikipedia.org/wiki/Zohran_Mamdani)   
 
-## 弗拉基米尔·格雷罗·小   
-Vladimir Guerrero Ramos Jr. is a Canadian-Dominican professional baseball first baseman for the Toronto Blue Jays of Major League Baseball (MLB). He made his MLB debut in 2019, and he bats and throws right-handed. Guerrero is the son of Baseball Hall of Famer Vladimir Guerrero Sr.   
+## 2025年_纽约_纽约_城市_市长_选举   
+An election for the mayor of New York City is scheduled for November 4, 2025. Running in the election are Democratic state assemblyman Zohran Mamdani, Republican activist Curtis Sliwa, and independent former governor Andrew Cuomo. The winner will succeed Democratic incumbent Eric Adams.   
 
-弗拉基米尔·格雷罗·拉莫斯是美国职业棒球大联盟（MLB）多伦多蓝鸟队的维多利亚-多米尼加职业棒球一垒手。他于2019年首次亮相美国职业棒球大联盟（MLB），击球和投球都是右手。格雷罗是棒球名人堂成员弗拉基米尔·格雷罗的儿子。   
+纽约市市长选举定于2025年11月4日举行。参加选举的有民主党州议员佐兰·马姆达尼、共和党活动家柯蒂斯·斯利瓦和独立前州长安德鲁·科莫。获胜者将接替民主党现任议员埃里克·亚当斯。   
 
-阅读延伸[47395720]: [https://en.wikipedia.org/wiki/Vladimir_Guerrero_Jr.](https://en.wikipedia.org/wiki/Vladimir_Guerrero_Jr.)   
+阅读延伸[73831797]: [https://en.wikipedia.org/wiki/2025_New_York_City_mayoral_election](https://en.wikipedia.org/wiki/2025_New_York_City_mayoral_election)   
 
 ## 哈曼普雷特_考尔   
 Harmanpreet Kaur is an Indian cricketer who captains the India women's national team in all formats. Under her leadership, the team won the 2025 Women's Cricket World Cup against South Africa, on home soil and in her first World Cup as captain. She plays as an all-rounder. 
@@ -128,24 +51,101 @@ She was awarded the Arjuna Award in 2017.
 
 阅读延伸[23335030]: [https://en.wikipedia.org/wiki/Harmanpreet_Kaur](https://en.wikipedia.org/wiki/Harmanpreet_Kaur)   
 
-## 夏令时   
-Daylight saving time (DST), also referred to as daylight saving(s), daylight savings time, daylight time (United States and Canada), or summer time (United Kingdom, European Union, and others), is the practice of advancing clocks to make better use of the longer daylight available during summer so that darkness falls at a later clock time. The typical implementation of DST is to set clocks forward by one hour in spring or late winter, and to set clocks back by one hour to standard time in the autumn (or fall in North American English, hence the mnemonic: "spring forward and fall back").   
+## 艾德·盖恩   
+Edward Theodore Gein, also known as "the Butcher of Plainfield" or "the Plainfield Ghoul", was an American murderer, suspected serial killer and body snatcher. Gein's crimes, committed around his hometown of Plainfield, Wisconsin, gathered widespread notoriety in 1957 after authorities discovered that he had exhumed corpses from local graveyards and fashioned keepsakes from their bones and skin. He also confessed to killing two women: tavern owner Mary Hogan in 1954, and hardware store owner Bernice Worden in 1957.   
 
-夏令时（DST），也称为夏令时、夏令时（美国和加拿大）或夏令时（英国、欧盟等），是提前时钟以更好地利用夏季可用的较长日光的做法，以便黑暗在较晚的时钟时间降临。DST的典型实现是在春季或冬末将时钟拨快一小时，并在秋季（北美英语中为秋季，因此有助记词：“春季向前并回落”）将时钟拨快一小时至标准时间。   
+爱德华·西奥多·盖恩（Edward Theodore Gein），又名“普兰菲尔德屠夫”或“普兰菲尔德食尸鬼”，是一名美国杀人犯、疑似连环杀手和尸体抢夺者。吉恩的罪行发生在他的家乡威斯康星州普兰菲尔德附近，1957年当局发现他从当地墓地挖掘尸体并用尸体的骨头和皮肤制作纪念品后，他的罪行引起了广泛的恶名。他还承认杀害了两名女性：1954年的酒馆老板玛丽·霍根（Mary Hogan）和1957年的五金店老板伯尼斯·沃登（Bernice Worden）。   
 
-阅读延伸[47548]: [https://en.wikipedia.org/wiki/Daylight_saving_time](https://en.wikipedia.org/wiki/Daylight_saving_time)   
+阅读延伸[71376]: [https://en.wikipedia.org/wiki/Ed_Gein](https://en.wikipedia.org/wiki/Ed_Gein)   
 
-## Mookie_Betts   
-Markus Lynn "Mookie" Betts is an American professional baseball outfielder and shortstop for the Los Angeles Dodgers of Major League Baseball (MLB). He has previously played in MLB for the Boston Red Sox. He is an eight-time All-Star, a six-time Silver Slugger Award winner, a six-time Gold Glove Award recipient, a three-time World Series champion, and was named the Most Valuable Player in the American League in 2018. He is also second in Wins Above Replacement (WAR) among active position players, behind Mike Trout.   
+## Smriti_Mandhana   
+Smriti Mandhana is an Indian international cricketer and the vice-captain of the national team. She has the joint most international centuries and the second most ODI centuries. Mandhana has the second most runs in T20I and most fifty plus scores in the format. She is the first Indian woman to score a century in all formats. She holds the feat for the fastest ODI ton by an Indian, surpassing Virat Kohli's record.   
 
-马库斯·林恩·“穆基”·贝茨是一名美国职业棒球外野手，也是美国职业棒球大联盟（MLB）洛杉矶道奇队的游击手。他此前曾在美国职业棒球大联盟效力于波士顿红袜队。他是八届全明星、六届银棒奖获得者、六届金手套奖获得者、三届世界大赛冠军，并于2018年被评为美国联赛最有价值球员。他在现役位置球员中也排名第二，仅次于迈克·特劳特。   
+Smriti Mandhana是印度国际板球运动员，也是国家队副队长。她拥有国际化最多的世纪和第二多的ODI世纪。Mandhana在T20 I中得分第二多，在该格式中得分最多50多分。她是第一位在所有形式上都获得百年成绩的印度女性。她保持着印度人ODI最快吨的壮举，超过了Virat Kohli的记录。   
 
-阅读延伸[39783541]: [https://en.wikipedia.org/wiki/Mookie_Betts](https://en.wikipedia.org/wiki/Mookie_Betts)   
+阅读延伸[42419782]: [https://en.wikipedia.org/wiki/Smriti_Mandhana](https://en.wikipedia.org/wiki/Smriti_Mandhana)   
 
-## 米格尔_罗哈斯_（棒球）   
-Miguel Elias Rojas Naidenoff is a Venezuelan professional baseball shortstop who is a free agent. He has previously played in Major League Baseball (MLB) for the Los Angeles Dodgers and Miami Marlins.   
+## 死亡_in_2025   
+The following notable deaths occurred in 2025. Names are reported under the date of death, in alphabetical order. A typical entry reports information in the following sequence:Name, age, country of citizenship at birth, subsequent nationality, what subject was noted for, cause of death, and a reference.   
 
-米格尔·埃利亚斯·罗哈斯·纳科诺夫是委内瑞拉职业棒球游击手，也是自由球员。他此前曾在美国职业棒球大联盟（MLB）效力于洛杉矶道奇队和迈阿密马林鱼队。   
+以下值得注意的死亡事件发生在2025年。姓名按字母顺序按死亡日期报告。典型的条目以以下顺序报告信息：姓名、年龄、出生时的国籍、后续国籍、注意对象、死亡原因和参考文献。   
 
-阅读延伸[42129962]: [https://en.wikipedia.org/wiki/Miguel_Rojas_(baseball)](https://en.wikipedia.org/wiki/Miguel_Rojas_(baseball))   
+阅读延伸[75715266]: [https://en.wikipedia.org/wiki/Deaths_in_2025](https://en.wikipedia.org/wiki/Deaths_in_2025)   
+
+## 他妈   
+Fuck is profanity in the English language that often refers to the act of sexual intercourse, but is also commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives are used as a noun, a verb, an adjective, an infix, an interjection or an adverb. There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.   
+
+Fuck在英语中是脏话，通常指性交行为，但也通常用作加强词或表达蔑视。虽然它的起源并不清楚，但通常被认为是在1475年左右首次得到证实的。在现代使用中，fuck一词及其衍生词被用作名词、动词、形容词、中词、感叹词或副词。有许多常用短语使用该词，以及包含该词的复合词，例如muddermuses和fuck off。   
+
+阅读延伸[5575722]: [https://en.wikipedia.org/wiki/Fuck](https://en.wikipedia.org/wiki/Fuck)   
+
+## 欢迎来到德里   
+It: Welcome to Derry is an American supernatural horror television series based on Stephen King's 1986 novel It. Serving as a prequel to the films It (2017) and It Chapter Two (2019), the series was developed by Andy Muschietti, Barbara Muschietti and Jason Fuchs, all of whom were involved in the It films. The series stars Taylour Paige, Jovan Adepo, Chris Chalk, James Remar, Stephen Rider, Clara Stack, Amanda Christine, and Mikkal Karim-Fidler, with Bill Skarsgård reprising his role as Pennywise from the films.   
+
+它：《欢迎来到德里》是一部根据斯蒂芬·金1986年小说《It》改编的美国超自然恐怖电视剧。该剧是电影《It》（2017年）和《It Chapter Two》（2019年）的前传，由安迪·穆斯基耶蒂、芭芭拉·穆斯基耶蒂和杰森·福克斯开发，他们都参与了《It》电影。该剧由泰勒·佩奇、乔万·阿德波、克里斯·乔克、詹姆斯·雷马尔、斯蒂芬·莱德、克拉拉·斯塔克、阿曼达·克里斯汀和米卡尔·卡里姆-菲德勒主演，比尔·斯卡斯加德（Bill Skarsgård）在电影中重新扮演潘尼怀斯（Pennywise）。   
+
+阅读延伸[70439871]: [https://en.wikipedia.org/wiki/It_%E2%80%93_Welcome_to_Derry](https://en.wikipedia.org/wiki/It_%E2%80%93_Welcome_to_Derry)   
+
+## 米塔利_拉吉   
+Mithali Raj is an Indian former cricketer who captained the national team from 2004 to 2022. She is the highest run-scorer in women's international cricket, and ESPN ranked her as one of the greatest female cricketers of all time. Raj has received several national and international awards, including the Wisden Leading Woman Cricketer in the World in 2017, Arjuna Award in 2003, the Padma Shri in 2015, and Major Dhyan Chand Khel Ratna in 2021.   
+
+米塔利·拉杰（Mithali Raj）是一名印度前板球运动员，曾于2004年至2022年担任国家队队长。她是女子国际板球比赛中得分最高的选手，ESPN将她列为有史以来最伟大的女子板球运动员之一。Raj曾荣获多项国内和国际奖项，包括2017年Wisden世界领先女子板球运动员、2003年阿诸那奖、2015年Padma Shri奖和2021年的Dhyan Chand Khel Ratna少校。   
+
+阅读延伸[2646450]: [https://en.wikipedia.org/wiki/Mithali_Raj](https://en.wikipedia.org/wiki/Mithali_Raj)   
+
+## 6-7_（模因）   
+The 6-7 meme ( ) is an internet meme and slang term that emerged in early 2025 on TikTok and Instagram Reels. It originated from the repeated lyric "6-7" in the song "Doot Doot " by Skrilla, which was used on social media in video edits of professional basketball players such as LaMelo Ball who is 6 feet 7 inches tall. The term "6-7" spread as slang among Generation Alpha and Generation Z. As the meme's reach expanded in August of 2025, one child became known as the "6-7 Kid" after a viral video showed him saying the term while moving his hands up and down at an Amateur Athletic Union basketball game. It is often compared to 41, a meme of similar origin, where rapper Blizzi Boi in his song "41 Song " repeats the number "41" throughout.   
+
+6-7模因（）是一个互联网模因和俚语，于2025年初出现在TikTok和Instagram Reels上。它起源于Skrilla歌曲《Doot Doot》中重复的歌词“6-7”，该歌曲在社交媒体上被用于对身高6英尺7英寸的LaMelo Ball等职业篮球运动员进行视频编辑。“6-7”一词在Alpha世代和Z世代之间作为俚语传播。2025年8月，随着这个模因的影响范围扩大，一段广为流传的视频显示，一名孩子在业余田径联盟篮球比赛中上下移动双手时说出了这个词，因此被称为“6-7小子”。它经常被与41进行比较，41是一个起源相似的模因，说唱歌手Blizzi Boi在他的歌曲《41 Song》中自始至终重复了数字“41”。   
+
+阅读延伸[80838096]: [https://en.wikipedia.org/wiki/6-7_(meme)](https://en.wikipedia.org/wiki/6-7_(meme))   
+
+## 阿莫尔_穆宗达尔   
+Amol Anil Muzumdar is an Indian cricket coach and former cricketer who previously played for the cricket teams of Mumbai and Assam. He was primarily a right-handed batsman. He held the record for the most runs scored in the Ranji Trophy, India's premier domestic first-class cricket competition, beating the record previously held by Amarjit Kaypee. In October 2023, BCCI appointed Amol as the head coach of the India women's national cricket team. In 2025, under his coaching, the Indian women's cricket team won their maiden ICC Women's ODI World Cup.   
+
+Amol Anil Muzumdar是印度板球教练和前板球运动员，曾为孟买和阿萨姆邦板球队效力。他主要是一个右手击球手。他在印度首屈一指的国内一流板球比赛兰吉杯（Ranji Trophy）中保持了最多跑动的记录，击败了之前由Amarjit Kaypee保持的记录。2023年10月，BCCI任命Amol为印度女子国家板球队主教练。2025年，在他的执教下，印度女子板球队赢得了首届ICC女子ODI世界杯。   
+
+阅读延伸[8709800]: [https://en.wikipedia.org/wiki/Amol_Muzumdar](https://en.wikipedia.org/wiki/Amol_Muzumdar)   
+
+## 美国政府关闭   
+In the United States, government shutdowns occur when funding legislation required to finance the federal government is not enacted before the next fiscal year begins. In a shutdown, the federal government curtails agency activities and services, ceases non-essential operations, furloughs non-essential workers, and retains only essential employees in departments that protect human life or property. Shutdowns can also disrupt state, territorial, and local levels of government.   
+
+在美国，当为联邦政府提供资金所需的资金立法在下一财年开始之前没有颁布时，就会发生政府关闭。在政府关门时，联邦政府会减少机构活动和服务，停止非必要业务，让非必要工人休假，并只保留保护人类生命或财产的部门的必要员工。关闭还可能扰乱州、地区和地方各级政府。   
+
+阅读延伸[2150997]: [https://en.wikipedia.org/wiki/Government_shutdowns_in_the_United_States](https://en.wikipedia.org/wiki/Government_shutdowns_in_the_United_States)   
+
+## 大谷翔平   
+Shohei Ohtani  is a Japanese professional baseball pitcher and designated hitter for the Los Angeles Dodgers of Major League Baseball (MLB). Nicknamed "Shotime", he has previously played in MLB for the Los Angeles Angels and the Hokkaido Nippon-Ham Fighters of Nippon Professional Baseball (NPB). Because of his elite contributions as a hitter and as a pitcher, a rarity as a two-way player, Ohtani's 2021–2024 seasons are considered among the greatest in baseball history, with some comparing them favorably to the early career of Babe Ruth.   
+
+大谷翔平是日本职业棒球投手，也是美国职业棒球大联盟（MLB）洛杉矶道奇队的指定击球手。他绰号“Shottime”，此前曾在美国职业棒球大联盟效力于洛杉矶天使队和日本职业棒球（NPB）的北海道日火腿斗士队。由于大谷作为击球手和投手的精英贡献，作为双向球员是罕见的，因此他的2021-2024赛季被认为是棒球历史上最伟大的赛季之一，一些人将其与贝比·露丝的早期职业生涯进行了比较。   
+
+阅读延伸[37426141]: [https://en.wikipedia.org/wiki/Shohei_Ohtani](https://en.wikipedia.org/wiki/Shohei_Ohtani)   
+
+## 柯蒂斯_斯利瓦   
+Curtis Anthony Sliwa is an American politician, activist, radio talk show host, and founder and chief executive officer of the Guardian Angels, a nonprofit crime prevention organization.   
+
+柯蒂斯·安东尼·斯利瓦（Curtis Anthony Sliwa）是一位美国政治家、活动家、广播脱口秀主持人，也是非营利性犯罪预防组织“卫报天使”（Guardian Angels）的创始人兼首席执行官。   
+
+阅读延伸[1002871]: [https://en.wikipedia.org/wiki/Curtis_Sliwa](https://en.wikipedia.org/wiki/Curtis_Sliwa)   
+
+## 印度_女子_国家_板球_队   
+The India women's national cricket team, also known as Women in Blue, represents India in international cricket. It is governed by the Board of Control for Cricket in India, and is a full member of the International Cricket Council with Test, ODI and T20I status. They are the reigning World Cup and Asian Games champions. Harmanpreet Kaur is the captain while Smriti Mandhana is the vice captain.   
+
+印度女子国家板球队，也被称为女子蓝衣队，代表印度参加国际板球比赛。它由印度板球控制委员会管理，是国际板球理事会的正式成员，具有Test、ODI和T20 I地位。他们是世界杯和亚运会卫冕冠军。哈曼普雷特·考尔（Harmanpreet Kaur）是队长，斯姆里蒂·曼达纳（Smriti Mandhana）是副队长。   
+
+阅读延伸[2281524]: [https://en.wikipedia.org/wiki/India_women's_national_cricket_team](https://en.wikipedia.org/wiki/India_women's_national_cricket_team)   
+
+## Yoshinobu_山本   
+Yoshinobu Yamamoto  is a Japanese professional baseball pitcher for the Los Angeles Dodgers of Major League Baseball (MLB). He previously played in Nippon Professional Baseball (NPB) for the Orix Buffaloes, where he became one of the most decorated pitchers in league history. Between 2021 and 2023, Yamamoto won three consecutive Pacific League Most Valuable Player Awards, three Eiji Sawamura Awards, and three Triple Crowns, leading the league in wins, strikeouts, and earned run average in each of those seasons. He also threw two no-hitters and was a key figure in Orix’s 2022 Japan Series championship.   
+
+山本义信是美国职业棒球大联盟（MLB）洛杉矶道奇队的日本职业棒球投手。他此前曾在日本职业棒球（NPB）效力于欧力士水牛队，成为联盟历史上获得荣誉最多的投手之一。2021年至2023年间，山本连续三次荣获太平洋联盟最有价值球员奖、三次泽村英司奖和三次三冠王，在每个赛季的胜率、三振率和平均分方面均领先联盟。他还投出了两个无安打者，并且是Orix 2022年日本系列赛冠军的关键人物。   
+
+阅读延伸[58563166]: [https://en.wikipedia.org/wiki/Yoshinobu_Yamamoto](https://en.wikipedia.org/wiki/Yoshinobu_Yamamoto)   
+
+## 艾琳_沃尔诺斯   
+Aileen Carol Wuornos was an American serial killer. Between 1989 and 1990, while engaging in street prostitution along highways in Florida, Wuornos shot dead and robbed seven of her male clients. She claimed that her victims had either raped or attempted to rape her, and that the homicides were committed in self-defense. Wuornos was sentenced to death for six of the murders and was executed in 2002 after spending more than ten years on Florida's death row.   
+
+艾琳·卡罗尔·伍尔诺斯是一名美国连环杀手。1989年至1990年间，沃尔诺斯在佛罗里达州高速公路沿线从事街头卖淫时开枪打死并抢劫了她的七名男性客户。她声称受害者要么强奸了她，要么试图强奸她，而且凶杀案是出于自卫。沃尔诺斯因其中六起谋杀案被判处死刑，并在佛罗里达州死囚牢房服刑十多年后于2002年被处决。   
+
+阅读延伸[214928]: [https://en.wikipedia.org/wiki/Aileen_Wuornos](https://en.wikipedia.org/wiki/Aileen_Wuornos)   
 
